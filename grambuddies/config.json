@@ -1,0 +1,6 @@
+{
+    "init_data": "query_id=AAGSrklJAwAAAJKuSUkmquA6&user=%7B%22id%22%3A7672016530%2C%22first_name%22%3A%22Zalx%22%2C%22last_name%22%3A%22Arthur%F0%9F%91%81%EF%B8%8F%22%2C%22username%22%3A%22Zelx_arthur%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%2C%22photo_url%22%3A%22https%3A%5C%2F%5C%2Ft.me%5C%2Fi%5C%2Fuserpic%5C%2F320%5C%2Fv96kRhHY1T977z3IwkUGjaURizI7RcwjhB6EY86FyCOFphG0qaYldaFhiyTUG2rW.svg%22%7D&auth_date=1793372378&signature=-P75j2_GG2ZmGaArANzkbZ-jO7XYxp6zY4t5sRbLw5Rzgu6q21l5LjSlJ6ks92vPO5uN8wqoJJgYO01ISn5MBw&hash=00d7b2de1bd2c3beeb6abf49586a6140b6a70d124fe749f0a5cdcc1ad20926f5",
+    "device_id": "d6a8d342-526d-4e9e-9814-9b340d0a9816",
+    "user_agent": "Mozilla/5.0 (Linux; Android 16; Pixel 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36",
+    "check_interval_seconds": 600
+}

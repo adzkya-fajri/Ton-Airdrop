@@ -1,0 +1,6 @@
+{
+  "bot": "@TrxMinerBetaBot",
+  "chat_id": 7672016530,
+  "api_base": "https://whatdoyouneed.us/trxminiapp",
+  "init_data": "query_id=AAGSrklJAwAAAJKuSUm-poyW&user=%7B%22id%22%3A7672016530%2C%22first_name%22%3A%22Zalx%22%2C%22last_name%22%3A%22Arthur%F0%9F%91%81%EF%B8%8F%22%2C%22username%22%3A%22Zelx_arthur%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%2C%22photo_url%22%3A%22https%3A%5C%2F%5C%2Ft.me%5C%2Fi%5C%2Fuserpic%5C%2F320%5C%2Fv96kRhHY1T977z3IwkUGjaURizI7RcwjhB6EY86FyCOFphG0qaYldaFhiyTUG2rW.svg%22%7D&auth_date=1793180788&signature=yOlRyVK4eI_HFsvIacFP1c2BGNYSMQIJMcPAQiCdcgrQFcNEobpysbUk58pypfWmvfQDqFXRLQLpPqyHjmYMCQ&hash=1998a490d70805d1a1b441cb28fe4169284ce28204034b2c85dfc45bf3de1722"
+}

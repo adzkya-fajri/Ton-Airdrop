@@ -91,14 +91,14 @@ export default function AirdropCard({ item, onOpenDetail }: AirdropCardProps) {
           className="w-full min-h-[44px] inline-flex items-center justify-center gap-1.5 py-2.5 px-3 rounded-xl bg-obsidian-700 hover:bg-obsidian-700/80 text-slate-200 text-xs font-semibold transition-colors"
         >
           <Info className="w-3.5 h-3.5" />
-          Detail
+          Details
         </button>
 
         <button
           onClick={() => launchAirdrop(item)}
           className="w-full min-h-[44px] inline-flex items-center justify-center gap-1.5 py-2.5 px-3 rounded-xl bg-amethyst hover:bg-amethyst-hover text-white text-xs font-semibold transition-colors shadow-sm shadow-amethyst/30"
         >
-          <span>Buka Bot</span>
+          <span>Open Bot</span>
           <ExternalLink className="w-3.5 h-3.5" />
         </button>
       </div>

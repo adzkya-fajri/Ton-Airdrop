@@ -1,0 +1,8 @@
+{
+  "init_data": "query_id=AAGSrklJAwAAAJKuSUmYobkh&user=%7B%22id%22%3A7672016530%2C%22first_name%22%3A%22Zalx%22%2C%22last_name%22%3A%22Arthur%F0%9F%91%81%EF%B8%8F%22%2C%22username%22%3A%22Zelx_arthur%22%2C%22language_code%22%3A%22en%22%2C%22photo_url%22%3A%22https%3A%5C%2F%5C%2Ft.me%5C%2Fi%5C%2Fuserpic%5C%2F320%5C%2Fv96kRhHY1T977z3IwkUGjaURizI7RcwjhB6EY86FyCOFphG0qaYldaFhiyTUG2rW.svg%22%7D&auth_date=1793353972&signature=L9Ck6zB2jzgZAwGZaF4n2516N3u3UzC94haEFm8ULGaOwtvaFWVYOMNKnv2Ak5al5hnhtxtSyQF4CjnpqcKDAw&hash=dff0d82b029305d045de606c544ba4f1b2521f17ad0a609b2e1ec83883a8217c",
+  "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-S928B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36",
+  "min_interval_minutes": 60,
+  "max_interval_minutes": 120,
+  "auto_daily_claim": true,
+  "auto_tasks": true
+}

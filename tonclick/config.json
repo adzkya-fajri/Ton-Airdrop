@@ -1,0 +1,10 @@
+{
+  "bot_username": "TonClickRobot",
+  "cycle_interval_seconds": 900,
+  "max_join_tasks_per_cycle": 5,
+  "max_bot_tasks_per_cycle": 5,
+  "retention_hours": 72,
+  "auto_cleanup_old_channels": true,
+  "faucetpay_email": "",
+  "auto_withdraw_faucetpay": false
+}

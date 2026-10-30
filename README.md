@@ -1,14 +1,15 @@
-# 🌾 MASTER REGISTRY & DOKUMENTASI TELEGRAM AUTO-FARMERS
+# 🌾 MASTER REGISTRY & TELEGRAM AUTO-FARMERS DOCUMENTATION
 
-Dokumentasi ini adalah **peta rujukan utama** untuk seluruh bot farming dan mining Telegram yang berjalan di direktori ini.  
-> **Tujuan:** Memudahkan pencarian isian, pemetaan endpoint API, struktur autentikasi, status service background, dan hierarki ekosistem tanpa perlu membuang banyak context token.  
-> Mesin terstruktur (JSON): lihat [`REGISTRY.json`](./REGISTRY.json).
+This documentation serves as the **master reference roadmap** for all Telegram farming, mining, and automation bots running in this workspace.
+> **Purpose:** Accelerate credential discovery, API endpoint mapping, authentication schemas, background service states, and ecosystem hierarchies without redundant context overhead.
+> Machine-readable structure (JSON): see [`REGISTRY.json`](./REGISTRY.json).
+> Web showcase & referral portal: see [`airdrop_portal`](./airdrop_portal).
 
 ---
 
-## 🧭 DAFTAR PEMETAAN LENGKAP 20 BOT FARMER
+## 🧭 COMPREHENSIVE BOT MAPPING DIRECTORY
 
-| No | Folder | Nama Bot | Handle Telegram | WebApp URL | Service Linux (`systemd --user`) | Tipe Auth / Primary Key | API Base URL |
+| No | Folder | Bot Name | Telegram Handle | WebApp URL | Linux Service (`systemd --user`) | Auth Type / Key | API Base URL |
 | :---: | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | **`atf`** | ATF Miner | `@ATF_AIRDROP_bot` | `https://atfminers.asloni.online/...` | `atf-farmer.service` | `init_data` | `https://atfminers.asloni.online` |
 | 2 | **`crownminer`** | Crown Miner | `@CrownMinerBot` | `https://test.crownville.online/crownminer-stage/game/` | `crownminer-farmer.service` | `init_data` | `https://test.crownville.online/cmapi` |
@@ -38,7 +39,7 @@ Dokumentasi ini adalah **peta rujukan utama** untuk seluruh bot farming dan mini
 
 ---
 
-## 🤝 HIERARKI EKOSISTEM GRAM BUDDIES (TON)
+## 🤝 GRAM BUDDIES ECOSYSTEM HIERARCHY (TON)
 
 ```
                      ┌────────────────────────────────────────┐
@@ -48,15 +49,15 @@ Dokumentasi ini adalah **peta rujukan utama** untuk seluruh bot farming dan mini
                     ┌────────────────────┴────────────────────┐
                     ▼                                         ▼
          [ Gram Buddies 💎 ]                       [ CHICKEN Empire 🐔 ]
-       • Bot: `@GramBuddiesBot`                  • Bot: `@chicken_empirebot`
-       • Folder: `farmers/grambuddies/`          • Folder: `farmers/chickenempire/`
-       • Tambang GEMS & Points                   • Produksi Telur, CORN Power, Slot Spin
-       • WD Terbukti: Paid ke TON Wallet         • WD Terhubung langsung ke dompet TON & GB
+        • Bot: `@GramBuddiesBot`                  • Bot: `@chicken_empirebot`
+        • Directory: `farmers/grambuddies/`       • Directory: `farmers/chickenempire/`
+        • Mining GEMS & Points                    • Egg Production, CORN Power, Slot Spins
+        • Verified Payouts to TON Wallet          • Connected directly to TON & GB wallet
 ```
 
 ---
 
-## 👑 HIERARKI EKOSISTEM CROWNVILLE CORP
+## 👑 CROWNVILLE CORP ECOSYSTEM HIERARCHY
 
 ```
                          ┌────────────────────────────────────────┐
@@ -66,64 +67,64 @@ Dokumentasi ini adalah **peta rujukan utama** untuk seluruh bot farming dan mini
         ┌────────────────────────────────────┼────────────────────────────────────┐
         ▼                                    ▼                                    ▼
   [ Crownville 🏰 ]                  [ Crown Miner ⛏️ ]                   [ Basilisk 🐉 ]
-• Role: Induk (Kerajaan & Pasar P2P) • Role: Tambang Bawah Tanah          • Role: Peternak Naga & Telur
-• Folder: `farmers/crownville/`      • Folder: `farmers/crownminer/`      • WebApp: `app.basilisk...`
-• Panen Emas, Makanan, Bijih, Kayu   • Shards, Emas, Bijih, Koin CROWN    • Sinergi: Boost Hashrate Miner
+• Role: Core Kingdom & P2P Market    • Role: Subterranean Mining          • Role: Dragon Breeder & Eggs
+• Directory: `farmers/crownville/`   • Directory: `farmers/crownminer/`   • WebApp: `app.basilisk...`
+• Harvest Gold, Food, Ore, Timber    • Shards, Gold, Ores, CROWN Tokens   • Synergy: Miner Hashrate Boost
 • Service: `crownville-farmer`       • Service: `crownminer-farmer`       • API: `/api/xgame`
                                              │
         ┌────────────────────────────────────┴────────────────────────────────────┐
         ▼                                                                         ▼
  [ Crownville Survivors 🎮 ]                                               [ Crown Lands 🗺️ ]
-• Role: Web3 Survival Action                                              • Role: Pemilikan Lahan Terbuka
+• Role: Web3 Survival Action                                              • Role: Land Ownership & Parcels
 • Handle: `@CrownvilleSurvivorsBot`                                       • Handle: `@CrownLandsBot`
-• Status: ⏳ Presale Founder Pack                                         • Status: ⏳ Presale Tanah
+• Status: ⏳ Presale Founder Pack                                         • Status: ⏳ Land Presale
 ```
 
-### Karakteristik Penting Crownville:
-1. **Auto-Payout Real CROWN:** Terhubung ke TON Wallet (`autopay: True`). Begitu akumulasi mencapai **≥ 100 CROWN**, server mengirimkan koin langsung ke wallet TON harian pukul 19:30 UTC.
-2. **Transfer Sumber Daya Antar Game:** Bijih & Emas dari Crown Miner ditransfer ke kota Crownville via `/api/game/withdraw`.
-3. **Cross-Game Sinergi:** Telur Basilisk dikirim ke miner (`/api/golden/send-miner`) untuk melipatgandakan kecepatan kedalaman galian.
+### Key Crownville Features:
+1. **Automated Real CROWN Payouts:** Connected to TON Wallet (`autopay: True`). Once balance reaches **≥ 100 CROWN**, the server initiates automated direct transfers to the registered TON wallet daily at 19:30 UTC.
+2. **Cross-Game Resource Transfers:** Ores and gold from Crown Miner transfer directly to Crownville kingdom via `/api/game/withdraw`.
+3. **Cross-Game Synergy:** Basilisk eggs can be sent to the miner (`/api/golden/send-miner`) to multiply excavation depth and speed.
 
 ---
 
-## ⚡ DAEMON PENYEGAR TOKEN OTOMATIS (`auth_generator`)
+## ⚡ AUTOMATED CREDENTIAL REFRESH DAEMON (`auth_generator`)
 
-* **Lokasi Folder:** `farmers/auth_generator/`
-* **File Utama:** `generator.py`
-* **Session Telethon:** `tg_session.session` (Menggunakan MTProto resmi untuk bypass kadaluarsa `initData`)
-* **Interval Siklus:** Setiap **25 menit** (1500 detik) otomatis mengambil `initData` baru dan menginjeksi ke masing-masing `config.json` bot.
-* **Perintah Uji Manual Satu Siklus:**
+* **Directory:** `farmers/auth_generator/`
+* **Core Script:** `generator.py`
+* **Telethon Session:** `tg_session.session` (Official MTProto client session to prevent `initData` expiration)
+* **Cycle Interval:** Every **25 minutes** (1500 seconds), automatically fetches fresh `initData` and injects updated headers into each bot's `config.json`.
+* **Single Run Command:**
   ```bash
-  cd /run/media/splev/38a4cd13-11cc-4381-81a9-76765c1a286e1/farmers/auth_generator
+  cd auth_generator
   source venv/bin/activate
   python3 generator.py --once
   ```
 
 ---
 
-## 🛠️ PANDUAN PERINTAH OPERASIONAL (CHEAT SHEET)
+## 🛠️ OPERATIONAL CHEAT SHEET
 
-### 1. Cek Status Service Tertentu
+### 1. Inspect Service Status
 ```bash
-systemctl --user status <nama-service>.service
-# Contoh:
+systemctl --user status <service-name>.service
+# Examples:
 systemctl --user status crownville-farmer.service
 systemctl --user status crownminer-farmer.service
 ```
 
-### 2. Restart / Reload Service Farmer
+### 2. Restart / Reload Farmer Services
 ```bash
-systemctl --user restart <nama-service>.service
+systemctl --user restart <service-name>.service
 ```
 
-### 3. Pantau Log Aktivitas Real-time
+### 3. Monitor Real-Time Service Logs
 ```bash
-tail -f /run/media/splev/38a4cd13-11cc-4381-81a9-76765c1a286e1/farmers/<folder>/farmer.log
-# Contoh pantau Crownville:
-tail -f /run/media/splev/38a4cd13-11cc-4381-81a9-76765c1a286e1/farmers/crownville/farmer.log
+tail -f farmers/<bot-folder>/farmer.log
+# Example for Crownville:
+tail -f farmers/crownville/farmer.log
 ```
 
-### 4. Restart Bot Telegram Monitoring (`tele-bot`)
+### 4. Restart Telegram Monitoring Bot (`tele-bot`)
 ```bash
 docker restart tele-bot
 docker logs tele-bot --tail 30
@@ -131,15 +132,11 @@ docker logs tele-bot --tail 30
 
 ---
 
-## 📂 STRUKTUR STANDAR SETIAP FOLDER FARMER
-Setiap folder farmer memiliki struktur seragam berikut:
+## 📂 STANDARD FARMER DIRECTORY STRUCTURE
+Each bot directory contains a consistent modular layout:
 ```text
-farmers/<nama-bot>/
-├── config.json    # Konfigurasi token (init_data / token), parameter interval, toggle fitur
-├── farmer.py      # Engine loop otomatisasi klaim, tap, harvest, dan keepalive
-└── farmer.log     # Riwayat logging status, hasil panen, hashrate, dan saldo
+farmers/<bot-folder>/
+├── config.json    # Token configuration (init_data / token), cycle intervals, feature toggles
+├── farmer.py      # Automation engine loop for claims, taps, harvests, and keepalives
+└── farmer.log     # Real-time operation history, yields, hashrate stats, and wallet balances
 ```
-# Ton-Airdrop
-# Ton-Airdrop
-# Ton-Airdrop
-# Ton-Airdrop

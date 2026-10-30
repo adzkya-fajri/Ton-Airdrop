@@ -1,0 +1,1 @@
+[2026-10-30 16:52:59] >> Exception saat login: HTTPSConnectionPool(host='api.catopia.io', port=443): Max retries exceeded with url: /api/v1/auth/telegram (Caused by NameResolutionError("HTTPSConnection(host='api.catopia.io', port=443): Failed to resolve 'api.catopia.io' ([Errno -2] Name or service not known)")) <<

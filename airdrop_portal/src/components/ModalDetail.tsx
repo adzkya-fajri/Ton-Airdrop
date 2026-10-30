@@ -50,7 +50,7 @@ export default function ModalDetail({ item, onClose }: ModalDetailProps) {
           <button
             onClick={onClose}
             className="p-1.5 rounded-lg text-slate-400 hover:text-white hover:bg-obsidian-700 transition-colors"
-            aria-label="Tutup dialog (Escape)"
+            aria-label="Close dialog (Escape)"
           >
             <X className="w-5 h-5" />
           </button>
@@ -61,7 +61,7 @@ export default function ModalDetail({ item, onClose }: ModalDetailProps) {
           <div className="p-3 rounded-xl bg-obsidian-800 border border-obsidian-700 flex items-center gap-2.5">
             <Layers className="w-4 h-4 text-amethyst shrink-0" />
             <div>
-              <div className="text-[10px] text-slate-400 uppercase font-semibold">Ekosistem</div>
+              <div className="text-[10px] text-slate-400 uppercase font-semibold">Ecosystem</div>
               <div className="text-xs font-bold text-white">{item.ecosystem}</div>
             </div>
           </div>
@@ -69,7 +69,7 @@ export default function ModalDetail({ item, onClose }: ModalDetailProps) {
           <div className="p-3 rounded-xl bg-obsidian-800 border border-obsidian-700 flex items-center gap-2.5">
             <Wallet className="w-4 h-4 text-ton shrink-0" />
             <div>
-              <div className="text-[10px] text-slate-400 uppercase font-semibold">Jaringan Blockchain</div>
+              <div className="text-[10px] text-slate-400 uppercase font-semibold">Blockchain Network</div>
               <div className="text-xs font-bold text-white">{item.chain}</div>
             </div>
           </div>
@@ -79,7 +79,7 @@ export default function ModalDetail({ item, onClose }: ModalDetailProps) {
         <div>
           <div className="text-xs font-semibold text-slate-400 mb-1 flex items-center gap-1.5">
             <Zap className="w-3.5 h-3.5 text-amber-400" />
-            Deskripsi Operasional
+            Operational Summary
           </div>
           <p className="text-sm text-slate-200 leading-relaxed bg-obsidian-800/50 p-3.5 rounded-xl border border-obsidian-700/60">
             {item.description}
@@ -90,11 +90,11 @@ export default function ModalDetail({ item, onClose }: ModalDetailProps) {
         <div>
           <div className="text-xs font-semibold text-slate-400 mb-1 flex items-center gap-1.5">
             <ShieldCheck className="w-3.5 h-3.5 text-emerald-400" />
-            Status Pembayaran & Payout
+            Payout & Verification Status
           </div>
           <div className="text-xs text-slate-200 bg-obsidian-800/50 p-3.5 rounded-xl border border-obsidian-700/60 flex items-center justify-between">
             <span>{item.payoutInfo}</span>
-            <span className="font-semibold text-emerald-400 shrink-0 ml-2">Terverifikasi</span>
+            <span className="font-semibold text-emerald-400 shrink-0 ml-2">Verified</span>
           </div>
         </div>
 
@@ -104,14 +104,14 @@ export default function ModalDetail({ item, onClose }: ModalDetailProps) {
             onClick={onClose}
             className="flex-1 py-3 px-4 rounded-xl bg-obsidian-700 hover:bg-obsidian-700/80 text-slate-300 font-semibold text-xs transition-colors"
           >
-            Tutup (Esc)
+            Close (Esc)
           </button>
 
           <button
             onClick={() => launchAirdrop(item)}
             className="flex-1 inline-flex items-center justify-center gap-2 py-3 px-4 rounded-xl bg-amethyst hover:bg-amethyst-hover text-white font-semibold text-xs transition-colors shadow-lg shadow-amethyst/30"
           >
-            <span>Buka Bot di Telegram</span>
+            <span>Launch Bot on Telegram</span>
             <ExternalLink className="w-4 h-4" />
           </button>
         </div>

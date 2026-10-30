@@ -1,0 +1,2929 @@
+[2026-10-22 01:26:39] === mAInet Auto-Farmer Started ===
+[2026-10-22 01:26:39] Mode: One-Shot Manual Test
+[2026-10-22 01:26:39] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-22 01:26:40] ==================================================
+[2026-10-22 01:26:40] >> KLAIM MAINET BERHASIL! <<
+[2026-10-22 01:26:40] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-22 01:26:40] Total Shares: 772,671.05
+[2026-10-22 01:26:40] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-22 01:26:40] Need Captcha: True
+[2026-10-22 01:26:40] ==================================================
+[2026-10-22 01:26:51] === mAInet Auto-Farmer Started ===
+[2026-10-22 01:26:51] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-22 01:26:52] ==================================================
+[2026-10-22 01:26:52] >> KLAIM MAINET BERHASIL! <<
+[2026-10-22 01:26:52] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-22 01:26:52] Total Shares: 772,752.88
+[2026-10-22 01:26:52] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-22 01:26:52] Need Captcha: True
+[2026-10-22 01:26:52] ==================================================
+[2026-10-22 01:26:52] Tidur ~45 menit. Klaim berikutnya pada: 02:12:07
+[2026-10-22 02:12:07] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-22 02:12:08] ==================================================
+[2026-10-22 02:12:08] >> KLAIM MAINET BERHASIL! <<
+[2026-10-22 02:12:08] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-22 02:12:08] Total Shares: 790,609.39
+[2026-10-22 02:12:08] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-22 02:12:08] Need Captcha: True
+[2026-10-22 02:12:08] ==================================================
+[2026-10-22 02:12:08] Tidur ~53 menit. Klaim berikutnya pada: 03:05:48
+[2026-10-22 03:05:48] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-22 03:05:49] >> ERROR 401: Token Bearer mAInet kadaluarsa! Perlu update token di config.json <<
+[2026-10-22 03:05:49] Tidur ~56 menit. Klaim berikutnya pada: 04:02:28
+[2026-10-22 04:02:28] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-22 04:02:28] >> ERROR 401: Token Bearer mAInet kadaluarsa! Perlu update token di config.json <<
+[2026-10-22 04:02:28] Tidur ~53 menit. Klaim berikutnya pada: 04:55:55
+[2026-10-22 04:55:55] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-22 04:55:56] >> ERROR 401: Token Bearer mAInet kadaluarsa! Perlu update token di config.json <<
+[2026-10-22 04:55:56] Tidur ~52 menit. Klaim berikutnya pada: 05:48:43
+[2026-10-22 05:48:43] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-22 05:48:44] >> ERROR 401: Token Bearer mAInet kadaluarsa! Perlu update token di config.json <<
+[2026-10-22 05:48:44] Tidur ~45 menit. Klaim berikutnya pada: 06:33:56
+[2026-10-22 06:33:56] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-22 06:33:56] >> ERROR 401: Token Bearer mAInet kadaluarsa! Perlu update token di config.json <<
+[2026-10-22 06:33:56] Tidur ~59 menit. Klaim berikutnya pada: 07:33:21
+[2026-10-22 07:20:05] === mAInet Auto-Farmer Started ===
+[2026-10-22 07:20:05] Mode: One-Shot Manual Test
+[2026-10-22 07:20:05] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-22 07:20:05] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-22 07:20:05] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-22 07:20:05] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-22 07:20:06] >> Gagal login tahap 1 mAInet (201): {"chq":"b5fbe8f3fee9f4f2f3b5b4bde697e9efe4bde6f8ebfcf1b5bff9f2fee8f0f8f3e9b3faf8e9d8f1f8f0f8f3e9dfe4d4f9bfb4a6e0bdfefce9fef5bde6eff8e9e8eff3bdade5dead <<
+[2026-10-22 07:21:22] === mAInet Auto-Farmer Started ===
+[2026-10-22 07:21:22] Mode: One-Shot Manual Test
+[2026-10-22 07:21:22] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-22 07:21:23] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-22 07:21:23] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-22 07:21:23] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-22 07:21:24] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-22 07:21:24] Mengirim hasil challenge: 340791
+[2026-10-22 07:21:24] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-22 07:21:24] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-22 07:21:25] ==================================================
+[2026-10-22 07:21:25] >> KLAIM MAINET BERHASIL! <<
+[2026-10-22 07:21:25] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-22 07:21:25] Total Shares: 888,840.25
+[2026-10-22 07:21:25] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-22 07:21:25] Need Captcha: True
+[2026-10-22 07:21:25] ==================================================
+[2026-10-22 07:21:33] === mAInet Auto-Farmer Started ===
+[2026-10-22 07:21:33] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-22 07:21:34] ==================================================
+[2026-10-22 07:21:34] >> KLAIM MAINET BERHASIL! <<
+[2026-10-22 07:21:34] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-22 07:21:34] Total Shares: 888,896.00
+[2026-10-22 07:21:34] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-22 07:21:34] Need Captcha: True
+[2026-10-22 07:21:34] ==================================================
+[2026-10-22 07:21:34] Tidur ~53 menit. Klaim berikutnya pada: 08:15:04
+[2026-10-22 08:15:04] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-22 08:15:04] ==================================================
+[2026-10-22 08:15:04] >> KLAIM MAINET BERHASIL! <<
+[2026-10-22 08:15:04] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-22 08:15:04] Total Shares: 910,006.88
+[2026-10-22 08:15:04] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-22 08:15:04] Need Captcha: True
+[2026-10-22 08:15:04] ==================================================
+[2026-10-22 08:15:04] Tidur ~50 menit. Klaim berikutnya pada: 09:05:51
+[2026-10-22 09:05:51] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-22 09:05:52] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-22 09:05:52] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-22 09:05:52] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-22 09:05:53] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-22 09:05:54] Mengirim hasil challenge: 246255
+[2026-10-22 09:05:54] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-22 09:05:54] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-22 09:05:55] ==================================================
+[2026-10-22 09:05:55] >> KLAIM MAINET BERHASIL! <<
+[2026-10-22 09:05:55] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-22 09:05:55] Total Shares: 930,064.60
+[2026-10-22 09:05:55] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-22 09:05:55] Need Captcha: True
+[2026-10-22 09:05:55] ==================================================
+[2026-10-22 09:05:55] Tidur ~58 menit. Klaim berikutnya pada: 10:04:30
+[2026-10-22 10:04:30] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-22 10:04:31] ==================================================
+[2026-10-22 10:04:31] >> KLAIM MAINET BERHASIL! <<
+[2026-10-22 10:04:31] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-22 10:04:31] Total Shares: 953,180.64
+[2026-10-22 10:04:31] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-22 10:04:31] Need Captcha: True
+[2026-10-22 10:04:31] ==================================================
+[2026-10-22 10:04:31] Tidur ~58 menit. Klaim berikutnya pada: 11:02:43
+[2026-10-22 11:02:43] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-22 11:02:44] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-22 11:02:44] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-22 11:02:44] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-22 11:02:45] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-22 11:02:45] Mengirim hasil challenge: 255225
+[2026-10-22 11:02:46] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-22 11:02:46] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-22 11:02:47] ==================================================
+[2026-10-22 11:02:47] >> KLAIM MAINET BERHASIL! <<
+[2026-10-22 11:02:47] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-22 11:02:47] Total Shares: 976,167.83
+[2026-10-22 11:02:47] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-22 11:02:47] Need Captcha: True
+[2026-10-22 11:02:47] ==================================================
+[2026-10-22 11:02:47] Tidur ~56 menit. Klaim berikutnya pada: 11:59:18
+[2026-10-22 11:59:18] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-22 11:59:18] ==================================================
+[2026-10-22 11:59:18] >> KLAIM MAINET BERHASIL! <<
+[2026-10-22 11:59:18] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-22 11:59:18] Total Shares: 998,469.11
+[2026-10-22 11:59:18] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-22 11:59:18] Need Captcha: True
+[2026-10-22 11:59:18] ==================================================
+[2026-10-22 11:59:18] Tidur ~53 menit. Klaim berikutnya pada: 12:53:17
+[2026-10-22 12:53:17] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-22 12:53:18] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-22 12:53:18] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-22 12:53:18] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-22 12:53:19] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-22 12:53:19] Mengirim hasil challenge: 87719
+[2026-10-22 12:53:20] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-22 12:53:20] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-22 12:53:21] ==================================================
+[2026-10-22 12:53:21] >> KLAIM MAINET BERHASIL! <<
+[2026-10-22 12:53:21] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-22 12:53:21] Total Shares: 1,019,787.47
+[2026-10-22 12:53:21] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-22 12:53:21] Need Captcha: True
+[2026-10-22 12:53:21] ==================================================
+[2026-10-22 12:53:21] Tidur ~48 menit. Klaim berikutnya pada: 13:42:15
+[2026-10-22 13:42:15] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-22 13:42:16] ==================================================
+[2026-10-22 13:42:16] >> KLAIM MAINET BERHASIL! <<
+[2026-10-22 13:42:16] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-22 13:42:16] Total Shares: 1,039,084.61
+[2026-10-22 13:42:16] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-22 13:42:16] Need Captcha: True
+[2026-10-22 13:42:16] ==================================================
+[2026-10-22 13:42:16] Tidur ~53 menit. Klaim berikutnya pada: 14:36:07
+[2026-10-22 14:36:07] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-22 14:36:09] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-22 14:36:09] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-22 14:36:09] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-22 14:36:09] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-22 14:36:10] Mengirim hasil challenge: 571851
+[2026-10-22 14:36:11] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-22 14:36:11] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-22 14:36:11] ==================================================
+[2026-10-22 14:36:11] >> KLAIM MAINET BERHASIL! <<
+[2026-10-22 14:36:11] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-22 14:36:11] Total Shares: 1,060,358.22
+[2026-10-22 14:36:11] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-22 14:36:11] Need Captcha: True
+[2026-10-22 14:36:11] ==================================================
+[2026-10-22 14:36:11] Tidur ~49 menit. Klaim berikutnya pada: 15:25:44
+[2026-10-22 15:25:44] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-22 15:25:45] ==================================================
+[2026-10-22 15:25:45] >> KLAIM MAINET BERHASIL! <<
+[2026-10-22 15:25:45] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-22 15:25:45] Total Shares: 1,079,913.50
+[2026-10-22 15:25:45] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-22 15:25:45] Need Captcha: True
+[2026-10-22 15:25:45] ==================================================
+[2026-10-22 15:25:45] Tidur ~52 menit. Klaim berikutnya pada: 16:18:19
+[2026-10-22 16:18:19] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-22 16:18:20] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-22 16:18:20] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-22 16:18:20] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-22 16:18:21] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-22 16:18:21] Mengirim hasil challenge: 58356
+[2026-10-22 16:18:22] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-22 16:18:22] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-22 16:18:23] ==================================================
+[2026-10-22 16:18:23] >> KLAIM MAINET BERHASIL! <<
+[2026-10-22 16:18:23] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-22 16:18:23] Total Shares: 1,100,675.21
+[2026-10-22 16:18:23] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-22 16:18:23] Need Captcha: True
+[2026-10-22 16:18:23] ==================================================
+[2026-10-22 16:18:23] Tidur ~45 menit. Klaim berikutnya pada: 17:04:06
+[2026-10-22 17:04:06] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-22 17:04:07] ==================================================
+[2026-10-22 17:04:07] >> KLAIM MAINET BERHASIL! <<
+[2026-10-22 17:04:07] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-22 17:04:07] Total Shares: 1,118,717.31
+[2026-10-22 17:04:07] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-22 17:04:07] Need Captcha: True
+[2026-10-22 17:04:07] ==================================================
+[2026-10-22 17:04:07] Tidur ~59 menit. Klaim berikutnya pada: 18:03:31
+[2026-10-22 18:03:31] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-22 18:03:32] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-22 18:03:32] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-22 18:03:32] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-22 18:03:32] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-22 18:03:33] Mengirim hasil challenge: 315066
+[2026-10-22 18:03:34] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-22 18:03:34] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-22 18:03:35] ==================================================
+[2026-10-22 18:03:35] >> KLAIM MAINET BERHASIL! <<
+[2026-10-22 18:03:35] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-22 18:03:35] Total Shares: 1,142,179.48
+[2026-10-22 18:03:35] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-22 18:03:35] Need Captcha: True
+[2026-10-22 18:03:35] ==================================================
+[2026-10-22 18:03:35] Tidur ~57 menit. Klaim berikutnya pada: 19:01:29
+[2026-10-22 19:01:29] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-22 19:01:30] ==================================================
+[2026-10-22 19:01:30] >> KLAIM MAINET BERHASIL! <<
+[2026-10-22 19:01:30] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-22 19:01:30] Total Shares: 1,165,026.53
+[2026-10-22 19:01:30] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-22 19:01:30] Need Captcha: True
+[2026-10-22 19:01:30] ==================================================
+[2026-10-22 19:01:30] Tidur ~46 menit. Klaim berikutnya pada: 19:48:07
+[2026-10-22 19:48:07] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-22 19:48:08] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-22 19:48:08] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-22 19:48:08] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-22 19:48:09] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-22 19:48:09] Mengirim hasil challenge: 85579
+[2026-10-22 19:48:10] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-22 19:48:10] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-22 19:48:11] ==================================================
+[2026-10-22 19:48:11] >> KLAIM MAINET BERHASIL! <<
+[2026-10-22 19:48:11] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-22 19:48:11] Total Shares: 1,183,441.74
+[2026-10-22 19:48:11] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-22 19:48:11] Need Captcha: True
+[2026-10-22 19:48:11] ==================================================
+[2026-10-22 19:48:11] Tidur ~55 menit. Klaim berikutnya pada: 20:44:10
+[2026-10-22 20:44:10] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-22 20:44:11] ==================================================
+[2026-10-22 20:44:11] >> KLAIM MAINET BERHASIL! <<
+[2026-10-22 20:44:11] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-22 20:44:11] Total Shares: 1,205,536.47
+[2026-10-22 20:44:11] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-22 20:44:11] Need Captcha: True
+[2026-10-22 20:44:11] ==================================================
+[2026-10-22 20:44:11] Tidur ~60 menit. Klaim berikutnya pada: 21:44:32
+[2026-10-22 21:44:32] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-22 21:44:34] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-22 21:44:34] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-22 21:44:34] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-22 21:44:49] >> Exception saat auto-login mAInet: HTTPSConnectionPool(host='api.mainet.io', port=443): Read timed out. (read timeout=15) <<
+[2026-10-22 21:44:49] Tidur ~48 menit. Klaim berikutnya pada: 22:33:21
+[2026-10-22 22:33:21] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-22 22:33:23] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-22 22:33:23] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-22 22:33:23] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-22 22:33:24] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-22 22:33:24] Mengirim hasil challenge: 28184
+[2026-10-22 22:33:25] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-22 22:33:25] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-22 22:33:26] ==================================================
+[2026-10-22 22:33:26] >> KLAIM MAINET BERHASIL! <<
+[2026-10-22 22:33:26] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-22 22:33:26] Total Shares: 1,248,631.77
+[2026-10-22 22:33:26] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-22 22:33:26] Need Captcha: True
+[2026-10-22 22:33:26] ==================================================
+[2026-10-22 22:33:26] Tidur ~57 menit. Klaim berikutnya pada: 23:31:11
+[2026-10-22 23:31:11] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-22 23:31:12] ==================================================
+[2026-10-22 23:31:12] >> KLAIM MAINET BERHASIL! <<
+[2026-10-22 23:31:12] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-22 23:31:12] Total Shares: 1,271,421.03
+[2026-10-22 23:31:12] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-22 23:31:12] Need Captcha: True
+[2026-10-22 23:31:12] ==================================================
+[2026-10-22 23:31:12] Tidur ~60 menit. Klaim berikutnya pada: 00:32:10
+[2026-10-23 00:32:10] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-23 00:32:10] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-23 00:32:10] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-23 00:32:10] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-23 00:32:11] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-23 00:32:11] Mengirim hasil challenge: 636875
+[2026-10-23 00:32:11] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-23 00:32:11] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-23 00:32:12] ==================================================
+[2026-10-23 00:32:12] >> KLAIM MAINET BERHASIL! <<
+[2026-10-23 00:32:12] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-23 00:32:12] Total Shares: 1,295,488.96
+[2026-10-23 00:32:12] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-23 00:32:12] Need Captcha: True
+[2026-10-23 00:32:12] ==================================================
+[2026-10-23 00:32:12] Tidur ~45 menit. Klaim berikutnya pada: 01:17:37
+[2026-10-23 01:17:37] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-23 01:17:38] ==================================================
+[2026-10-23 01:17:38] >> KLAIM MAINET BERHASIL! <<
+[2026-10-23 01:17:38] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-23 01:17:38] Total Shares: 1,313,411.23
+[2026-10-23 01:17:38] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-23 01:17:38] Need Captcha: True
+[2026-10-23 01:17:38] ==================================================
+[2026-10-23 01:17:38] Tidur ~51 menit. Klaim berikutnya pada: 02:09:04
+[2026-10-23 02:09:04] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-23 02:09:05] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-23 02:09:05] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-23 02:09:05] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-23 02:09:05] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-23 02:09:06] Mengirim hasil challenge: 114394
+[2026-10-23 02:09:06] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-23 02:09:06] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-23 02:09:06] ==================================================
+[2026-10-23 02:09:06] >> KLAIM MAINET BERHASIL! <<
+[2026-10-23 02:09:06] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-23 02:09:06] Total Shares: 1,333,717.06
+[2026-10-23 02:09:06] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-23 02:09:06] Need Captcha: True
+[2026-10-23 02:09:06] ==================================================
+[2026-10-23 02:09:06] Tidur ~45 menit. Klaim berikutnya pada: 02:54:36
+[2026-10-23 02:54:36] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-23 02:54:37] ==================================================
+[2026-10-23 02:54:37] >> KLAIM MAINET BERHASIL! <<
+[2026-10-23 02:54:37] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-23 02:54:37] Total Shares: 1,351,672.66
+[2026-10-23 02:54:37] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-23 02:54:37] Need Captcha: True
+[2026-10-23 02:54:37] ==================================================
+[2026-10-23 02:54:37] Tidur ~50 menit. Klaim berikutnya pada: 03:45:31
+[2026-10-23 03:45:31] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-23 03:45:32] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-23 03:45:32] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-23 03:45:32] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-23 03:45:32] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-23 03:45:32] Mengirim hasil challenge: 286272
+[2026-10-23 03:45:33] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-23 03:45:33] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-23 03:45:34] ==================================================
+[2026-10-23 03:45:34] >> KLAIM MAINET BERHASIL! <<
+[2026-10-23 03:45:34] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-23 03:45:34] Total Shares: 1,371,771.82
+[2026-10-23 03:45:34] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-23 03:45:34] Need Captcha: True
+[2026-10-23 03:45:34] ==================================================
+[2026-10-23 03:45:34] Tidur ~48 menit. Klaim berikutnya pada: 04:34:04
+[2026-10-23 04:34:04] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-23 04:34:05] ==================================================
+[2026-10-23 04:34:05] >> KLAIM MAINET BERHASIL! <<
+[2026-10-23 04:34:05] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-23 04:34:05] Total Shares: 1,390,910.35
+[2026-10-23 04:34:05] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-23 04:34:05] Need Captcha: True
+[2026-10-23 04:34:05] ==================================================
+[2026-10-23 04:34:05] Tidur ~52 menit. Klaim berikutnya pada: 05:26:41
+[2026-10-23 05:26:41] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-23 05:26:41] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-23 05:26:41] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-23 05:26:41] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-23 05:26:42] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-23 05:26:43] Mengirim hasil challenge: 115503
+[2026-10-23 05:26:43] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-23 05:26:43] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-23 05:26:44] ==================================================
+[2026-10-23 05:26:44] >> KLAIM MAINET BERHASIL! <<
+[2026-10-23 05:26:44] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-23 05:26:44] Total Shares: 1,411,683.16
+[2026-10-23 05:26:44] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-23 05:26:44] Need Captcha: True
+[2026-10-23 05:26:44] ==================================================
+[2026-10-23 05:26:44] Tidur ~59 menit. Klaim berikutnya pada: 06:26:35
+[2026-10-23 06:26:35] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-23 06:26:36] ==================================================
+[2026-10-23 06:26:36] >> KLAIM MAINET BERHASIL! <<
+[2026-10-23 06:26:36] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-23 06:26:36] Total Shares: 1,435,298.58
+[2026-10-23 06:26:36] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-23 06:26:36] Need Captcha: True
+[2026-10-23 06:26:36] ==================================================
+[2026-10-23 06:26:36] Tidur ~54 menit. Klaim berikutnya pada: 07:21:01
+[2026-10-23 07:21:01] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-23 07:21:02] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-23 07:21:02] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-23 07:21:02] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-23 07:21:18] >> Exception saat auto-login mAInet: HTTPSConnectionPool(host='api.mainet.io', port=443): Read timed out. (read timeout=15) <<
+[2026-10-23 07:21:18] Tidur ~59 menit. Klaim berikutnya pada: 08:20:42
+[2026-10-23 08:20:42] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-23 08:20:48] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-23 08:20:48] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-23 08:20:48] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-23 08:20:48] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-23 08:20:49] Mengirim hasil challenge: 17101
+[2026-10-23 08:20:49] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-23 08:20:49] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-23 08:20:50] ==================================================
+[2026-10-23 08:20:50] >> KLAIM MAINET BERHASIL! <<
+[2026-10-23 08:20:50] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-23 08:20:50] Total Shares: 1,480,365.95
+[2026-10-23 08:20:50] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-23 08:20:50] Need Captcha: True
+[2026-10-23 08:20:50] ==================================================
+[2026-10-23 08:20:50] Tidur ~60 menit. Klaim berikutnya pada: 09:21:11
+[2026-10-23 09:21:11] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-23 09:21:12] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-23 09:21:12] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-23 09:21:12] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-23 09:21:12] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-23 09:21:13] Mengirim hasil challenge: 62517
+[2026-10-23 09:21:13] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-23 09:21:13] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-23 09:21:14] ==================================================
+[2026-10-23 09:21:14] >> KLAIM MAINET BERHASIL! <<
+[2026-10-23 09:21:14] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-23 09:21:14] Total Shares: 1,504,193.75
+[2026-10-23 09:21:14] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-23 09:21:14] Need Captcha: True
+[2026-10-23 09:21:14] ==================================================
+[2026-10-23 09:21:14] Tidur ~55 menit. Klaim berikutnya pada: 10:17:08
+[2026-10-23 10:17:08] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-23 10:17:09] ==================================================
+[2026-10-23 10:17:09] >> KLAIM MAINET BERHASIL! <<
+[2026-10-23 10:17:09] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-23 10:17:09] Total Shares: 1,526,251.24
+[2026-10-23 10:17:09] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-23 10:17:09] Need Captcha: True
+[2026-10-23 10:17:09] ==================================================
+[2026-10-23 10:17:09] Tidur ~50 menit. Klaim berikutnya pada: 11:07:27
+[2026-10-23 11:07:27] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-23 11:07:33] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-23 11:07:33] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-23 11:07:33] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-23 11:07:34] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-23 11:07:34] Mengirim hasil challenge: 666943
+[2026-10-23 11:07:35] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-23 11:07:35] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-23 11:07:35] ==================================================
+[2026-10-23 11:07:35] >> KLAIM MAINET BERHASIL! <<
+[2026-10-23 11:07:35] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-23 11:07:35] Total Shares: 1,546,150.86
+[2026-10-23 11:07:35] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-23 11:07:35] Need Captcha: True
+[2026-10-23 11:07:35] ==================================================
+[2026-10-23 11:07:35] Tidur ~55 menit. Klaim berikutnya pada: 12:03:33
+[2026-10-23 12:03:33] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-23 12:03:34] ==================================================
+[2026-10-23 12:03:34] >> KLAIM MAINET BERHASIL! <<
+[2026-10-23 12:03:34] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-23 12:03:34] Total Shares: 1,568,236.66
+[2026-10-23 12:03:34] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-23 12:03:34] Need Captcha: True
+[2026-10-23 12:03:34] ==================================================
+[2026-10-23 12:03:34] Tidur ~52 menit. Klaim berikutnya pada: 12:56:22
+[2026-10-23 12:56:22] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-23 12:56:23] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-23 12:56:23] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-23 12:56:23] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-23 12:56:24] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-23 12:56:24] Mengirim hasil challenge: 168758
+[2026-10-23 12:56:25] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-23 12:56:25] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-23 12:56:26] ==================================================
+[2026-10-23 12:56:26] >> KLAIM MAINET BERHASIL! <<
+[2026-10-23 12:56:26] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-23 12:56:26] Total Shares: 1,589,088.67
+[2026-10-23 12:56:26] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-23 12:56:26] Need Captcha: True
+[2026-10-23 12:56:26] ==================================================
+[2026-10-23 12:56:26] Tidur ~50 menit. Klaim berikutnya pada: 13:46:57
+[2026-10-23 13:46:57] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-23 13:46:57] ==================================================
+[2026-10-23 13:46:57] >> KLAIM MAINET BERHASIL! <<
+[2026-10-23 13:46:57] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-23 13:46:57] Total Shares: 1,609,022.93
+[2026-10-23 13:46:57] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-23 13:46:57] Need Captcha: True
+[2026-10-23 13:46:57] ==================================================
+[2026-10-23 13:46:57] Tidur ~46 menit. Klaim berikutnya pada: 14:33:49
+[2026-10-23 14:33:49] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-23 14:33:52] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-23 14:33:52] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-23 14:33:52] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-23 14:33:53] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-23 14:33:53] Mengirim hasil challenge: 868722
+[2026-10-23 14:33:55] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-23 14:33:55] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-23 14:33:55] ==================================================
+[2026-10-23 14:33:55] >> KLAIM MAINET BERHASIL! <<
+[2026-10-23 14:33:55] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-23 14:33:55] Total Shares: 1,627,550.46
+[2026-10-23 14:33:55] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-23 14:33:55] Need Captcha: True
+[2026-10-23 14:33:55] ==================================================
+[2026-10-23 14:33:55] Tidur ~47 menit. Klaim berikutnya pada: 15:21:06
+[2026-10-23 15:21:06] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-23 15:21:07] ==================================================
+[2026-10-23 15:21:07] >> KLAIM MAINET BERHASIL! <<
+[2026-10-23 15:21:07] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-23 15:21:07] Total Shares: 1,646,170.10
+[2026-10-23 15:21:07] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-23 15:21:07] Need Captcha: True
+[2026-10-23 15:21:07] ==================================================
+[2026-10-23 15:21:07] Tidur ~49 menit. Klaim berikutnya pada: 16:10:23
+[2026-10-23 16:10:23] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-23 16:10:25] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-23 16:10:25] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-23 16:10:25] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-23 16:10:25] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-23 16:10:26] Mengirim hasil challenge: 85192
+[2026-10-23 16:10:27] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-23 16:10:27] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-23 16:10:28] ==================================================
+[2026-10-23 16:10:28] >> KLAIM MAINET BERHASIL! <<
+[2026-10-23 16:10:28] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-23 16:10:28] Total Shares: 1,665,637.42
+[2026-10-23 16:10:28] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-23 16:10:28] Need Captcha: True
+[2026-10-23 16:10:28] ==================================================
+[2026-10-23 16:10:28] Tidur ~58 menit. Klaim berikutnya pada: 17:08:59
+[2026-10-23 17:08:59] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-23 17:09:00] ==================================================
+[2026-10-23 17:09:00] >> KLAIM MAINET BERHASIL! <<
+[2026-10-23 17:09:00] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-23 17:09:00] Total Shares: 1,688,728.16
+[2026-10-23 17:09:00] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-23 17:09:00] Need Captcha: True
+[2026-10-23 17:09:00] ==================================================
+[2026-10-23 17:09:00] Tidur ~52 menit. Klaim berikutnya pada: 18:01:22
+[2026-10-23 18:01:22] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-23 18:01:23] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-23 18:01:23] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-23 18:01:23] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-23 18:01:24] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-23 18:01:24] Mengirim hasil challenge: 248932
+[2026-10-23 18:01:25] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-23 18:01:25] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-23 18:01:26] ==================================================
+[2026-10-23 18:01:26] >> KLAIM MAINET BERHASIL! <<
+[2026-10-23 18:01:26] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-23 18:01:26] Total Shares: 1,709,413.85
+[2026-10-23 18:01:26] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-23 18:01:26] Need Captcha: True
+[2026-10-23 18:01:26] ==================================================
+[2026-10-23 18:01:26] Tidur ~47 menit. Klaim berikutnya pada: 18:49:03
+[2026-10-23 18:49:03] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-23 18:49:04] ==================================================
+[2026-10-23 18:49:04] >> KLAIM MAINET BERHASIL! <<
+[2026-10-23 18:49:04] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-23 18:49:04] Total Shares: 1,728,203.69
+[2026-10-23 18:49:04] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-23 18:49:04] Need Captcha: True
+[2026-10-23 18:49:04] ==================================================
+[2026-10-23 18:49:04] Tidur ~53 menit. Klaim berikutnya pada: 19:42:23
+[2026-10-23 19:42:23] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-23 19:42:24] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-23 19:42:24] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-23 19:42:24] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-23 19:42:24] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-23 19:42:25] Mengirim hasil challenge: 107847
+[2026-10-23 19:42:25] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-23 19:42:25] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-23 19:42:26] ==================================================
+[2026-10-23 19:42:26] >> KLAIM MAINET BERHASIL! <<
+[2026-10-23 19:42:26] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-23 19:42:26] Total Shares: 1,749,259.70
+[2026-10-23 19:42:26] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-23 19:42:26] Need Captcha: True
+[2026-10-23 19:42:26] ==================================================
+[2026-10-23 19:42:26] Tidur ~54 menit. Klaim berikutnya pada: 20:36:50
+[2026-10-23 20:36:50] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-23 20:36:51] ==================================================
+[2026-10-23 20:36:51] >> KLAIM MAINET BERHASIL! <<
+[2026-10-23 20:36:51] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-23 20:36:51] Total Shares: 1,770,727.58
+[2026-10-23 20:36:51] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-23 20:36:51] Need Captcha: True
+[2026-10-23 20:36:51] ==================================================
+[2026-10-23 20:36:51] Tidur ~45 menit. Klaim berikutnya pada: 21:22:21
+[2026-10-23 21:22:21] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-23 21:22:22] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-23 21:22:22] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-23 21:22:22] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-23 21:22:23] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-23 21:22:24] Mengirim hasil challenge: 890209
+[2026-10-23 21:22:24] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-23 21:22:24] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-23 21:22:26] ==================================================
+[2026-10-23 21:22:26] >> KLAIM MAINET BERHASIL! <<
+[2026-10-23 21:22:26] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-23 21:22:26] Total Shares: 1,788,705.89
+[2026-10-23 21:22:26] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-23 21:22:26] Need Captcha: True
+[2026-10-23 21:22:26] ==================================================
+[2026-10-23 21:22:26] Tidur ~46 menit. Klaim berikutnya pada: 22:08:48
+[2026-10-23 22:08:48] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-23 22:08:49] ==================================================
+[2026-10-23 22:08:49] >> KLAIM MAINET BERHASIL! <<
+[2026-10-23 22:08:49] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-23 22:08:49] Total Shares: 1,807,004.47
+[2026-10-23 22:08:49] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-23 22:08:49] Need Captcha: True
+[2026-10-23 22:08:49] ==================================================
+[2026-10-23 22:08:49] Tidur ~54 menit. Klaim berikutnya pada: 23:03:23
+[2026-10-23 23:03:23] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-23 23:03:23] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-23 23:03:23] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-23 23:03:23] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-23 23:03:24] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-23 23:03:25] Mengirim hasil challenge: 120819
+[2026-10-23 23:03:26] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-23 23:03:26] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-23 23:03:27] ==================================================
+[2026-10-23 23:03:27] >> KLAIM MAINET BERHASIL! <<
+[2026-10-23 23:03:27] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-23 23:03:27] Total Shares: 1,828,560.04
+[2026-10-23 23:03:27] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-23 23:03:27] Need Captcha: True
+[2026-10-23 23:03:27] ==================================================
+[2026-10-23 23:03:27] Tidur ~56 menit. Klaim berikutnya pada: 00:00:01
+[2026-10-24 00:00:01] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-24 00:00:02] ==================================================
+[2026-10-24 00:00:02] >> KLAIM MAINET BERHASIL! <<
+[2026-10-24 00:00:02] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-24 00:00:02] Total Shares: 1,850,883.28
+[2026-10-24 00:00:02] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-24 00:00:02] Need Captcha: True
+[2026-10-24 00:00:02] ==================================================
+[2026-10-24 00:00:02] Tidur ~52 menit. Klaim berikutnya pada: 00:52:36
+[2026-10-24 00:52:36] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-24 00:52:37] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-24 00:52:37] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-24 00:52:37] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-24 00:52:37] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-24 00:52:38] Mengirim hasil challenge: 152310
+[2026-10-24 00:52:39] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-24 00:52:39] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-24 00:52:39] ==================================================
+[2026-10-24 00:52:39] >> KLAIM MAINET BERHASIL! <<
+[2026-10-24 00:52:39] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-24 00:52:39] Total Shares: 1,871,642.42
+[2026-10-24 00:52:39] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-24 00:52:39] Need Captcha: True
+[2026-10-24 00:52:39] ==================================================
+[2026-10-24 00:52:39] Tidur ~52 menit. Klaim berikutnya pada: 01:45:30
+[2026-10-24 01:45:30] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-24 01:45:31] ==================================================
+[2026-10-24 01:45:31] >> KLAIM MAINET BERHASIL! <<
+[2026-10-24 01:45:31] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-24 01:45:31] Total Shares: 1,892,499.20
+[2026-10-24 01:45:31] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-24 01:45:31] Need Captcha: True
+[2026-10-24 01:45:31] ==================================================
+[2026-10-24 01:45:31] Tidur ~52 menit. Klaim berikutnya pada: 02:37:59
+[2026-10-24 02:24:41] === mAInet Auto-Farmer Started ===
+[2026-10-24 02:24:42] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-24 02:24:42] ==================================================
+[2026-10-24 02:24:42] >> KLAIM MAINET BERHASIL! <<
+[2026-10-24 02:24:42] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-24 02:24:42] Total Shares: 1,907,956.36
+[2026-10-24 02:24:42] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-24 02:24:42] Need Captcha: True
+[2026-10-24 02:24:42] ==================================================
+[2026-10-24 02:24:42] Tidur ~47 menit. Klaim berikutnya pada: 03:12:11
+[2026-10-24 03:12:11] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-24 03:12:12] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-24 03:12:12] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-24 03:12:12] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-24 03:12:13] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-24 03:12:13] Mengirim hasil challenge: 177742
+[2026-10-24 03:12:14] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-24 03:12:14] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-24 03:12:14] ==================================================
+[2026-10-24 03:12:14] >> KLAIM MAINET BERHASIL! <<
+[2026-10-24 03:12:14] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-24 03:12:14] Total Shares: 1,926,709.96
+[2026-10-24 03:12:14] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-24 03:12:14] Need Captcha: True
+[2026-10-24 03:12:14] ==================================================
+[2026-10-24 03:12:14] Tidur ~54 menit. Klaim berikutnya pada: 04:06:47
+[2026-10-24 04:06:47] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-24 04:06:48] ==================================================
+[2026-10-24 04:06:48] >> KLAIM MAINET BERHASIL! <<
+[2026-10-24 04:06:48] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-24 04:06:48] Total Shares: 1,948,236.60
+[2026-10-24 04:06:48] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-24 04:06:48] Need Captcha: True
+[2026-10-24 04:06:48] ==================================================
+[2026-10-24 04:06:48] Tidur ~56 menit. Klaim berikutnya pada: 05:03:35
+[2026-10-24 05:03:35] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-24 05:03:36] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-24 05:03:36] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-24 05:03:36] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-24 05:03:37] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-24 05:03:37] Mengirim hasil challenge: 199788
+[2026-10-24 05:03:38] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-24 05:03:38] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-24 05:03:39] ==================================================
+[2026-10-24 05:03:39] >> KLAIM MAINET BERHASIL! <<
+[2026-10-24 05:03:39] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-24 05:03:39] Total Shares: 1,970,658.33
+[2026-10-24 05:03:39] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-24 05:03:39] Need Captcha: True
+[2026-10-24 05:03:39] ==================================================
+[2026-10-24 05:03:39] Tidur ~50 menit. Klaim berikutnya pada: 05:54:16
+[2026-10-24 05:54:16] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-24 05:54:16] ==================================================
+[2026-10-24 05:54:16] >> KLAIM MAINET BERHASIL! <<
+[2026-10-24 05:54:16] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-24 05:54:16] Total Shares: 1,990,631.12
+[2026-10-24 05:54:16] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-24 05:54:16] Need Captcha: True
+[2026-10-24 05:54:16] ==================================================
+[2026-10-24 05:54:16] Tidur ~57 menit. Klaim berikutnya pada: 06:52:05
+[2026-10-24 06:52:05] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-24 06:52:06] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-24 06:52:06] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-24 06:52:06] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-24 06:52:07] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-24 06:52:07] Mengirim hasil challenge: 120219
+[2026-10-24 06:52:07] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-24 06:52:08] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-24 06:52:08] ==================================================
+[2026-10-24 06:52:08] >> KLAIM MAINET BERHASIL! <<
+[2026-10-24 06:52:08] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-24 06:52:08] Total Shares: 2,013,460.81
+[2026-10-24 06:52:08] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-24 06:52:08] Need Captcha: True
+[2026-10-24 06:52:08] ==================================================
+[2026-10-24 06:52:08] Tidur ~59 menit. Klaim berikutnya pada: 07:51:47
+[2026-10-24 07:51:47] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-24 07:51:48] ==================================================
+[2026-10-24 07:51:48] >> KLAIM MAINET BERHASIL! <<
+[2026-10-24 07:51:48] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-24 07:51:48] Total Shares: 2,036,997.64
+[2026-10-24 07:51:48] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-24 07:51:48] Need Captcha: True
+[2026-10-24 07:51:48] ==================================================
+[2026-10-24 07:51:48] Tidur ~57 menit. Klaim berikutnya pada: 08:49:40
+[2026-10-24 08:49:40] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-24 08:49:41] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-24 08:49:41] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-24 08:49:41] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-24 08:49:42] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-24 08:49:42] Mengirim hasil challenge: 720333
+[2026-10-24 08:49:42] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-24 08:49:42] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-24 08:49:43] ==================================================
+[2026-10-24 08:49:43] >> KLAIM MAINET BERHASIL! <<
+[2026-10-24 08:49:43] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-24 08:49:43] Total Shares: 2,059,843.92
+[2026-10-24 08:49:43] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-24 08:49:43] Need Captcha: True
+[2026-10-24 08:49:43] ==================================================
+[2026-10-24 08:49:43] Tidur ~46 menit. Klaim berikutnya pada: 09:36:35
+[2026-10-24 09:36:35] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-24 09:36:36] ==================================================
+[2026-10-24 09:36:36] >> KLAIM MAINET BERHASIL! <<
+[2026-10-24 09:36:36] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-24 09:36:36] Total Shares: 2,078,338.14
+[2026-10-24 09:36:36] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-24 09:36:36] Need Captcha: True
+[2026-10-24 09:36:36] ==================================================
+[2026-10-24 09:36:36] Tidur ~52 menit. Klaim berikutnya pada: 10:29:13
+[2026-10-24 10:29:13] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-24 10:29:13] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-24 10:29:13] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-24 10:29:13] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-24 10:29:14] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-24 10:29:14] Mengirim hasil challenge: 309202
+[2026-10-24 10:29:15] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-24 10:29:15] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-24 10:29:15] ==================================================
+[2026-10-24 10:29:15] >> KLAIM MAINET BERHASIL! <<
+[2026-10-24 10:29:15] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-24 10:29:15] Total Shares: 2,099,113.48
+[2026-10-24 10:29:15] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-24 10:29:15] Need Captcha: True
+[2026-10-24 10:29:15] ==================================================
+[2026-10-24 10:29:15] Tidur ~59 menit. Klaim berikutnya pada: 11:28:36
+[2026-10-24 11:28:36] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-24 11:28:43] ==================================================
+[2026-10-24 11:28:43] >> KLAIM MAINET BERHASIL! <<
+[2026-10-24 11:28:43] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-24 11:28:43] Total Shares: 2,122,568.12
+[2026-10-24 11:28:43] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-24 11:28:43] Need Captcha: True
+[2026-10-24 11:28:43] ==================================================
+[2026-10-24 11:28:43] Tidur ~58 menit. Klaim berikutnya pada: 12:26:57
+[2026-10-24 12:26:57] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-24 12:26:58] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-24 12:26:58] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-24 12:26:58] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-24 12:26:59] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-24 12:26:59] Mengirim hasil challenge: 237533
+[2026-10-24 12:27:00] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-24 12:27:00] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-24 12:27:00] ==================================================
+[2026-10-24 12:27:00] >> KLAIM MAINET BERHASIL! <<
+[2026-10-24 12:27:00] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-24 12:27:00] Total Shares: 2,145,567.30
+[2026-10-24 12:27:00] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-24 12:27:00] Need Captcha: True
+[2026-10-24 12:27:00] ==================================================
+[2026-10-24 12:27:00] Tidur ~54 menit. Klaim berikutnya pada: 13:21:43
+[2026-10-24 13:21:43] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-24 13:21:44] ==================================================
+[2026-10-24 13:21:44] >> KLAIM MAINET BERHASIL! <<
+[2026-10-24 13:21:44] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-24 13:21:44] Total Shares: 2,167,159.54
+[2026-10-24 13:21:44] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-24 13:21:44] Need Captcha: True
+[2026-10-24 13:21:44] ==================================================
+[2026-10-24 13:21:44] Tidur ~59 menit. Klaim berikutnya pada: 14:21:22
+[2026-10-24 14:21:22] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-24 14:21:23] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-24 14:21:23] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-24 14:21:23] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-24 14:21:24] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-24 14:21:24] Mengirim hasil challenge: 603142
+[2026-10-24 14:21:25] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-24 14:21:25] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-24 14:21:26] ==================================================
+[2026-10-24 14:21:26] >> KLAIM MAINET BERHASIL! <<
+[2026-10-24 14:21:26] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-24 14:21:26] Total Shares: 2,190,707.13
+[2026-10-24 14:21:26] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-24 14:21:26] Need Captcha: True
+[2026-10-24 14:21:26] ==================================================
+[2026-10-24 14:21:26] Tidur ~52 menit. Klaim berikutnya pada: 15:13:56
+[2026-10-24 15:13:56] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-24 15:13:57] ==================================================
+[2026-10-24 15:13:57] >> KLAIM MAINET BERHASIL! <<
+[2026-10-24 15:13:57] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-24 15:13:57] Total Shares: 2,211,425.33
+[2026-10-24 15:13:57] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-24 15:13:57] Need Captcha: True
+[2026-10-24 15:13:57] ==================================================
+[2026-10-24 15:13:57] Tidur ~49 menit. Klaim berikutnya pada: 16:03:55
+[2026-10-24 16:03:55] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-24 16:04:01] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-24 16:04:01] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-24 16:04:01] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-24 16:04:01] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-24 16:04:02] Mengirim hasil challenge: 21688
+[2026-10-24 16:04:02] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-24 16:04:02] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-24 16:04:03] ==================================================
+[2026-10-24 16:04:03] >> KLAIM MAINET BERHASIL! <<
+[2026-10-24 16:04:03] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-24 16:04:03] Total Shares: 2,231,192.99
+[2026-10-24 16:04:03] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-24 16:04:03] Need Captcha: True
+[2026-10-24 16:04:03] ==================================================
+[2026-10-24 16:04:03] Tidur ~47 menit. Klaim berikutnya pada: 16:51:28
+[2026-10-24 16:51:28] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-24 16:51:29] ==================================================
+[2026-10-24 16:51:29] >> KLAIM MAINET BERHASIL! <<
+[2026-10-24 16:51:29] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-24 16:51:29] Total Shares: 2,249,904.21
+[2026-10-24 16:51:29] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-24 16:51:29] Need Captcha: True
+[2026-10-24 16:51:29] ==================================================
+[2026-10-24 16:51:29] Tidur ~57 menit. Klaim berikutnya pada: 17:49:02
+[2026-10-24 17:49:02] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-24 17:49:03] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-24 17:49:03] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-24 17:49:03] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-24 17:49:03] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-24 17:49:04] Mengirim hasil challenge: 340508
+[2026-10-24 17:49:05] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-24 17:49:05] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-24 17:49:05] ==================================================
+[2026-10-24 17:49:05] >> KLAIM MAINET BERHASIL! <<
+[2026-10-24 17:49:05] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-24 17:49:05] Total Shares: 2,272,629.72
+[2026-10-24 17:49:05] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-24 17:49:05] Need Captcha: True
+[2026-10-24 17:49:05] ==================================================
+[2026-10-24 17:49:05] Tidur ~48 menit. Klaim berikutnya pada: 18:37:36
+[2026-10-24 18:37:36] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-24 18:37:42] ==================================================
+[2026-10-24 18:37:42] >> KLAIM MAINET BERHASIL! <<
+[2026-10-24 18:37:42] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-24 18:37:42] Total Shares: 2,291,809.07
+[2026-10-24 18:37:42] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-24 18:37:42] Need Captcha: True
+[2026-10-24 18:37:42] ==================================================
+[2026-10-24 18:37:42] Tidur ~56 menit. Klaim berikutnya pada: 19:34:02
+[2026-10-24 19:34:02] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-24 19:34:03] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-24 19:34:03] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-24 19:34:03] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-24 19:34:04] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-24 19:34:04] Mengirim hasil challenge: 317196
+[2026-10-24 19:34:05] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-24 19:34:05] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-24 19:34:06] ==================================================
+[2026-10-24 19:34:06] >> KLAIM MAINET BERHASIL! <<
+[2026-10-24 19:34:06] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-24 19:34:06] Total Shares: 2,314,056.99
+[2026-10-24 19:34:06] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-24 19:34:06] Need Captcha: True
+[2026-10-24 19:34:06] ==================================================
+[2026-10-24 19:34:06] Tidur ~52 menit. Klaim berikutnya pada: 20:26:23
+[2026-10-24 20:26:23] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-24 20:26:24] ==================================================
+[2026-10-24 20:26:24] >> KLAIM MAINET BERHASIL! <<
+[2026-10-24 20:26:24] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-24 20:26:24] Total Shares: 2,334,688.62
+[2026-10-24 20:26:24] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-24 20:26:24] Need Captcha: True
+[2026-10-24 20:26:24] ==================================================
+[2026-10-24 20:26:24] Tidur ~45 menit. Klaim berikutnya pada: 21:11:56
+[2026-10-24 21:11:56] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-24 21:11:57] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-24 21:11:57] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-24 21:11:57] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-24 21:11:59] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-24 21:11:59] Mengirim hasil challenge: 149974
+[2026-10-24 21:12:09] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-24 21:12:09] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-24 21:12:11] ==================================================
+[2026-10-24 21:12:11] >> KLAIM MAINET BERHASIL! <<
+[2026-10-24 21:12:11] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-24 21:12:11] Total Shares: 2,352,748.84
+[2026-10-24 21:12:11] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-24 21:12:11] Need Captcha: True
+[2026-10-24 21:12:11] ==================================================
+[2026-10-24 21:12:11] Tidur ~54 menit. Klaim berikutnya pada: 22:06:49
+[2026-10-24 22:06:49] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-24 22:06:50] ==================================================
+[2026-10-24 22:06:50] >> KLAIM MAINET BERHASIL! <<
+[2026-10-24 22:06:50] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-24 22:06:50] Total Shares: 2,374,308.41
+[2026-10-24 22:06:50] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-24 22:06:50] Need Captcha: True
+[2026-10-24 22:06:50] ==================================================
+[2026-10-24 22:06:50] Tidur ~50 menit. Klaim berikutnya pada: 22:57:36
+[2026-10-24 22:57:36] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-24 22:57:36] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-24 22:57:36] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-24 22:57:36] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-24 22:57:38] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-24 22:57:38] Mengirim hasil challenge: 129861
+[2026-10-24 22:57:39] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-24 22:57:39] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-24 22:57:41] ==================================================
+[2026-10-24 22:57:41] >> KLAIM MAINET BERHASIL! <<
+[2026-10-24 22:57:41] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-24 22:57:41] Total Shares: 2,394,368.84
+[2026-10-24 22:57:41] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-24 22:57:41] Need Captcha: True
+[2026-10-24 22:57:41] ==================================================
+[2026-10-24 22:57:41] Tidur ~54 menit. Klaim berikutnya pada: 23:52:11
+[2026-10-24 23:52:11] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-24 23:52:12] ==================================================
+[2026-10-24 23:52:12] >> KLAIM MAINET BERHASIL! <<
+[2026-10-24 23:52:12] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-24 23:52:12] Total Shares: 2,415,876.74
+[2026-10-24 23:52:12] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-24 23:52:12] Need Captcha: True
+[2026-10-24 23:52:12] ==================================================
+[2026-10-24 23:52:12] Tidur ~53 menit. Klaim berikutnya pada: 00:45:22
+[2026-10-25 00:45:22] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-25 00:45:23] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-25 00:45:23] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-25 00:45:23] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-25 00:45:23] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-25 00:45:24] Mengirim hasil challenge: 90252
+[2026-10-25 00:45:25] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-25 00:45:25] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-25 00:45:25] ==================================================
+[2026-10-25 00:45:25] >> KLAIM MAINET BERHASIL! <<
+[2026-10-25 00:45:25] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-25 00:45:25] Total Shares: 2,436,874.53
+[2026-10-25 00:45:25] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-25 00:45:25] Need Captcha: True
+[2026-10-25 00:45:25] ==================================================
+[2026-10-25 00:45:25] Tidur ~54 menit. Klaim berikutnya pada: 01:40:01
+[2026-10-25 01:40:01] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-25 01:40:02] ==================================================
+[2026-10-25 01:40:02] >> KLAIM MAINET BERHASIL! <<
+[2026-10-25 01:40:02] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-25 01:40:02] Total Shares: 2,458,419.19
+[2026-10-25 01:40:02] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-25 01:40:02] Need Captcha: True
+[2026-10-25 01:40:02] ==================================================
+[2026-10-25 01:40:02] Tidur ~52 menit. Klaim berikutnya pada: 02:32:27
+[2026-10-25 02:32:27] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-25 02:32:28] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-25 02:32:28] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-25 02:32:28] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-25 02:32:28] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-25 02:32:28] Mengirim hasil challenge: 262932
+[2026-10-25 02:32:29] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-25 02:32:29] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-25 02:32:29] ==================================================
+[2026-10-25 02:32:29] >> KLAIM MAINET BERHASIL! <<
+[2026-10-25 02:32:29] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-25 02:32:29] Total Shares: 2,479,113.28
+[2026-10-25 02:32:29] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-25 02:32:29] Need Captcha: True
+[2026-10-25 02:32:29] ==================================================
+[2026-10-25 02:32:29] Tidur ~50 menit. Klaim berikutnya pada: 03:22:59
+[2026-10-25 03:22:59] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-25 03:23:00] ==================================================
+[2026-10-25 03:23:00] >> KLAIM MAINET BERHASIL! <<
+[2026-10-25 03:23:00] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-25 03:23:00] Total Shares: 2,499,040.33
+[2026-10-25 03:23:00] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-25 03:23:00] Need Captcha: True
+[2026-10-25 03:23:00] ==================================================
+[2026-10-25 03:23:00] Tidur ~47 menit. Klaim berikutnya pada: 04:10:10
+[2026-10-25 04:10:10] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-25 04:10:11] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-25 04:10:11] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-25 04:10:11] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-25 04:10:11] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-25 04:10:11] Mengirim hasil challenge: 215670
+[2026-10-25 04:10:12] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-25 04:10:12] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-25 04:10:13] ==================================================
+[2026-10-25 04:10:13] >> KLAIM MAINET BERHASIL! <<
+[2026-10-25 04:10:13] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-25 04:10:13] Total Shares: 2,517,666.59
+[2026-10-25 04:10:13] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-25 04:10:13] Need Captcha: True
+[2026-10-25 04:10:13] ==================================================
+[2026-10-25 04:10:13] Tidur ~56 menit. Klaim berikutnya pada: 05:06:27
+[2026-10-25 05:06:27] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-25 05:06:33] ==================================================
+[2026-10-25 05:06:33] >> KLAIM MAINET BERHASIL! <<
+[2026-10-25 05:06:33] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-25 05:06:33] Total Shares: 2,539,888.23
+[2026-10-25 05:06:33] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-25 05:06:33] Need Captcha: True
+[2026-10-25 05:06:33] ==================================================
+[2026-10-25 05:06:33] Tidur ~57 menit. Klaim berikutnya pada: 06:04:21
+[2026-10-25 06:04:21] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-25 06:04:21] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-25 06:04:21] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-25 06:04:21] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-25 06:04:22] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-25 06:04:22] Mengirim hasil challenge: 328130
+[2026-10-25 06:04:23] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-25 06:04:23] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-25 06:04:23] ==================================================
+[2026-10-25 06:04:23] >> KLAIM MAINET BERHASIL! <<
+[2026-10-25 06:04:23] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-25 06:04:23] Total Shares: 2,562,708.61
+[2026-10-25 06:04:23] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-25 06:04:23] Need Captcha: True
+[2026-10-25 06:04:23] ==================================================
+[2026-10-25 06:04:23] Tidur ~58 menit. Klaim berikutnya pada: 07:02:33
+[2026-10-25 07:02:33] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-25 07:02:34] ==================================================
+[2026-10-25 07:02:34] >> KLAIM MAINET BERHASIL! <<
+[2026-10-25 07:02:34] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-25 07:02:34] Total Shares: 2,585,662.05
+[2026-10-25 07:02:34] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-25 07:02:34] Need Captcha: True
+[2026-10-25 07:02:34] ==================================================
+[2026-10-25 07:02:34] Tidur ~46 menit. Klaim berikutnya pada: 07:49:02
+[2026-10-25 07:49:02] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-25 07:49:03] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-25 07:49:03] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-25 07:49:03] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-25 07:49:04] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-25 07:49:05] Mengirim hasil challenge: 606814
+[2026-10-25 07:49:05] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-25 07:49:05] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-25 07:49:06] ==================================================
+[2026-10-25 07:49:06] >> KLAIM MAINET BERHASIL! <<
+[2026-10-25 07:49:06] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-25 07:49:06] Total Shares: 2,604,015.16
+[2026-10-25 07:49:06] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-25 07:49:06] Need Captcha: True
+[2026-10-25 07:49:06] ==================================================
+[2026-10-25 07:49:06] Tidur ~56 menit. Klaim berikutnya pada: 08:45:44
+[2026-10-25 08:45:44] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-25 08:45:44] ==================================================
+[2026-10-25 08:45:44] >> KLAIM MAINET BERHASIL! <<
+[2026-10-25 08:45:44] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-25 08:45:44] Total Shares: 2,626,362.04
+[2026-10-25 08:45:44] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-25 08:45:44] Need Captcha: True
+[2026-10-25 08:45:44] ==================================================
+[2026-10-25 08:45:44] Tidur ~54 menit. Klaim berikutnya pada: 09:40:26
+[2026-10-25 09:40:26] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-25 09:40:27] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-25 09:40:27] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-25 09:40:27] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-25 09:40:28] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-25 09:40:28] Mengirim hasil challenge: 222180
+[2026-10-25 09:40:29] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-25 09:40:29] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-25 09:40:30] ==================================================
+[2026-10-25 09:40:30] >> KLAIM MAINET BERHASIL! <<
+[2026-10-25 09:40:30] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-25 09:40:30] Total Shares: 2,647,962.81
+[2026-10-25 09:40:30] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-25 09:40:30] Need Captcha: True
+[2026-10-25 09:40:30] ==================================================
+[2026-10-25 09:40:30] Tidur ~51 menit. Klaim berikutnya pada: 10:32:29
+[2026-10-25 10:32:29] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-25 10:32:29] ==================================================
+[2026-10-25 10:32:29] >> KLAIM MAINET BERHASIL! <<
+[2026-10-25 10:32:29] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-25 10:32:29] Total Shares: 2,668,475.13
+[2026-10-25 10:32:29] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-25 10:32:29] Need Captcha: True
+[2026-10-25 10:32:29] ==================================================
+[2026-10-25 10:32:29] Tidur ~51 menit. Klaim berikutnya pada: 11:23:56
+[2026-10-25 11:23:56] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-25 11:23:57] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-25 11:23:57] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-25 11:23:57] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-25 11:23:58] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-25 11:23:59] Mengirim hasil challenge: 490618
+[2026-10-25 11:24:00] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-25 11:24:00] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-25 11:24:00] ==================================================
+[2026-10-25 11:24:00] >> KLAIM MAINET BERHASIL! <<
+[2026-10-25 11:24:00] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-25 11:24:00] Total Shares: 2,688,797.18
+[2026-10-25 11:24:00] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-25 11:24:00] Need Captcha: True
+[2026-10-25 11:24:00] ==================================================
+[2026-10-25 11:24:00] Tidur ~51 menit. Klaim berikutnya pada: 12:15:28
+[2026-10-25 12:15:28] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-25 12:15:29] ==================================================
+[2026-10-25 12:15:29] >> KLAIM MAINET BERHASIL! <<
+[2026-10-25 12:15:29] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-25 12:15:29] Total Shares: 2,709,106.04
+[2026-10-25 12:15:29] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-25 12:15:29] Need Captcha: True
+[2026-10-25 12:15:29] ==================================================
+[2026-10-25 12:15:29] Tidur ~58 menit. Klaim berikutnya pada: 13:14:10
+[2026-10-25 13:14:10] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-25 13:14:16] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-25 13:14:16] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-25 13:14:16] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-25 13:14:17] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-25 13:14:17] Mengirim hasil challenge: 441095
+[2026-10-25 13:14:18] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-25 13:14:18] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-25 13:14:19] ==================================================
+[2026-10-25 13:14:19] >> KLAIM MAINET BERHASIL! <<
+[2026-10-25 13:14:19] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-25 13:14:19] Total Shares: 2,732,313.91
+[2026-10-25 13:14:19] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-25 13:14:19] Need Captcha: True
+[2026-10-25 13:14:19] ==================================================
+[2026-10-25 13:14:19] Tidur ~48 menit. Klaim berikutnya pada: 14:02:52
+[2026-10-25 14:02:52] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-25 14:02:57] ==================================================
+[2026-10-25 14:02:57] >> KLAIM MAINET BERHASIL! <<
+[2026-10-25 14:02:57] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-25 14:02:57] Total Shares: 2,751,505.74
+[2026-10-25 14:02:57] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-25 14:02:57] Need Captcha: True
+[2026-10-25 14:02:57] ==================================================
+[2026-10-25 14:02:57] Tidur ~54 menit. Klaim berikutnya pada: 14:57:09
+[2026-10-25 14:36:32] === mAInet Auto-Farmer Started ===
+[2026-10-25 14:36:32] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-25 14:36:33] ==================================================
+[2026-10-25 14:36:33] >> KLAIM MAINET BERHASIL! <<
+[2026-10-25 14:36:33] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-25 14:36:33] Total Shares: 2,764,755.32
+[2026-10-25 14:36:33] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-25 14:36:33] Need Captcha: True
+[2026-10-25 14:36:33] ==================================================
+[2026-10-25 14:36:33] Tidur ~53 menit. Klaim berikutnya pada: 15:30:16
+[2026-10-25 15:30:16] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-25 15:30:17] ==================================================
+[2026-10-25 15:30:17] >> KLAIM MAINET BERHASIL! <<
+[2026-10-25 15:30:17] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-25 15:30:17] Total Shares: 2,785,955.89
+[2026-10-25 15:30:17] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-25 15:30:17] Need Captcha: True
+[2026-10-25 15:30:17] ==================================================
+[2026-10-25 15:30:17] Tidur ~47 menit. Klaim berikutnya pada: 16:17:34
+[2026-10-25 16:17:34] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-25 16:17:35] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-25 16:17:35] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-25 16:17:35] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-25 16:17:36] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-25 16:17:36] Mengirim hasil challenge: 730673
+[2026-10-25 16:17:36] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-25 16:17:36] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-25 16:17:37] ==================================================
+[2026-10-25 16:17:37] >> KLAIM MAINET BERHASIL! <<
+[2026-10-25 16:17:37] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-25 16:17:37] Total Shares: 2,804,629.79
+[2026-10-25 16:17:37] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-25 16:17:37] Need Captcha: True
+[2026-10-25 16:17:37] ==================================================
+[2026-10-25 16:17:37] Tidur ~59 menit. Klaim berikutnya pada: 17:17:06
+[2026-10-25 17:17:06] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-25 17:17:12] ==================================================
+[2026-10-25 17:17:12] >> KLAIM MAINET BERHASIL! <<
+[2026-10-25 17:17:12] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-25 17:17:12] Total Shares: 2,828,134.59
+[2026-10-25 17:17:12] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-25 17:17:12] Need Captcha: True
+[2026-10-25 17:17:12] ==================================================
+[2026-10-25 17:17:12] Tidur ~53 menit. Klaim berikutnya pada: 18:11:10
+[2026-10-25 18:11:10] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-25 18:11:11] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-25 18:11:11] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-25 18:11:11] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-25 18:11:12] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-25 18:11:12] Mengirim hasil challenge: 196415
+[2026-10-25 18:11:12] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-25 18:11:12] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-25 18:11:13] ==================================================
+[2026-10-25 18:11:13] >> KLAIM MAINET BERHASIL! <<
+[2026-10-25 18:11:13] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-25 18:11:13] Total Shares: 2,849,445.22
+[2026-10-25 18:11:13] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-25 18:11:13] Need Captcha: True
+[2026-10-25 18:11:13] ==================================================
+[2026-10-25 18:11:13] Tidur ~55 menit. Klaim berikutnya pada: 19:06:51
+[2026-10-25 19:06:51] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-25 19:06:52] ==================================================
+[2026-10-25 19:06:52] >> KLAIM MAINET BERHASIL! <<
+[2026-10-25 19:06:52] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-25 19:06:52] Total Shares: 2,871,397.43
+[2026-10-25 19:06:52] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-25 19:06:52] Need Captcha: True
+[2026-10-25 19:06:52] ==================================================
+[2026-10-25 19:06:52] Tidur ~60 menit. Klaim berikutnya pada: 20:07:02
+[2026-10-25 20:07:02] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-25 20:07:03] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-25 20:07:03] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-25 20:07:03] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-25 20:07:05] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-25 20:07:05] Mengirim hasil challenge: 90758
+[2026-10-25 20:07:08] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-25 20:07:08] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-25 20:07:09] ==================================================
+[2026-10-25 20:07:09] >> KLAIM MAINET BERHASIL! <<
+[2026-10-25 20:07:09] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-25 20:07:09] Total Shares: 2,895,180.43
+[2026-10-25 20:07:09] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-25 20:07:09] Need Captcha: True
+[2026-10-25 20:07:09] ==================================================
+[2026-10-25 20:07:09] Tidur ~47 menit. Klaim berikutnya pada: 20:54:25
+[2026-10-25 20:54:25] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-25 20:54:26] ==================================================
+[2026-10-25 20:54:26] >> KLAIM MAINET BERHASIL! <<
+[2026-10-25 20:54:26] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-25 20:54:26] Total Shares: 2,913,832.74
+[2026-10-25 20:54:26] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-25 20:54:26] Need Captcha: True
+[2026-10-25 20:54:26] ==================================================
+[2026-10-25 20:54:26] Tidur ~53 menit. Klaim berikutnya pada: 21:48:17
+[2026-10-25 21:48:17] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-25 21:48:18] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-25 21:48:18] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-25 21:48:18] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-25 21:48:19] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-25 21:48:19] Mengirim hasil challenge: 909830
+[2026-10-25 21:48:35] >> Exception saat auto-login mAInet: HTTPSConnectionPool(host='api.mainet.io', port=443): Read timed out. (read timeout=15) <<
+[2026-10-25 21:48:35] Tidur ~53 menit. Klaim berikutnya pada: 22:42:09
+[2026-10-25 22:42:09] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-25 22:42:11] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-25 22:42:11] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-25 22:42:11] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-25 22:42:13] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-25 22:42:13] Mengirim hasil challenge: 216804
+[2026-10-25 22:42:14] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-25 22:42:14] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-25 22:42:15] ==================================================
+[2026-10-25 22:42:15] >> KLAIM MAINET BERHASIL! <<
+[2026-10-25 22:42:15] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-25 22:42:15] Total Shares: 2,956,368.91
+[2026-10-25 22:42:15] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-25 22:42:15] Need Captcha: True
+[2026-10-25 22:42:15] ==================================================
+[2026-10-25 22:42:15] Tidur ~58 menit. Klaim berikutnya pada: 23:40:59
+[2026-10-25 23:40:59] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-25 23:41:00] ==================================================
+[2026-10-25 23:41:00] >> KLAIM MAINET BERHASIL! <<
+[2026-10-25 23:41:00] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-25 23:41:00] Total Shares: 2,979,542.84
+[2026-10-25 23:41:00] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-25 23:41:00] Need Captcha: True
+[2026-10-25 23:41:00] ==================================================
+[2026-10-25 23:41:00] Tidur ~45 menit. Klaim berikutnya pada: 00:26:22
+[2026-10-26 00:26:22] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-26 00:26:22] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-26 00:26:22] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-26 00:26:22] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-26 00:26:23] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-26 00:26:23] Mengirim hasil challenge: 39530
+[2026-10-26 00:26:24] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-26 00:26:24] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-26 00:26:25] ==================================================
+[2026-10-26 00:26:25] >> KLAIM MAINET BERHASIL! <<
+[2026-10-26 00:26:25] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-26 00:26:25] Total Shares: 2,997,460.46
+[2026-10-26 00:26:25] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-26 00:26:25] Need Captcha: True
+[2026-10-26 00:26:25] ==================================================
+[2026-10-26 00:26:25] Tidur ~58 menit. Klaim berikutnya pada: 01:25:07
+[2026-10-26 01:25:07] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-26 01:25:12] ==================================================
+[2026-10-26 01:25:12] >> KLAIM MAINET BERHASIL! <<
+[2026-10-26 01:25:12] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-26 01:25:12] Total Shares: 3,020,655.53
+[2026-10-26 01:25:12] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-26 01:25:12] Need Captcha: True
+[2026-10-26 01:25:12] ==================================================
+[2026-10-26 01:25:12] Tidur ~50 menit. Klaim berikutnya pada: 02:15:50
+[2026-10-26 02:15:50] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-26 02:15:51] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-26 02:15:51] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-26 02:15:51] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-26 02:15:52] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-26 02:15:52] Mengirim hasil challenge: 772663
+[2026-10-26 02:15:53] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-26 02:15:53] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-26 02:15:53] ==================================================
+[2026-10-26 02:15:53] >> KLAIM MAINET BERHASIL! <<
+[2026-10-26 02:15:53] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-26 02:15:53] Total Shares: 3,040,648.22
+[2026-10-26 02:15:53] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-26 02:15:53] Need Captcha: True
+[2026-10-26 02:15:53] ==================================================
+[2026-10-26 02:15:53] Tidur ~49 menit. Klaim berikutnya pada: 03:05:14
+[2026-10-26 03:05:14] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-26 03:05:20] ==================================================
+[2026-10-26 03:05:20] >> KLAIM MAINET BERHASIL! <<
+[2026-10-26 03:05:20] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-26 03:05:20] Total Shares: 3,060,155.16
+[2026-10-26 03:05:20] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-26 03:05:20] Need Captcha: True
+[2026-10-26 03:05:20] ==================================================
+[2026-10-26 03:05:20] Tidur ~56 menit. Klaim berikutnya pada: 04:01:56
+[2026-10-26 04:01:56] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-26 04:01:57] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-26 04:01:57] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-26 04:01:57] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-26 04:01:57] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-26 04:01:57] Mengirim hasil challenge: 403347
+[2026-10-26 04:01:58] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-26 04:01:58] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-26 04:01:58] ==================================================
+[2026-10-26 04:01:58] >> KLAIM MAINET BERHASIL! <<
+[2026-10-26 04:01:58] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-26 04:01:58] Total Shares: 3,082,500.97
+[2026-10-26 04:01:58] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-26 04:01:58] Need Captcha: True
+[2026-10-26 04:01:58] ==================================================
+[2026-10-26 04:01:58] Tidur ~51 menit. Klaim berikutnya pada: 04:53:12
+[2026-10-26 04:37:58] === mAInet Auto-Farmer Started ===
+[2026-10-26 04:37:58] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-26 04:37:59] ==================================================
+[2026-10-26 04:37:59] >> KLAIM MAINET BERHASIL! <<
+[2026-10-26 04:37:59] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-26 04:37:59] Total Shares: 3,096,705.91
+[2026-10-26 04:37:59] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-26 04:37:59] Need Captcha: True
+[2026-10-26 04:37:59] ==================================================
+[2026-10-26 04:37:59] Tidur ~54 menit. Klaim berikutnya pada: 05:32:10
+[2026-10-26 05:32:10] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-26 05:32:16] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-26 05:32:16] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-26 05:32:16] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-26 05:32:17] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-26 05:32:17] Mengirim hasil challenge: 39208
+[2026-10-26 05:32:18] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-26 05:32:18] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-26 05:32:18] ==================================================
+[2026-10-26 05:32:18] >> KLAIM MAINET BERHASIL! <<
+[2026-10-26 05:32:18] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-26 05:32:18] Total Shares: 3,118,136.93
+[2026-10-26 05:32:18] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-26 05:32:18] Need Captcha: True
+[2026-10-26 05:32:18] ==================================================
+[2026-10-26 05:32:18] Tidur ~52 menit. Klaim berikutnya pada: 06:24:40
+[2026-10-26 09:04:17] === mAInet Auto-Farmer Started ===
+[2026-10-26 09:04:17] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-26 09:04:24] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-26 09:04:24] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-26 09:04:24] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-26 09:04:30] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-26 09:04:31] Mengirim hasil challenge: 10083
+[2026-10-26 09:04:32] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-26 09:04:32] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-26 09:04:33] ==================================================
+[2026-10-26 09:04:33] >> KLAIM MAINET BERHASIL! <<
+[2026-10-26 09:04:33] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-26 09:04:33] Total Shares: 3,201,866.43
+[2026-10-26 09:04:33] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-26 09:04:33] Need Captcha: True
+[2026-10-26 09:04:33] ==================================================
+[2026-10-26 09:04:33] Tidur ~48 menit. Klaim berikutnya pada: 09:53:13
+[2026-10-26 09:53:18] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-26 09:53:23] ==================================================
+[2026-10-26 09:53:23] >> KLAIM MAINET BERHASIL! <<
+[2026-10-26 09:53:23] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-26 09:53:23] Total Shares: 3,221,136.03
+[2026-10-26 09:53:23] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-26 09:53:23] Need Captcha: True
+[2026-10-26 09:53:23] ==================================================
+[2026-10-26 09:53:23] Tidur ~51 menit. Klaim berikutnya pada: 10:44:36
+[2026-10-26 10:44:36] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-26 10:44:37] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-26 10:44:37] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-26 10:44:37] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-26 10:44:38] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-26 10:44:38] Mengirim hasil challenge: 95004
+[2026-10-26 10:44:39] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-26 10:44:39] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-26 10:44:41] ==================================================
+[2026-10-26 10:44:41] >> KLAIM MAINET BERHASIL! <<
+[2026-10-26 10:44:41] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-26 10:44:41] Total Shares: 3,241,368.22
+[2026-10-26 10:44:41] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-26 10:44:41] Need Captcha: True
+[2026-10-26 10:44:41] ==================================================
+[2026-10-26 10:44:41] Tidur ~57 menit. Klaim berikutnya pada: 11:42:35
+[2026-10-26 14:14:10] === mAInet Auto-Farmer Started ===
+[2026-10-26 14:14:10] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-26 14:14:11] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-26 14:14:11] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-26 14:14:11] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-26 14:14:12] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-26 14:14:12] Mengirim hasil challenge: 83087
+[2026-10-26 14:14:13] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-26 14:14:13] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-26 14:14:14] ==================================================
+[2026-10-26 14:14:14] >> KLAIM MAINET BERHASIL! <<
+[2026-10-26 14:14:14] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-26 14:14:14] Total Shares: 3,324,039.02
+[2026-10-26 14:14:14] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-26 14:14:14] Need Captcha: True
+[2026-10-26 14:14:14] ==================================================
+[2026-10-26 14:14:14] Tidur ~56 menit. Klaim berikutnya pada: 15:10:35
+[2026-10-26 15:10:35] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-26 15:10:36] ==================================================
+[2026-10-26 15:10:36] >> KLAIM MAINET BERHASIL! <<
+[2026-10-26 15:10:36] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-26 15:10:36] Total Shares: 3,346,273.23
+[2026-10-26 15:10:36] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-26 15:10:36] Need Captcha: True
+[2026-10-26 15:10:36] ==================================================
+[2026-10-26 15:10:36] Tidur ~52 menit. Klaim berikutnya pada: 16:03:21
+[2026-10-26 16:03:21] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-26 16:03:22] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-26 16:03:22] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-26 16:03:22] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-26 16:03:22] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-26 16:03:22] Mengirim hasil challenge: 102796
+[2026-10-26 16:03:23] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-26 16:03:23] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-26 16:03:24] ==================================================
+[2026-10-26 16:03:24] >> KLAIM MAINET BERHASIL! <<
+[2026-10-26 16:03:24] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-26 16:03:24] Total Shares: 3,367,107.38
+[2026-10-26 16:03:24] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-26 16:03:24] Need Captcha: True
+[2026-10-26 16:03:24] ==================================================
+[2026-10-26 16:03:24] Tidur ~53 menit. Klaim berikutnya pada: 16:56:44
+[2026-10-26 16:56:44] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-26 16:56:46] ==================================================
+[2026-10-26 16:56:46] >> KLAIM MAINET BERHASIL! <<
+[2026-10-26 16:56:46] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-26 16:56:46] Total Shares: 3,388,156.74
+[2026-10-26 16:56:46] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-26 16:56:46] Need Captcha: True
+[2026-10-26 16:56:46] ==================================================
+[2026-10-26 16:56:46] Tidur ~54 menit. Klaim berikutnya pada: 17:51:09
+[2026-10-26 17:51:09] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-26 17:51:09] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-26 17:51:09] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-26 17:51:09] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-26 17:51:10] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-26 17:51:10] Mengirim hasil challenge: 611270
+[2026-10-26 17:51:11] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-26 17:51:11] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-26 17:51:12] ==================================================
+[2026-10-26 17:51:12] >> KLAIM MAINET BERHASIL! <<
+[2026-10-26 17:51:12] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-26 17:51:12] Total Shares: 3,409,634.01
+[2026-10-26 17:51:12] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-26 17:51:12] Need Captcha: True
+[2026-10-26 17:51:12] ==================================================
+[2026-10-26 17:51:12] Tidur ~50 menit. Klaim berikutnya pada: 18:41:59
+[2026-10-26 18:41:59] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-26 18:42:00] ==================================================
+[2026-10-26 18:42:00] >> KLAIM MAINET BERHASIL! <<
+[2026-10-26 18:42:00] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-26 18:42:00] Total Shares: 3,429,673.83
+[2026-10-26 18:42:00] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-26 18:42:00] Need Captcha: True
+[2026-10-26 18:42:00] ==================================================
+[2026-10-26 18:42:00] Tidur ~58 menit. Klaim berikutnya pada: 19:40:15
+[2026-10-26 19:40:15] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-26 19:40:17] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-26 19:40:17] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-26 19:40:17] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-26 19:40:18] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-26 19:40:18] Mengirim hasil challenge: 885062
+[2026-10-26 19:40:19] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-26 19:40:19] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-26 19:40:19] ==================================================
+[2026-10-26 19:40:19] >> KLAIM MAINET BERHASIL! <<
+[2026-10-26 19:40:19] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-26 19:40:19] Total Shares: 3,452,681.54
+[2026-10-26 19:40:19] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-26 19:40:19] Need Captcha: True
+[2026-10-26 19:40:19] ==================================================
+[2026-10-26 19:40:19] Tidur ~54 menit. Klaim berikutnya pada: 20:34:52
+[2026-10-26 20:34:52] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-26 20:34:53] ==================================================
+[2026-10-26 20:34:53] >> KLAIM MAINET BERHASIL! <<
+[2026-10-26 20:34:53] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-26 20:34:53] Total Shares: 3,474,206.35
+[2026-10-26 20:34:53] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-26 20:34:53] Need Captcha: True
+[2026-10-26 20:34:53] ==================================================
+[2026-10-26 20:34:53] Tidur ~60 menit. Klaim berikutnya pada: 21:35:26
+[2026-10-26 21:35:26] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-26 21:35:27] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-26 21:35:27] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-26 21:35:27] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-26 21:35:28] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-26 21:35:28] Mengirim hasil challenge: 201458
+[2026-10-26 21:35:29] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-26 21:35:29] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-26 21:35:31] ==================================================
+[2026-10-26 21:35:31] >> KLAIM MAINET BERHASIL! <<
+[2026-10-26 21:35:31] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-26 21:35:31] Total Shares: 3,498,126.29
+[2026-10-26 21:35:31] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-26 21:35:31] Need Captcha: True
+[2026-10-26 21:35:31] ==================================================
+[2026-10-26 21:35:31] Tidur ~55 menit. Klaim berikutnya pada: 22:31:18
+[2026-10-26 22:31:18] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-26 22:31:19] ==================================================
+[2026-10-26 22:31:19] >> KLAIM MAINET BERHASIL! <<
+[2026-10-26 22:31:19] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-26 22:31:19] Total Shares: 3,520,138.43
+[2026-10-26 22:31:19] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-26 22:31:19] Need Captcha: True
+[2026-10-26 22:31:19] ==================================================
+[2026-10-26 22:31:19] Tidur ~57 menit. Klaim berikutnya pada: 23:28:59
+[2026-10-26 23:28:59] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-26 23:28:59] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-26 23:28:59] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-26 23:28:59] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-26 23:29:00] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-26 23:29:01] Mengirim hasil challenge: 254414
+[2026-10-26 23:29:02] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-26 23:29:02] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-26 23:29:03] ==================================================
+[2026-10-26 23:29:03] >> KLAIM MAINET BERHASIL! <<
+[2026-10-26 23:29:03] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-26 23:29:03] Total Shares: 3,542,916.48
+[2026-10-26 23:29:03] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-26 23:29:03] Need Captcha: True
+[2026-10-26 23:29:03] ==================================================
+[2026-10-26 23:29:03] Tidur ~60 menit. Klaim berikutnya pada: 00:29:29
+[2026-10-27 00:29:29] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-27 00:29:30] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-27 00:29:30] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-27 00:29:30] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-27 00:29:30] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-27 00:29:30] Mengirim hasil challenge: 199544
+[2026-10-27 00:29:31] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-27 00:29:31] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-27 00:29:32] ==================================================
+[2026-10-27 00:29:32] >> KLAIM MAINET BERHASIL! <<
+[2026-10-27 00:29:32] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-27 00:29:32] Total Shares: 3,566,777.60
+[2026-10-27 00:29:32] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-27 00:29:32] Need Captcha: True
+[2026-10-27 00:29:32] ==================================================
+[2026-10-27 00:29:32] Tidur ~57 menit. Klaim berikutnya pada: 01:27:12
+[2026-10-27 01:27:12] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-27 01:27:18] ==================================================
+[2026-10-27 01:27:18] >> KLAIM MAINET BERHASIL! <<
+[2026-10-27 01:27:18] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-27 01:27:18] Total Shares: 3,589,565.92
+[2026-10-27 01:27:18] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-27 01:27:18] Need Captcha: True
+[2026-10-27 01:27:18] ==================================================
+[2026-10-27 01:27:18] Tidur ~48 menit. Klaim berikutnya pada: 02:15:45
+[2026-10-27 02:15:45] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-27 02:15:46] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-27 02:15:46] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-27 02:15:46] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-27 02:15:46] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-27 02:15:47] Mengirim hasil challenge: 410841
+[2026-10-27 02:15:47] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-27 02:15:47] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-27 02:15:48] ==================================================
+[2026-10-27 02:15:48] >> KLAIM MAINET BERHASIL! <<
+[2026-10-27 02:15:48] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-27 02:15:48] Total Shares: 3,608,699.63
+[2026-10-27 02:15:48] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-27 02:15:48] Need Captcha: True
+[2026-10-27 02:15:48] ==================================================
+[2026-10-27 02:15:48] Tidur ~60 menit. Klaim berikutnya pada: 03:16:18
+[2026-10-27 03:16:18] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-27 03:16:19] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-27 03:16:19] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-27 03:16:19] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-27 03:16:19] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-27 03:16:19] Mengirim hasil challenge: 31827
+[2026-10-27 03:16:20] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-27 03:16:20] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-27 03:16:20] ==================================================
+[2026-10-27 03:16:20] >> KLAIM MAINET BERHASIL! <<
+[2026-10-27 03:16:20] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-27 03:16:20] Total Shares: 3,632,583.59
+[2026-10-27 03:16:20] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-27 03:16:20] Need Captcha: True
+[2026-10-27 03:16:20] ==================================================
+[2026-10-27 03:16:20] Tidur ~59 menit. Klaim berikutnya pada: 04:15:53
+[2026-10-27 04:15:53] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-27 04:15:54] ==================================================
+[2026-10-27 04:15:54] >> KLAIM MAINET BERHASIL! <<
+[2026-10-27 04:15:54] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-27 04:15:54] Total Shares: 3,656,081.23
+[2026-10-27 04:15:54] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-27 04:15:54] Need Captcha: True
+[2026-10-27 04:15:54] ==================================================
+[2026-10-27 04:15:54] Tidur ~51 menit. Klaim berikutnya pada: 05:07:45
+[2026-10-27 04:51:58] === mAInet Auto-Farmer Started ===
+[2026-10-27 04:51:58] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-27 04:51:59] ==================================================
+[2026-10-27 04:51:59] >> KLAIM MAINET BERHASIL! <<
+[2026-10-27 04:51:59] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-27 04:51:59] Total Shares: 3,670,315.07
+[2026-10-27 04:51:59] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-27 04:51:59] Need Captcha: True
+[2026-10-27 04:51:59] ==================================================
+[2026-10-27 04:51:59] Tidur ~53 menit. Klaim berikutnya pada: 05:45:09
+[2026-10-27 05:45:09] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-27 05:45:10] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-27 05:45:10] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-27 05:45:10] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-27 05:45:10] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-27 05:45:10] Mengirim hasil challenge: 232010
+[2026-10-27 05:45:10] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-27 05:45:10] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-27 05:45:11] ==================================================
+[2026-10-27 05:45:11] >> KLAIM MAINET BERHASIL! <<
+[2026-10-27 05:45:11] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-27 05:45:11] Total Shares: 3,691,302.67
+[2026-10-27 05:45:11] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-27 05:45:11] Need Captcha: True
+[2026-10-27 05:45:11] ==================================================
+[2026-10-27 05:45:11] Tidur ~58 menit. Klaim berikutnya pada: 06:43:42
+[2026-10-27 06:43:42] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-27 06:43:43] ==================================================
+[2026-10-27 06:43:43] >> KLAIM MAINET BERHASIL! <<
+[2026-10-27 06:43:43] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-27 06:43:43] Total Shares: 3,714,392.22
+[2026-10-27 06:43:43] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-27 06:43:43] Need Captcha: True
+[2026-10-27 06:43:43] ==================================================
+[2026-10-27 06:43:43] Tidur ~54 menit. Klaim berikutnya pada: 07:38:14
+[2026-10-27 07:38:14] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-27 07:38:14] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-27 07:38:14] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-27 07:38:14] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-27 07:38:15] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-27 07:38:15] Mengirim hasil challenge: 361719
+[2026-10-27 07:38:16] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-27 07:38:16] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-27 07:38:16] ==================================================
+[2026-10-27 07:38:16] >> KLAIM MAINET BERHASIL! <<
+[2026-10-27 07:38:16] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-27 07:38:16] Total Shares: 3,735,917.42
+[2026-10-27 07:38:16] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-27 07:38:16] Need Captcha: True
+[2026-10-27 07:38:16] ==================================================
+[2026-10-27 07:38:16] Tidur ~56 menit. Klaim berikutnya pada: 08:35:14
+[2026-10-27 08:35:14] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-27 08:35:15] ==================================================
+[2026-10-27 08:35:15] >> KLAIM MAINET BERHASIL! <<
+[2026-10-27 08:35:15] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-27 08:35:15] Total Shares: 3,758,395.63
+[2026-10-27 08:35:15] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-27 08:35:15] Need Captcha: True
+[2026-10-27 08:35:15] ==================================================
+[2026-10-27 08:35:15] Tidur ~50 menit. Klaim berikutnya pada: 09:25:52
+[2026-10-27 09:25:52] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-27 09:25:53] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-27 09:25:53] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-27 09:25:53] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-27 09:25:54] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-27 09:25:54] Mengirim hasil challenge: 430836
+[2026-10-27 09:25:54] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-27 09:25:54] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-27 09:25:55] ==================================================
+[2026-10-27 09:25:55] >> KLAIM MAINET BERHASIL! <<
+[2026-10-27 09:25:55] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-27 09:25:55] Total Shares: 3,778,383.57
+[2026-10-27 09:25:55] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-27 09:25:55] Need Captcha: True
+[2026-10-27 09:25:55] ==================================================
+[2026-10-27 09:25:55] Tidur ~52 menit. Klaim berikutnya pada: 10:18:53
+[2026-10-27 10:18:53] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-27 10:18:54] ==================================================
+[2026-10-27 10:18:54] >> KLAIM MAINET BERHASIL! <<
+[2026-10-27 10:18:54] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-27 10:18:54] Total Shares: 3,799,284.07
+[2026-10-27 10:18:54] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-27 10:18:54] Need Captcha: True
+[2026-10-27 10:18:54] ==================================================
+[2026-10-27 10:18:54] Tidur ~51 menit. Klaim berikutnya pada: 11:10:21
+[2026-10-27 11:10:21] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-27 11:10:26] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-27 11:10:26] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-27 11:10:26] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-27 11:10:33] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-27 11:10:33] Mengirim hasil challenge: 126136
+[2026-10-27 11:10:34] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-27 11:10:34] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-27 11:10:35] ==================================================
+[2026-10-27 11:10:35] >> KLAIM MAINET BERHASIL! <<
+[2026-10-27 11:10:35] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-27 11:10:35] Total Shares: 3,819,672.23
+[2026-10-27 11:10:35] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-27 11:10:35] Need Captcha: True
+[2026-10-27 11:10:35] ==================================================
+[2026-10-27 11:10:35] Tidur ~55 menit. Klaim berikutnya pada: 12:06:19
+[2026-10-27 12:06:19] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-27 12:06:19] ==================================================
+[2026-10-27 12:06:19] >> KLAIM MAINET BERHASIL! <<
+[2026-10-27 12:06:19] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-27 12:06:19] Total Shares: 3,841,664.55
+[2026-10-27 12:06:19] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-27 12:06:19] Need Captcha: True
+[2026-10-27 12:06:19] ==================================================
+[2026-10-27 12:06:19] Tidur ~45 menit. Klaim berikutnya pada: 12:51:56
+[2026-10-27 12:51:56] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-27 12:51:58] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-27 12:51:58] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-27 12:51:58] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-27 12:51:59] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-27 12:51:59] Mengirim hasil challenge: 376100
+[2026-10-27 12:52:00] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-27 12:52:00] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-27 12:52:01] ==================================================
+[2026-10-27 12:52:01] >> KLAIM MAINET BERHASIL! <<
+[2026-10-27 12:52:01] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-27 12:52:01] Total Shares: 3,859,687.04
+[2026-10-27 12:52:01] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-27 12:52:01] Need Captcha: True
+[2026-10-27 12:52:01] ==================================================
+[2026-10-27 12:52:01] Tidur ~51 menit. Klaim berikutnya pada: 13:43:17
+[2026-10-27 13:43:17] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-27 13:43:19] ==================================================
+[2026-10-27 13:43:19] >> KLAIM MAINET BERHASIL! <<
+[2026-10-27 13:43:19] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-27 13:43:19] Total Shares: 3,879,926.03
+[2026-10-27 13:43:19] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-27 13:43:19] Need Captcha: True
+[2026-10-27 13:43:19] ==================================================
+[2026-10-27 13:43:19] Tidur ~45 menit. Klaim berikutnya pada: 14:28:43
+[2026-10-27 14:28:43] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-27 14:28:45] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-27 14:28:45] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-27 14:28:45] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-27 14:28:48] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-27 14:28:48] Mengirim hasil challenge: 108862
+[2026-10-27 14:29:00] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-27 14:29:00] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-27 14:29:01] ==================================================
+[2026-10-27 14:29:01] >> KLAIM MAINET BERHASIL! <<
+[2026-10-27 14:29:01] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-27 14:29:01] Total Shares: 3,897,957.64
+[2026-10-27 14:29:01] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-27 14:29:01] Need Captcha: True
+[2026-10-27 14:29:01] ==================================================
+[2026-10-27 14:29:01] Tidur ~49 menit. Klaim berikutnya pada: 15:18:45
+[2026-10-27 15:18:45] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-27 15:18:46] ==================================================
+[2026-10-27 15:18:46] >> KLAIM MAINET BERHASIL! <<
+[2026-10-27 15:18:46] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-27 15:18:46] Total Shares: 3,917,584.00
+[2026-10-27 15:18:46] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-27 15:18:46] Need Captcha: True
+[2026-10-27 15:18:46] ==================================================
+[2026-10-27 15:18:46] Tidur ~54 menit. Klaim berikutnya pada: 16:13:20
+[2026-10-27 16:13:20] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-27 16:13:21] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-27 16:13:21] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-27 16:13:21] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-27 16:13:22] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-27 16:13:22] Mengirim hasil challenge: 576266
+[2026-10-27 16:13:23] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-27 16:13:23] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-27 16:13:23] ==================================================
+[2026-10-27 16:13:23] >> KLAIM MAINET BERHASIL! <<
+[2026-10-27 16:13:23] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-27 16:13:23] Total Shares: 3,939,132.02
+[2026-10-27 16:13:23] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-27 16:13:23] Need Captcha: True
+[2026-10-27 16:13:23] ==================================================
+[2026-10-27 16:13:23] Tidur ~50 menit. Klaim berikutnya pada: 17:03:57
+[2026-10-27 17:03:57] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-27 17:03:58] ==================================================
+[2026-10-27 17:03:58] >> KLAIM MAINET BERHASIL! <<
+[2026-10-27 17:03:58] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-27 17:03:58] Total Shares: 3,959,086.52
+[2026-10-27 17:03:58] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-27 17:03:58] Need Captcha: True
+[2026-10-27 17:03:58] ==================================================
+[2026-10-27 17:03:58] Tidur ~46 menit. Klaim berikutnya pada: 17:50:26
+[2026-10-27 17:50:26] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-27 17:50:28] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-27 17:50:28] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-27 17:50:28] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-27 17:50:28] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-27 17:50:29] Mengirim hasil challenge: 21042
+[2026-10-27 17:50:30] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-27 17:50:30] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-27 17:50:31] ==================================================
+[2026-10-27 17:50:31] >> KLAIM MAINET BERHASIL! <<
+[2026-10-27 17:50:31] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-27 17:50:31] Total Shares: 3,977,448.50
+[2026-10-27 17:50:31] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-27 17:50:31] Need Captcha: True
+[2026-10-27 17:50:31] ==================================================
+[2026-10-27 17:50:31] Tidur ~45 menit. Klaim berikutnya pada: 18:36:28
+[2026-10-27 18:36:28] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-27 18:36:29] ==================================================
+[2026-10-27 18:36:29] >> KLAIM MAINET BERHASIL! <<
+[2026-10-27 18:36:29] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-27 18:36:29] Total Shares: 3,995,583.20
+[2026-10-27 18:36:29] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-27 18:36:29] Need Captcha: True
+[2026-10-27 18:36:29] ==================================================
+[2026-10-27 18:36:29] Tidur ~53 menit. Klaim berikutnya pada: 19:30:26
+[2026-10-27 19:30:26] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-27 19:30:27] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-27 19:30:27] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-27 19:30:27] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-27 19:30:28] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-27 19:30:28] Mengirim hasil challenge: 28206
+[2026-10-27 19:30:29] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-27 19:30:29] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-27 19:30:30] ==================================================
+[2026-10-27 19:30:30] >> KLAIM MAINET BERHASIL! <<
+[2026-10-27 19:30:30] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-27 19:30:30] Total Shares: 4,016,891.87
+[2026-10-27 19:30:30] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-27 19:30:30] Need Captcha: True
+[2026-10-27 19:30:30] ==================================================
+[2026-10-27 19:30:30] Tidur ~58 menit. Klaim berikutnya pada: 20:29:14
+[2026-10-27 20:29:14] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-27 20:29:15] ==================================================
+[2026-10-27 20:29:15] >> KLAIM MAINET BERHASIL! <<
+[2026-10-27 20:29:15] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-27 20:29:15] Total Shares: 4,040,068.23
+[2026-10-27 20:29:15] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-27 20:29:15] Need Captcha: True
+[2026-10-27 20:29:15] ==================================================
+[2026-10-27 20:29:15] Tidur ~56 menit. Klaim berikutnya pada: 21:25:38
+[2026-10-27 21:25:38] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-27 21:25:39] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-27 21:25:39] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-27 21:25:39] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-27 21:25:40] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-27 21:25:40] Mengirim hasil challenge: 745717
+[2026-10-27 21:25:42] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-27 21:25:42] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-27 21:25:44] ==================================================
+[2026-10-27 21:25:44] >> KLAIM MAINET BERHASIL! <<
+[2026-10-27 21:25:44] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-27 21:25:44] Total Shares: 4,062,350.28
+[2026-10-27 21:25:44] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-27 21:25:44] Need Captcha: True
+[2026-10-27 21:25:44] ==================================================
+[2026-10-27 21:25:44] Tidur ~50 menit. Klaim berikutnya pada: 22:16:13
+[2026-10-27 22:16:13] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-27 22:16:13] ==================================================
+[2026-10-27 22:16:13] >> KLAIM MAINET BERHASIL! <<
+[2026-10-27 22:16:13] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-27 22:16:13] Total Shares: 4,082,271.41
+[2026-10-27 22:16:13] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-27 22:16:13] Need Captcha: True
+[2026-10-27 22:16:13] ==================================================
+[2026-10-27 22:16:13] Tidur ~51 menit. Klaim berikutnya pada: 23:07:30
+[2026-10-27 23:07:30] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-27 23:07:31] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-27 23:07:31] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-27 23:07:31] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-27 23:07:32] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-27 23:07:32] Mengirim hasil challenge: 756402
+[2026-10-27 23:07:32] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-27 23:07:32] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-27 23:07:33] ==================================================
+[2026-10-27 23:07:33] >> KLAIM MAINET BERHASIL! <<
+[2026-10-27 23:07:33] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-27 23:07:33] Total Shares: 4,102,518.21
+[2026-10-27 23:07:33] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-27 23:07:33] Need Captcha: True
+[2026-10-27 23:07:33] ==================================================
+[2026-10-27 23:07:33] Tidur ~50 menit. Klaim berikutnya pada: 23:57:58
+[2026-10-27 23:57:58] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-27 23:57:58] ==================================================
+[2026-10-27 23:57:58] >> KLAIM MAINET BERHASIL! <<
+[2026-10-27 23:57:58] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-27 23:57:58] Total Shares: 4,122,412.61
+[2026-10-27 23:57:58] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-27 23:57:58] Need Captcha: True
+[2026-10-27 23:57:58] ==================================================
+[2026-10-27 23:57:58] Tidur ~48 menit. Klaim berikutnya pada: 00:46:15
+[2026-10-28 00:46:15] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-28 00:46:16] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-28 00:46:16] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-28 00:46:16] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-28 00:46:17] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-28 00:46:17] Mengirim hasil challenge: 104879
+[2026-10-28 00:46:17] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-28 00:46:17] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-28 00:46:18] ==================================================
+[2026-10-28 00:46:18] >> KLAIM MAINET BERHASIL! <<
+[2026-10-28 00:46:18] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-28 00:46:18] Total Shares: 4,141,477.72
+[2026-10-28 00:46:18] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-28 00:46:18] Need Captcha: True
+[2026-10-28 00:46:18] ==================================================
+[2026-10-28 00:46:18] Tidur ~59 menit. Klaim berikutnya pada: 01:46:12
+[2026-10-28 01:46:12] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-28 01:46:13] ==================================================
+[2026-10-28 01:46:13] >> KLAIM MAINET BERHASIL! <<
+[2026-10-28 01:46:13] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-28 01:46:13] Total Shares: 4,165,113.05
+[2026-10-28 01:46:13] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-28 01:46:13] Need Captcha: True
+[2026-10-28 01:46:13] ==================================================
+[2026-10-28 01:46:13] Tidur ~50 menit. Klaim berikutnya pada: 02:36:52
+[2026-10-28 02:36:52] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-28 02:36:52] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-28 02:36:52] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-28 02:36:52] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-28 02:36:53] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-28 02:36:53] Mengirim hasil challenge: 242032
+[2026-10-28 02:36:54] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-28 02:36:54] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-28 02:36:55] ==================================================
+[2026-10-28 02:36:55] >> KLAIM MAINET BERHASIL! <<
+[2026-10-28 02:36:55] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-28 02:36:55] Total Shares: 4,185,115.95
+[2026-10-28 02:36:55] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-28 02:36:55] Need Captcha: True
+[2026-10-28 02:36:55] ==================================================
+[2026-10-28 02:36:55] Tidur ~46 menit. Klaim berikutnya pada: 03:23:13
+[2026-10-28 03:23:13] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-28 03:23:14] ==================================================
+[2026-10-28 03:23:14] >> KLAIM MAINET BERHASIL! <<
+[2026-10-28 03:23:14] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-28 03:23:14] Total Shares: 4,203,385.83
+[2026-10-28 03:23:14] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-28 03:23:14] Need Captcha: True
+[2026-10-28 03:23:14] ==================================================
+[2026-10-28 03:23:14] Tidur ~45 menit. Klaim berikutnya pada: 04:09:06
+[2026-10-28 04:09:06] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-28 04:09:11] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-28 04:09:11] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-28 04:09:11] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-28 04:09:12] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-28 04:09:12] Mengirim hasil challenge: 40245
+[2026-10-28 04:09:13] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-28 04:09:13] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-28 04:09:14] ==================================================
+[2026-10-28 04:09:14] >> KLAIM MAINET BERHASIL! <<
+[2026-10-28 04:09:14] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-28 04:09:14] Total Shares: 4,221,533.62
+[2026-10-28 04:09:14] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-28 04:09:14] Need Captcha: True
+[2026-10-28 04:09:14] ==================================================
+[2026-10-28 04:09:14] Tidur ~60 menit. Klaim berikutnya pada: 05:09:54
+[2026-10-28 05:09:54] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-28 05:09:54] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-28 05:09:54] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-28 05:09:54] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-28 05:09:55] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-28 05:09:55] Mengirim hasil challenge: 86255
+[2026-10-28 05:09:56] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-28 05:09:56] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-28 05:09:56] ==================================================
+[2026-10-28 05:09:56] >> KLAIM MAINET BERHASIL! <<
+[2026-10-28 05:09:56] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-28 05:09:56] Total Shares: 4,245,480.80
+[2026-10-28 05:09:56] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-28 05:09:56] Need Captcha: True
+[2026-10-28 05:09:56] ==================================================
+[2026-10-28 05:09:56] Tidur ~51 menit. Klaim berikutnya pada: 06:01:48
+[2026-10-28 06:01:48] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-28 06:01:49] ==================================================
+[2026-10-28 06:01:49] >> KLAIM MAINET BERHASIL! <<
+[2026-10-28 06:01:49] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-28 06:01:49] Total Shares: 4,265,946.99
+[2026-10-28 06:01:49] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-28 06:01:49] Need Captcha: True
+[2026-10-28 06:01:49] ==================================================
+[2026-10-28 06:01:49] Tidur ~47 menit. Klaim berikutnya pada: 06:49:09
+[2026-10-28 06:49:09] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-28 06:49:09] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-28 06:49:09] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-28 06:49:09] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-28 06:49:10] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-28 06:49:10] Mengirim hasil challenge: 128516
+[2026-10-28 06:49:11] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-28 06:49:11] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-28 06:49:11] ==================================================
+[2026-10-28 06:49:11] >> KLAIM MAINET BERHASIL! <<
+[2026-10-28 06:49:11] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-28 06:49:11] Total Shares: 4,284,639.12
+[2026-10-28 06:49:11] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-28 06:49:11] Need Captcha: True
+[2026-10-28 06:49:11] ==================================================
+[2026-10-28 06:49:11] Tidur ~55 menit. Klaim berikutnya pada: 07:44:42
+[2026-10-28 07:44:42] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-28 07:44:48] ==================================================
+[2026-10-28 07:44:48] >> KLAIM MAINET BERHASIL! <<
+[2026-10-28 07:44:48] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-28 07:44:48] Total Shares: 4,306,578.92
+[2026-10-28 07:44:48] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-28 07:44:48] Need Captcha: True
+[2026-10-28 07:44:48] ==================================================
+[2026-10-28 07:44:48] Tidur ~47 menit. Klaim berikutnya pada: 08:32:03
+[2026-10-28 08:32:03] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-28 08:32:04] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-28 08:32:04] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-28 08:32:04] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-28 08:32:05] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-28 08:32:05] Mengirim hasil challenge: 337711
+[2026-10-28 08:32:06] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-28 08:32:06] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-28 08:32:06] ==================================================
+[2026-10-28 08:32:06] >> KLAIM MAINET BERHASIL! <<
+[2026-10-28 08:32:06] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-28 08:32:06] Total Shares: 4,325,237.17
+[2026-10-28 08:32:06] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-28 08:32:06] Need Captcha: True
+[2026-10-28 08:32:06] ==================================================
+[2026-10-28 08:32:06] Tidur ~51 menit. Klaim berikutnya pada: 09:24:04
+[2026-10-28 09:24:04] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-28 09:24:05] ==================================================
+[2026-10-28 09:24:05] >> KLAIM MAINET BERHASIL! <<
+[2026-10-28 09:24:05] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-28 09:24:05] Total Shares: 4,345,742.74
+[2026-10-28 09:24:05] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-28 09:24:05] Need Captcha: True
+[2026-10-28 09:24:05] ==================================================
+[2026-10-28 09:24:05] Tidur ~54 menit. Klaim berikutnya pada: 10:19:00
+[2026-10-28 10:19:00] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-28 10:19:06] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-28 10:19:06] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-28 10:19:06] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-28 10:19:06] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-28 10:19:07] Mengirim hasil challenge: 564321
+[2026-10-28 10:19:07] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-28 10:19:07] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-28 10:19:08] ==================================================
+[2026-10-28 10:19:08] >> KLAIM MAINET BERHASIL! <<
+[2026-10-28 10:19:08] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-28 10:19:08] Total Shares: 4,367,463.88
+[2026-10-28 10:19:08] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-28 10:19:08] Need Captcha: True
+[2026-10-28 10:19:08] ==================================================
+[2026-10-28 10:19:08] Tidur ~58 menit. Klaim berikutnya pada: 11:17:44
+[2026-10-28 11:17:44] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-28 11:17:45] ==================================================
+[2026-10-28 11:17:45] >> KLAIM MAINET BERHASIL! <<
+[2026-10-28 11:17:45] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-28 11:17:45] Total Shares: 4,390,588.16
+[2026-10-28 11:17:45] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-28 11:17:45] Need Captcha: True
+[2026-10-28 11:17:45] ==================================================
+[2026-10-28 11:17:45] Tidur ~54 menit. Klaim berikutnya pada: 12:12:14
+[2026-10-28 12:12:14] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-28 12:12:15] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-28 12:12:15] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-28 12:12:15] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-28 12:12:16] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-28 12:12:16] Mengirim hasil challenge: 354411
+[2026-10-28 12:12:17] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-28 12:12:17] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-28 12:12:18] ==================================================
+[2026-10-28 12:12:18] >> KLAIM MAINET BERHASIL! <<
+[2026-10-28 12:12:18] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-28 12:12:18] Total Shares: 4,412,104.68
+[2026-10-28 12:12:18] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-28 12:12:18] Need Captcha: True
+[2026-10-28 12:12:18] ==================================================
+[2026-10-28 12:12:18] Tidur ~56 menit. Klaim berikutnya pada: 13:08:29
+[2026-10-28 13:08:29] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-28 13:08:35] ==================================================
+[2026-10-28 13:08:35] >> KLAIM MAINET BERHASIL! <<
+[2026-10-28 13:08:35] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-28 13:08:35] Total Shares: 4,434,308.21
+[2026-10-28 13:08:35] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-28 13:08:35] Need Captcha: True
+[2026-10-28 13:08:35] ==================================================
+[2026-10-28 13:08:35] Tidur ~51 menit. Klaim berikutnya pada: 13:59:46
+[2026-10-28 13:59:46] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-28 13:59:52] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-28 13:59:52] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-28 13:59:52] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-28 13:59:58] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-28 13:59:58] Mengirim hasil challenge: 498127
+[2026-10-28 14:00:15] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-28 14:00:15] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-28 14:00:36] ==================================================
+[2026-10-28 14:00:36] >> KLAIM MAINET BERHASIL! <<
+[2026-10-28 14:00:36] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-28 14:00:36] Total Shares: 4,454,830.00
+[2026-10-28 14:00:36] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-28 14:00:36] Need Captcha: True
+[2026-10-28 14:00:36] ==================================================
+[2026-10-28 14:00:36] Tidur ~60 menit. Klaim berikutnya pada: 15:01:08
+[2026-10-28 15:01:08] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-28 15:01:09] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-28 15:01:09] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-28 15:01:09] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-28 15:01:10] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-28 15:01:10] Mengirim hasil challenge: 133802
+[2026-10-28 15:01:12] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-28 15:01:12] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-28 15:01:13] ==================================================
+[2026-10-28 15:01:13] >> KLAIM MAINET BERHASIL! <<
+[2026-10-28 15:01:13] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-28 15:01:13] Total Shares: 4,478,743.24
+[2026-10-28 15:01:13] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-28 15:01:13] Need Captcha: True
+[2026-10-28 15:01:13] ==================================================
+[2026-10-28 15:01:13] Tidur ~60 menit. Klaim berikutnya pada: 16:01:49
+[2026-10-28 16:01:49] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-28 16:01:51] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-28 16:01:51] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-28 16:01:51] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-28 16:01:52] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-28 16:01:53] Mengirim hasil challenge: 414876
+[2026-10-28 16:01:54] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-28 16:01:54] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-28 16:01:55] ==================================================
+[2026-10-28 16:01:55] >> KLAIM MAINET BERHASIL! <<
+[2026-10-28 16:01:55] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-28 16:01:55] Total Shares: 4,502,690.54
+[2026-10-28 16:01:55] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-28 16:01:55] Need Captcha: True
+[2026-10-28 16:01:55] ==================================================
+[2026-10-28 16:01:55] Tidur ~45 menit. Klaim berikutnya pada: 16:47:22
+[2026-10-28 16:47:22] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-28 16:47:23] ==================================================
+[2026-10-28 16:47:23] >> KLAIM MAINET BERHASIL! <<
+[2026-10-28 16:47:23] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-28 16:47:23] Total Shares: 4,520,626.49
+[2026-10-28 16:47:23] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-28 16:47:23] Need Captcha: True
+[2026-10-28 16:47:23] ==================================================
+[2026-10-28 16:47:23] Tidur ~59 menit. Klaim berikutnya pada: 17:46:36
+[2026-10-28 17:46:36] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-28 17:46:37] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-28 17:46:37] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-28 17:46:37] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-28 17:46:38] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-28 17:46:38] Mengirim hasil challenge: 387445
+[2026-10-28 17:46:39] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-28 17:46:39] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-28 17:46:39] ==================================================
+[2026-10-28 17:46:39] >> KLAIM MAINET BERHASIL! <<
+[2026-10-28 17:46:39] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-28 17:46:39] Total Shares: 4,544,012.02
+[2026-10-28 17:46:39] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-28 17:46:39] Need Captcha: True
+[2026-10-28 17:46:39] ==================================================
+[2026-10-28 17:46:39] Tidur ~54 menit. Klaim berikutnya pada: 18:40:57
+[2026-10-28 18:40:57] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-28 18:40:58] ==================================================
+[2026-10-28 18:40:58] >> KLAIM MAINET BERHASIL! <<
+[2026-10-28 18:40:58] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-28 18:40:58] Total Shares: 4,565,440.72
+[2026-10-28 18:40:58] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-28 18:40:58] Need Captcha: True
+[2026-10-28 18:40:58] ==================================================
+[2026-10-28 18:40:59] Tidur ~57 menit. Klaim berikutnya pada: 19:38:54
+[2026-10-28 19:38:54] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-28 19:38:55] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-28 19:38:55] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-28 19:38:55] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-28 19:38:55] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-28 19:38:55] Mengirim hasil challenge: 582225
+[2026-10-28 19:38:57] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-28 19:38:57] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-28 19:38:57] ==================================================
+[2026-10-28 19:38:57] >> KLAIM MAINET BERHASIL! <<
+[2026-10-28 19:38:57] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-28 19:38:57] Total Shares: 4,588,313.75
+[2026-10-28 19:38:57] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-28 19:38:57] Need Captcha: True
+[2026-10-28 19:38:57] ==================================================
+[2026-10-28 19:38:57] Tidur ~56 menit. Klaim berikutnya pada: 20:35:31
+[2026-10-28 20:35:31] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-28 20:35:32] ==================================================
+[2026-10-28 20:35:32] >> KLAIM MAINET BERHASIL! <<
+[2026-10-28 20:35:32] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-28 20:35:32] Total Shares: 4,610,635.47
+[2026-10-28 20:35:32] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-28 20:35:32] Need Captcha: True
+[2026-10-28 20:35:32] ==================================================
+[2026-10-28 20:35:32] Tidur ~45 menit. Klaim berikutnya pada: 21:20:42
+[2026-10-28 21:20:42] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-28 21:20:44] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-28 21:20:44] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-28 21:20:44] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-28 21:20:45] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-28 21:20:45] Mengirim hasil challenge: 286100
+[2026-10-28 21:20:52] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-28 21:20:52] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-28 21:20:53] ==================================================
+[2026-10-28 21:20:53] >> KLAIM MAINET BERHASIL! <<
+[2026-10-28 21:20:53] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-28 21:20:53] Total Shares: 4,628,525.56
+[2026-10-28 21:20:53] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-28 21:20:53] Need Captcha: True
+[2026-10-28 21:20:53] ==================================================
+[2026-10-28 21:20:53] Tidur ~47 menit. Klaim berikutnya pada: 22:08:40
+[2026-10-28 22:08:40] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-28 22:08:41] ==================================================
+[2026-10-28 22:08:41] >> KLAIM MAINET BERHASIL! <<
+[2026-10-28 22:08:41] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-28 22:08:41] Total Shares: 4,647,382.46
+[2026-10-28 22:08:41] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-28 22:08:41] Need Captcha: True
+[2026-10-28 22:08:41] ==================================================
+[2026-10-28 22:08:41] Tidur ~47 menit. Klaim berikutnya pada: 22:56:18
+[2026-10-28 22:56:18] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-28 22:56:19] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-28 22:56:19] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-28 22:56:19] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-28 22:56:20] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-28 22:56:20] Mengirim hasil challenge: 344322
+[2026-10-28 22:56:20] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-28 22:56:20] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-28 22:56:21] ==================================================
+[2026-10-28 22:56:21] >> KLAIM MAINET BERHASIL! <<
+[2026-10-28 22:56:21] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-28 22:56:21] Total Shares: 4,666,186.33
+[2026-10-28 22:56:21] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-28 22:56:21] Need Captcha: True
+[2026-10-28 22:56:21] ==================================================
+[2026-10-28 22:56:21] Tidur ~46 menit. Klaim berikutnya pada: 23:42:31
+[2026-10-28 23:42:31] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-28 23:42:32] ==================================================
+[2026-10-28 23:42:32] >> KLAIM MAINET BERHASIL! <<
+[2026-10-28 23:42:32] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-28 23:42:32] Total Shares: 4,684,405.43
+[2026-10-28 23:42:32] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-28 23:42:32] Need Captcha: True
+[2026-10-28 23:42:32] ==================================================
+[2026-10-28 23:42:32] Tidur ~54 menit. Klaim berikutnya pada: 00:36:52
+[2026-10-29 00:36:52] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-29 00:36:53] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-29 00:36:53] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-29 00:36:53] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-29 00:36:53] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-29 00:36:54] Mengirim hasil challenge: 292189
+[2026-10-29 00:36:54] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-29 00:36:54] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-29 00:36:55] ==================================================
+[2026-10-29 00:36:55] >> KLAIM MAINET BERHASIL! <<
+[2026-10-29 00:36:55] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-29 00:36:55] Total Shares: 4,705,858.76
+[2026-10-29 00:36:55] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-29 00:36:55] Need Captcha: True
+[2026-10-29 00:36:55] ==================================================
+[2026-10-29 00:36:55] Tidur ~57 menit. Klaim berikutnya pada: 01:34:38
+[2026-10-29 01:34:38] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-29 01:34:38] ==================================================
+[2026-10-29 01:34:38] >> KLAIM MAINET BERHASIL! <<
+[2026-10-29 01:34:38] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-29 01:34:38] Total Shares: 4,728,633.37
+[2026-10-29 01:34:38] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-29 01:34:38] Need Captcha: True
+[2026-10-29 01:34:38] ==================================================
+[2026-10-29 01:34:38] Tidur ~57 menit. Klaim berikutnya pada: 02:32:12
+[2026-10-29 02:32:12] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-29 02:32:18] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-29 02:32:18] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-29 02:32:18] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-29 02:32:19] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-29 02:32:19] Mengirim hasil challenge: 142392
+[2026-10-29 02:32:20] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-29 02:32:20] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-29 02:32:20] ==================================================
+[2026-10-29 02:32:20] >> KLAIM MAINET BERHASIL! <<
+[2026-10-29 02:32:20] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-29 02:32:20] Total Shares: 4,751,394.69
+[2026-10-29 02:32:20] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-29 02:32:20] Need Captcha: True
+[2026-10-29 02:32:20] ==================================================
+[2026-10-29 02:32:20] Tidur ~46 menit. Klaim berikutnya pada: 03:19:17
+[2026-10-29 03:19:17] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-29 03:19:23] ==================================================
+[2026-10-29 03:19:23] >> KLAIM MAINET BERHASIL! <<
+[2026-10-29 03:19:23] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-29 03:19:23] Total Shares: 4,769,954.42
+[2026-10-29 03:19:23] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-29 03:19:23] Need Captcha: True
+[2026-10-29 03:19:23] ==================================================
+[2026-10-29 03:19:23] Tidur ~48 menit. Klaim berikutnya pada: 04:08:19
+[2026-10-29 04:08:19] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-29 04:08:20] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-29 04:08:20] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-29 04:08:20] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-29 04:08:20] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-29 04:08:21] Mengirim hasil challenge: 438393
+[2026-10-29 04:08:21] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-29 04:08:21] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-29 04:08:22] ==================================================
+[2026-10-29 04:08:22] >> KLAIM MAINET BERHASIL! <<
+[2026-10-29 04:08:22] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-29 04:08:22] Total Shares: 4,789,279.86
+[2026-10-29 04:08:22] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-29 04:08:22] Need Captcha: True
+[2026-10-29 04:08:22] ==================================================
+[2026-10-29 04:08:22] Tidur ~55 menit. Klaim berikutnya pada: 05:03:58
+[2026-10-29 05:03:58] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-29 05:03:59] ==================================================
+[2026-10-29 05:03:59] >> KLAIM MAINET BERHASIL! <<
+[2026-10-29 05:03:59] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-29 05:03:59] Total Shares: 4,811,221.49
+[2026-10-29 05:03:59] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-29 05:03:59] Need Captcha: True
+[2026-10-29 05:03:59] ==================================================
+[2026-10-29 05:03:59] Tidur ~46 menit. Klaim berikutnya pada: 05:50:54
+[2026-10-29 05:50:54] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-29 05:50:55] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-29 05:50:55] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-29 05:50:55] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-29 05:50:55] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-29 05:50:55] Mengirim hasil challenge: 36316
+[2026-10-29 05:50:56] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-29 05:50:56] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-29 05:50:57] ==================================================
+[2026-10-29 05:50:57] >> KLAIM MAINET BERHASIL! <<
+[2026-10-29 05:50:57] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-29 05:50:57] Total Shares: 4,829,746.69
+[2026-10-29 05:50:57] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-29 05:50:57] Need Captcha: True
+[2026-10-29 05:50:57] ==================================================
+[2026-10-29 05:50:57] Tidur ~48 menit. Klaim berikutnya pada: 06:39:25
+[2026-10-29 06:39:25] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-29 06:39:26] ==================================================
+[2026-10-29 06:39:26] >> KLAIM MAINET BERHASIL! <<
+[2026-10-29 06:39:26] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-29 06:39:26] Total Shares: 4,848,872.67
+[2026-10-29 06:39:26] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-29 06:39:26] Need Captcha: True
+[2026-10-29 06:39:26] ==================================================
+[2026-10-29 06:39:26] Tidur ~48 menit. Klaim berikutnya pada: 07:27:45
+[2026-10-29 07:27:45] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-29 07:27:46] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-29 07:27:46] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-29 07:27:46] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-29 07:27:46] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-29 07:27:47] Mengirim hasil challenge: 310212
+[2026-10-29 07:27:48] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-29 07:27:48] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-29 07:27:48] ==================================================
+[2026-10-29 07:27:48] >> KLAIM MAINET BERHASIL! <<
+[2026-10-29 07:27:48] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-29 07:27:48] Total Shares: 4,867,958.58
+[2026-10-29 07:27:48] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-29 07:27:48] Need Captcha: True
+[2026-10-29 07:27:48] ==================================================
+[2026-10-29 07:27:48] Tidur ~47 menit. Klaim berikutnya pada: 08:15:15
+[2026-10-29 08:15:15] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-29 08:15:16] ==================================================
+[2026-10-29 08:15:16] >> KLAIM MAINET BERHASIL! <<
+[2026-10-29 08:15:16] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-29 08:15:16] Total Shares: 4,886,684.03
+[2026-10-29 08:15:16] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-29 08:15:16] Need Captcha: True
+[2026-10-29 08:15:16] ==================================================
+[2026-10-29 08:15:16] Tidur ~48 menit. Klaim berikutnya pada: 09:04:00
+[2026-10-29 09:04:00] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-29 09:04:01] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-29 09:04:01] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-29 09:04:01] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-29 09:04:02] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-29 09:04:02] Mengirim hasil challenge: 143467
+[2026-10-29 09:04:03] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-29 09:04:03] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-29 09:04:04] ==================================================
+[2026-10-29 09:04:04] >> KLAIM MAINET BERHASIL! <<
+[2026-10-29 09:04:04] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-29 09:04:04] Total Shares: 4,905,931.74
+[2026-10-29 09:04:04] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-29 09:04:04] Need Captcha: True
+[2026-10-29 09:04:04] ==================================================
+[2026-10-29 09:04:04] Tidur ~49 menit. Klaim berikutnya pada: 09:54:03
+[2026-10-29 09:54:03] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-29 09:54:03] ==================================================
+[2026-10-29 09:54:03] >> KLAIM MAINET BERHASIL! <<
+[2026-10-29 09:54:03] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-29 09:54:03] Total Shares: 4,925,655.35
+[2026-10-29 09:54:03] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-29 09:54:03] Need Captcha: True
+[2026-10-29 09:54:03] ==================================================
+[2026-10-29 09:54:03] Tidur ~47 menit. Klaim berikutnya pada: 10:41:27
+[2026-10-29 10:41:27] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-29 10:41:29] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-29 10:41:29] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-29 10:41:29] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-29 10:41:30] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-29 10:41:30] Mengirim hasil challenge: 236041
+[2026-10-29 10:41:31] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-29 10:41:31] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-29 10:41:32] ==================================================
+[2026-10-29 10:41:32] >> KLAIM MAINET BERHASIL! <<
+[2026-10-29 10:41:32] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-29 10:41:32] Total Shares: 4,944,384.64
+[2026-10-29 10:41:32] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-29 10:41:32] Need Captcha: True
+[2026-10-29 10:41:32] ==================================================
+[2026-10-29 10:41:32] Tidur ~49 menit. Klaim berikutnya pada: 11:31:10
+[2026-10-29 11:31:10] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-29 11:31:11] ==================================================
+[2026-10-29 11:31:11] >> KLAIM MAINET BERHASIL! <<
+[2026-10-29 11:31:11] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-29 11:31:11] Total Shares: 4,963,972.14
+[2026-10-29 11:31:11] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-29 11:31:11] Need Captcha: True
+[2026-10-29 11:31:11] ==================================================
+[2026-10-29 11:31:11] Tidur ~50 menit. Klaim berikutnya pada: 12:22:09
+[2026-10-29 12:22:09] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-29 12:22:10] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-29 12:22:10] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-29 12:22:10] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-29 12:22:11] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-29 12:22:11] Mengirim hasil challenge: 11699
+[2026-10-29 12:22:12] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-29 12:22:12] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-29 12:22:13] ==================================================
+[2026-10-29 12:22:13] >> KLAIM MAINET BERHASIL! <<
+[2026-10-29 12:22:13] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-29 12:22:13] Total Shares: 4,984,101.38
+[2026-10-29 12:22:13] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-29 12:22:13] Need Captcha: True
+[2026-10-29 12:22:13] ==================================================
+[2026-10-29 12:22:13] Tidur ~53 menit. Klaim berikutnya pada: 13:15:28
+[2026-10-29 13:15:28] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-29 13:15:34] >> Exception saat klaim mAInet: HTTPSConnectionPool(host='api.mainet.io', port=443): Max retries exceeded with url: /api/player/collectReward (Caused by NewConnectionError("HTTPSConnection(host='api.mainet.io', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable")) <<
+[2026-10-29 13:15:34] Tidur ~60 menit. Klaim berikutnya pada: 14:16:30
+[2026-10-29 14:16:30] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-29 14:16:30] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-29 14:16:30] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-29 14:16:30] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-29 14:16:31] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-29 14:16:32] Mengirim hasil challenge: 151505
+[2026-10-29 14:16:34] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-29 14:16:34] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-29 14:16:35] ==================================================
+[2026-10-29 14:16:35] >> KLAIM MAINET BERHASIL! <<
+[2026-10-29 14:16:35] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-29 14:16:35] Total Shares: 5,029,221.32
+[2026-10-29 14:16:35] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-29 14:16:35] Need Captcha: True
+[2026-10-29 14:16:35] ==================================================
+[2026-10-29 14:16:35] Tidur ~48 menit. Klaim berikutnya pada: 15:04:53
+[2026-10-29 15:04:53] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-29 15:04:54] ==================================================
+[2026-10-29 15:04:54] >> KLAIM MAINET BERHASIL! <<
+[2026-10-29 15:04:54] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-29 15:04:54] Total Shares: 5,048,284.85
+[2026-10-29 15:04:54] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-29 15:04:54] Need Captcha: True
+[2026-10-29 15:04:54] ==================================================
+[2026-10-29 15:04:54] Tidur ~48 menit. Klaim berikutnya pada: 15:53:08
+[2026-10-29 15:53:08] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-29 15:53:09] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-29 15:53:09] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-29 15:53:09] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-29 15:53:10] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-29 15:53:10] Mengirim hasil challenge: 203698
+[2026-10-29 15:53:11] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-29 15:53:11] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-29 15:53:12] ==================================================
+[2026-10-29 15:53:12] >> KLAIM MAINET BERHASIL! <<
+[2026-10-29 15:53:12] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-29 15:53:12] Total Shares: 5,067,337.46
+[2026-10-29 15:53:12] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-29 15:53:12] Need Captcha: True
+[2026-10-29 15:53:12] ==================================================
+[2026-10-29 15:53:12] Tidur ~58 menit. Klaim berikutnya pada: 16:52:01
+[2026-10-29 16:52:01] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-29 16:52:02] ==================================================
+[2026-10-29 16:52:02] >> KLAIM MAINET BERHASIL! <<
+[2026-10-29 16:52:02] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-29 16:52:02] Total Shares: 5,090,549.85
+[2026-10-29 16:52:02] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-29 16:52:02] Need Captcha: True
+[2026-10-29 16:52:02] ==================================================
+[2026-10-29 16:52:02] Tidur ~59 menit. Klaim berikutnya pada: 17:51:27
+[2026-10-29 17:51:27] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-29 17:51:28] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-29 17:51:28] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-29 17:51:28] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-29 17:51:30] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-29 17:51:30] Mengirim hasil challenge: 146215
+[2026-10-29 17:51:31] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-29 17:51:31] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-29 17:51:32] ==================================================
+[2026-10-29 17:51:32] >> KLAIM MAINET BERHASIL! <<
+[2026-10-29 17:51:32] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-29 17:51:32] Total Shares: 5,114,019.06
+[2026-10-29 17:51:32] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-29 17:51:32] Need Captcha: True
+[2026-10-29 17:51:32] ==================================================
+[2026-10-29 17:51:32] Tidur ~55 menit. Klaim berikutnya pada: 18:47:18
+[2026-10-29 18:47:18] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-29 18:47:19] ==================================================
+[2026-10-29 18:47:19] >> KLAIM MAINET BERHASIL! <<
+[2026-10-29 18:47:19] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-29 18:47:19] Total Shares: 5,136,027.07
+[2026-10-29 18:47:19] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-29 18:47:19] Need Captcha: True
+[2026-10-29 18:47:19] ==================================================
+[2026-10-29 18:47:19] Tidur ~53 menit. Klaim berikutnya pada: 19:41:18
+[2026-10-29 19:41:18] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-29 19:41:19] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-29 19:41:19] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-29 19:41:19] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-29 19:41:20] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-29 19:41:20] Mengirim hasil challenge: 151402
+[2026-10-29 19:41:23] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-29 19:41:23] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-29 19:41:23] ==================================================
+[2026-10-29 19:41:23] >> KLAIM MAINET BERHASIL! <<
+[2026-10-29 19:41:23] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-29 19:41:23] Total Shares: 5,157,359.00
+[2026-10-29 19:41:23] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-29 19:41:23] Need Captcha: True
+[2026-10-29 19:41:23] ==================================================
+[2026-10-29 19:41:23] Tidur ~47 menit. Klaim berikutnya pada: 20:28:41
+[2026-10-29 20:28:41] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-29 20:28:43] ==================================================
+[2026-10-29 20:28:43] >> KLAIM MAINET BERHASIL! <<
+[2026-10-29 20:28:43] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-29 20:28:43] Total Shares: 5,176,029.11
+[2026-10-29 20:28:43] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-29 20:28:43] Need Captcha: True
+[2026-10-29 20:28:43] ==================================================
+[2026-10-29 20:28:43] Tidur ~51 menit. Klaim berikutnya pada: 21:20:21
+[2026-10-29 21:20:21] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-29 21:20:27] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-29 21:20:27] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-29 21:20:27] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-29 21:20:27] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-29 21:20:28] Mengirim hasil challenge: 269063
+[2026-10-29 21:20:28] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-29 21:20:28] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-29 21:20:29] ==================================================
+[2026-10-29 21:20:29] >> KLAIM MAINET BERHASIL! <<
+[2026-10-29 21:20:29] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-29 21:20:29] Total Shares: 5,196,452.81
+[2026-10-29 21:20:29] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-29 21:20:29] Need Captcha: True
+[2026-10-29 21:20:29] ==================================================
+[2026-10-29 21:20:29] Tidur ~52 menit. Klaim berikutnya pada: 22:12:42
+[2026-10-29 22:12:42] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-29 22:12:43] ==================================================
+[2026-10-29 22:12:43] >> KLAIM MAINET BERHASIL! <<
+[2026-10-29 22:12:43] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-29 22:12:43] Total Shares: 5,217,058.99
+[2026-10-29 22:12:43] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-29 22:12:43] Need Captcha: True
+[2026-10-29 22:12:43] ==================================================
+[2026-10-29 22:12:43] Tidur ~58 menit. Klaim berikutnya pada: 23:11:24
+[2026-10-29 23:11:24] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-29 23:11:25] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-29 23:11:25] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-29 23:11:25] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-29 23:11:27] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-29 23:11:27] Mengirim hasil challenge: 539218
+[2026-10-29 23:11:28] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-29 23:11:28] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-29 23:11:29] ==================================================
+[2026-10-29 23:11:29] >> KLAIM MAINET BERHASIL! <<
+[2026-10-29 23:11:29] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-29 23:11:29] Total Shares: 5,240,242.95
+[2026-10-29 23:11:29] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-29 23:11:29] Need Captcha: True
+[2026-10-29 23:11:29] ==================================================
+[2026-10-29 23:11:29] Tidur ~55 menit. Klaim berikutnya pada: 00:07:25
+[2026-10-30 00:07:25] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-30 00:07:26] ==================================================
+[2026-10-30 00:07:26] >> KLAIM MAINET BERHASIL! <<
+[2026-10-30 00:07:26] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-30 00:07:26] Total Shares: 5,262,314.49
+[2026-10-30 00:07:26] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-30 00:07:26] Need Captcha: True
+[2026-10-30 00:07:26] ==================================================
+[2026-10-30 00:07:26] Tidur ~60 menit. Klaim berikutnya pada: 01:07:49
+[2026-10-30 01:07:49] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-30 01:07:55] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-30 01:07:55] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-30 01:07:55] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-30 01:07:56] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-30 01:07:56] Mengirim hasil challenge: 140625
+[2026-10-30 01:07:56] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-30 01:07:56] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-30 01:07:57] ==================================================
+[2026-10-30 01:07:57] >> KLAIM MAINET BERHASIL! <<
+[2026-10-30 01:07:57] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-30 01:07:57] Total Shares: 5,286,190.00
+[2026-10-30 01:07:57] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-30 01:07:57] Need Captcha: True
+[2026-10-30 01:07:57] ==================================================
+[2026-10-30 01:07:57] Tidur ~58 menit. Klaim berikutnya pada: 02:06:47
+[2026-10-30 02:06:47] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-30 02:06:48] ==================================================
+[2026-10-30 02:06:48] >> KLAIM MAINET BERHASIL! <<
+[2026-10-30 02:06:48] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-30 02:06:48] Total Shares: 5,309,404.70
+[2026-10-30 02:06:48] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-30 02:06:48] Need Captcha: True
+[2026-10-30 02:06:48] ==================================================
+[2026-10-30 02:06:48] Tidur ~45 menit. Klaim berikutnya pada: 02:52:17
+[2026-10-30 02:52:17] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-30 02:52:18] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-30 02:52:18] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-30 02:52:18] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-30 02:52:18] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-30 02:52:19] Mengirim hasil challenge: 138463
+[2026-10-30 02:52:19] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-30 02:52:20] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-30 02:52:20] ==================================================
+[2026-10-30 02:52:20] >> KLAIM MAINET BERHASIL! <<
+[2026-10-30 02:52:20] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-30 02:52:20] Total Shares: 5,327,368.21
+[2026-10-30 02:52:20] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-30 02:52:20] Need Captcha: True
+[2026-10-30 02:52:20] ==================================================
+[2026-10-30 02:52:20] Tidur ~45 menit. Klaim berikutnya pada: 03:37:34
+[2026-10-30 03:37:34] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-30 03:37:35] ==================================================
+[2026-10-30 03:37:35] >> KLAIM MAINET BERHASIL! <<
+[2026-10-30 03:37:35] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-30 03:37:35] Total Shares: 5,345,219.39
+[2026-10-30 03:37:35] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-30 03:37:35] Need Captcha: True
+[2026-10-30 03:37:35] ==================================================
+[2026-10-30 03:37:35] Tidur ~47 menit. Klaim berikutnya pada: 04:25:28
+[2026-10-30 04:25:28] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-30 04:25:29] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-30 04:25:29] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-30 04:25:29] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-30 04:25:29] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-30 04:25:30] Mengirim hasil challenge: 803685
+[2026-10-30 04:25:31] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-30 04:25:31] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-30 04:25:31] ==================================================
+[2026-10-30 04:25:31] >> KLAIM MAINET BERHASIL! <<
+[2026-10-30 04:25:31] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-30 04:25:31] Total Shares: 5,364,131.69
+[2026-10-30 04:25:31] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-30 04:25:31] Need Captcha: True
+[2026-10-30 04:25:31] ==================================================
+[2026-10-30 04:25:31] Tidur ~46 menit. Klaim berikutnya pada: 05:12:28
+[2026-10-30 05:12:28] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-30 05:12:34] ==================================================
+[2026-10-30 05:12:34] >> KLAIM MAINET BERHASIL! <<
+[2026-10-30 05:12:34] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-30 05:12:34] Total Shares: 5,382,693.31
+[2026-10-30 05:12:34] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-30 05:12:34] Need Captcha: True
+[2026-10-30 05:12:34] ==================================================
+[2026-10-30 05:12:34] Tidur ~55 menit. Klaim berikutnya pada: 06:08:12
+[2026-10-30 06:08:12] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-30 06:08:13] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-30 06:08:13] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-30 06:08:13] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-30 06:08:14] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-30 06:08:15] Mengirim hasil challenge: 478354
+[2026-10-30 06:08:16] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-30 06:08:16] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-30 06:08:17] ==================================================
+[2026-10-30 06:08:17] >> KLAIM MAINET BERHASIL! <<
+[2026-10-30 06:08:17] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-30 06:08:17] Total Shares: 5,404,670.21
+[2026-10-30 06:08:17] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-30 06:08:17] Need Captcha: True
+[2026-10-30 06:08:17] ==================================================
+[2026-10-30 06:08:17] Tidur ~57 menit. Klaim berikutnya pada: 07:06:09
+[2026-10-30 07:06:09] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-30 07:06:09] ==================================================
+[2026-10-30 07:06:09] >> KLAIM MAINET BERHASIL! <<
+[2026-10-30 07:06:09] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-30 07:06:09] Total Shares: 5,427,501.33
+[2026-10-30 07:06:09] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-30 07:06:09] Need Captcha: True
+[2026-10-30 07:06:09] ==================================================
+[2026-10-30 07:06:09] Tidur ~56 menit. Klaim berikutnya pada: 08:02:19
+[2026-10-30 08:02:19] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-30 08:02:20] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-30 08:02:20] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-30 08:02:20] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-30 08:02:20] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-30 08:02:21] Mengirim hasil challenge: 430438
+[2026-10-30 08:02:22] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-30 08:02:22] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-30 08:02:22] ==================================================
+[2026-10-30 08:02:22] >> KLAIM MAINET BERHASIL! <<
+[2026-10-30 08:02:22] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-30 08:02:22] Total Shares: 5,449,678.08
+[2026-10-30 08:02:22] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-30 08:02:22] Need Captcha: True
+[2026-10-30 08:02:22] ==================================================
+[2026-10-30 08:02:22] Tidur ~57 menit. Klaim berikutnya pada: 08:59:32
+[2026-10-30 08:59:32] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-30 08:59:32] ==================================================
+[2026-10-30 08:59:32] >> KLAIM MAINET BERHASIL! <<
+[2026-10-30 08:59:32] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-30 08:59:32] Total Shares: 5,472,233.34
+[2026-10-30 08:59:32] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-30 08:59:32] Need Captcha: True
+[2026-10-30 08:59:32] ==================================================
+[2026-10-30 08:59:32] Tidur ~50 menit. Klaim berikutnya pada: 09:49:43
+[2026-10-30 09:49:43] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-30 09:49:44] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-30 09:49:44] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-30 09:49:44] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-30 09:49:45] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-30 09:49:45] Mengirim hasil challenge: 167964
+[2026-10-30 09:49:45] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-30 09:49:45] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-30 09:49:46] ==================================================
+[2026-10-30 09:49:46] >> KLAIM MAINET BERHASIL! <<
+[2026-10-30 09:49:46] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-30 09:49:46] Total Shares: 5,492,046.79
+[2026-10-30 09:49:46] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-30 09:49:46] Need Captcha: True
+[2026-10-30 09:49:46] ==================================================
+[2026-10-30 09:49:46] Tidur ~58 menit. Klaim berikutnya pada: 10:48:15
+[2026-10-30 10:48:15] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-30 10:48:16] ==================================================
+[2026-10-30 10:48:16] >> KLAIM MAINET BERHASIL! <<
+[2026-10-30 10:48:16] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-30 10:48:16] Total Shares: 5,515,124.92
+[2026-10-30 10:48:16] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-30 10:48:16] Need Captcha: True
+[2026-10-30 10:48:16] ==================================================
+[2026-10-30 10:48:16] Tidur ~50 menit. Klaim berikutnya pada: 11:38:30
+[2026-10-30 11:38:30] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-30 11:38:36] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-30 11:38:36] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-30 11:38:36] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-30 11:38:37] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-30 11:38:43] >> Exception saat memecahkan CHQ challenge: Command '['node', '-e', '\n        const elements = {};\n        const document = {\n          getElementById: (id) => {\n            if (!elements[id]) {\n              elements[id] = {\n                getAttribute: (k) => null,\n                set innerHTML(html) {\n                  const regex = /id="([^"]+)"\\s+_d_="([^"]+)"/g;\n                  let m;\n                  while ((m = regex.exec(html)) !== null) {\n                    const elId = m[1];\n                    const dVal = m[2];\n                    elements[elId] = { getAttribute: (attr) => (attr === "_d_" ? dVal : null) };\n                  }\n                }\n              };\n            }\n            return elements[id];\n          }\n        };\n        const code = "(function() {\\ntry {eval(\\"document.getElementById\\");} catch {return 0xC0FEBABE;}\\nvar d = document;\\nvar g = \\"getElementById\\";\\nvar a = \\"getAttribute\\";\\nvar rt = d[g](\\"_chr_\\");\\nrt[\\"inner\\" + \\"HTM\\" + \\"L\\"] = \'<div><div id=\\"_sC_0\\" _d_=\\"37731\\"><div id=\\"_lj_1\\" _d_=\\"32835\\"><div id=\\"_Qf_2\\" _d_=\\"40112\\"><div id=\\"_WS_3\\" _d_=\\"85477\\"><div id=\\"_qy_4\\" _d_=\\"71072\\"></div></div></div></div></div></div>\';\\nvar va = d[g](\\"_Qf_2\\")[a](\\"_d_\\"); \\nvar vb = d[g](\\"_lj_1\\")[a](\\"_d_\\");\\nreturn (+va * +vb) % 823596;\\n})();";\n        const res = eval(code);\n        console.log(res);\n        ']' timed out after 5 seconds <<
+[2026-10-30 11:38:43] >> Gagal menyelesaikan challenge CHQ <<
+[2026-10-30 11:38:43] Tidur ~60 menit. Klaim berikutnya pada: 12:39:23
+[2026-10-30 12:39:23] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-30 12:39:24] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-30 12:39:24] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-30 12:39:24] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-30 12:39:25] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-30 12:39:25] Mengirim hasil challenge: 207604
+[2026-10-30 12:39:26] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-30 12:39:26] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-30 12:39:26] ==================================================
+[2026-10-30 12:39:26] >> KLAIM MAINET BERHASIL! <<
+[2026-10-30 12:39:26] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-30 12:39:26] Total Shares: 5,558,983.43
+[2026-10-30 12:39:26] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-30 12:39:26] Need Captcha: True
+[2026-10-30 12:39:26] ==================================================
+[2026-10-30 12:39:26] Tidur ~54 menit. Klaim berikutnya pada: 13:33:53
+[2026-10-30 13:33:53] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-30 13:33:59] ==================================================
+[2026-10-30 13:33:59] >> KLAIM MAINET BERHASIL! <<
+[2026-10-30 13:33:59] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-30 13:33:59] Total Shares: 5,580,502.23
+[2026-10-30 13:33:59] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-30 13:33:59] Need Captcha: True
+[2026-10-30 13:33:59] ==================================================
+[2026-10-30 13:33:59] Tidur ~54 menit. Klaim berikutnya pada: 14:28:37
+[2026-10-30 14:28:37] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-30 14:28:38] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-30 14:28:38] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-30 14:28:38] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-30 14:28:39] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-30 14:28:39] Mengirim hasil challenge: 55643
+[2026-10-30 14:28:40] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-30 14:28:40] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-30 14:28:40] ==================================================
+[2026-10-30 14:28:40] >> KLAIM MAINET BERHASIL! <<
+[2026-10-30 14:28:40] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-30 14:28:40] Total Shares: 5,602,074.79
+[2026-10-30 14:28:40] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-30 14:28:40] Need Captcha: True
+[2026-10-30 14:28:40] ==================================================
+[2026-10-30 14:28:40] Tidur ~48 menit. Klaim berikutnya pada: 15:17:05
+[2026-10-30 15:17:05] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-30 15:17:06] ==================================================
+[2026-10-30 15:17:06] >> KLAIM MAINET BERHASIL! <<
+[2026-10-30 15:17:06] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-30 15:17:06] Total Shares: 5,621,180.12
+[2026-10-30 15:17:06] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-30 15:17:06] Need Captcha: True
+[2026-10-30 15:17:06] ==================================================
+[2026-10-30 15:17:06] Tidur ~45 menit. Klaim berikutnya pada: 16:02:31
+[2026-10-30 16:02:31] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-30 16:02:31] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-30 16:02:31] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-30 16:02:31] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-30 16:02:32] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-30 16:02:32] Mengirim hasil challenge: 6640
+[2026-10-30 16:02:33] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-30 16:02:33] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-30 16:02:34] ==================================================
+[2026-10-30 16:02:34] >> KLAIM MAINET BERHASIL! <<
+[2026-10-30 16:02:34] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-30 16:02:34] Total Shares: 5,639,117.59
+[2026-10-30 16:02:34] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-30 16:02:34] Need Captcha: True
+[2026-10-30 16:02:34] ==================================================
+[2026-10-30 16:02:34] Tidur ~46 menit. Klaim berikutnya pada: 16:48:48
+[2026-10-30 16:48:48] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-30 16:48:49] ==================================================
+[2026-10-30 16:48:49] >> KLAIM MAINET BERHASIL! <<
+[2026-10-30 16:48:49] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-30 16:48:49] Total Shares: 5,657,363.36
+[2026-10-30 16:48:49] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-30 16:48:49] Need Captcha: True
+[2026-10-30 16:48:49] ==================================================
+[2026-10-30 16:48:49] Tidur ~45 menit. Klaim berikutnya pada: 17:34:00
+[2026-10-30 17:34:00] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-30 17:34:01] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-30 17:34:01] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-30 17:34:01] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-30 17:34:01] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-30 17:34:01] Mengirim hasil challenge: 15799
+[2026-10-30 17:34:02] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-30 17:34:02] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-30 17:34:03] ==================================================
+[2026-10-30 17:34:03] >> KLAIM MAINET BERHASIL! <<
+[2026-10-30 17:34:03] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-30 17:34:03] Total Shares: 5,675,207.26
+[2026-10-30 17:34:03] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-30 17:34:03] Need Captcha: True
+[2026-10-30 17:34:03] ==================================================
+[2026-10-30 17:34:03] Tidur ~55 menit. Klaim berikutnya pada: 18:29:22
+[2026-10-30 18:29:22] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-30 18:29:23] ==================================================
+[2026-10-30 18:29:23] >> KLAIM MAINET BERHASIL! <<
+[2026-10-30 18:29:23] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-30 18:29:23] Total Shares: 5,697,035.96
+[2026-10-30 18:29:23] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-30 18:29:23] Need Captcha: True
+[2026-10-30 18:29:23] ==================================================
+[2026-10-30 18:29:23] Tidur ~55 menit. Klaim berikutnya pada: 19:25:13
+[2026-10-30 19:25:13] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-30 19:25:14] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-30 19:25:14] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-30 19:25:14] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-30 19:25:16] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-30 19:25:16] Mengirim hasil challenge: 8112
+[2026-10-30 19:25:17] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-30 19:25:17] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-30 19:25:18] ==================================================
+[2026-10-30 19:25:18] >> KLAIM MAINET BERHASIL! <<
+[2026-10-30 19:25:18] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-30 19:25:18] Total Shares: 5,719,095.89
+[2026-10-30 19:25:18] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-30 19:25:18] Need Captcha: True
+[2026-10-30 19:25:18] ==================================================
+[2026-10-30 19:25:18] Tidur ~55 menit. Klaim berikutnya pada: 20:20:54
+[2026-10-30 20:20:54] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-30 20:20:55] ==================================================
+[2026-10-30 20:20:55] >> KLAIM MAINET BERHASIL! <<
+[2026-10-30 20:20:55] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-30 20:20:55] Total Shares: 5,741,037.32
+[2026-10-30 20:20:55] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-30 20:20:55] Need Captcha: True
+[2026-10-30 20:20:55] ==================================================
+[2026-10-30 20:20:55] Tidur ~49 menit. Klaim berikutnya pada: 21:10:07
+[2026-10-30 21:10:07] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-30 21:10:08] >> ERROR 401: Token Bearer mAInet kadaluarsa! <<
+[2026-10-30 21:10:08] Mencoba auto-refresh token menggunakan init_data...
+[2026-10-30 21:10:08] Mencoba auto-login mAInet via /api/account/login...
+[2026-10-30 21:10:10] Menerima challenge CHQ anti-bot, menyelesaikan cipher DOM...
+[2026-10-30 21:10:10] Mengirim hasil challenge: 258563
+[2026-10-30 21:10:11] >> AUTO-LOGIN MAINET BERHASIL! Token JWT baru berhasil disimpan <<
+[2026-10-30 21:10:11] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-30 21:10:12] ==================================================
+[2026-10-30 21:10:12] >> KLAIM MAINET BERHASIL! <<
+[2026-10-30 21:10:12] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-30 21:10:12] Total Shares: 5,760,479.24
+[2026-10-30 21:10:12] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-30 21:10:12] Need Captcha: True
+[2026-10-30 21:10:12] ==================================================
+[2026-10-30 21:10:12] Tidur ~52 menit. Klaim berikutnya pada: 22:02:23
+[2026-10-30 22:02:23] Mengeksekusi klaim mining reward di mAInet...
+[2026-10-30 22:02:24] ==================================================
+[2026-10-30 22:02:24] >> KLAIM MAINET BERHASIL! <<
+[2026-10-30 22:02:24] Player      : Zelx_arthur (ID: 7672016530)
+[2026-10-30 22:02:24] Total Shares: 5,781,076.49
+[2026-10-30 22:02:24] ASIC Power  : 0.006575062 TH/s (ASIC Lvl 100)
+[2026-10-30 22:02:24] Need Captcha: True
+[2026-10-30 22:02:24] ==================================================
+[2026-10-30 22:02:24] Tidur ~48 menit. Klaim berikutnya pada: 22:51:06

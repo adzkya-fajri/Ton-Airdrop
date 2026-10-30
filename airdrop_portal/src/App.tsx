@@ -9,7 +9,7 @@ import { AirdropItem } from './types/airdrop';
 import { SearchX, Shield, Sparkles } from 'lucide-react';
 
 const CATEGORIES = [
-  'Semua',
+  'All',
   'Crownville Corp',
   'Gram Buddies Network',
   'Telegram MiniApps',
@@ -20,7 +20,7 @@ const CATEGORIES = [
 ];
 
 export default function App() {
-  const [selectedCategory, setSelectedCategory] = useState('Semua');
+  const [selectedCategory, setSelectedCategory] = useState('All');
   const [searchQuery, setSearchQuery] = useState('');
   const [activeModalItem, setActiveModalItem] = useState<AirdropItem | null>(null);
 
@@ -31,7 +31,7 @@ export default function App() {
     return allAirdrops.filter((item) => {
       // Category check
       const matchesCategory =
-        selectedCategory === 'Semua' ||
+        selectedCategory === 'All' ||
         item.ecosystem === selectedCategory ||
         item.status === selectedCategory;
 
@@ -82,7 +82,7 @@ export default function App() {
   }, []);
 
   const handleResetFilters = () => {
-    setSelectedCategory('Semua');
+    setSelectedCategory('All');
     setSearchQuery('');
   };
 
@@ -125,16 +125,16 @@ export default function App() {
               <SearchX className="w-6 h-6" />
             </div>
             <h3 className="text-base font-bold text-white mb-1">
-              Tidak Ada Bot Ditemukan
+              No Bots Found
             </h3>
             <p className="text-xs text-slate-400 max-w-sm mx-auto mb-5 leading-relaxed">
-              Tidak ada bot airdrop yang cocok dengan kata kunci &ldquo;{searchQuery}&rdquo; pada kategori {selectedCategory}.
+              No airdrop bots match the keyword &ldquo;{searchQuery}&rdquo; in category {selectedCategory}.
             </p>
             <button
               onClick={handleResetFilters}
               className="px-4 py-2 rounded-xl bg-amethyst hover:bg-amethyst-hover text-white text-xs font-semibold transition-colors"
             >
-              Reset Filter & Cari Ulang
+              Reset Filters & Search Again
             </button>
           </div>
         )}
@@ -145,13 +145,13 @@ export default function App() {
         <div className="max-w-7xl mx-auto flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-slate-400">
           <div className="flex items-center gap-2">
             <Shield className="w-4 h-4 text-emerald-400" />
-            <span>Katalog Bot & Airdrop Telegram Terverifikasi</span>
+            <span>Verified Telegram Bots & Airdrop Directory</span>
           </div>
 
           <div className="flex items-center gap-4">
             <span className="flex items-center gap-1.5">
               <Sparkles className="w-3.5 h-3.5 text-amethyst" />
-              Didukung Jaringan The Open Network (TON)
+              Powered by The Open Network (TON)
             </span>
           </div>
         </div>

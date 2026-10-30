@@ -1,0 +1,25 @@
+{
+  "bots": [
+    {
+      "username": "ClickBeeLTCBot",
+      "coin": "LTC",
+      "min_withdraw": 0.003
+    },
+    {
+      "username": "ClickBeeBot",
+      "coin": "TRX",
+      "min_withdraw": 3.0
+    },
+    {
+      "username": "ClickBeeDOGEBot",
+      "coin": "DOGE",
+      "min_withdraw": 3.0
+    }
+  ],
+  "cycle_interval_seconds": 900,
+  "max_join_tasks_per_cycle": 5,
+  "max_bot_tasks_per_cycle": 5,
+  "max_visit_tasks_per_cycle": 5,
+  "retention_hours": 48,
+  "auto_cleanup_old_channels": true
+}

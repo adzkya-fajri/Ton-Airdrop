@@ -1,0 +1,18 @@
+{
+  "telegram_id": "7672016530",
+  "api_base": "https://api.nexogainx.com/api",
+  "init_data": "",
+  "user": {
+    "id": 7672016530,
+    "first_name": "Zalx",
+    "last_name": "Arthur👁️",
+    "username": "Zelx_arthur",
+    "language_code": "en",
+    "allows_write_to_pm": true,
+    "photo_url": "https://t.me/i/userpic/320/v96kRhHY1T977z3IwkUGjaURizI7RcwjhB6EY86FyCOFphG0qaYldaFhiyTUG2rW.svg"
+  },
+  "cycle_interval_seconds": 1800,
+  "auto_claim_checkin": true,
+  "auto_claim_mining": true,
+  "auto_claim_tasks": true
+}

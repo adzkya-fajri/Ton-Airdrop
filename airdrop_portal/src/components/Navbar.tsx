@@ -14,7 +14,7 @@ export default function Navbar() {
                 TON Web3
               </span>
             </div>
-            <div className="text-[11px] text-slate-400">Telegram Miner & Airdrop Registry</div>
+            <div className="text-[11px] text-slate-400">Telegram Miner & Airdrop Directory</div>
           </div>
         </div>
 
@@ -22,14 +22,14 @@ export default function Navbar() {
         <div className="flex items-center gap-4">
           <div className="hidden sm:flex items-center gap-2 text-xs text-slate-300 bg-obsidian-850 px-3 py-1.5 rounded-lg border border-obsidian-700">
             <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />
-            <span className="font-semibold text-white">26</span> Proyek Aktif
+            <span className="font-semibold text-white">26</span> Active Bots
           </div>
 
           <a
             href="#catalog"
             className="text-xs font-semibold px-3 py-1.5 rounded-lg bg-obsidian-800 hover:bg-obsidian-700 border border-obsidian-700 text-slate-200 transition-colors"
           >
-            Lihat List
+            Browse Catalog
           </a>
         </div>
       </div>

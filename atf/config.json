@@ -1,0 +1,13 @@
+{
+  "init_data": "query_id=AAGSrklJAwAAAJKuSUkwwhmy&user=%7B%22id%22%3A7672016530%2C%22first_name%22%3A%22Zalx%22%2C%22last_name%22%3A%22Arthur%F0%9F%91%81%EF%B8%8F%22%2C%22username%22%3A%22Zelx_arthur%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%2C%22photo_url%22%3A%22https%3A%5C%2F%5C%2Ft.me%5C%2Fi%5C%2Fuserpic%5C%2F320%5C%2Fv96kRhHY1T977z3IwkUGjaURizI7RcwjhB6EY86FyCOFphG0qaYldaFhiyTUG2rW.svg%22%7D&auth_date=1793372347&signature=uPoB-uFO35Iwz6qhMvn7JzulnryykGwuLVpx80zXQ59jhSn0qcGy9logc0_eyAcMfxlwmOrLA0sgED5spy9xBw&hash=6b68aa81f52ab1b23323f929a76c2371af42da49babaebacab0774b54ab5234e",
+  "tma_session": "eyJ0Z19pZCI6Ijc2NzIwMTY1MzAiLCJpaCI6IjBkYjkxNmUxMDAzZTcwMjlkZDk1ZTMxYTA4Mjk3ODZjMTJmZDI4NDFjM2I5M2MyOTA4ZmE3MmIyYjc5ZmQzNmMiLCJ1YSI6IiIsImhzdCI6ImF0Zm1pbmVycy5hc2xvbmkub25saW5lIiwiaWF0IjoxNzkzMzcyMzQ4LCJleHAiOjE3OTM1NDUxNDh9.-tpGSqNDI7XtMb8og6mOmmWgAbA4UB0RVZ_e3BvFxa8",
+  "cookie": "cf_clearance=KXJJ1Vv8qI5H_wUj7XwsAtjPlvslkWPm57..lVj1yHY-1792594601-1.2.1.1-TuLhZl25l4I7EJdTkqBB2EpWd7v_vPsPhL5vQEkanWN5ONfHEKYSNcwQetU.GG6YWRIY8oe7oL0MNjGooPhwNx_GO9g.Gc5Puzb4dhqykO39mcUJdu9ZlhSmfIf9yGiof2.T1jS4CAUi8NFgk1f0dTyM2tjv_.UpYAlTHGJ5L4yD63QT.xEMo2Mtyv_0tAkWcFxxs6y7QOQfcYf6y2sUxRMbb.0M3TrXHnimKp1nT6VMFmN0_XlZkYANp1KEk4qSJYlR4KV8k5K3IHfRyI.C0Sf6fUO363ZBUHyiwN116euLUnmy7GC6MYnUY_biYnIYzMLzHbjRFFMZcO9uIGA3G1hSmiHSx4ocrr.SZOkpVxE",
+  "keepalive_interval_seconds": 120,
+  "min_claim_interval_minutes": 60,
+  "max_claim_interval_minutes": 90,
+  "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+  "tg_id": 7672016530,
+  "username": "Zelx_arthur",
+  "tap_client_id": "c_44b291c02418473f",
+  "activity_lease_token": "eyJ2IjoxLCJ0Z19pZCI6Ijc2NzIwMTY1MzAiLCJkaCI6IjM4Yjg3MjU0MzE5YzQ2Y2Y5MDEzNjdjMDAzYzM5ODE4NzIzZGViMGFiNDNkODZmYmQwMzYzZDk4YmY0NDY4YTkiLCJzaCI6ImMzZDZjOTVhMDdlMWFhM2U0NzUyOWIxYTQ4MWE2MTVjNzY4M2NkZGViYTYzNmM1ZmRiYWMwYjk1MmQzOTI1MmEiLCJoc3QiOiJhdGZtaW5lcnMuYXNsb25pLm9ubGluZSIsImlhdCI6MTc5MjkxMzgxNSwiZXhwIjoxNzkzMDg2NjE1LCJpd2wiOjAsImloNDAiOjAsImlxYiI6MSwiaWsiOjAsImk1IjowLCJpMjAiOjAsImljIjowLCJpcyI6LTEsImloIjowLCJpbSI6NjIuODk3OX0.39d0mE_yxOn2Uyi9UxHStQpEEoKmga3NkWiKkt7PKWs"
+}

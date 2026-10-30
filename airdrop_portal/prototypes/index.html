@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="id">
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -216,7 +216,7 @@
       <div class="badge-icon">⬡</div>
       <div>
         <div class="logo-title">Airdrop Portal - 3D Altcoin Showcase</div>
-        <div class="logo-sub">Pratinjau Prototipe Hero Canvas Tiga Dimensi</div>
+        <div class="logo-sub">Three-Dimensional Hero Canvas Prototype Preview</div>
       </div>
     </div>
     <div style="font-size: 0.8rem; color: #8b5cf6; font-weight: 600;">
@@ -228,53 +228,52 @@
     <div class="canvas-panel">
       <div id="three-viewport"></div>
       <div class="viewport-overlay">
-        Gunakan klik kiri mouse untuk memutar koin | Scroll untuk zoom
+        Left-click and drag to rotate | Scroll to zoom
       </div>
     </div>
 
     <aside class="sidebar">
       <div>
-        <h2>Pilih Prototipe Koin 3D</h2>
-        <p class="hint">Klik opsi di bawah untuk melihat wujud 3D interaktif pada kanvas di samping:</p>
+        <h2>Select 3D Coin Prototype</h2>
+        <p class="hint">Click an option below to view the interactive 3D model in the viewport:</p>
       </div>
 
       <div class="options-list">
-        <!-- Opsi 1 -->
-        <div class="option-card active" onclick="switchPrototype('sovereign')">
-          <span class="option-tag tag-a">Tipe 1: Classic Web3</span>
+        <!-- Option 1 -->
+        <div class="option-card" onclick="switchPrototype('sovereign')">
+          <span class="option-tag tag-a">Type 1: Classic Web3</span>
           <div class="option-title">The Sovereign Medallion</div>
-          <div class="option-desc">Koin tebal metalik obsidian bertepi emas ungu dengan relief logo Altcoin berpahat mikro. Memberi kesan terpercaya dan kokoh.</div>
+          <div class="option-desc">Thick metallic obsidian coin with purple-gold trim and micro-sculpted Altcoin relief. Stately and dependable aesthetic.</div>
         </div>
 
-        <!-- Opsi 2 (Sesuai Gambar TON Anda - Tanpa Cincin) -->
+        <!-- Option 2 (Official TON Coin) -->
         <div class="option-card active" onclick="switchPrototype('kinetic')">
           <span class="option-tag tag-b">Official TON Coin (Clean)</span>
-          <div class="option-title">Official 3D TON Coin (Tanpa Cincin)</div>
-          <div class="option-desc">Koin 3D murni dengan lingkaran biru resmi TON (#0098ea) dan logo segitiga terbalik putih garis tengah persis gambar Anda. Bebas dari cincin yang menghalangi, berotasi mulus dan melayang dengan elegan.</div>
+          <div class="option-title">Official 3D TON Coin</div>
+          <div class="option-desc">Pure 3D coin featuring official TON blue (#0098ea) and white inverted triangle with vertical divider. Clean profile, floating smoothly with kinetic outer orbital rings.</div>
         </div>
 
-        <!-- Opsi 3 -->
+        <!-- Option 3 -->
         <div class="option-card" onclick="switchPrototype('prism')">
-          <span class="option-tag tag-c">Tipe 3: Next-Gen Gem</span>
+          <span class="option-tag tag-c">Type 3: Next-Gen Gem</span>
           <div class="option-title">The Hex Crystalline Prism</div>
-          <div class="option-desc">Token heksagonal kristal bersegi presisi dengan transmisi bias cahaya violet dan tepi metalik tipis. Estetika modern dan elegan.</div>
+          <div class="option-desc">Precision faceted crystal hexagon token with violet light refraction and thin metallic rim. Modern and high-tech.</div>
         </div>
       </div>
 
       <div>
-        <div style="font-size: 0.85rem; font-weight: 600; margin-bottom: 0.5rem; color: #f8fafc;">Kontrol Kanvas:</div>
+        <div style="font-size: 0.85rem; font-weight: 600; margin-bottom: 0.5rem; color: #f8fafc;">Canvas Controls:</div>
         <div class="control-row">
-          <button class="btn-action" id="btn-toggle-spin" onclick="toggleAutoSpin()">Jeda Rotasi</button>
-          <button class="btn-action" onclick="resetCamera()">Reset Sudut</button>
+          <button class="btn-action" id="btn-toggle-spin" onclick="toggleAutoSpin()">Pause Rotation</button>
+          <button class="btn-action" onclick="resetCamera()">Reset Angle</button>
         </div>
       </div>
 
       <div class="spec-box" id="detail-box">
-        <strong>Detail Teknis Tipe 1:</strong><br>
-        • Material: MeshStandardMaterial (Metalness 0.88, Roughness 0.22)<br>
-        • Pola Relief: Node Jaringan Kriptografis Altcoin<br>
-        • Pencahayaan: Key Light Violet + Rim Light Amber Warm<br>
-        • Performa: Sangat hemat GPU (rendah draw call).
+        <strong>Technical Details: Official TON Coin (Clean)</strong><br>
+        • Geometry: Front and back face discs with official TON Blue (#0098ea) & white center-divided inverted triangle<br>
+        • Kinetic Accents: Outer orbital rings rotating independently without obstructing the coin face<br>
+        • Dynamic Shading: Multi-point lighting with smooth metallic rim reflections.
       </div>
     </aside>
   </div>
@@ -672,29 +671,29 @@
         event.currentTarget.classList.add('active');
         loadKineticModel();
         detailBox.innerHTML = `
-          <strong>Detail Teknis Official TON Kinetic Coin (Sesuai Gambar):</strong><br>
-          • Logo: Segitiga terbalik putih dengan garis vertikal tengah persis logo resmi TON.<br>
-          • Warna: Background lingkaran biru TON (#0098ea) dengan pinggiran koin obsidian metalik.<br>
-          • Giroskop: Cincin orbital ganda berotasi multi-axis (Cyan TON & Violet Telegram).<br>
-          • Respon: Memantulkan kilau cahaya saat koin dan cincin berputar.
+          <strong>Technical Details: Official TON Kinetic Coin:</strong><br>
+          • Logo: White inverted triangle with vertical center divider matching the official TON mark.<br>
+          • Color: Vibrant TON blue circle background (#0098ea) with obsidian metallic bevel edges.<br>
+          • Gyroscope: Dual outer orbital kinetic rings with multi-axis rotation.<br>
+          • Lighting: Specular highlights reflecting smoothly across the coin face and orbital bands.
         `;
       } else if (type === 'ton_medallion') {
         event.currentTarget.classList.add('active');
         loadTonMedallionModel();
         detailBox.innerHTML = `
-          <strong>Detail Teknis Tipe 2B (Kinetic TON Heavy Coin):</strong><br>
-          • Model: Koin Obsidian Tebal ber-relief lambang TON Crystal 3D<br>
-          • Material: Metalik 0.88 dengan Trim Cyan & Cincin Giroskop Kinetik<br>
-          • Karakter: Perpaduan koin fisik klasik dengan animasi giroskop masa depan.
+          <strong>Technical Details: Type 2B (Kinetic TON Heavy Coin):</strong><br>
+          • Model: Thick obsidian medallion with micro-sculpted TON crystal relief<br>
+          • Material: Metallic 0.88 with Cyan trim & kinetic gyroscope rings<br>
+          • Character: Balance of classical physical coinage and futuristic kinetics.
         `;
       } else if (type === 'prism') {
         event.currentTarget.classList.add('active');
         loadPrismModel();
         detailBox.innerHTML = `
-          <strong>Detail Teknis Tipe 3 (The Hex Crystalline Prism):</strong><br>
-          • Material: Physical Transmission (Kaca Violet Refraktif) + Wireframe Neon<br>
-          • Karakter: Unik, futuristik, kristal tembus pandang dengan inti bercahaya.<br>
-          • Respon Kursor: Refleksi cahaya membiaskan kilau pada sudut-sudut faset heksagonal.
+          <strong>Technical Details: Type 3 (The Hex Crystalline Prism):</strong><br>
+          • Material: Physical transmission (refractive violet glass) + neon wireframe<br>
+          • Character: Distinct, futuristic translucent gem with radiant inner core.<br>
+          • Cursor Interaction: Real-time lighting refracts across hexagonal facet vertices.
         `;
       }
     };
@@ -702,7 +701,7 @@
     window.toggleAutoSpin = function() {
       isSpinning = !isSpinning;
       const btn = document.getElementById('btn-toggle-spin');
-      btn.textContent = isSpinning ? 'Jeda Rotasi' : 'Lanjutkan Rotasi';
+      btn.textContent = isSpinning ? 'Pause Rotation' : 'Resume Rotation';
     };
 
     window.resetCamera = function() {

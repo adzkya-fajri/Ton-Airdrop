@@ -1,0 +1,47 @@
+{
+  "faucets": {
+    "telefaucet": {
+      "bot": "@Telefaucetbot",
+      "slug": "telefaucet",
+      "api_url": "https://boxtrust.ir/faucetmanager/f/telefaucet/api",
+      "init_data": "query_id=AAGSrklJAwAAAJKuSUnywmag&user=%7B%22id%22%3A7672016530%2C%22first_name%22%3A%22Zalx%22%2C%22last_name%22%3A%22Arthur%F0%9F%91%81%EF%B8%8F%22%2C%22username%22%3A%22Zelx_arthur%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%2C%22photo_url%22%3A%22https%3A%5C%2F%5C%2Ft.me%5C%2Fi%5C%2Fuserpic%5C%2F320%5C%2Fv96kRhHY1T977z3IwkUGjaURizI7RcwjhB6EY86FyCOFphG0qaYldaFhiyTUG2rW.svg%22%7D&auth_date=1793180504&signature=LCoOwhw0_Y-Ng2GjqRbpf2akwwGqISosuDnj-SaMklzoiW_cGyoWyqk_SLNjDdjBbbnV2AhfDznxhnZTshHPDg&hash=9e2acc941130fe107a040e65f09b5b6d5af453ce6eec078581906fb502657828"
+    },
+    "rocket-faucet": {
+      "bot": "@RocketFaucetBot",
+      "slug": "rocket-faucet",
+      "api_url": "https://boxtrust.ir/faucetmanager/f/rocket-faucet/api",
+      "init_data": "query_id=AAGSrklJAwAAAJKuSUmYpRi4&user=%7B%22id%22%3A7672016530%2C%22first_name%22%3A%22Zalx%22%2C%22last_name%22%3A%22Arthur%F0%9F%91%81%EF%B8%8F%22%2C%22username%22%3A%22Zelx_arthur%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%2C%22photo_url%22%3A%22https%3A%5C%2F%5C%2Ft.me%5C%2Fi%5C%2Fuserpic%5C%2F320%5C%2Fv96kRhHY1T977z3IwkUGjaURizI7RcwjhB6EY86FyCOFphG0qaYldaFhiyTUG2rW.svg%22%7D&auth_date=1793180504&signature=BA2Dfq22dwaomg9RQsfsDKgJ6RQwECaOEuVZoF7rJ_9AvTGsrPC8vW6owpHTvojsQ2XOGLr7rBueEX3zdk_xAA&hash=5705fa87ab106a5d0ba542d2c2e283ef67d365accbd8224ce215ac0c6d6f7240"
+    },
+    "feyorra-faucet": {
+      "bot": "@FeyorraFaucetBot",
+      "slug": "feyorra-faucet",
+      "api_url": "https://boxtrust.ir/faucetmanager/f/feyorra-faucet/api",
+      "init_data": "query_id=AAGSrklJAwAAAJKuSUmV7OjG&user=%7B%22id%22%3A7672016530%2C%22first_name%22%3A%22Zalx%22%2C%22last_name%22%3A%22Arthur%F0%9F%91%81%EF%B8%8F%22%2C%22username%22%3A%22Zelx_arthur%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%2C%22photo_url%22%3A%22https%3A%5C%2F%5C%2Ft.me%5C%2Fi%5C%2Fuserpic%5C%2F320%5C%2Fv96kRhHY1T977z3IwkUGjaURizI7RcwjhB6EY86FyCOFphG0qaYldaFhiyTUG2rW.svg%22%7D&auth_date=1793180505&signature=rC8NAkFcKTHiI9UTLvjPQYP1eonZdA8XOISPIY6OjRBoPIM1M_F9WdeENivGkpWiX3MvM7F6S8MOb5wJ0RcvBw&hash=1ddf946bfb6f3423c16f55d1fdffa7b02e4be16350c62549610da2f7c6ec3be5"
+    },
+    "tether-faucet": {
+      "bot": "@TetherFaucetBot",
+      "slug": "tether-faucet",
+      "api_url": "https://boxtrust.ir/faucetmanager/f/tether-faucet/api",
+      "init_data": "query_id=AAGSrklJAwAAAJKuSUnlFhqN&user=%7B%22id%22%3A7672016530%2C%22first_name%22%3A%22Zalx%22%2C%22last_name%22%3A%22Arthur%F0%9F%91%81%EF%B8%8F%22%2C%22username%22%3A%22Zelx_arthur%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%2C%22photo_url%22%3A%22https%3A%5C%2F%5C%2Ft.me%5C%2Fi%5C%2Fuserpic%5C%2F320%5C%2Fv96kRhHY1T977z3IwkUGjaURizI7RcwjhB6EY86FyCOFphG0qaYldaFhiyTUG2rW.svg%22%7D&auth_date=1793180505&signature=hrA4Ih3NEqLSYLXAqFaQvyIV4vKrgtnQ1l_rWLVAr5LaCU7OoWGtV3m6Ec3JbwJpnVGhu_h-d6V3WUrPwINMDQ&hash=ae362fd020bcf5d5d46930861e22eca369d93cba44e205d231fa38025e1f18b3"
+    },
+    "free-trx": {
+      "bot": "@FreeTRXbot",
+      "slug": "free-trx",
+      "api_url": "https://boxtrust.ir/faucetmanager/f/free-trx/api",
+      "init_data": "query_id=AAGSrklJAwAAAJKuSUl2E7uu&user=%7B%22id%22%3A7672016530%2C%22first_name%22%3A%22Zalx%22%2C%22last_name%22%3A%22Arthur%F0%9F%91%81%EF%B8%8F%22%2C%22username%22%3A%22Zelx_arthur%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%2C%22photo_url%22%3A%22https%3A%5C%2F%5C%2Ft.me%5C%2Fi%5C%2Fuserpic%5C%2F320%5C%2Fv96kRhHY1T977z3IwkUGjaURizI7RcwjhB6EY86FyCOFphG0qaYldaFhiyTUG2rW.svg%22%7D&auth_date=1793180505&signature=nBujc5KMCXMMqFalso7vgYU6jDEpP4RjzwBOum9SYD-1lxERwmmyvnOHy7z9ykTd8rjdCMTjArihzxrFd_GhAg&hash=81b79df1a6a6f8f83593dd07adaa5ea93e48010fcdd172568b73cde9bfea7234"
+    },
+    "telegram-faucet": {
+      "bot": "@FaucetTelegramBot",
+      "slug": "telegram-faucet",
+      "api_url": "https://boxtrust.ir/faucetmanager/f/telegram-faucet/api",
+      "init_data": "query_id=AAGSrklJAwAAAJKuSUn01ugx&user=%7B%22id%22%3A7672016530%2C%22first_name%22%3A%22Zalx%22%2C%22last_name%22%3A%22Arthur%F0%9F%91%81%EF%B8%8F%22%2C%22username%22%3A%22Zelx_arthur%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%2C%22photo_url%22%3A%22https%3A%5C%2F%5C%2Ft.me%5C%2Fi%5C%2Fuserpic%5C%2F320%5C%2Fv96kRhHY1T977z3IwkUGjaURizI7RcwjhB6EY86FyCOFphG0qaYldaFhiyTUG2rW.svg%22%7D&auth_date=1793180506&signature=kEBpgqNLPOglJzr2gzcF4L0j6G5E5CD92nSATNtP2sCEwo2_GnHNrZcI0pYNx72XGvC3Zol7hCCeayiB0N3sDQ&hash=fc588992f7b305e9f4b822f0639fb440bf65ef49e8a3e23560744bc76fdeaeb3"
+    },
+    "binance-invite": {
+      "bot": "@BinanceInviteBot",
+      "slug": "binance-invite",
+      "api_url": "https://boxtrust.ir/faucetmanager/f/binance-invite/api",
+      "init_data": "query_id=AAGSrklJAwAAAJKuSUmhxm0E&user=%7B%22id%22%3A7672016530%2C%22first_name%22%3A%22Zalx%22%2C%22last_name%22%3A%22Arthur%F0%9F%91%81%EF%B8%8F%22%2C%22username%22%3A%22Zelx_arthur%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%2C%22photo_url%22%3A%22https%3A%5C%2F%5C%2Ft.me%5C%2Fi%5C%2Fuserpic%5C%2F320%5C%2Fv96kRhHY1T977z3IwkUGjaURizI7RcwjhB6EY86FyCOFphG0qaYldaFhiyTUG2rW.svg%22%7D&auth_date=1793180506&signature=-OEt4sZiOUXojta9d0OlEHKaQJvvyenTPSCQcJnc7Vto3WpUm_BlFEyE4hFT1CK2Rdd84nCibgMTIP2NDyWSBQ&hash=3ecae7f4397c0aa06baea4f482f4675fd62937d88d75bdd2dba91ae4a6ec81b8"
+    }
+  },
+  "faucetpay_email": "t1y2p3o4name@gmail.com"
+}

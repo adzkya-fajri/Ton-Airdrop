@@ -280,7 +280,7 @@ export default function Hero3D() {
         <div className="lg:col-span-7 z-10 text-center lg:text-left">
           <div className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-obsidian-800 border border-obsidian-700 text-xs font-semibold text-amethyst mb-6 shadow-sm">
             <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />
-            26 Bot Farmer & Airdrop Terverifikasi
+            26 Verified Mining & Airdrop Bots
           </div>
 
           <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight mb-4">
@@ -288,7 +288,7 @@ export default function Hero3D() {
           </h1>
 
           <p className="text-slate-300 text-base sm:text-lg max-w-2xl leading-relaxed mb-8">
-            Katalog miner dan MiniApp terbukti membayar di ekosistem The Open Network (TON). Akses langsung seluruh bot terpercaya dengan satu klik cepat dan aman.
+            Curated directory of proven Telegram miners and MiniApps across The Open Network (TON). Direct access to trusted bots with seamless one-click launch.
           </p>
 
           <div className="flex flex-wrap gap-4 justify-center lg:justify-start">
@@ -296,11 +296,11 @@ export default function Hero3D() {
               href="#catalog"
               className="inline-flex items-center justify-center px-6 py-3 rounded-xl bg-amethyst hover:bg-amethyst-hover text-white font-semibold text-sm transition-all duration-150 shadow-lg shadow-amethyst-glow"
             >
-              Jelajahi Katalog Airdrop
+              Explore Airdrop Catalog
             </a>
             <div className="inline-flex items-center gap-2 px-4 py-3 rounded-xl bg-obsidian-850 border border-obsidian-700 text-slate-300 text-xs font-medium">
               <span className="text-emerald-400 font-bold">Auto-Payout</span>
-              <span>Terhubung Langsung ke Wallet</span>
+              <span>Direct Wallet Integration</span>
             </div>
           </div>
         </div>

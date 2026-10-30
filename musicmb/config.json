@@ -1,0 +1,8 @@
+{
+    "api_base": "https://api.musicmb.site/api",
+    "token": "2116525|lYSKmrCOA8woWBzeSHpze65TLrW1KgSVXJk61kZS0e14ba57",
+    "user_agent": "Mozilla/5.0 (Linux; Android 16; Pixel 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36",
+    "claim_destination": "mining",
+    "auto_boost": true,
+    "check_interval_seconds": 600
+}
