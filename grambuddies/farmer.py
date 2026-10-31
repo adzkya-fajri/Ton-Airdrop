@@ -185,11 +185,13 @@ def do_missions(cfg):
                     log(f"Klaim Sukses      : +{r_gems:.2f} GEMS")
             time.sleep(1.0)
 
-def do_ad_tasks(cfg, max_monetag=6, max_bitvex=6):
+def do_ad_tasks(cfg, max_monetag=5, max_bitvex=5, max_gigapub=5, max_adsgram=5):
     """
-    Menonton tugas iklan otomatis (100+ tugas harian):
+    Menonton tugas iklan otomatis (semua provider iklan):
     - Monetag: hingga 300 iklan/hari (+10 Pts/iklan)
     - AdsBitvex: hingga 200 iklan/hari (+20 Pts/iklan)
+    - Gigapub: hingga 500 iklan/hari (+25 Pts/iklan)
+    - Adsgram: video ads standar (+10 Pts/iklan)
     Dijalankan secara berkala bertahap setiap siklus dengan jeda natural.
     """
     total_pts = 0
@@ -217,6 +219,34 @@ def do_ad_tasks(cfg, max_monetag=6, max_bitvex=6):
         watched = res.get("watched_today", 0)
         limit = res.get("daily_limit", 200)
         rew = res.get("reward_points", 20)
+        total_pts += rew
+        ads_done += 1
+        if watched >= limit:
+            break
+        time.sleep(random.uniform(4.0, 7.0))
+
+    # 3. Gigapub Ads (+25 Pts)
+    for _ in range(max_gigapub):
+        res = api_request(cfg, "gigapub_reward.php", method="POST", json_data={})
+        if not res or not res.get("ok"):
+            break
+        watched = res.get("watched_today", 0)
+        limit = res.get("daily_limit", 500)
+        rew = res.get("reward_points", 25)
+        total_pts += rew
+        ads_done += 1
+        if watched >= limit:
+            break
+        time.sleep(random.uniform(4.0, 7.0))
+
+    # 4. Adsgram Ads (+10 Pts)
+    for _ in range(max_adsgram):
+        res = api_request(cfg, "adsgram_reward.php", method="POST", json_data={})
+        if not res or not res.get("ok"):
+            break
+        watched = res.get("ads_watched_today", 0)
+        limit = res.get("ad_daily_limit", 300)
+        rew = res.get("reward_points", 10)
         total_pts += rew
         ads_done += 1
         if watched >= limit:
@@ -344,8 +374,8 @@ def run_loop():
                 do_missions(cfg)
                 last_task_check = now
 
-            # 4. Ad Tasks (100+ tugas harian Monetag & Bitvex, bertahap setiap siklus)
-            do_ad_tasks(cfg, max_monetag=6, max_bitvex=6)
+            # 4. Ad Tasks (Monetag, AdsBitvex, Gigapub, Adsgram bertahap setiap siklus)
+            do_ad_tasks(cfg, max_monetag=5, max_bitvex=5, max_gigapub=5, max_adsgram=5)
 
             # 5. Mining Management (Collect & Load Max Power)
             next_sleep = do_mining_cycle(cfg)

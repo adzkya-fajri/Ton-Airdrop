@@ -4579,3 +4579,69 @@
 [2026-10-30 19:24:09] Mining Rate   : +368.68 DRAM/hari
 [2026-10-30 19:24:09] ==================================================
 [2026-10-30 19:24:13] Siklus mining berjalan: 4/14400s. Tidur ~240 menit. Klaim berikutnya: 23:24:59
+[2026-10-30 23:25:05] >> Sesi token kadaluarsa (401), mencoba login ulang... <<
+[2026-10-30 23:25:05] Melakukan autentikasi Telegram WebApp ke DRAM server...
+[2026-10-30 23:25:06] >> Login gagal (401): {"error":"invalid_telegram_session"} <<
+[2026-10-30 23:25:06] Gagal mendapatkan status mining, coba lagi dalam 60 detik...
+[2026-10-30 23:26:07] Mengeksekusi klaim reward mining DRAM...
+[2026-10-30 23:26:08] ==================================================
+[2026-10-30 23:26:08] >> KLAIM DRAM BERHASIL! <<
+[2026-10-30 23:26:08] Player        : Zalx (ID: 7672016530)
+[2026-10-30 23:26:08] Reward Diklaim: +61.45 DRAM
+[2026-10-30 23:26:08] Total Saldo   : 2867.14 DRAM (Level 311)
+[2026-10-30 23:26:08] Mining Rate   : +369.86 DRAM/hari
+[2026-10-30 23:26:08] ==================================================
+[2026-10-30 23:26:12] Siklus mining berjalan: 4/14400s. Tidur ~241 menit. Klaim berikutnya: 03:27:37
+[2026-10-31 03:45:48] === DRAM Miner Auto-Farmer Started ===
+[2026-10-31 03:45:55] Mengeksekusi klaim reward mining DRAM...
+[2026-10-31 03:46:01] ==================================================
+[2026-10-31 03:46:01] >> KLAIM DRAM BERHASIL! <<
+[2026-10-31 03:46:01] Player        : Zalx (ID: 7672016530)
+[2026-10-31 03:46:01] Reward Diklaim: +61.64 DRAM
+[2026-10-31 03:46:01] Total Saldo   : 2928.78 DRAM (Level 313)
+[2026-10-31 03:46:01] Mining Rate   : +371.06 DRAM/hari
+[2026-10-31 03:46:01] ==================================================
+[2026-10-31 03:46:05] Siklus mining berjalan: 4/14400s. Tidur ~240 menit. Klaim berikutnya: 07:46:42
+[2026-10-31 07:46:48] >> Sesi token kadaluarsa (401), mencoba login ulang... <<
+[2026-10-31 07:46:48] Melakukan autentikasi Telegram WebApp ke DRAM server...
+[2026-10-31 07:46:49] >> Login gagal (401): {"error":"invalid_telegram_session"} <<
+[2026-10-31 07:46:49] Gagal mendapatkan status mining, coba lagi dalam 60 detik...
+[2026-10-31 07:47:50] Mengeksekusi klaim reward mining DRAM...
+[2026-10-31 07:47:51] ==================================================
+[2026-10-31 07:47:51] >> KLAIM DRAM BERHASIL! <<
+[2026-10-31 07:47:51] Player        : Zalx (ID: 7672016530)
+[2026-10-31 07:47:51] Reward Diklaim: +61.84 DRAM
+[2026-10-31 07:47:51] Total Saldo   : 2990.63 DRAM (Level 315)
+[2026-10-31 07:47:51] Mining Rate   : +372.29 DRAM/hari
+[2026-10-31 07:47:51] ==================================================
+[2026-10-31 07:47:55] Siklus mining berjalan: 4/14400s. Tidur ~242 menit. Klaim berikutnya: 11:50:21
+[2026-10-31 10:27:57] === DRAM Miner Auto-Farmer Started ===
+[2026-10-31 10:28:03] Mengeksekusi klaim reward mining DRAM...
+[2026-10-31 10:28:04] >> Gagal klaim DRAM (409): {"error":"too_soon"} <<
+[2026-10-31 10:28:08] Siklus mining berjalan: 9617/14400s. Tidur ~80 menit. Klaim berikutnya: 11:48:37
+[2026-10-31 11:48:38] >> Sesi token kadaluarsa (401), mencoba login ulang... <<
+[2026-10-31 11:48:38] Melakukan autentikasi Telegram WebApp ke DRAM server...
+[2026-10-31 11:48:39] >> Login gagal (401): {"error":"invalid_telegram_session"} <<
+[2026-10-31 11:48:39] Gagal mendapatkan status mining, coba lagi dalam 60 detik...
+[2026-10-31 11:49:40] Mengeksekusi klaim reward mining DRAM...
+[2026-10-31 11:49:41] ==================================================
+[2026-10-31 11:49:41] >> KLAIM DRAM BERHASIL! <<
+[2026-10-31 11:49:41] Player        : Zalx (ID: 7672016530)
+[2026-10-31 11:49:41] Reward Diklaim: +62.05 DRAM
+[2026-10-31 11:49:41] Total Saldo   : 3052.67 DRAM (Level 317)
+[2026-10-31 11:49:41] Mining Rate   : +373.53 DRAM/hari
+[2026-10-31 11:49:41] ==================================================
+[2026-10-31 11:49:46] Siklus mining berjalan: 4/14400s. Tidur ~240 menit. Klaim berikutnya: 15:50:35
+[2026-10-31 15:50:40] >> Sesi token kadaluarsa (401), mencoba login ulang... <<
+[2026-10-31 15:50:40] Melakukan autentikasi Telegram WebApp ke DRAM server...
+[2026-10-31 15:50:46] >> Login gagal (401): {"error":"invalid_telegram_session"} <<
+[2026-10-31 15:50:46] Gagal mendapatkan status mining, coba lagi dalam 60 detik...
+[2026-10-31 15:51:49] Mengeksekusi klaim reward mining DRAM...
+[2026-10-31 15:51:52] ==================================================
+[2026-10-31 15:51:52] >> KLAIM DRAM BERHASIL! <<
+[2026-10-31 15:51:52] Player        : Zalx (ID: 7672016530)
+[2026-10-31 15:51:52] Reward Diklaim: +62.26 DRAM
+[2026-10-31 15:51:52] Total Saldo   : 3114.93 DRAM (Level 319)
+[2026-10-31 15:51:52] Mining Rate   : +374.80 DRAM/hari
+[2026-10-31 15:51:52] ==================================================
+[2026-10-31 15:51:58] Siklus mining berjalan: 8/14400s. Tidur ~242 menit. Klaim berikutnya: 19:54:46

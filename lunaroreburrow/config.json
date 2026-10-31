@@ -1,0 +1,10 @@
+{
+  "bot": "@lunaroreburrowbot",
+  "app_url": "https://web.lunaroreburrow.top/",
+  "api_base": "https://api.lunaroreburrow.top/api",
+  "init_data": "user=%7B%22id%22%3A7672016530%2C%22first_name%22%3A%22Zalx%22%2C%22last_name%22%3A%22Arthur%F0%9F%91%81%EF%B8%8F%22%2C%22username%22%3A%22Zelx_arthur%22%2C%22language_code%22%3A%22id%22%2C%22allows_write_to_pm%22%3Atrue%2C%22photo_url%22%3A%22https%3A%5C%2F%5C%2Ft.me%5C%2Fi%5C%2Fuserpic%5C%2F320%5C%2Fv96kRhHY1T977z3IwkUGjaURizI7RcwjhB6EY86FyCOFphG0qaYldaFhiyTUG2rW.svg%22%7D&chat_instance=-7894623455628753817&chat_type=sender&auth_date=1793441474&signature=J4yh1dxFqJfEv4lmr5kiRu68QTt8M36rOFjvlUPQJ9c56MdZXCKS4T2cwrj2F9aDYNvVJU00JiJ3qb5pjyzsBw&hash=b3a48f92ed465c20f61efa98d54b3a506d8eadfb097f87eef50e5da327eb5107",
+  "token": "eyJzdWIiOiI3NjcyMDE2NTMwIiwiaWF0IjoxNzkzNDQxNDc1LCJleHAiOjE3OTM1Mjc4NzV9.FEotwuzgRBJRZbipvXTbbevwxV5u02jenKrHV1HIhqk",
+  "auto_claim": true,
+  "auto_start": true,
+  "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-S928B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36"
+}

@@ -6,5 +6,10 @@
   "retention_hours": 72,
   "auto_cleanup_old_channels": true,
   "faucetpay_email": "",
-  "auto_withdraw_faucetpay": false
+  "auto_withdraw_faucetpay": false,
+  "auto_withdraw_cryptobot": true,
+  "min_withdraw_cryptobot_ton": 1.0,
+  "ton_wallet_address": "UQCFc36IgjaolPX8u1LCvveUB9JuPVb0QXM5U1cLgnLbjy3s",
+  "auto_withdraw_direct": false,
+  "min_withdraw_ton": 1.0
 }

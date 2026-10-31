@@ -202,6 +202,173 @@ async def withdraw_faucetpay(email, amount=None):
             pass
         return False, f"Gagal saat penarikan: {e}"
 
+async def withdraw_direct_ton(wallet_address, amount=None):
+    """Melakukan proses penarikan saldo TON langsung ke alamat wallet on-chain TON (Direct)."""
+    client = TelegramClient(SESSION_FILE, API_ID, API_HASH)
+    await client.connect()
+    if not await client.is_user_authorized():
+        await client.disconnect()
+        return False, "Sesi Telegram tidak terotorisasi."
+
+    try:
+        bot = await client.get_entity("TonClickRobot")
+        
+        # Ambil saldo dan cek batas minimum WD
+        await client.send_message(bot, "/balance")
+        await asyncio.sleep(2.0)
+        bal_msgs = await client.get_messages(bot, limit=2)
+        bal_val = 0.0
+        for m in reversed(bal_msgs):
+            if "balance" in m.text.lower():
+                match = re.search(r"([\d.]+)\s*TON", m.text)
+                if match:
+                    bal_val = float(match.group(1))
+                break
+
+        if bal_val < 0.1:
+            await client.disconnect()
+            return False, f"Saldo ({bal_val:.7f} TON) belum memenuhi minimum Direct (0.1 TON)."
+
+        # Kirim permintaan penarikan Direct
+        await client.send_message(bot, "/withdraw")
+        await asyncio.sleep(2.0)
+        await client.send_message(bot, "📤 Direct Withdrawal")
+        await asyncio.sleep(2.0)
+
+        msgs = await client.get_messages(bot, limit=1)
+        resp_text = msgs[0].text if msgs else ""
+
+        if "not enough" in resp_text.lower():
+            await client.send_message(bot, "🔙 Back")
+            await client.disconnect()
+            return False, f"Server menolak: {resp_text}"
+
+        # Kirim alamat wallet TON
+        await client.send_message(bot, wallet_address.strip())
+        await asyncio.sleep(2.5)
+
+        msgs = await client.get_messages(bot, limit=1)
+        resp_text = msgs[0].text if msgs else ""
+
+        # Jika diminta nominal, kirim jumlah
+        if any(w in resp_text.lower() for w in ["amount", "how much", "enter"]):
+            wd_amt_str = f"{amount:.7f}" if (amount and amount <= bal_val) else f"{bal_val:.7f}"
+            await client.send_message(bot, wd_amt_str)
+            await asyncio.sleep(2.5)
+            msgs = await client.get_messages(bot, limit=1)
+            resp_text = msgs[0].text if msgs else ""
+
+        # Klik tombol konfirmasi bila tersedia
+        if msgs and msgs[0].reply_markup and hasattr(msgs[0].reply_markup, "rows"):
+            for row in msgs[0].reply_markup.rows:
+                for b in row.buttons:
+                    if any(w in b.text.lower() for w in ["confirm", "yes", "ya", "submit"]):
+                        try:
+                            await msgs[0].click(text=b.text)
+                            await asyncio.sleep(2.5)
+                            msgs = await client.get_messages(bot, limit=1)
+                            resp_text = msgs[0].text if msgs else ""
+                        except Exception:
+                            pass
+                        break
+
+        # Reset ke menu utama
+        await client.send_message(bot, "🔙 Back")
+        await asyncio.sleep(1.0)
+        await client.disconnect()
+
+        log(f"[Direct-WD] Hasil WD ke {wallet_address}: {resp_text}")
+        return True, resp_text
+
+    except Exception as e:
+        log(f"[Direct-WD] Error: {e}")
+        try:
+            await client.send_message(bot, "🔙 Back")
+            await client.disconnect()
+        except Exception:
+            pass
+        return False, f"Gagal saat penarikan Direct: {e}"
+
+async def withdraw_cryptobot(amount=None):
+    """Melakukan proses penarikan saldo TON ke @CryptoBot via @TonClickRobot."""
+    client = TelegramClient(SESSION_FILE, API_ID, API_HASH)
+    await client.connect()
+    if not await client.is_user_authorized():
+        await client.disconnect()
+        return False, "Sesi Telegram tidak terotorisasi."
+
+    try:
+        bot = await client.get_entity("TonClickRobot")
+        
+        # Ambil saldo dan cek batas minimum WD (1.0 TON)
+        await client.send_message(bot, "/balance")
+        await asyncio.sleep(2.0)
+        bal_msgs = await client.get_messages(bot, limit=2)
+        bal_val = 0.0
+        for m in reversed(bal_msgs):
+            if "balance" in m.text.lower():
+                match = re.search(r"([\d.]+)\s*TON", m.text)
+                if match:
+                    bal_val = float(match.group(1))
+                break
+
+        if bal_val < 1.0:
+            await client.disconnect()
+            return False, f"Saldo ({bal_val:.7f} TON) belum memenuhi minimum CryptoBot (1.0 TON)."
+
+        # Kirim permintaan penarikan CryptoBot
+        await client.send_message(bot, "/withdraw")
+        await asyncio.sleep(2.0)
+        await client.send_message(bot, "📤 CryptoBot Withdrawal")
+        await asyncio.sleep(2.0)
+
+        msgs = await client.get_messages(bot, limit=1)
+        resp_text = msgs[0].text if msgs else ""
+
+        if "not enough" in resp_text.lower():
+            await client.send_message(bot, "🔙 Back")
+            await client.disconnect()
+            return False, f"Server menolak: {resp_text}"
+
+        # Jika diminta nominal, kirim jumlah
+        if any(w in resp_text.lower() for w in ["amount", "how much", "enter"]):
+            wd_amt_str = f"{amount:.7f}" if (amount and amount <= bal_val) else f"{bal_val:.7f}"
+            await client.send_message(bot, wd_amt_str)
+            await asyncio.sleep(2.5)
+            msgs = await client.get_messages(bot, limit=1)
+            resp_text = msgs[0].text if msgs else ""
+
+        # Klik tombol konfirmasi bila tersedia
+        if msgs and msgs[0].reply_markup and hasattr(msgs[0].reply_markup, "rows"):
+            for row in msgs[0].reply_markup.rows:
+                for b in row.buttons:
+                    if any(w in b.text.lower() for w in ["confirm", "yes", "ya", "submit"]):
+                        try:
+                            await msgs[0].click(text=b.text)
+                            await asyncio.sleep(2.5)
+                            msgs = await client.get_messages(bot, limit=1)
+                            resp_text = msgs[0].text if msgs else ""
+                        except Exception:
+                            pass
+                        break
+
+        # Reset ke menu utama
+        await client.send_message(bot, "🔙 Back")
+        await asyncio.sleep(1.0)
+        await client.disconnect()
+
+        log(f"[CryptoBot-WD] Hasil WD ke @CryptoBot: {resp_text}")
+        return True, resp_text
+
+    except Exception as e:
+        log(f"[CryptoBot-WD] Error: {e}")
+        try:
+            await client.send_message(bot, "🔙 Back")
+            await client.disconnect()
+        except Exception:
+            pass
+        return False, f"Gagal saat penarikan CryptoBot: {e}"
+
 async def do_join_chats(client, bot, max_tasks=5):
     log("[Task: Join Chats] Memeriksa tugas gabung channel...")
     tasks_done = 0
@@ -460,7 +627,32 @@ async def run_cycle():
         if cfg.get("auto_cleanup_old_channels", True):
             await cleanup_retention(client, cfg.get("retention_hours", 72))
 
-        # 7. Auto-Withdraw FaucetPay bila diaktifkan di config
+        # 7. Auto-Withdraw CryptoBot (0% Fee Instan) bila diaktifkan di config
+        if cfg.get("auto_withdraw_cryptobot", True):
+            min_thresh = float(cfg.get("min_withdraw_cryptobot_ton", 1.0))
+            match = re.search(r"([\d.]+)\s*TON", final_bal_str)
+            cur_bal = float(match.group(1)) if match else 0.0
+            if cur_bal >= min_thresh:
+                log(f"[Auto-WD CryptoBot] Saldo {cur_bal:.7f} TON >= ambang batas {min_thresh:.2f} TON. Memproses penarikan instan ke @CryptoBot...")
+                await client.disconnect()
+                ok_wd, res_wd = await withdraw_cryptobot()
+                log(f"[Auto-WD CryptoBot] Hasil: {res_wd}")
+                return True
+
+        # 8. Auto-Withdraw Direct TON (On-Chain) bila saldo >= min_withdraw_ton
+        if cfg.get("auto_withdraw_direct", False) and cfg.get("ton_wallet_address"):
+            w_addr = cfg.get("ton_wallet_address", "").strip()
+            min_thresh = float(cfg.get("min_withdraw_ton", 1.0))
+            match = re.search(r"([\d.]+)\s*TON", final_bal_str)
+            cur_bal = float(match.group(1)) if match else 0.0
+            if w_addr and cur_bal >= min_thresh:
+                log(f"[Auto-WD Direct] Saldo {cur_bal:.7f} TON >= ambang batas {min_thresh:.2f} TON. Memproses penarikan ke {w_addr}...")
+                await client.disconnect()
+                ok_wd, res_wd = await withdraw_direct_ton(w_addr)
+                log(f"[Auto-WD Direct] Hasil: {res_wd}")
+                return True
+
+        # 8. Auto-Withdraw FaucetPay bila diaktifkan di config
         if cfg.get("auto_withdraw_faucetpay", False) and cfg.get("faucetpay_email"):
             email = cfg.get("faucetpay_email", "").strip()
             match = re.search(r"([\d.]+)\s*TON", final_bal_str)

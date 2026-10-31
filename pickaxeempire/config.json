@@ -1,6 +1,6 @@
 {
     "api_base": "https://pxe.up.railway.app",
-    "init_data": "query_id=AAGSrklJAwAAAJKuSUnjMhhB&user=%7B%22id%22%3A7672016530%2C%22first_name%22%3A%22Zalx%22%2C%22last_name%22%3A%22Arthur%F0%9F%91%81%EF%B8%8F%22%2C%22username%22%3A%22Zelx_arthur%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%2C%22photo_url%22%3A%22https%3A%5C%2F%5C%2Ft.me%5C%2Fi%5C%2Fuserpic%5C%2F320%5C%2Fv96kRhHY1T977z3IwkUGjaURizI7RcwjhB6EY86FyCOFphG0qaYldaFhiyTUG2rW.svg%22%7D&auth_date=1793372403&signature=PLE_SICnHQ6wfhf5lp8k7T5PXYrvOCiGFkKK2CZJbbbO75bA9X00i1SO2MEEn8d0qIJhqRYdSkQb9J7cPegNDg&hash=ffbb6d985a0d5aa6ce3e3e89b1c75a1cf8aeacad58f06d85ea1510b2ab757158",
+    "init_data": "query_id=AAGSrklJAwAAAJKuSUl5vefw&user=%7B%22id%22%3A7672016530%2C%22first_name%22%3A%22Zalx%22%2C%22last_name%22%3A%22Arthur%F0%9F%91%81%EF%B8%8F%22%2C%22username%22%3A%22Zelx_arthur%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%2C%22photo_url%22%3A%22https%3A%5C%2F%5C%2Ft.me%5C%2Fi%5C%2Fuserpic%5C%2F320%5C%2Fv96kRhHY1T977z3IwkUGjaURizI7RcwjhB6EY86FyCOFphG0qaYldaFhiyTUG2rW.svg%22%7D&auth_date=1793441449&signature=u6qemZDA-NN0i7oDy_EaDh-dcRQKfuSwGCTZ_-QScTfB_pJU59rizFWT6-EJk53dEbo05bw1TF1M5_E5g6j2AQ&hash=cb97b79aaf32b16a6f2e102e084992a8c0c635d6bcf0a5c0e920b8eb387bfe53",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36",
     "check_interval_seconds": 600,
     "auto_tasks": true,

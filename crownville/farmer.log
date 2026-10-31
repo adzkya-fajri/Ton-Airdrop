@@ -1793,3 +1793,457 @@
 [2026-10-30 22:04:41] 💰 [SALDO] Emas: 23,113.2 | Makanan: 80,963.5 | Bijih: 54,153.5 | Kayu: 48,692.7
 [2026-10-30 22:04:42] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
 [2026-10-30 22:04:43] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-30 22:14:44] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-30 22:14:44] 💰 [SALDO] Emas: 23,163.5 | Makanan: 81,174.5 | Bijih: 54,254 | Kayu: 48,793.2
+[2026-10-30 22:14:45] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-30 22:14:46] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-30 22:24:47] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-30 22:24:47] 💰 [SALDO] Emas: 23,213.8 | Makanan: 81,385.5 | Bijih: 54,354.5 | Kayu: 48,893.7
+[2026-10-30 22:24:48] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-30 22:24:49] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-30 22:34:50] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-30 22:34:50] 💰 [SALDO] Emas: 23,264.1 | Makanan: 81,596.5 | Bijih: 54,455 | Kayu: 48,994.2
+[2026-10-30 22:34:51] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-30 22:34:52] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-30 22:44:53] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-30 22:44:53] 💰 [SALDO] Emas: 23,314.4 | Makanan: 81,807.5 | Bijih: 54,555.5 | Kayu: 49,094.7
+[2026-10-30 22:44:54] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-30 22:44:56] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-30 22:54:57] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-30 22:54:57] 💰 [SALDO] Emas: 23,364.8 | Makanan: 82,018.9 | Bijih: 54,656.2 | Kayu: 49,195.4
+[2026-10-30 22:54:59] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-30 23:05:06] Error pada loop utama Crownville: HTTPSConnectionPool(host='crownville.online', port=443): Max retries exceeded with url: /api/game/state?telegram_id=7672016530&username=Zelx_arthur (Caused by NameResolutionError("HTTPSConnection(host='crownville.online', port=443): Failed to resolve 'crownville.online' ([Errno -5] No address associated with hostname)"))
+[2026-10-30 23:06:07] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-30 23:06:07] 💰 [SALDO] Emas: 23,420.6 | Makanan: 82,253.1 | Bijih: 54,767.7 | Kayu: 49,306.9
+[2026-10-30 23:06:07] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-30 23:06:09] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-30 23:16:10] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-30 23:16:10] 💰 [SALDO] Emas: 23,471 | Makanan: 82,464.5 | Bijih: 54,868.4 | Kayu: 49,407.6
+[2026-10-30 23:16:11] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-30 23:16:12] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-30 23:26:14] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-30 23:26:14] 💰 [SALDO] Emas: 23,521.3 | Makanan: 82,675.5 | Bijih: 54,968.9 | Kayu: 49,508.1
+[2026-10-30 23:26:14] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-30 23:26:15] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-30 23:36:21] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-30 23:36:21] 💰 [SALDO] Emas: 23,572 | Makanan: 82,888.3 | Bijih: 55,070.3 | Kayu: 49,609.5
+[2026-10-30 23:36:22] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-30 23:36:24] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-30 23:46:25] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-30 23:46:25] 💰 [SALDO] Emas: 23,622.4 | Makanan: 83,099.7 | Bijih: 55,171 | Kayu: 49,710.2
+[2026-10-30 23:46:26] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-30 23:46:27] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-30 23:56:29] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-30 23:56:29] 💰 [SALDO] Emas: 23,672.7 | Makanan: 83,310.7 | Bijih: 55,271.5 | Kayu: 49,810.7
+[2026-10-30 23:56:29] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-30 23:56:30] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 00:06:32] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 00:06:32] 💰 [SALDO] Emas: 23,723 | Makanan: 83,521.7 | Bijih: 55,372 | Kayu: 49,911.2
+[2026-10-31 00:06:33] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 00:06:34] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 00:16:35] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 00:16:35] 💰 [SALDO] Emas: 23,773.4 | Makanan: 83,733.1 | Bijih: 55,472.7 | Kayu: 50,011.9
+[2026-10-31 00:16:36] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 00:16:37] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 00:26:38] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 00:26:38] 💰 [SALDO] Emas: 23,823.7 | Makanan: 83,944.1 | Bijih: 55,573.2 | Kayu: 50,112.4
+[2026-10-31 00:26:39] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 00:26:40] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 00:36:43] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 00:36:43] 💰 [SALDO] Emas: 23,874.1 | Makanan: 84,155.5 | Bijih: 55,673.9 | Kayu: 50,213.1
+[2026-10-31 00:36:43] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 00:36:45] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 00:46:45] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 00:46:45] 💰 [SALDO] Emas: 23,924.4 | Makanan: 84,366.5 | Bijih: 55,774.4 | Kayu: 50,313.6
+[2026-10-31 00:46:46] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 00:46:47] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 00:56:48] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 00:56:48] 💰 [SALDO] Emas: 23,974.7 | Makanan: 84,577.5 | Bijih: 55,874.9 | Kayu: 50,414.1
+[2026-10-31 00:56:49] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 00:56:50] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 01:06:51] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 01:06:51] 💰 [SALDO] Emas: 24,025 | Makanan: 84,788.5 | Bijih: 55,975.4 | Kayu: 50,514.6
+[2026-10-31 01:06:52] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 01:06:53] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 01:16:55] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 01:16:55] 💰 [SALDO] Emas: 24,075.3 | Makanan: 84,999.5 | Bijih: 56,075.9 | Kayu: 50,615.1
+[2026-10-31 01:16:55] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 01:16:57] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 01:26:58] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 01:26:58] 💰 [SALDO] Emas: 24,125.7 | Makanan: 85,210.9 | Bijih: 56,176.6 | Kayu: 50,715.8
+[2026-10-31 01:26:59] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 01:27:00] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 01:37:01] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 01:37:01] 💰 [SALDO] Emas: 24,176 | Makanan: 85,421.9 | Bijih: 56,277.1 | Kayu: 50,816.3
+[2026-10-31 01:37:02] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 01:37:03] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 01:47:04] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 01:47:04] 💰 [SALDO] Emas: 24,226.3 | Makanan: 85,632.9 | Bijih: 56,377.6 | Kayu: 50,916.8
+[2026-10-31 01:47:05] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 01:47:07] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 01:57:08] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 01:57:08] 💰 [SALDO] Emas: 24,276.7 | Makanan: 85,844.3 | Bijih: 56,478.3 | Kayu: 51,017.5
+[2026-10-31 01:57:09] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 01:57:10] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 02:07:11] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 02:07:11] 💰 [SALDO] Emas: 24,327 | Makanan: 86,055.3 | Bijih: 56,578.8 | Kayu: 51,118
+[2026-10-31 02:07:12] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 02:07:13] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 02:17:14] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 02:17:14] 💰 [SALDO] Emas: 24,377.3 | Makanan: 86,266.3 | Bijih: 56,679.3 | Kayu: 51,218.5
+[2026-10-31 02:17:15] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 02:17:16] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 02:27:17] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 02:27:17] 💰 [SALDO] Emas: 24,427.6 | Makanan: 86,477.3 | Bijih: 56,779.8 | Kayu: 51,319
+[2026-10-31 02:27:18] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 02:27:19] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 02:37:26] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 02:37:26] 💰 [SALDO] Emas: 24,478.3 | Makanan: 86,690.1 | Bijih: 56,881.2 | Kayu: 51,420.4
+[2026-10-31 02:37:26] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 02:37:27] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 02:47:29] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 02:47:29] 💰 [SALDO] Emas: 24,528.6 | Makanan: 86,901.1 | Bijih: 56,981.7 | Kayu: 51,520.9
+[2026-10-31 02:47:29] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 02:47:31] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 02:57:32] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 02:57:32] 💰 [SALDO] Emas: 24,578.9 | Makanan: 87,112.1 | Bijih: 57,082.2 | Kayu: 51,621.4
+[2026-10-31 02:57:32] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 02:57:34] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 03:07:36] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 03:07:36] 💰 [SALDO] Emas: 24,629.3 | Makanan: 87,323.5 | Bijih: 57,182.9 | Kayu: 51,722.1
+[2026-10-31 03:07:37] 🌾 [PANEN] Berhasil panen: Emas +0.2, Makanan +0.7, Bijih +0.3, Kayu +0.3
+[2026-10-31 03:07:38] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 03:17:39] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 03:17:39] 💰 [SALDO] Emas: 24,679.7 | Makanan: 87,534.9 | Bijih: 57,283.5 | Kayu: 51,822.7
+[2026-10-31 03:17:40] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 03:17:41] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 03:45:46] ==================================================
+[2026-10-31 03:45:48]    CROWNVILLE TELEGRAM MINI-APP AUTO-FARMER       
+[2026-10-31 03:45:48] ==================================================
+[2026-10-31 03:45:49] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 03:45:49] 💰 [SALDO] Emas: 24,820.6 | Makanan: 88,126.3 | Bijih: 57,565.2 | Kayu: 52,104.4
+[2026-10-31 03:45:51] 🌾 [PANEN] Berhasil panen: Emas +0.2, Makanan +0.7, Bijih +0.3, Kayu +0.3
+[2026-10-31 03:45:53] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 03:55:54] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 03:55:54] 💰 [SALDO] Emas: 24,871.1 | Makanan: 88,338.1 | Bijih: 57,666 | Kayu: 52,205.2
+[2026-10-31 03:55:55] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 03:55:56] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 04:05:57] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 04:05:57] 💰 [SALDO] Emas: 24,921.4 | Makanan: 88,549.1 | Bijih: 57,766.5 | Kayu: 52,305.7
+[2026-10-31 04:05:59] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 04:16:05] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 04:16:05] 💰 [SALDO] Emas: 24,972.1 | Makanan: 88,761.9 | Bijih: 57,867.8 | Kayu: 52,407
+[2026-10-31 04:16:06] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 04:16:07] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 04:26:08] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 04:26:08] 💰 [SALDO] Emas: 25,022.4 | Makanan: 88,972.9 | Bijih: 57,968.3 | Kayu: 52,507.5
+[2026-10-31 04:26:09] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 04:26:10] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 04:36:11] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 04:36:11] 💰 [SALDO] Emas: 25,072.7 | Makanan: 89,183.9 | Bijih: 58,068.8 | Kayu: 52,608
+[2026-10-31 04:36:12] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 04:36:13] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 04:46:20] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 04:46:20] 💰 [SALDO] Emas: 25,123.4 | Makanan: 89,396.7 | Bijih: 58,170.2 | Kayu: 52,709.4
+[2026-10-31 04:46:20] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 04:46:22] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 04:56:23] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 04:56:23] 💰 [SALDO] Emas: 25,173.7 | Makanan: 89,607.7 | Bijih: 58,270.7 | Kayu: 52,809.9
+[2026-10-31 04:56:23] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 04:56:24] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 05:06:26] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 05:06:26] 💰 [SALDO] Emas: 25,224 | Makanan: 89,818.7 | Bijih: 58,371.2 | Kayu: 52,910.4
+[2026-10-31 05:06:27] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 05:06:29] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 05:16:30] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 05:16:30] 💰 [SALDO] Emas: 25,274.4 | Makanan: 90,030.4 | Bijih: 58,472.1 | Kayu: 53,011.3
+[2026-10-31 05:16:31] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 05:16:32] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 05:26:38] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 05:26:38] 💰 [SALDO] Emas: 25,325.1 | Makanan: 90,243.2 | Bijih: 58,573.5 | Kayu: 53,112.7
+[2026-10-31 05:26:39] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 05:26:40] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 05:36:42] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 05:36:42] 💰 [SALDO] Emas: 25,375.4 | Makanan: 90,454.2 | Bijih: 58,674 | Kayu: 53,213.2
+[2026-10-31 05:36:43] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 05:36:44] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 05:46:45] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 05:46:45] 💰 [SALDO] Emas: 25,425.8 | Makanan: 90,665.6 | Bijih: 58,774.7 | Kayu: 53,313.9
+[2026-10-31 05:46:46] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 05:46:48] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 05:56:49] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 05:56:49] 💰 [SALDO] Emas: 25,476.2 | Makanan: 90,877 | Bijih: 58,875.4 | Kayu: 53,414.6
+[2026-10-31 05:56:50] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 05:56:53] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 06:06:59] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 06:06:59] 💰 [SALDO] Emas: 25,527 | Makanan: 91,090.1 | Bijih: 58,976.9 | Kayu: 53,516.1
+[2026-10-31 06:07:00] 🌾 [PANEN] Berhasil panen: Emas +0.2, Makanan +0.7, Bijih +0.3, Kayu +0.3
+[2026-10-31 06:07:01] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 06:17:02] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 06:17:02] 💰 [SALDO] Emas: 25,577.4 | Makanan: 91,301.5 | Bijih: 59,077.5 | Kayu: 53,616.7
+[2026-10-31 06:17:03] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 06:17:04] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 06:27:06] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 06:27:06] 💰 [SALDO] Emas: 25,627.7 | Makanan: 91,512.5 | Bijih: 59,178 | Kayu: 53,717.2
+[2026-10-31 06:27:06] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 06:27:07] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 06:37:13] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 06:37:13] 💰 [SALDO] Emas: 25,678.4 | Makanan: 91,725.3 | Bijih: 59,279.4 | Kayu: 53,818.6
+[2026-10-31 06:37:14] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 06:37:15] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 06:47:17] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 06:47:17] 💰 [SALDO] Emas: 25,728.7 | Makanan: 91,936.3 | Bijih: 59,379.9 | Kayu: 53,919.1
+[2026-10-31 06:47:17] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 06:47:19] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 06:57:20] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 06:57:20] 💰 [SALDO] Emas: 25,779.1 | Makanan: 92,147.7 | Bijih: 59,480.6 | Kayu: 54,019.8
+[2026-10-31 06:57:21] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 06:57:23] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 07:07:28] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 07:07:28] 💰 [SALDO] Emas: 25,829.5 | Makanan: 92,359.1 | Bijih: 59,581.3 | Kayu: 54,120.5
+[2026-10-31 07:07:28] 🌾 [PANEN] Berhasil panen: Emas +0.3, Makanan +1.4, Bijih +0.7, Kayu +0.7
+[2026-10-31 07:07:30] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 07:17:31] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 07:17:31] 💰 [SALDO] Emas: 25,880.1 | Makanan: 92,571.6 | Bijih: 59,682.5 | Kayu: 54,221.7
+[2026-10-31 07:17:32] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 07:17:33] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 07:27:35] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 07:27:35] 💰 [SALDO] Emas: 25,930.4 | Makanan: 92,782.6 | Bijih: 59,783 | Kayu: 54,322.2
+[2026-10-31 07:27:35] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 07:27:42] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 07:37:44] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 07:37:44] 💰 [SALDO] Emas: 25,981.2 | Makanan: 92,995.7 | Bijih: 59,884.5 | Kayu: 54,423.7
+[2026-10-31 07:37:44] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 07:37:47] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 07:47:48] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 07:47:48] 💰 [SALDO] Emas: 26,031.6 | Makanan: 93,207.1 | Bijih: 59,985.2 | Kayu: 54,524.4
+[2026-10-31 07:47:48] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 07:47:50] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 07:57:51] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 07:57:51] 💰 [SALDO] Emas: 26,081.9 | Makanan: 93,418.1 | Bijih: 60,085.7 | Kayu: 54,624.9
+[2026-10-31 07:57:51] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 07:57:53] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 08:07:54] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 08:07:54] 💰 [SALDO] Emas: 26,132.2 | Makanan: 93,629.1 | Bijih: 60,186.2 | Kayu: 54,725.4
+[2026-10-31 08:07:54] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 08:07:56] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 08:17:57] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 08:17:57] 💰 [SALDO] Emas: 26,182.5 | Makanan: 93,840.1 | Bijih: 60,286.7 | Kayu: 54,825.9
+[2026-10-31 08:17:57] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 08:17:58] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 08:28:01] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 08:28:01] 💰 [SALDO] Emas: 26,232.8 | Makanan: 94,051.1 | Bijih: 60,387.2 | Kayu: 54,926.4
+[2026-10-31 08:28:02] 🌾 [PANEN] Berhasil panen: Emas +0.3, Makanan +1.1, Bijih +0.5, Kayu +0.5
+[2026-10-31 08:28:03] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 08:38:05] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 08:38:05] 💰 [SALDO] Emas: 26,283.3 | Makanan: 94,262.9 | Bijih: 60,488 | Kayu: 55,027.2
+[2026-10-31 08:38:05] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 08:38:07] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 08:48:08] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 08:48:08] 💰 [SALDO] Emas: 26,333.6 | Makanan: 94,473.9 | Bijih: 60,588.5 | Kayu: 55,127.7
+[2026-10-31 08:48:08] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 08:48:10] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 08:58:11] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 08:58:11] 💰 [SALDO] Emas: 26,384 | Makanan: 94,685.3 | Bijih: 60,689.2 | Kayu: 55,228.4
+[2026-10-31 08:58:12] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 08:58:13] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 09:08:14] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 09:08:14] 💰 [SALDO] Emas: 26,434.3 | Makanan: 94,896.3 | Bijih: 60,789.7 | Kayu: 55,328.9
+[2026-10-31 09:08:15] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 09:08:16] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 09:18:17] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 09:18:17] 💰 [SALDO] Emas: 26,484.6 | Makanan: 95,107.3 | Bijih: 60,890.2 | Kayu: 55,429.4
+[2026-10-31 09:18:18] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 09:18:19] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 09:28:21] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 09:28:21] 💰 [SALDO] Emas: 26,534.9 | Makanan: 95,318.3 | Bijih: 60,990.7 | Kayu: 55,529.9
+[2026-10-31 09:28:22] 🌾 [PANEN] Berhasil panen: Emas +0.2, Makanan +0.7, Bijih +0.3, Kayu +0.3
+[2026-10-31 09:28:33] Error klaim quest: HTTPSConnectionPool(host='crownville.online', port=443): Read timed out. (read timeout=10)
+[2026-10-31 09:28:33] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 09:38:41] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 09:38:41] 💰 [SALDO] Emas: 26,586.6 | Makanan: 95,535.3 | Bijih: 61,094 | Kayu: 55,633.2
+[2026-10-31 09:38:42] 🌾 [PANEN] Berhasil panen: Emas +0.2, Makanan +0.7, Bijih +0.3, Kayu +0.3
+[2026-10-31 09:38:44] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 09:48:48] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 09:48:48] 💰 [SALDO] Emas: 26,637.3 | Makanan: 95,748.1 | Bijih: 61,195.3 | Kayu: 55,734.5
+[2026-10-31 09:48:49] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 09:48:51] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 09:58:52] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 09:58:52] 💰 [SALDO] Emas: 26,687.7 | Makanan: 95,959.5 | Bijih: 61,296 | Kayu: 55,835.2
+[2026-10-31 09:58:53] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 09:59:01] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 10:09:03] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 10:09:03] 💰 [SALDO] Emas: 26,738.6 | Makanan: 96,173 | Bijih: 61,397.7 | Kayu: 55,936.9
+[2026-10-31 10:09:03] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 10:09:05] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 10:19:15] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 10:19:15] 💰 [SALDO] Emas: 26,789.7 | Makanan: 96,387.5 | Bijih: 61,499.9 | Kayu: 56,039.1
+[2026-10-31 10:19:16] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 10:19:25] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 10:29:27] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 10:29:27] 💰 [SALDO] Emas: 26,840.6 | Makanan: 96,601.3 | Bijih: 61,601.8 | Kayu: 56,141
+[2026-10-31 10:29:27] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 10:29:29] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 10:39:30] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 10:39:30] 💰 [SALDO] Emas: 26,891 | Makanan: 96,812.7 | Bijih: 61,702.5 | Kayu: 56,241.7
+[2026-10-31 10:39:31] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 10:39:32] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 10:49:34] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 10:49:34] 💰 [SALDO] Emas: 26,941.3 | Makanan: 97,023.7 | Bijih: 61,803 | Kayu: 56,342.2
+[2026-10-31 10:49:35] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 10:49:37] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 10:59:38] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 10:59:38] 💰 [SALDO] Emas: 26,991.7 | Makanan: 97,235.4 | Bijih: 61,903.9 | Kayu: 56,443.1
+[2026-10-31 10:59:39] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 10:59:42] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 11:09:43] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 11:09:43] 💰 [SALDO] Emas: 27,042.1 | Makanan: 97,447.1 | Bijih: 62,004.8 | Kayu: 56,544
+[2026-10-31 11:09:45] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 11:09:51] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 11:19:55] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 11:19:55] 💰 [SALDO] Emas: 27,093 | Makanan: 97,660.9 | Bijih: 62,106.7 | Kayu: 56,645.9
+[2026-10-31 11:19:55] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 11:20:04] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 11:30:11] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 11:30:11] 💰 [SALDO] Emas: 27,144.4 | Makanan: 97,876.5 | Bijih: 62,209.4 | Kayu: 56,748.6
+[2026-10-31 11:30:14] 🌾 [PANEN] Berhasil panen: Emas +0.3, Makanan +1.4, Bijih +0.7, Kayu +0.7
+[2026-10-31 11:30:25] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 11:40:26] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 11:40:26] 💰 [SALDO] Emas: 27,195.7 | Makanan: 98,092.1 | Bijih: 62,312.1 | Kayu: 56,851.3
+[2026-10-31 11:40:27] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 11:40:29] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 11:50:30] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 11:50:30] 💰 [SALDO] Emas: 27,246.1 | Makanan: 98,303.5 | Bijih: 62,412.8 | Kayu: 56,952
+[2026-10-31 11:50:32] 🌾 [PANEN] Berhasil panen: Emas +0.2, Makanan +0.7, Bijih +0.3, Kayu +0.3
+[2026-10-31 11:50:35] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 12:00:36] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 12:00:36] 💰 [SALDO] Emas: 27,296.6 | Makanan: 98,515.6 | Bijih: 62,513.8 | Kayu: 57,053
+[2026-10-31 12:00:37] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 12:00:42] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 12:10:44] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 12:10:44] 💰 [SALDO] Emas: 27,347.2 | Makanan: 98,728 | Bijih: 62,615 | Kayu: 57,154.2
+[2026-10-31 12:10:46] 🌾 [PANEN] Berhasil panen: Emas +0.3, Makanan +1.1, Bijih +0.5, Kayu +0.5
+[2026-10-31 12:10:49] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 12:20:50] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 12:20:50] 💰 [SALDO] Emas: 27,397.8 | Makanan: 98,940.5 | Bijih: 62,716.2 | Kayu: 57,255.4
+[2026-10-31 12:20:51] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 12:20:53] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 12:30:55] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 12:30:55] 💰 [SALDO] Emas: 27,448.2 | Makanan: 99,151.9 | Bijih: 62,816.9 | Kayu: 57,356.1
+[2026-10-31 12:30:56] 🌾 [PANEN] Berhasil panen: Emas +0.2, Makanan +0.7, Bijih +0.3, Kayu +0.3
+[2026-10-31 12:30:58] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 12:41:18] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 12:41:18] 💰 [SALDO] Emas: 27,500.2 | Makanan: 99,370.3 | Bijih: 62,920.9 | Kayu: 57,460.1
+[2026-10-31 12:41:19] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 12:41:21] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 12:51:24] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 12:51:24] 💰 [SALDO] Emas: 27,550.6 | Makanan: 99,582 | Bijih: 63,021.8 | Kayu: 57,561
+[2026-10-31 12:51:25] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 12:51:26] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 13:01:27] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 13:01:27] 💰 [SALDO] Emas: 27,601 | Makanan: 99,793.4 | Bijih: 63,122.5 | Kayu: 57,661.7
+[2026-10-31 13:01:28] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 13:01:30] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 13:11:34] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 13:11:34] 💰 [SALDO] Emas: 27,651.5 | Makanan: 100,005.5 | Bijih: 63,223.5 | Kayu: 57,762.7
+[2026-10-31 13:11:35] 🌾 [PANEN] Berhasil panen: Emas +0.2, Makanan +0.7, Bijih +0.3, Kayu +0.3
+[2026-10-31 13:11:37] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 13:21:43] Error pada loop utama Crownville: HTTPSConnectionPool(host='crownville.online', port=443): Max retries exceeded with url: /api/game/state?telegram_id=7672016530&username=Zelx_arthur (Caused by NameResolutionError("HTTPSConnection(host='crownville.online', port=443): Failed to resolve 'crownville.online' ([Errno -5] No address associated with hostname)"))
+[2026-10-31 13:22:45] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 13:22:45] 💰 [SALDO] Emas: 27,707.5 | Makanan: 100,240.7 | Bijih: 63,335.5 | Kayu: 57,874.7
+[2026-10-31 13:22:49] 🌾 [PANEN] Berhasil panen: Emas +0.3, Makanan +1.4, Bijih +0.7, Kayu +0.7
+[2026-10-31 13:22:51] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 13:32:57] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 13:32:57] 💰 [SALDO] Emas: 27,758.5 | Makanan: 100,454.9 | Bijih: 63,437.5 | Kayu: 57,976.7
+[2026-10-31 13:33:02] 🌾 [PANEN] Berhasil panen: Emas +0.4, Makanan +1.8, Bijih +0.8, Kayu +0.8
+[2026-10-31 13:33:03] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 13:43:04] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 13:43:04] 💰 [SALDO] Emas: 27,809.1 | Makanan: 100,667.4 | Bijih: 63,538.6 | Kayu: 58,077.8
+[2026-10-31 13:43:05] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 13:43:06] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 13:53:12] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 13:53:12] 💰 [SALDO] Emas: 27,859.8 | Makanan: 100,880.2 | Bijih: 63,640 | Kayu: 58,179.2
+[2026-10-31 13:53:13] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 13:53:14] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 14:03:16] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 14:03:16] 💰 [SALDO] Emas: 27,910.1 | Makanan: 101,091.2 | Bijih: 63,740.5 | Kayu: 58,279.7
+[2026-10-31 14:03:17] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 14:03:18] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 14:13:19] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 14:13:19] 💰 [SALDO] Emas: 27,960.4 | Makanan: 101,302.2 | Bijih: 63,841 | Kayu: 58,380.2
+[2026-10-31 14:13:19] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 14:13:20] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 14:23:22] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 14:23:22] 💰 [SALDO] Emas: 28,010.7 | Makanan: 101,513.2 | Bijih: 63,941.5 | Kayu: 58,480.7
+[2026-10-31 14:23:22] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 14:23:23] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 14:33:24] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 14:33:24] 💰 [SALDO] Emas: 28,061 | Makanan: 101,724.2 | Bijih: 64,042 | Kayu: 58,581.2
+[2026-10-31 14:33:25] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 14:33:27] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 14:43:29] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 14:43:29] 💰 [SALDO] Emas: 28,111.3 | Makanan: 101,935.2 | Bijih: 64,142.5 | Kayu: 58,681.7
+[2026-10-31 14:43:29] 🌾 [PANEN] Berhasil panen: Emas +0.2, Makanan +0.7, Bijih +0.3, Kayu +0.3
+[2026-10-31 14:43:30] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 14:53:32] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 14:53:32] 💰 [SALDO] Emas: 28,161.7 | Makanan: 102,146.6 | Bijih: 64,243.1 | Kayu: 58,782.3
+[2026-10-31 14:53:32] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 14:53:33] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 15:03:35] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 15:03:35] 💰 [SALDO] Emas: 28,212 | Makanan: 102,357.6 | Bijih: 64,343.6 | Kayu: 58,882.8
+[2026-10-31 15:03:35] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 15:03:37] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 15:13:38] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 15:13:38] 💰 [SALDO] Emas: 28,262.3 | Makanan: 102,568.6 | Bijih: 64,444.1 | Kayu: 58,983.3
+[2026-10-31 15:13:38] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 15:13:40] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 15:23:46] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 15:23:46] 💰 [SALDO] Emas: 28,313 | Makanan: 102,781.4 | Bijih: 64,545.5 | Kayu: 59,084.7
+[2026-10-31 15:23:47] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 15:23:48] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 15:33:49] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 15:33:49] 💰 [SALDO] Emas: 28,363.4 | Makanan: 102,992.8 | Bijih: 64,646.2 | Kayu: 59,185.4
+[2026-10-31 15:33:51] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 15:43:52] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 15:43:52] 💰 [SALDO] Emas: 28,413.7 | Makanan: 103,203.9 | Bijih: 64,746.7 | Kayu: 59,285.9
+[2026-10-31 15:43:54] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 15:53:55] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 15:53:55] 💰 [SALDO] Emas: 28,464 | Makanan: 103,415 | Bijih: 64,847.2 | Kayu: 59,386.4
+[2026-10-31 15:53:56] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 15:53:57] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 16:04:03] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 16:04:03] 💰 [SALDO] Emas: 28,514.7 | Makanan: 103,627.8 | Bijih: 64,948.6 | Kayu: 59,487.8
+[2026-10-31 16:04:04] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 16:04:05] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 16:14:12] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 16:14:12] 💰 [SALDO] Emas: 28,565.4 | Makanan: 103,840.6 | Bijih: 65,050 | Kayu: 59,589.2
+[2026-10-31 16:14:12] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 16:14:14] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 16:24:20] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 16:24:20] 💰 [SALDO] Emas: 28,616.1 | Makanan: 104,053.4 | Bijih: 65,151.4 | Kayu: 59,690.6
+[2026-10-31 16:24:21] 🌾 [PANEN] Berhasil panen: Emas +0.2, Makanan +0.7, Bijih +0.3, Kayu +0.3
+[2026-10-31 16:24:22] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 16:34:23] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 16:34:23] 💰 [SALDO] Emas: 28,666.4 | Makanan: 104,264.5 | Bijih: 65,251.9 | Kayu: 59,791.1
+[2026-10-31 16:34:23] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 16:34:24] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 16:44:26] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 16:44:26] 💰 [SALDO] Emas: 28,716.7 | Makanan: 104,475.5 | Bijih: 65,352.4 | Kayu: 59,891.6
+[2026-10-31 16:44:26] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 16:44:27] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 16:54:29] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 16:54:29] 💰 [SALDO] Emas: 28,767 | Makanan: 104,686.5 | Bijih: 65,452.9 | Kayu: 59,992.1
+[2026-10-31 16:54:30] 🌾 [PANEN] Berhasil panen: Emas +0.2, Makanan +0.7, Bijih +0.3, Kayu +0.3
+[2026-10-31 16:54:32] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 17:04:33] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 17:04:33] 💰 [SALDO] Emas: 28,817.4 | Makanan: 104,897.9 | Bijih: 65,553.5 | Kayu: 60,092.7
+[2026-10-31 17:04:39] 🌾 [PANEN] Berhasil panen: Emas +0.6, Makanan +2.5, Bijih +1.2, Kayu +1.2
+[2026-10-31 17:04:40] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 17:14:42] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 17:14:42] 💰 [SALDO] Emas: 28,868.2 | Makanan: 105,111.1 | Bijih: 65,655 | Kayu: 60,194.2
+[2026-10-31 17:14:42] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 17:14:43] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...
+[2026-10-31 17:24:44] 🏰 [KOTA] Warga: 10/22 Luang | Prod/m: Gold +5, Food +21, Ore +10, Wood +10
+[2026-10-31 17:24:44] 💰 [SALDO] Emas: 28,918.5 | Makanan: 105,322.1 | Bijih: 65,755.5 | Kayu: 60,294.7
+[2026-10-31 17:24:45] 🌾 [PANEN] Berhasil panen: Emas +0.1, Makanan +0.3, Bijih +0.2, Kayu +0.2
+[2026-10-31 17:24:46] 💤 Siklus selesai. Tidur 10 menit sebelum siklus panen berikutnya...

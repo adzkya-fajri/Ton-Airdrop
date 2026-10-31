@@ -1,0 +1,363 @@
+[2026-10-31 07:34:30] ==================================================
+[2026-10-31 07:34:30]    LUNAR ORE BURROW ($LOB) AUTO-FARMER DAEMON     
+[2026-10-31 07:34:30] ==================================================
+[2026-10-31 07:34:31] --------------------------------------------------
+[2026-10-31 07:34:31] ⛏ [STATUS] Mining: IDLE | Speed: 0.00 LOB/jam
+[2026-10-31 07:34:31] 💰 Saldo: 0.1741 LOB | Pending: 0.0000 LOB
+[2026-10-31 07:34:31] --------------------------------------------------
+[2026-10-31 07:34:31] [LOB] Sesi mining belum aktif atau selesai. Mengirim /api/mining/start...
+[2026-10-31 07:34:32] >> Berhasil memulai siklus penambangan LOB baru! <<
+[2026-10-31 07:44:39] --------------------------------------------------
+[2026-10-31 07:44:39] ⛏ [STATUS] Mining: IDLE | Speed: 0.00 LOB/jam
+[2026-10-31 07:44:39] 💰 Saldo: 0.2093 LOB | Pending: 0.0000 LOB
+[2026-10-31 07:44:39] --------------------------------------------------
+[2026-10-31 07:44:39] [LOB] Sesi mining belum aktif atau selesai. Mengirim /api/mining/start...
+[2026-10-31 07:44:42] >> Berhasil memulai siklus penambangan LOB baru! <<
+[2026-10-31 07:54:48] --------------------------------------------------
+[2026-10-31 07:54:48] ⛏ [STATUS] Mining: IDLE | Speed: 0.00 LOB/jam
+[2026-10-31 07:54:48] 💰 Saldo: 0.2446 LOB | Pending: 0.0000 LOB
+[2026-10-31 07:54:48] --------------------------------------------------
+[2026-10-31 07:54:48] [LOB] Sesi mining belum aktif atau selesai. Mengirim /api/mining/start...
+[2026-10-31 07:54:54] >> Berhasil memulai siklus penambangan LOB baru! <<
+[2026-10-31 08:04:55] --------------------------------------------------
+[2026-10-31 08:04:55] ⛏ [STATUS] Mining: IDLE | Speed: 0.00 LOB/jam
+[2026-10-31 08:04:55] 💰 Saldo: 0.2797 LOB | Pending: 0.0000 LOB
+[2026-10-31 08:04:55] --------------------------------------------------
+[2026-10-31 08:04:55] [LOB] Sesi mining belum aktif atau selesai. Mengirim /api/mining/start...
+[2026-10-31 08:04:56] >> Berhasil memulai siklus penambangan LOB baru! <<
+[2026-10-31 08:15:03] --------------------------------------------------
+[2026-10-31 08:15:03] ⛏ [STATUS] Mining: IDLE | Speed: 0.00 LOB/jam
+[2026-10-31 08:15:03] 💰 Saldo: 0.3149 LOB | Pending: 0.0000 LOB
+[2026-10-31 08:15:03] --------------------------------------------------
+[2026-10-31 08:15:03] [LOB] Sesi mining belum aktif atau selesai. Mengirim /api/mining/start...
+[2026-10-31 08:15:04] >> Berhasil memulai siklus penambangan LOB baru! <<
+[2026-10-31 08:25:05] --------------------------------------------------
+[2026-10-31 08:25:05] ⛏ [STATUS] Mining: IDLE | Speed: 0.00 LOB/jam
+[2026-10-31 08:25:05] 💰 Saldo: 0.3497 LOB | Pending: 0.0000 LOB
+[2026-10-31 08:25:05] --------------------------------------------------
+[2026-10-31 08:25:05] [LOB] Sesi mining belum aktif atau selesai. Mengirim /api/mining/start...
+[2026-10-31 08:25:06] >> Berhasil memulai siklus penambangan LOB baru! <<
+[2026-10-31 08:35:07] --------------------------------------------------
+[2026-10-31 08:35:07] ⛏ [STATUS] Mining: IDLE | Speed: 0.00 LOB/jam
+[2026-10-31 08:35:07] 💰 Saldo: 0.3845 LOB | Pending: 0.0000 LOB
+[2026-10-31 08:35:07] --------------------------------------------------
+[2026-10-31 08:35:07] [LOB] Sesi mining belum aktif atau selesai. Mengirim /api/mining/start...
+[2026-10-31 08:35:08] >> Berhasil memulai siklus penambangan LOB baru! <<
+[2026-10-31 08:45:09] --------------------------------------------------
+[2026-10-31 08:45:09] ⛏ [STATUS] Mining: IDLE | Speed: 0.00 LOB/jam
+[2026-10-31 08:45:09] 💰 Saldo: 0.4193 LOB | Pending: 0.0000 LOB
+[2026-10-31 08:45:09] --------------------------------------------------
+[2026-10-31 08:45:09] [LOB] Sesi mining belum aktif atau selesai. Mengirim /api/mining/start...
+[2026-10-31 08:45:09] >> Berhasil memulai siklus penambangan LOB baru! <<
+[2026-10-31 08:55:15] --------------------------------------------------
+[2026-10-31 08:55:15] ⛏ [STATUS] Mining: IDLE | Speed: 0.00 LOB/jam
+[2026-10-31 08:55:15] 💰 Saldo: 0.4545 LOB | Pending: 0.0000 LOB
+[2026-10-31 08:55:15] --------------------------------------------------
+[2026-10-31 08:55:15] [LOB] Sesi mining belum aktif atau selesai. Mengirim /api/mining/start...
+[2026-10-31 08:55:16] >> Berhasil memulai siklus penambangan LOB baru! <<
+[2026-10-31 09:05:17] --------------------------------------------------
+[2026-10-31 09:05:17] ⛏ [STATUS] Mining: IDLE | Speed: 0.00 LOB/jam
+[2026-10-31 09:05:17] 💰 Saldo: 0.4893 LOB | Pending: 0.0000 LOB
+[2026-10-31 09:05:17] --------------------------------------------------
+[2026-10-31 09:05:17] [LOB] Sesi mining belum aktif atau selesai. Mengirim /api/mining/start...
+[2026-10-31 09:05:18] >> Berhasil memulai siklus penambangan LOB baru! <<
+[2026-10-31 09:15:19] --------------------------------------------------
+[2026-10-31 09:15:19] ⛏ [STATUS] Mining: IDLE | Speed: 0.00 LOB/jam
+[2026-10-31 09:15:19] 💰 Saldo: 0.5241 LOB | Pending: 0.0000 LOB
+[2026-10-31 09:15:19] --------------------------------------------------
+[2026-10-31 09:15:19] [LOB] Sesi mining belum aktif atau selesai. Mengirim /api/mining/start...
+[2026-10-31 09:15:20] >> Berhasil memulai siklus penambangan LOB baru! <<
+[2026-10-31 09:25:25] --------------------------------------------------
+[2026-10-31 09:25:25] ⛏ [STATUS] Mining: IDLE | Speed: 0.00 LOB/jam
+[2026-10-31 09:25:25] 💰 Saldo: 0.5592 LOB | Pending: 0.0000 LOB
+[2026-10-31 09:25:25] --------------------------------------------------
+[2026-10-31 09:25:25] [LOB] Sesi mining belum aktif atau selesai. Mengirim /api/mining/start...
+[2026-10-31 09:25:26] >> Berhasil memulai siklus penambangan LOB baru! <<
+[2026-10-31 09:35:27] --------------------------------------------------
+[2026-10-31 09:35:27] ⛏ [STATUS] Mining: IDLE | Speed: 0.00 LOB/jam
+[2026-10-31 09:35:27] 💰 Saldo: 0.5940 LOB | Pending: 0.0000 LOB
+[2026-10-31 09:35:27] --------------------------------------------------
+[2026-10-31 09:35:27] [LOB] Sesi mining belum aktif atau selesai. Mengirim /api/mining/start...
+[2026-10-31 09:35:28] >> Berhasil memulai siklus penambangan LOB baru! <<
+[2026-10-31 09:45:29] --------------------------------------------------
+[2026-10-31 09:45:29] ⛏ [STATUS] Mining: IDLE | Speed: 0.00 LOB/jam
+[2026-10-31 09:45:29] 💰 Saldo: 0.6288 LOB | Pending: 0.0000 LOB
+[2026-10-31 09:45:29] --------------------------------------------------
+[2026-10-31 09:45:29] [LOB] Sesi mining belum aktif atau selesai. Mengirim /api/mining/start...
+[2026-10-31 09:45:29] >> Berhasil memulai siklus penambangan LOB baru! <<
+[2026-10-31 09:55:30] --------------------------------------------------
+[2026-10-31 09:55:30] ⛏ [STATUS] Mining: IDLE | Speed: 0.00 LOB/jam
+[2026-10-31 09:55:30] 💰 Saldo: 0.6637 LOB | Pending: 0.0000 LOB
+[2026-10-31 09:55:30] --------------------------------------------------
+[2026-10-31 09:55:30] [LOB] Sesi mining belum aktif atau selesai. Mengirim /api/mining/start...
+[2026-10-31 09:55:31] >> Berhasil memulai siklus penambangan LOB baru! <<
+[2026-10-31 10:05:32] --------------------------------------------------
+[2026-10-31 10:05:32] ⛏ [STATUS] Mining: IDLE | Speed: 0.00 LOB/jam
+[2026-10-31 10:05:32] 💰 Saldo: 0.6984 LOB | Pending: 0.0000 LOB
+[2026-10-31 10:05:32] --------------------------------------------------
+[2026-10-31 10:05:32] [LOB] Sesi mining belum aktif atau selesai. Mengirim /api/mining/start...
+[2026-10-31 10:05:32] >> Berhasil memulai siklus penambangan LOB baru! <<
+[2026-10-31 10:15:33] --------------------------------------------------
+[2026-10-31 10:15:33] ⛏ [STATUS] Mining: IDLE | Speed: 0.00 LOB/jam
+[2026-10-31 10:15:33] 💰 Saldo: 0.7333 LOB | Pending: 0.0000 LOB
+[2026-10-31 10:15:33] --------------------------------------------------
+[2026-10-31 10:15:33] [LOB] Sesi mining belum aktif atau selesai. Mengirim /api/mining/start...
+[2026-10-31 10:15:40] [LOB] Error start: HTTPSConnectionPool(host='api.lunaroreburrow.top', port=443): Max retries exceeded with url: /api/mining/start (Caused by NewConnectionError("HTTPSConnection(host='api.lunaroreburrow.top', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))
+[2026-10-31 10:25:40] --------------------------------------------------
+[2026-10-31 10:25:40] ⛏ [STATUS] Mining: IDLE | Speed: 0.00 LOB/jam
+[2026-10-31 10:25:40] 💰 Saldo: 0.7684 LOB | Pending: 0.0000 LOB
+[2026-10-31 10:25:40] --------------------------------------------------
+[2026-10-31 10:25:40] [LOB] Sesi mining belum aktif atau selesai. Mengirim /api/mining/start...
+[2026-10-31 10:25:40] >> Berhasil memulai siklus penambangan LOB baru! <<
+[2026-10-31 10:35:42] --------------------------------------------------
+[2026-10-31 10:35:42] ⛏ [STATUS] Mining: IDLE | Speed: 0.00 LOB/jam
+[2026-10-31 10:35:42] 💰 Saldo: 0.8032 LOB | Pending: 0.0000 LOB
+[2026-10-31 10:35:42] --------------------------------------------------
+[2026-10-31 10:35:42] [LOB] Sesi mining belum aktif atau selesai. Mengirim /api/mining/start...
+[2026-10-31 10:35:42] >> Berhasil memulai siklus penambangan LOB baru! <<
+[2026-10-31 10:45:43] --------------------------------------------------
+[2026-10-31 10:45:43] ⛏ [STATUS] Mining: IDLE | Speed: 0.00 LOB/jam
+[2026-10-31 10:45:43] 💰 Saldo: 0.8380 LOB | Pending: 0.0000 LOB
+[2026-10-31 10:45:43] --------------------------------------------------
+[2026-10-31 10:45:43] [LOB] Sesi mining belum aktif atau selesai. Mengirim /api/mining/start...
+[2026-10-31 10:45:43] >> Berhasil memulai siklus penambangan LOB baru! <<
+[2026-10-31 10:55:49] --------------------------------------------------
+[2026-10-31 10:55:49] ⛏ [STATUS] Mining: IDLE | Speed: 0.00 LOB/jam
+[2026-10-31 10:55:49] 💰 Saldo: 0.8731 LOB | Pending: 0.0000 LOB
+[2026-10-31 10:55:49] --------------------------------------------------
+[2026-10-31 10:55:49] [LOB] Sesi mining belum aktif atau selesai. Mengirim /api/mining/start...
+[2026-10-31 10:55:50] >> Berhasil memulai siklus penambangan LOB baru! <<
+[2026-10-31 11:05:51] --------------------------------------------------
+[2026-10-31 11:05:51] ⛏ [STATUS] Mining: IDLE | Speed: 0.00 LOB/jam
+[2026-10-31 11:05:51] 💰 Saldo: 0.9079 LOB | Pending: 0.0000 LOB
+[2026-10-31 11:05:51] --------------------------------------------------
+[2026-10-31 11:05:51] [LOB] Sesi mining belum aktif atau selesai. Mengirim /api/mining/start...
+[2026-10-31 11:05:51] >> Berhasil memulai siklus penambangan LOB baru! <<
+[2026-10-31 11:15:53] --------------------------------------------------
+[2026-10-31 11:15:53] ⛏ [STATUS] Mining: IDLE | Speed: 0.00 LOB/jam
+[2026-10-31 11:15:53] 💰 Saldo: 0.9427 LOB | Pending: 0.0000 LOB
+[2026-10-31 11:15:53] --------------------------------------------------
+[2026-10-31 11:15:53] [LOB] Sesi mining belum aktif atau selesai. Mengirim /api/mining/start...
+[2026-10-31 11:15:54] >> Berhasil memulai siklus penambangan LOB baru! <<
+[2026-10-31 11:25:55] --------------------------------------------------
+[2026-10-31 11:25:55] ⛏ [STATUS] Mining: IDLE | Speed: 0.00 LOB/jam
+[2026-10-31 11:25:55] 💰 Saldo: 0.9775 LOB | Pending: 0.0000 LOB
+[2026-10-31 11:25:55] --------------------------------------------------
+[2026-10-31 11:25:55] [LOB] Sesi mining belum aktif atau selesai. Mengirim /api/mining/start...
+[2026-10-31 11:25:55] >> Berhasil memulai siklus penambangan LOB baru! <<
+[2026-10-31 11:35:57] --------------------------------------------------
+[2026-10-31 11:35:57] ⛏ [STATUS] Mining: IDLE | Speed: 0.00 LOB/jam
+[2026-10-31 11:35:57] 💰 Saldo: 1.0124 LOB | Pending: 0.0000 LOB
+[2026-10-31 11:35:57] --------------------------------------------------
+[2026-10-31 11:35:57] [LOB] Sesi mining belum aktif atau selesai. Mengirim /api/mining/start...
+[2026-10-31 11:35:57] >> Berhasil memulai siklus penambangan LOB baru! <<
+[2026-10-31 11:45:58] --------------------------------------------------
+[2026-10-31 11:45:58] ⛏ [STATUS] Mining: IDLE | Speed: 0.00 LOB/jam
+[2026-10-31 11:45:58] 💰 Saldo: 1.0472 LOB | Pending: 0.0000 LOB
+[2026-10-31 11:45:58] --------------------------------------------------
+[2026-10-31 11:45:58] [LOB] Sesi mining belum aktif atau selesai. Mengirim /api/mining/start...
+[2026-10-31 11:45:58] >> Berhasil memulai siklus penambangan LOB baru! <<
+[2026-10-31 11:55:59] --------------------------------------------------
+[2026-10-31 11:55:59] ⛏ [STATUS] Mining: IDLE | Speed: 0.00 LOB/jam
+[2026-10-31 11:55:59] 💰 Saldo: 1.0820 LOB | Pending: 0.0000 LOB
+[2026-10-31 11:55:59] --------------------------------------------------
+[2026-10-31 11:55:59] [LOB] Sesi mining belum aktif atau selesai. Mengirim /api/mining/start...
+[2026-10-31 11:56:00] >> Berhasil memulai siklus penambangan LOB baru! <<
+[2026-10-31 12:06:01] --------------------------------------------------
+[2026-10-31 12:06:01] ⛏ [STATUS] Mining: IDLE | Speed: 0.00 LOB/jam
+[2026-10-31 12:06:01] 💰 Saldo: 1.1168 LOB | Pending: 0.0000 LOB
+[2026-10-31 12:06:01] --------------------------------------------------
+[2026-10-31 12:06:01] [LOB] Sesi mining belum aktif atau selesai. Mengirim /api/mining/start...
+[2026-10-31 12:06:01] >> Berhasil memulai siklus penambangan LOB baru! <<
+[2026-10-31 12:16:02] --------------------------------------------------
+[2026-10-31 12:16:02] ⛏ [STATUS] Mining: IDLE | Speed: 0.00 LOB/jam
+[2026-10-31 12:16:02] 💰 Saldo: 1.1516 LOB | Pending: 0.0000 LOB
+[2026-10-31 12:16:02] --------------------------------------------------
+[2026-10-31 12:16:02] [LOB] Sesi mining belum aktif atau selesai. Mengirim /api/mining/start...
+[2026-10-31 12:16:03] >> Berhasil memulai siklus penambangan LOB baru! <<
+[2026-10-31 12:26:04] --------------------------------------------------
+[2026-10-31 12:26:04] ⛏ [STATUS] Mining: IDLE | Speed: 0.00 LOB/jam
+[2026-10-31 12:26:04] 💰 Saldo: 1.1865 LOB | Pending: 0.0000 LOB
+[2026-10-31 12:26:04] --------------------------------------------------
+[2026-10-31 12:26:04] [LOB] Sesi mining belum aktif atau selesai. Mengirim /api/mining/start...
+[2026-10-31 12:26:05] >> Berhasil memulai siklus penambangan LOB baru! <<
+[2026-10-31 12:36:06] --------------------------------------------------
+[2026-10-31 12:36:06] ⛏ [STATUS] Mining: IDLE | Speed: 0.00 LOB/jam
+[2026-10-31 12:36:06] 💰 Saldo: 1.2212 LOB | Pending: 0.0000 LOB
+[2026-10-31 12:36:06] --------------------------------------------------
+[2026-10-31 12:36:06] [LOB] Sesi mining belum aktif atau selesai. Mengirim /api/mining/start...
+[2026-10-31 12:36:07] >> Berhasil memulai siklus penambangan LOB baru! <<
+[2026-10-31 12:46:08] --------------------------------------------------
+[2026-10-31 12:46:08] ⛏ [STATUS] Mining: IDLE | Speed: 0.00 LOB/jam
+[2026-10-31 12:46:08] 💰 Saldo: 1.2561 LOB | Pending: 0.0000 LOB
+[2026-10-31 12:46:08] --------------------------------------------------
+[2026-10-31 12:46:08] [LOB] Sesi mining belum aktif atau selesai. Mengirim /api/mining/start...
+[2026-10-31 12:46:08] >> Berhasil memulai siklus penambangan LOB baru! <<
+[2026-10-31 12:56:14] --------------------------------------------------
+[2026-10-31 12:56:14] ⛏ [STATUS] Mining: IDLE | Speed: 0.00 LOB/jam
+[2026-10-31 12:56:14] 💰 Saldo: 1.2912 LOB | Pending: 0.0000 LOB
+[2026-10-31 12:56:14] --------------------------------------------------
+[2026-10-31 12:56:14] [LOB] Sesi mining belum aktif atau selesai. Mengirim /api/mining/start...
+[2026-10-31 12:56:14] >> Berhasil memulai siklus penambangan LOB baru! <<
+[2026-10-31 13:06:15] --------------------------------------------------
+[2026-10-31 13:06:15] ⛏ [STATUS] Mining: IDLE | Speed: 0.00 LOB/jam
+[2026-10-31 13:06:15] 💰 Saldo: 1.3260 LOB | Pending: 0.0000 LOB
+[2026-10-31 13:06:15] --------------------------------------------------
+[2026-10-31 13:06:15] [LOB] Sesi mining belum aktif atau selesai. Mengirim /api/mining/start...
+[2026-10-31 13:06:16] >> Berhasil memulai siklus penambangan LOB baru! <<
+[2026-10-31 13:16:17] --------------------------------------------------
+[2026-10-31 13:16:17] ⛏ [STATUS] Mining: IDLE | Speed: 0.00 LOB/jam
+[2026-10-31 13:16:17] 💰 Saldo: 1.3608 LOB | Pending: 0.0000 LOB
+[2026-10-31 13:16:17] --------------------------------------------------
+[2026-10-31 13:16:17] [LOB] Sesi mining belum aktif atau selesai. Mengirim /api/mining/start...
+[2026-10-31 13:16:17] >> Berhasil memulai siklus penambangan LOB baru! <<
+[2026-10-31 13:26:19] --------------------------------------------------
+[2026-10-31 13:26:19] ⛏ [STATUS] Mining: IDLE | Speed: 0.00 LOB/jam
+[2026-10-31 13:26:19] 💰 Saldo: 1.3956 LOB | Pending: 0.0000 LOB
+[2026-10-31 13:26:19] --------------------------------------------------
+[2026-10-31 13:26:19] [LOB] Sesi mining belum aktif atau selesai. Mengirim /api/mining/start...
+[2026-10-31 13:26:19] >> Berhasil memulai siklus penambangan LOB baru! <<
+[2026-10-31 13:36:20] --------------------------------------------------
+[2026-10-31 13:36:20] ⛏ [STATUS] Mining: IDLE | Speed: 0.00 LOB/jam
+[2026-10-31 13:36:20] 💰 Saldo: 1.4304 LOB | Pending: 0.0000 LOB
+[2026-10-31 13:36:20] --------------------------------------------------
+[2026-10-31 13:36:20] [LOB] Sesi mining belum aktif atau selesai. Mengirim /api/mining/start...
+[2026-10-31 13:36:21] >> Berhasil memulai siklus penambangan LOB baru! <<
+[2026-10-31 13:46:22] --------------------------------------------------
+[2026-10-31 13:46:22] ⛏ [STATUS] Mining: IDLE | Speed: 0.00 LOB/jam
+[2026-10-31 13:46:22] 💰 Saldo: 1.4653 LOB | Pending: 0.0000 LOB
+[2026-10-31 13:46:22] --------------------------------------------------
+[2026-10-31 13:46:22] [LOB] Sesi mining belum aktif atau selesai. Mengirim /api/mining/start...
+[2026-10-31 13:46:23] >> Berhasil memulai siklus penambangan LOB baru! <<
+[2026-10-31 13:56:29] --------------------------------------------------
+[2026-10-31 13:56:29] ⛏ [STATUS] Mining: IDLE | Speed: 0.00 LOB/jam
+[2026-10-31 13:56:29] 💰 Saldo: 1.5004 LOB | Pending: 0.0000 LOB
+[2026-10-31 13:56:29] --------------------------------------------------
+[2026-10-31 13:56:29] [LOB] Sesi mining belum aktif atau selesai. Mengirim /api/mining/start...
+[2026-10-31 13:56:31] >> Berhasil memulai siklus penambangan LOB baru! <<
+[2026-10-31 14:06:33] --------------------------------------------------
+[2026-10-31 14:06:33] ⛏ [STATUS] Mining: IDLE | Speed: 0.00 LOB/jam
+[2026-10-31 14:06:33] 💰 Saldo: 1.5353 LOB | Pending: 0.0000 LOB
+[2026-10-31 14:06:33] --------------------------------------------------
+[2026-10-31 14:06:33] [LOB] Sesi mining belum aktif atau selesai. Mengirim /api/mining/start...
+[2026-10-31 14:06:37] >> Berhasil memulai siklus penambangan LOB baru! <<
+[2026-10-31 14:16:43] --------------------------------------------------
+[2026-10-31 14:16:43] ⛏ [STATUS] Mining: IDLE | Speed: 0.00 LOB/jam
+[2026-10-31 14:16:43] 💰 Saldo: 1.5707 LOB | Pending: 0.0000 LOB
+[2026-10-31 14:16:43] --------------------------------------------------
+[2026-10-31 14:16:43] [LOB] Sesi mining belum aktif atau selesai. Mengirim /api/mining/start...
+[2026-10-31 14:16:44] >> Berhasil memulai siklus penambangan LOB baru! <<
+[2026-10-31 14:26:45] --------------------------------------------------
+[2026-10-31 14:26:45] ⛏ [STATUS] Mining: IDLE | Speed: 0.00 LOB/jam
+[2026-10-31 14:26:45] 💰 Saldo: 1.6055 LOB | Pending: 0.0000 LOB
+[2026-10-31 14:26:45] --------------------------------------------------
+[2026-10-31 14:26:45] [LOB] Sesi mining belum aktif atau selesai. Mengirim /api/mining/start...
+[2026-10-31 14:26:46] >> Berhasil memulai siklus penambangan LOB baru! <<
+[2026-10-31 14:36:47] --------------------------------------------------
+[2026-10-31 14:36:47] ⛏ [STATUS] Mining: IDLE | Speed: 0.00 LOB/jam
+[2026-10-31 14:36:47] 💰 Saldo: 1.6403 LOB | Pending: 0.0000 LOB
+[2026-10-31 14:36:47] --------------------------------------------------
+[2026-10-31 14:36:47] [LOB] Sesi mining belum aktif atau selesai. Mengirim /api/mining/start...
+[2026-10-31 14:36:47] >> Berhasil memulai siklus penambangan LOB baru! <<
+[2026-10-31 14:46:48] --------------------------------------------------
+[2026-10-31 14:46:48] ⛏ [STATUS] Mining: IDLE | Speed: 0.00 LOB/jam
+[2026-10-31 14:46:48] 💰 Saldo: 1.6751 LOB | Pending: 0.0000 LOB
+[2026-10-31 14:46:48] --------------------------------------------------
+[2026-10-31 14:46:48] [LOB] Sesi mining belum aktif atau selesai. Mengirim /api/mining/start...
+[2026-10-31 14:46:49] >> Berhasil memulai siklus penambangan LOB baru! <<
+[2026-10-31 14:56:50] --------------------------------------------------
+[2026-10-31 14:56:50] ⛏ [STATUS] Mining: IDLE | Speed: 0.00 LOB/jam
+[2026-10-31 14:56:50] 💰 Saldo: 1.7100 LOB | Pending: 0.0000 LOB
+[2026-10-31 14:56:50] --------------------------------------------------
+[2026-10-31 14:56:50] [LOB] Sesi mining belum aktif atau selesai. Mengirim /api/mining/start...
+[2026-10-31 14:56:51] >> Berhasil memulai siklus penambangan LOB baru! <<
+[2026-10-31 15:06:52] --------------------------------------------------
+[2026-10-31 15:06:52] ⛏ [STATUS] Mining: IDLE | Speed: 0.00 LOB/jam
+[2026-10-31 15:06:52] 💰 Saldo: 1.7447 LOB | Pending: 0.0000 LOB
+[2026-10-31 15:06:52] --------------------------------------------------
+[2026-10-31 15:06:52] [LOB] Sesi mining belum aktif atau selesai. Mengirim /api/mining/start...
+[2026-10-31 15:06:52] >> Berhasil memulai siklus penambangan LOB baru! <<
+[2026-10-31 15:16:58] --------------------------------------------------
+[2026-10-31 15:16:58] ⛏ [STATUS] Mining: IDLE | Speed: 0.00 LOB/jam
+[2026-10-31 15:16:58] 💰 Saldo: 1.7799 LOB | Pending: 0.0000 LOB
+[2026-10-31 15:16:58] --------------------------------------------------
+[2026-10-31 15:16:58] [LOB] Sesi mining belum aktif atau selesai. Mengirim /api/mining/start...
+[2026-10-31 15:16:59] >> Berhasil memulai siklus penambangan LOB baru! <<
+[2026-10-31 15:27:00] --------------------------------------------------
+[2026-10-31 15:27:00] ⛏ [STATUS] Mining: IDLE | Speed: 0.00 LOB/jam
+[2026-10-31 15:27:00] 💰 Saldo: 1.8147 LOB | Pending: 0.0000 LOB
+[2026-10-31 15:27:00] --------------------------------------------------
+[2026-10-31 15:27:00] [LOB] Sesi mining belum aktif atau selesai. Mengirim /api/mining/start...
+[2026-10-31 15:27:01] >> Berhasil memulai siklus penambangan LOB baru! <<
+[2026-10-31 15:37:01] --------------------------------------------------
+[2026-10-31 15:37:01] ⛏ [STATUS] Mining: IDLE | Speed: 0.00 LOB/jam
+[2026-10-31 15:37:01] 💰 Saldo: 1.8495 LOB | Pending: 0.0000 LOB
+[2026-10-31 15:37:01] --------------------------------------------------
+[2026-10-31 15:37:01] [LOB] Sesi mining belum aktif atau selesai. Mengirim /api/mining/start...
+[2026-10-31 15:37:02] >> Berhasil memulai siklus penambangan LOB baru! <<
+[2026-10-31 15:47:08] --------------------------------------------------
+[2026-10-31 15:47:08] ⛏ [STATUS] Mining: IDLE | Speed: 0.00 LOB/jam
+[2026-10-31 15:47:08] 💰 Saldo: 1.8846 LOB | Pending: 0.0000 LOB
+[2026-10-31 15:47:08] --------------------------------------------------
+[2026-10-31 15:47:08] [LOB] Sesi mining belum aktif atau selesai. Mengirim /api/mining/start...
+[2026-10-31 15:47:09] >> Berhasil memulai siklus penambangan LOB baru! <<
+[2026-10-31 15:57:10] --------------------------------------------------
+[2026-10-31 15:57:10] ⛏ [STATUS] Mining: IDLE | Speed: 0.00 LOB/jam
+[2026-10-31 15:57:10] 💰 Saldo: 1.9194 LOB | Pending: 0.0000 LOB
+[2026-10-31 15:57:10] --------------------------------------------------
+[2026-10-31 15:57:10] [LOB] Sesi mining belum aktif atau selesai. Mengirim /api/mining/start...
+[2026-10-31 15:57:11] >> Berhasil memulai siklus penambangan LOB baru! <<
+[2026-10-31 16:07:12] --------------------------------------------------
+[2026-10-31 16:07:12] ⛏ [STATUS] Mining: IDLE | Speed: 0.00 LOB/jam
+[2026-10-31 16:07:12] 💰 Saldo: 1.9543 LOB | Pending: 0.0000 LOB
+[2026-10-31 16:07:12] --------------------------------------------------
+[2026-10-31 16:07:12] [LOB] Sesi mining belum aktif atau selesai. Mengirim /api/mining/start...
+[2026-10-31 16:07:13] >> Berhasil memulai siklus penambangan LOB baru! <<
+[2026-10-31 16:17:14] --------------------------------------------------
+[2026-10-31 16:17:14] ⛏ [STATUS] Mining: IDLE | Speed: 0.00 LOB/jam
+[2026-10-31 16:17:14] 💰 Saldo: 1.9891 LOB | Pending: 0.0000 LOB
+[2026-10-31 16:17:14] --------------------------------------------------
+[2026-10-31 16:17:14] [LOB] Sesi mining belum aktif atau selesai. Mengirim /api/mining/start...
+[2026-10-31 16:17:14] >> Berhasil memulai siklus penambangan LOB baru! <<
+[2026-10-31 16:27:15] --------------------------------------------------
+[2026-10-31 16:27:15] ⛏ [STATUS] Mining: IDLE | Speed: 0.00 LOB/jam
+[2026-10-31 16:27:15] 💰 Saldo: 2.0239 LOB | Pending: 0.0000 LOB
+[2026-10-31 16:27:15] --------------------------------------------------
+[2026-10-31 16:27:15] [LOB] Sesi mining belum aktif atau selesai. Mengirim /api/mining/start...
+[2026-10-31 16:27:16] >> Berhasil memulai siklus penambangan LOB baru! <<
+[2026-10-31 16:37:17] --------------------------------------------------
+[2026-10-31 16:37:17] ⛏ [STATUS] Mining: IDLE | Speed: 0.00 LOB/jam
+[2026-10-31 16:37:17] 💰 Saldo: 2.0587 LOB | Pending: 0.0000 LOB
+[2026-10-31 16:37:17] --------------------------------------------------
+[2026-10-31 16:37:17] [LOB] Sesi mining belum aktif atau selesai. Mengirim /api/mining/start...
+[2026-10-31 16:37:18] >> Berhasil memulai siklus penambangan LOB baru! <<
+[2026-10-31 16:47:19] --------------------------------------------------
+[2026-10-31 16:47:19] ⛏ [STATUS] Mining: IDLE | Speed: 0.00 LOB/jam
+[2026-10-31 16:47:19] 💰 Saldo: 2.0935 LOB | Pending: 0.0000 LOB
+[2026-10-31 16:47:19] --------------------------------------------------
+[2026-10-31 16:47:19] [LOB] Sesi mining belum aktif atau selesai. Mengirim /api/mining/start...
+[2026-10-31 16:47:19] >> Berhasil memulai siklus penambangan LOB baru! <<
+[2026-10-31 16:57:20] --------------------------------------------------
+[2026-10-31 16:57:20] ⛏ [STATUS] Mining: IDLE | Speed: 0.00 LOB/jam
+[2026-10-31 16:57:20] 💰 Saldo: 2.1284 LOB | Pending: 0.0000 LOB
+[2026-10-31 16:57:20] --------------------------------------------------
+[2026-10-31 16:57:20] [LOB] Sesi mining belum aktif atau selesai. Mengirim /api/mining/start...
+[2026-10-31 16:57:21] >> Berhasil memulai siklus penambangan LOB baru! <<
+[2026-10-31 17:07:22] --------------------------------------------------
+[2026-10-31 17:07:22] ⛏ [STATUS] Mining: IDLE | Speed: 0.00 LOB/jam
+[2026-10-31 17:07:22] 💰 Saldo: 2.1632 LOB | Pending: 0.0000 LOB
+[2026-10-31 17:07:22] --------------------------------------------------
+[2026-10-31 17:07:22] [LOB] Sesi mining belum aktif atau selesai. Mengirim /api/mining/start...
+[2026-10-31 17:07:23] >> Berhasil memulai siklus penambangan LOB baru! <<
+[2026-10-31 17:17:24] --------------------------------------------------
+[2026-10-31 17:17:24] ⛏ [STATUS] Mining: IDLE | Speed: 0.00 LOB/jam
+[2026-10-31 17:17:24] 💰 Saldo: 2.1980 LOB | Pending: 0.0000 LOB
+[2026-10-31 17:17:24] --------------------------------------------------
+[2026-10-31 17:17:24] [LOB] Sesi mining belum aktif atau selesai. Mengirim /api/mining/start...
+[2026-10-31 17:17:24] >> Berhasil memulai siklus penambangan LOB baru! <<
+[2026-10-31 17:27:30] --------------------------------------------------
+[2026-10-31 17:27:30] ⛏ [STATUS] Mining: IDLE | Speed: 0.00 LOB/jam
+[2026-10-31 17:27:30] 💰 Saldo: 2.2331 LOB | Pending: 0.0000 LOB
+[2026-10-31 17:27:30] --------------------------------------------------
+[2026-10-31 17:27:30] [LOB] Sesi mining belum aktif atau selesai. Mengirim /api/mining/start...
+[2026-10-31 17:27:31] >> Berhasil memulai siklus penambangan LOB baru! <<

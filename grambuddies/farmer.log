@@ -6096,3 +6096,570 @@
 [2026-10-30 22:01:05] Mining Status     : Running (5740 pts loaded)
 [2026-10-30 22:01:05] Next Klaim        : 09:45:44 WIB (11j 44m tersisa)
 [2026-10-30 22:01:05] 💤 Tidur selama 15 menit 14 detik...
+[2026-10-30 22:16:38] ⚠️ [HTTP 429] earn_points_ad.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-30 22:16:40] ⚠️ [HTTP 429] adsbitvex_reward.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-30 22:16:41] Total Saldo Gems  : 702.92
+[2026-10-30 22:16:41] Total Saldo Points: 0
+[2026-10-30 22:16:41] Total Saldo       : 702.92 GEMS (0 Pts)
+[2026-10-30 22:16:41] Mining Status     : Running (5740 pts loaded)
+[2026-10-30 22:16:41] Next Klaim        : 09:45:44 WIB (11j 29m tersisa)
+[2026-10-30 22:16:41] 💤 Tidur selama 15 menit 14 detik...
+[2026-10-30 22:32:01] ⚠️ [HTTP 429] earn_points_ad.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-30 22:32:02] ⚠️ [HTTP 429] adsbitvex_reward.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-30 22:32:04] Total Saldo Gems  : 702.92
+[2026-10-30 22:32:04] Total Saldo Points: 0
+[2026-10-30 22:32:04] Total Saldo       : 702.92 GEMS (0 Pts)
+[2026-10-30 22:32:04] Mining Status     : Running (5740 pts loaded)
+[2026-10-30 22:32:04] Next Klaim        : 09:45:44 WIB (11j 13m tersisa)
+[2026-10-30 22:32:04] 💤 Tidur selama 15 menit 5 detik...
+[2026-10-30 22:47:41] ⚠️ [Network] Error akses tasks_list.php?category=official: HTTPSConnectionPool(host='buddies.name.ng', port=443): Read timed out. (read timeout=20)
+[2026-10-30 22:47:55] ⚠️ [HTTP 429] earn_points_ad.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-30 22:47:57] ⚠️ [HTTP 429] adsbitvex_reward.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-30 22:47:58] Total Saldo Gems  : 702.92
+[2026-10-30 22:47:58] Total Saldo Points: 0
+[2026-10-30 22:47:58] Total Saldo       : 702.92 GEMS (0 Pts)
+[2026-10-30 22:47:58] Mining Status     : Running (5740 pts loaded)
+[2026-10-30 22:47:58] Next Klaim        : 09:45:44 WIB (10j 57m tersisa)
+[2026-10-30 22:47:58] 💤 Tidur selama 15 menit 6 detik...
+[2026-10-30 23:03:09] ⚠️ [HTTP 429] earn_points_ad.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-30 23:03:11] ⚠️ [HTTP 429] adsbitvex_reward.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-30 23:03:32] ⚠️ [Network] Error akses me.php: HTTPSConnectionPool(host='buddies.name.ng', port=443): Read timed out. (read timeout=20)
+[2026-10-30 23:03:32] ⚠️ Gagal memuat data profil me.php
+[2026-10-30 23:03:32] 💤 Tidur selama 10 menit 12 detik...
+[2026-10-30 23:13:51] ⚠️ [HTTP 429] earn_points_ad.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-30 23:13:52] ⚠️ [HTTP 429] adsbitvex_reward.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-30 23:14:14] ⚠️ [Network] Error akses me.php: HTTPSConnectionPool(host='buddies.name.ng', port=443): Read timed out. (read timeout=20)
+[2026-10-30 23:14:14] ⚠️ Gagal memuat data profil me.php
+[2026-10-30 23:14:14] 💤 Tidur selama 10 menit 7 detik...
+[2026-10-30 23:24:46] ⚠️ [HTTP 429] earn_points_ad.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-30 23:24:48] ⚠️ [HTTP 429] adsbitvex_reward.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-30 23:24:49] Total Saldo Gems  : 702.92
+[2026-10-30 23:24:49] Total Saldo Points: 0
+[2026-10-30 23:24:49] Total Saldo       : 702.92 GEMS (0 Pts)
+[2026-10-30 23:24:49] Mining Status     : Running (5740 pts loaded)
+[2026-10-30 23:24:49] Next Klaim        : 09:45:44 WIB (10j 20m tersisa)
+[2026-10-30 23:24:49] 💤 Tidur selama 15 menit 13 detik...
+[2026-10-30 23:40:13] ⚠️ [HTTP 429] earn_points_ad.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-30 23:40:14] ⚠️ [HTTP 429] adsbitvex_reward.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-30 23:40:16] Total Saldo Gems  : 702.92
+[2026-10-30 23:40:16] Total Saldo Points: 0
+[2026-10-30 23:40:16] Total Saldo       : 702.92 GEMS (0 Pts)
+[2026-10-30 23:40:16] Mining Status     : Running (5740 pts loaded)
+[2026-10-30 23:40:16] Next Klaim        : 09:45:44 WIB (10j 5m tersisa)
+[2026-10-30 23:40:16] 💤 Tidur selama 15 menit 5 detik...
+[2026-10-30 23:55:39] ⚠️ [HTTP 429] earn_points_ad.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-30 23:55:41] ⚠️ [HTTP 429] adsbitvex_reward.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-30 23:55:42] Total Saldo Gems  : 702.92
+[2026-10-30 23:55:42] Total Saldo Points: 0
+[2026-10-30 23:55:42] Total Saldo       : 702.92 GEMS (0 Pts)
+[2026-10-30 23:55:42] Mining Status     : Running (5740 pts loaded)
+[2026-10-30 23:55:42] Next Klaim        : 09:45:44 WIB (9j 50m tersisa)
+[2026-10-30 23:55:42] 💤 Tidur selama 15 menit 9 detik...
+[2026-10-31 00:10:53] ⚠️ [Network] Error akses spin.php: HTTPSConnectionPool(host='buddies.name.ng', port=443): Max retries exceeded with url: /api/spin.php (Caused by NameResolutionError("HTTPSConnection(host='buddies.name.ng', port=443): Failed to resolve 'buddies.name.ng' ([Errno -2] Name or service not known)"))
+[2026-10-31 00:10:53] ⚠️ [Network] Error akses earn_points_ad.php: HTTPSConnectionPool(host='buddies.name.ng', port=443): Max retries exceeded with url: /api/earn_points_ad.php (Caused by NameResolutionError("HTTPSConnection(host='buddies.name.ng', port=443): Failed to resolve 'buddies.name.ng' ([Errno -2] Name or service not known)"))
+[2026-10-31 00:10:53] ⚠️ [Network] Error akses adsbitvex_reward.php: HTTPSConnectionPool(host='buddies.name.ng', port=443): Max retries exceeded with url: /api/adsbitvex_reward.php (Caused by NameResolutionError("HTTPSConnection(host='buddies.name.ng', port=443): Failed to resolve 'buddies.name.ng' ([Errno -2] Name or service not known)"))
+[2026-10-31 00:10:53] ⚠️ [Network] Error akses me.php: HTTPSConnectionPool(host='buddies.name.ng', port=443): Max retries exceeded with url: /api/me.php (Caused by NameResolutionError("HTTPSConnection(host='buddies.name.ng', port=443): Failed to resolve 'buddies.name.ng' ([Errno -2] Name or service not known)"))
+[2026-10-31 00:10:53] ⚠️ Gagal memuat data profil me.php
+[2026-10-31 00:10:53] 💤 Tidur selama 10 menit 13 detik...
+[2026-10-31 00:21:20] ⚠️ [HTTP 429] earn_points_ad.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-31 00:21:22] ⚠️ [HTTP 429] adsbitvex_reward.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-31 00:21:23] Total Saldo Gems  : 702.92
+[2026-10-31 00:21:23] Total Saldo Points: 0
+[2026-10-31 00:21:23] Total Saldo       : 702.92 GEMS (0 Pts)
+[2026-10-31 00:21:23] Mining Status     : Running (5740 pts loaded)
+[2026-10-31 00:21:23] Next Klaim        : 09:45:44 WIB (9j 24m tersisa)
+[2026-10-31 00:21:23] 💤 Tidur selama 15 menit 8 detik...
+[2026-10-31 00:36:49] ⚠️ [HTTP 429] earn_points_ad.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-31 00:36:50] ⚠️ [HTTP 429] adsbitvex_reward.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-31 00:36:51] Total Saldo Gems  : 702.92
+[2026-10-31 00:36:51] Total Saldo Points: 0
+[2026-10-31 00:36:51] Total Saldo       : 702.92 GEMS (0 Pts)
+[2026-10-31 00:36:51] Mining Status     : Running (5740 pts loaded)
+[2026-10-31 00:36:51] Next Klaim        : 09:45:44 WIB (9j 8m tersisa)
+[2026-10-31 00:36:51] 💤 Tidur selama 15 menit 13 detik...
+[2026-10-31 00:52:18] ⚠️ [HTTP 429] earn_points_ad.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-31 00:52:20] ⚠️ [HTTP 429] adsbitvex_reward.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-31 00:52:21] Total Saldo Gems  : 702.92
+[2026-10-31 00:52:21] Total Saldo Points: 0
+[2026-10-31 00:52:21] Total Saldo       : 702.92 GEMS (0 Pts)
+[2026-10-31 00:52:21] Mining Status     : Running (5740 pts loaded)
+[2026-10-31 00:52:21] Next Klaim        : 09:45:44 WIB (8j 53m tersisa)
+[2026-10-31 00:52:21] 💤 Tidur selama 15 menit 7 detik...
+[2026-10-31 01:07:49] ⚠️ [HTTP 429] earn_points_ad.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-31 01:07:51] ⚠️ [HTTP 429] adsbitvex_reward.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-31 01:07:52] Total Saldo Gems  : 702.92
+[2026-10-31 01:07:52] Total Saldo Points: 0
+[2026-10-31 01:07:52] Total Saldo       : 702.92 GEMS (0 Pts)
+[2026-10-31 01:07:52] Mining Status     : Running (5740 pts loaded)
+[2026-10-31 01:07:52] Next Klaim        : 09:45:44 WIB (8j 37m tersisa)
+[2026-10-31 01:07:52] 💤 Tidur selama 15 menit 7 detik...
+[2026-10-31 01:23:05] ⚠️ [Network] Error akses spin.php: HTTPSConnectionPool(host='buddies.name.ng', port=443): Max retries exceeded with url: /api/spin.php (Caused by NameResolutionError("HTTPSConnection(host='buddies.name.ng', port=443): Failed to resolve 'buddies.name.ng' ([Errno -5] No address associated with hostname)"))
+[2026-10-31 01:23:12] ⚠️ [HTTP 429] earn_points_ad.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-31 01:23:17] ⚠️ [HTTP 429] adsbitvex_reward.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-31 01:23:21] Total Saldo Gems  : 702.92
+[2026-10-31 01:23:21] Total Saldo Points: 0
+[2026-10-31 01:23:21] Total Saldo       : 702.92 GEMS (0 Pts)
+[2026-10-31 01:23:21] Mining Status     : Running (5740 pts loaded)
+[2026-10-31 01:23:21] Next Klaim        : 09:45:44 WIB (8j 22m tersisa)
+[2026-10-31 01:23:21] 💤 Tidur selama 15 menit 7 detik...
+[2026-10-31 01:38:49] ⚠️ [HTTP 429] earn_points_ad.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-31 01:39:08] ⚠️ [HTTP 429] adsbitvex_reward.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-31 01:39:10] Total Saldo Gems  : 702.92
+[2026-10-31 01:39:10] Total Saldo Points: 0
+[2026-10-31 01:39:10] Total Saldo       : 702.92 GEMS (0 Pts)
+[2026-10-31 01:39:10] Mining Status     : Running (5740 pts loaded)
+[2026-10-31 01:39:10] Next Klaim        : 09:45:44 WIB (8j 6m tersisa)
+[2026-10-31 01:39:10] 💤 Tidur selama 15 menit 6 detik...
+[2026-10-31 01:54:25] ⚠️ [HTTP 429] earn_points_ad.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-31 01:54:26] ⚠️ [HTTP 429] adsbitvex_reward.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-31 01:54:27] Total Saldo Gems  : 702.92
+[2026-10-31 01:54:27] Total Saldo Points: 0
+[2026-10-31 01:54:27] Total Saldo       : 702.92 GEMS (0 Pts)
+[2026-10-31 01:54:27] Mining Status     : Running (5740 pts loaded)
+[2026-10-31 01:54:27] Next Klaim        : 09:45:44 WIB (7j 51m tersisa)
+[2026-10-31 01:54:27] 💤 Tidur selama 15 menit 6 detik...
+[2026-10-31 02:09:59] ⚠️ [HTTP 429] earn_points_ad.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-31 02:10:00] ⚠️ [HTTP 429] adsbitvex_reward.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-31 02:10:02] Total Saldo Gems  : 702.92
+[2026-10-31 02:10:02] Total Saldo Points: 0
+[2026-10-31 02:10:02] Total Saldo       : 702.92 GEMS (0 Pts)
+[2026-10-31 02:10:02] Mining Status     : Running (5740 pts loaded)
+[2026-10-31 02:10:02] Next Klaim        : 09:45:44 WIB (7j 35m tersisa)
+[2026-10-31 02:10:02] 💤 Tidur selama 15 menit 11 detik...
+[2026-10-31 02:25:20] ⚠️ [HTTP 429] earn_points_ad.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-31 02:25:21] ⚠️ [HTTP 429] adsbitvex_reward.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-31 02:25:23] Total Saldo Gems  : 702.92
+[2026-10-31 02:25:23] Total Saldo Points: 0
+[2026-10-31 02:25:23] Total Saldo       : 702.92 GEMS (0 Pts)
+[2026-10-31 02:25:23] Mining Status     : Running (5740 pts loaded)
+[2026-10-31 02:25:23] Next Klaim        : 09:45:44 WIB (7j 20m tersisa)
+[2026-10-31 02:25:23] 💤 Tidur selama 15 menit 10 detik...
+[2026-10-31 02:41:00] ⚠️ [HTTP 429] earn_points_ad.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-31 02:41:02] ⚠️ [HTTP 429] adsbitvex_reward.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-31 02:41:03] Total Saldo Gems  : 702.92
+[2026-10-31 02:41:03] Total Saldo Points: 0
+[2026-10-31 02:41:03] Total Saldo       : 702.92 GEMS (0 Pts)
+[2026-10-31 02:41:03] Mining Status     : Running (5740 pts loaded)
+[2026-10-31 02:41:03] Next Klaim        : 09:45:44 WIB (7j 4m tersisa)
+[2026-10-31 02:41:03] 💤 Tidur selama 15 menit 12 detik...
+[2026-10-31 02:56:20] ⚠️ [HTTP 429] earn_points_ad.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-31 02:56:22] ⚠️ [HTTP 429] adsbitvex_reward.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-31 02:56:23] Total Saldo Gems  : 702.92
+[2026-10-31 02:56:23] Total Saldo Points: 0
+[2026-10-31 02:56:23] Total Saldo       : 702.92 GEMS (0 Pts)
+[2026-10-31 02:56:23] Mining Status     : Running (5740 pts loaded)
+[2026-10-31 02:56:23] Next Klaim        : 09:45:44 WIB (6j 49m tersisa)
+[2026-10-31 02:56:23] 💤 Tidur selama 15 menit 9 detik...
+[2026-10-31 03:11:49] ⚠️ [HTTP 429] earn_points_ad.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-31 03:11:51] ⚠️ [HTTP 429] adsbitvex_reward.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-31 03:11:53] Total Saldo Gems  : 702.92
+[2026-10-31 03:11:53] Total Saldo Points: 0
+[2026-10-31 03:11:53] Total Saldo       : 702.92 GEMS (0 Pts)
+[2026-10-31 03:11:53] Mining Status     : Running (5740 pts loaded)
+[2026-10-31 03:11:53] Next Klaim        : 09:45:44 WIB (6j 33m tersisa)
+[2026-10-31 03:11:53] 💤 Tidur selama 15 menit 12 detik...
+[2026-10-31 03:45:46] ==================================================
+[2026-10-31 03:45:48] 🚀 GRAM BUDDIES AUTO-FARMER DAEMON DIMULAI
+[2026-10-31 03:45:48] ⚡ Mode: Auto Tasks + Max Power Mining (100% Poin)
+[2026-10-31 03:45:48] ==================================================
+[2026-10-31 03:46:25] ⚠️ [HTTP 429] earn_points_ad.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-31 03:46:26] ⚠️ [HTTP 429] adsbitvex_reward.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-31 03:46:27] Total Saldo Gems  : 702.92
+[2026-10-31 03:46:27] Total Saldo Points: 0
+[2026-10-31 03:46:27] Total Saldo       : 702.92 GEMS (0 Pts)
+[2026-10-31 03:46:27] Mining Status     : Running (5740 pts loaded)
+[2026-10-31 03:46:27] Next Klaim        : 09:45:44 WIB (5j 59m tersisa)
+[2026-10-31 03:46:27] 💤 Tidur selama 15 menit 7 detik...
+[2026-10-31 04:01:39] ⚠️ [HTTP 429] earn_points_ad.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-31 04:01:46] ⚠️ [HTTP 429] adsbitvex_reward.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-31 04:01:47] Total Saldo Gems  : 702.92
+[2026-10-31 04:01:47] Total Saldo Points: 0
+[2026-10-31 04:01:47] Total Saldo       : 702.92 GEMS (0 Pts)
+[2026-10-31 04:01:47] Mining Status     : Running (5740 pts loaded)
+[2026-10-31 04:01:47] Next Klaim        : 09:45:44 WIB (5j 43m tersisa)
+[2026-10-31 04:01:47] 💤 Tidur selama 15 menit 12 detik...
+[2026-10-31 04:17:24] ⚠️ [HTTP 429] earn_points_ad.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-31 04:17:26] ⚠️ [HTTP 429] adsbitvex_reward.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-31 04:17:27] Total Saldo Gems  : 702.92
+[2026-10-31 04:17:27] Total Saldo Points: 0
+[2026-10-31 04:17:27] Total Saldo       : 702.92 GEMS (0 Pts)
+[2026-10-31 04:17:27] Mining Status     : Running (5740 pts loaded)
+[2026-10-31 04:17:27] Next Klaim        : 09:45:44 WIB (5j 28m tersisa)
+[2026-10-31 04:17:27] 💤 Tidur selama 15 menit 14 detik...
+[2026-10-31 04:32:46] ⚠️ [HTTP 429] earn_points_ad.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-31 04:32:48] ⚠️ [HTTP 429] adsbitvex_reward.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-31 04:32:50] Total Saldo Gems  : 702.92
+[2026-10-31 04:32:50] Total Saldo Points: 0
+[2026-10-31 04:32:50] Total Saldo       : 702.92 GEMS (0 Pts)
+[2026-10-31 04:32:50] Mining Status     : Running (5740 pts loaded)
+[2026-10-31 04:32:50] Next Klaim        : 09:45:44 WIB (5j 12m tersisa)
+[2026-10-31 04:32:50] 💤 Tidur selama 15 menit 8 detik...
+[2026-10-31 04:48:19] ⚠️ [HTTP 429] earn_points_ad.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-31 04:48:22] ⚠️ [HTTP 429] adsbitvex_reward.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-31 04:48:28] Total Saldo Gems  : 702.92
+[2026-10-31 04:48:28] Total Saldo Points: 0
+[2026-10-31 04:48:28] Total Saldo       : 702.92 GEMS (0 Pts)
+[2026-10-31 04:48:28] Mining Status     : Running (5740 pts loaded)
+[2026-10-31 04:48:28] Next Klaim        : 09:45:44 WIB (4j 57m tersisa)
+[2026-10-31 04:48:28] 💤 Tidur selama 15 menit 8 detik...
+[2026-10-31 05:03:41] ⚠️ [HTTP 429] earn_points_ad.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-31 05:03:43] ⚠️ [HTTP 429] adsbitvex_reward.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-31 05:03:44] Total Saldo Gems  : 702.92
+[2026-10-31 05:03:44] Total Saldo Points: 0
+[2026-10-31 05:03:44] Total Saldo       : 702.92 GEMS (0 Pts)
+[2026-10-31 05:03:44] Mining Status     : Running (5740 pts loaded)
+[2026-10-31 05:03:44] Next Klaim        : 09:45:44 WIB (4j 42m tersisa)
+[2026-10-31 05:03:44] 💤 Tidur selama 15 menit 7 detik...
+[2026-10-31 05:19:12] ⚠️ [HTTP 429] earn_points_ad.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-31 05:19:17] ⚠️ [HTTP 429] adsbitvex_reward.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-31 05:19:18] Total Saldo Gems  : 702.92
+[2026-10-31 05:19:18] Total Saldo Points: 0
+[2026-10-31 05:19:18] Total Saldo       : 702.92 GEMS (0 Pts)
+[2026-10-31 05:19:18] Mining Status     : Running (5740 pts loaded)
+[2026-10-31 05:19:18] Next Klaim        : 09:45:44 WIB (4j 26m tersisa)
+[2026-10-31 05:19:18] 💤 Tidur selama 15 menit 13 detik...
+[2026-10-31 05:34:37] ⚠️ [HTTP 429] earn_points_ad.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-31 05:34:38] ⚠️ [HTTP 429] adsbitvex_reward.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-31 05:34:39] Total Saldo Gems  : 702.92
+[2026-10-31 05:34:39] Total Saldo Points: 0
+[2026-10-31 05:34:39] Total Saldo       : 702.92 GEMS (0 Pts)
+[2026-10-31 05:34:39] Mining Status     : Running (5740 pts loaded)
+[2026-10-31 05:34:39] Next Klaim        : 09:45:44 WIB (4j 11m tersisa)
+[2026-10-31 05:34:39] 💤 Tidur selama 15 menit 15 detik...
+[2026-10-31 05:50:23] ⚠️ [HTTP 429] earn_points_ad.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-31 05:50:25] ⚠️ [HTTP 429] adsbitvex_reward.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-31 05:50:26] Total Saldo Gems  : 702.92
+[2026-10-31 05:50:26] Total Saldo Points: 0
+[2026-10-31 05:50:26] Total Saldo       : 702.92 GEMS (0 Pts)
+[2026-10-31 05:50:26] Mining Status     : Running (5740 pts loaded)
+[2026-10-31 05:50:26] Next Klaim        : 09:45:44 WIB (3j 55m tersisa)
+[2026-10-31 05:50:26] 💤 Tidur selama 15 menit 15 detik...
+[2026-10-31 06:05:51] ⚠️ [HTTP 429] earn_points_ad.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-31 06:05:53] ⚠️ [HTTP 429] adsbitvex_reward.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-31 06:05:59] Total Saldo Gems  : 702.92
+[2026-10-31 06:06:00] Total Saldo Points: 0
+[2026-10-31 06:06:00] Total Saldo       : 702.92 GEMS (0 Pts)
+[2026-10-31 06:06:00] Mining Status     : Running (5740 pts loaded)
+[2026-10-31 06:06:00] Next Klaim        : 09:45:44 WIB (3j 39m tersisa)
+[2026-10-31 06:06:00] 💤 Tidur selama 15 menit 11 detik...
+[2026-10-31 06:21:42] ⚠️ [HTTP 429] earn_points_ad.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-31 06:21:43] ⚠️ [HTTP 429] adsbitvex_reward.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-31 06:21:44] Total Saldo Gems  : 702.92
+[2026-10-31 06:21:44] Total Saldo Points: 0
+[2026-10-31 06:21:44] Total Saldo       : 702.92 GEMS (0 Pts)
+[2026-10-31 06:21:44] Mining Status     : Running (5740 pts loaded)
+[2026-10-31 06:21:44] Next Klaim        : 09:45:44 WIB (3j 24m tersisa)
+[2026-10-31 06:21:44] 💤 Tidur selama 15 menit 12 detik...
+[2026-10-31 06:37:07] ⚠️ [HTTP 429] earn_points_ad.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-31 06:37:11] ⚠️ [HTTP 429] adsbitvex_reward.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-31 06:37:12] Total Saldo Gems  : 702.92
+[2026-10-31 06:37:12] Total Saldo Points: 0
+[2026-10-31 06:37:12] Total Saldo       : 702.92 GEMS (0 Pts)
+[2026-10-31 06:37:12] Mining Status     : Running (5740 pts loaded)
+[2026-10-31 06:37:12] Next Klaim        : 09:45:44 WIB (3j 8m tersisa)
+[2026-10-31 06:37:12] 💤 Tidur selama 15 menit 8 detik...
+[2026-10-31 06:52:37] ⚠️ [HTTP 429] earn_points_ad.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-31 06:52:39] ⚠️ [HTTP 429] adsbitvex_reward.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-31 06:52:40] Total Saldo Gems  : 702.92
+[2026-10-31 06:52:40] Total Saldo Points: 0
+[2026-10-31 06:52:40] Total Saldo       : 702.92 GEMS (0 Pts)
+[2026-10-31 06:52:40] Mining Status     : Running (5740 pts loaded)
+[2026-10-31 06:52:40] Next Klaim        : 09:45:44 WIB (2j 53m tersisa)
+[2026-10-31 06:52:40] 💤 Tidur selama 15 menit 6 detik...
+[2026-10-31 07:07:55] 🎡 [Lucky Spin] Putaran 1: Menang '50 Points' (Sisa: 4)
+[2026-10-31 07:07:58] 🎡 [Lucky Spin] Putaran 2: Menang '100 Points' (Sisa: 3)
+[2026-10-31 07:08:02] 🎡 [Lucky Spin] Putaran 3: Menang '50 Points' (Sisa: 2)
+[2026-10-31 07:08:05] 🎡 [Lucky Spin] Putaran 4: Menang '2x Speed Booster' (Sisa: 1)
+[2026-10-31 07:08:08] 🎡 [Lucky Spin] Putaran 5: Menang '50 Points' (Sisa: 0)
+[2026-10-31 07:08:08] 🎡 [Lucky Spin] Selesai (5 putaran): Total +250 Pts, +0.00 GEMS.
+[2026-10-31 07:09:45] 📺 [Ad Tasks] Batch 12 iklan selesai: +180 Pts terkumpul!
+[2026-10-31 07:09:47] Total Saldo Gems  : 752.92
+[2026-10-31 07:09:47] Total Saldo Points: 430
+[2026-10-31 07:09:47] Total Saldo       : 752.92 GEMS (430 Pts)
+[2026-10-31 07:09:47] Mining Status     : Running (5740 pts loaded)
+[2026-10-31 07:09:47] Next Klaim        : 09:45:44 WIB (2j 35m tersisa)
+[2026-10-31 07:09:47] 💤 Tidur selama 15 menit 6 detik...
+[2026-10-31 07:25:16] ⚠️ [Network] Error akses earn_points_ad.php: HTTPSConnectionPool(host='buddies.name.ng', port=443): Max retries exceeded with url: /api/earn_points_ad.php (Caused by NameResolutionError("HTTPSConnection(host='buddies.name.ng', port=443): Failed to resolve 'buddies.name.ng' ([Errno -5] No address associated with hostname)"))
+[2026-10-31 07:26:03] 📺 [Ad Tasks] Batch 6 iklan selesai: +120 Pts terkumpul!
+[2026-10-31 07:26:07] 🎯 [Mission] Berhasil Klaim Misi 'Watch 15 Ads': +10 Pts, +0.00 GEMS!
+[2026-10-31 07:26:09] Total Saldo Gems  : 752.92
+[2026-10-31 07:26:09] Total Saldo Points: 560
+[2026-10-31 07:26:09] Total Saldo       : 752.92 GEMS (560 Pts)
+[2026-10-31 07:26:09] Mining Status     : Running (5740 pts loaded)
+[2026-10-31 07:26:09] Next Klaim        : 09:45:44 WIB (2j 19m tersisa)
+[2026-10-31 07:26:09] 💤 Tidur selama 15 menit 13 detik...
+[2026-10-31 07:43:00] 📺 [Ad Tasks] Batch 12 iklan selesai: +180 Pts terkumpul!
+[2026-10-31 07:43:08] Total Saldo Gems  : 752.92
+[2026-10-31 07:43:08] Total Saldo Points: 740
+[2026-10-31 07:43:08] Total Saldo       : 752.92 GEMS (740 Pts)
+[2026-10-31 07:43:08] Mining Status     : Running (5740 pts loaded)
+[2026-10-31 07:43:08] Next Klaim        : 09:45:44 WIB (2j 2m tersisa)
+[2026-10-31 07:43:08] 💤 Tidur selama 15 menit 15 detik...
+[2026-10-31 08:00:42] 📺 [Ad Tasks] Batch 12 iklan selesai: +180 Pts terkumpul!
+[2026-10-31 08:00:45] Total Saldo Gems  : 752.92
+[2026-10-31 08:00:45] Total Saldo Points: 920
+[2026-10-31 08:00:45] Total Saldo       : 752.92 GEMS (920 Pts)
+[2026-10-31 08:00:45] Mining Status     : Running (5740 pts loaded)
+[2026-10-31 08:00:45] Next Klaim        : 09:45:44 WIB (1j 44m tersisa)
+[2026-10-31 08:00:45] 💤 Tidur selama 15 menit 11 detik...
+[2026-10-31 08:17:28] 📺 [Ad Tasks] Batch 12 iklan selesai: +180 Pts terkumpul!
+[2026-10-31 08:17:31] Total Saldo Gems  : 752.92
+[2026-10-31 08:17:31] Total Saldo Points: 1100
+[2026-10-31 08:17:31] Total Saldo       : 752.92 GEMS (1100 Pts)
+[2026-10-31 08:17:31] Mining Status     : Running (5740 pts loaded)
+[2026-10-31 08:17:31] Next Klaim        : 09:45:44 WIB (1j 28m tersisa)
+[2026-10-31 08:17:31] 💤 Tidur selama 15 menit 10 detik...
+[2026-10-31 08:34:29] 📺 [Ad Tasks] Batch 12 iklan selesai: +180 Pts terkumpul!
+[2026-10-31 08:34:32] Total Saldo Gems  : 752.92
+[2026-10-31 08:34:32] Total Saldo Points: 1280
+[2026-10-31 08:34:32] Total Saldo       : 752.92 GEMS (1280 Pts)
+[2026-10-31 08:34:32] Mining Status     : Running (5740 pts loaded)
+[2026-10-31 08:34:32] Next Klaim        : 09:45:44 WIB (1j 11m tersisa)
+[2026-10-31 08:34:32] 💤 Tidur selama 15 menit 14 detik...
+[2026-10-31 08:50:04] ⚠️ [Network] Error akses earn_points_ad.php: HTTPSConnectionPool(host='buddies.name.ng', port=443): Max retries exceeded with url: /api/earn_points_ad.php (Caused by NameResolutionError("HTTPSConnection(host='buddies.name.ng', port=443): Failed to resolve 'buddies.name.ng' ([Errno -5] No address associated with hostname)"))
+[2026-10-31 08:51:00] 📺 [Ad Tasks] Batch 7 iklan selesai: +130 Pts terkumpul!
+[2026-10-31 08:51:03] Total Saldo Gems  : 752.92
+[2026-10-31 08:51:03] Total Saldo Points: 1410
+[2026-10-31 08:51:03] Total Saldo       : 752.92 GEMS (1410 Pts)
+[2026-10-31 08:51:03] Mining Status     : Running (5740 pts loaded)
+[2026-10-31 08:51:03] Next Klaim        : 09:45:44 WIB (0j 54m tersisa)
+[2026-10-31 08:51:03] 💤 Tidur selama 15 menit 8 detik...
+[2026-10-31 09:08:32] 📺 [Ad Tasks] Batch 12 iklan selesai: +180 Pts terkumpul!
+[2026-10-31 09:08:35] Total Saldo Gems  : 752.92
+[2026-10-31 09:08:35] Total Saldo Points: 1590
+[2026-10-31 09:08:35] Total Saldo       : 752.92 GEMS (1590 Pts)
+[2026-10-31 09:08:35] Mining Status     : Running (5740 pts loaded)
+[2026-10-31 09:08:35] Next Klaim        : 09:45:44 WIB (0j 37m tersisa)
+[2026-10-31 09:08:35] 💤 Tidur selama 15 menit 8 detik...
+[2026-10-31 09:25:32] 📺 [Ad Tasks] Batch 12 iklan selesai: +180 Pts terkumpul!
+[2026-10-31 09:25:35] Total Saldo Gems  : 752.92
+[2026-10-31 09:25:35] Total Saldo Points: 1770
+[2026-10-31 09:25:35] Total Saldo       : 752.92 GEMS (1770 Pts)
+[2026-10-31 09:25:35] Mining Status     : Running (5740 pts loaded)
+[2026-10-31 09:25:35] Next Klaim        : 09:45:44 WIB (0j 20m tersisa)
+[2026-10-31 09:25:35] 💤 Tidur selama 15 menit 10 detik...
+[2026-10-31 09:42:41] 📺 [Ad Tasks] Batch 12 iklan selesai: +180 Pts terkumpul!
+[2026-10-31 09:42:44] Total Saldo Gems  : 752.92
+[2026-10-31 09:42:44] Total Saldo Points: 1950
+[2026-10-31 09:42:44] Total Saldo       : 752.92 GEMS (1950 Pts)
+[2026-10-31 09:42:44] Mining Status     : Running (5740 pts loaded)
+[2026-10-31 09:42:44] Next Klaim        : 09:45:44 WIB (0j 3m tersisa)
+[2026-10-31 09:42:44] 💤 Tidur selama 3 menit 17 detik...
+[2026-10-31 09:47:45] 📺 [Ad Tasks] Batch 12 iklan selesai: +180 Pts terkumpul!
+[2026-10-31 09:47:48] ⛏️ Sesi mining #14032 selesai! Mengumpulkan GEMS...
+[2026-10-31 09:47:49] Klaim Sukses      : +86.10 GEMS
+[2026-10-31 09:47:49] 💎 [Mining Collect] Sukses mengklaim +86.10 GEMS! Saldo diperbarui.
+[2026-10-31 09:47:50] ⚡ [Mining Load] Memulai sesi tambang dengan SELURUH POWER (2130 Points) pada Miner Tier 'FREE'...
+[2026-10-31 09:47:52] ⛏️ [Mining Aktif] Berhasil! Beban: 2130 Pts | Estimasi: +31.95 GEMS | Durasi: 12.0 jam.
+[2026-10-31 09:47:52] Total Saldo Gems  : 839.02
+[2026-10-31 09:47:52] Total Saldo Points: 2130
+[2026-10-31 09:47:52] Total Saldo       : 839.02 GEMS (2130 Pts)
+[2026-10-31 09:47:52] Mining Status     : Running (2130 pts loaded)
+[2026-10-31 09:47:52] Next Klaim        : 21:47:52 WIB (12j 0m tersisa)
+[2026-10-31 09:47:52] 💤 Tidur selama 15 menit 13 detik...
+[2026-10-31 10:04:08] ⚠️ [Network] Error akses adsbitvex_reward.php: HTTPSConnectionPool(host='buddies.name.ng', port=443): Max retries exceeded with url: /api/adsbitvex_reward.php (Caused by NameResolutionError("HTTPSConnection(host='buddies.name.ng', port=443): Failed to resolve 'buddies.name.ng' ([Errno -5] No address associated with hostname)"))
+[2026-10-31 10:04:08] 📺 [Ad Tasks] Batch 7 iklan selesai: +80 Pts terkumpul!
+[2026-10-31 10:04:18] 🎯 [Mission] Berhasil Klaim Misi 'Start Mining': +200 Pts, +0.00 GEMS!
+[2026-10-31 10:04:21] 🎯 [Mission] Berhasil Klaim Misi 'Collect Mining': +200 Pts, +0.00 GEMS!
+[2026-10-31 10:04:43] ⚠️ [Network] Error akses me.php: HTTPSConnectionPool(host='buddies.name.ng', port=443): Read timed out. (read timeout=20)
+[2026-10-31 10:04:43] ⚠️ Gagal memuat data profil me.php
+[2026-10-31 10:04:43] 💤 Tidur selama 10 menit 6 detik...
+[2026-10-31 10:16:48] 📺 [Ad Tasks] Batch 12 iklan selesai: +180 Pts terkumpul!
+[2026-10-31 10:16:51] Total Saldo Gems  : 839.02
+[2026-10-31 10:16:51] Total Saldo Points: 660
+[2026-10-31 10:16:51] Total Saldo       : 839.02 GEMS (660 Pts)
+[2026-10-31 10:16:51] Mining Status     : Running (2130 pts loaded)
+[2026-10-31 10:16:51] Next Klaim        : 21:47:52 WIB (11j 31m tersisa)
+[2026-10-31 10:16:51] 💤 Tidur selama 15 menit 6 detik...
+[2026-10-31 10:33:37] 📺 [Ad Tasks] Batch 12 iklan selesai: +180 Pts terkumpul!
+[2026-10-31 10:33:45] Total Saldo Gems  : 839.02
+[2026-10-31 10:33:45] Total Saldo Points: 840
+[2026-10-31 10:33:45] Total Saldo       : 839.02 GEMS (840 Pts)
+[2026-10-31 10:33:45] Mining Status     : Running (2130 pts loaded)
+[2026-10-31 10:33:45] Next Klaim        : 21:47:52 WIB (11j 14m tersisa)
+[2026-10-31 10:33:45] 💤 Tidur selama 15 menit 6 detik...
+[2026-10-31 10:50:55] 📺 [Ad Tasks] Batch 12 iklan selesai: +180 Pts terkumpul!
+[2026-10-31 10:51:05] Total Saldo Gems  : 839.02
+[2026-10-31 10:51:05] Total Saldo Points: 1020
+[2026-10-31 10:51:05] Total Saldo       : 839.02 GEMS (1020 Pts)
+[2026-10-31 10:51:05] Mining Status     : Running (2130 pts loaded)
+[2026-10-31 10:51:05] Next Klaim        : 21:47:52 WIB (10j 56m tersisa)
+[2026-10-31 10:51:05] 💤 Tidur selama 15 menit 6 detik...
+[2026-10-31 11:07:51] 📺 [Ad Tasks] Batch 12 iklan selesai: +180 Pts terkumpul!
+[2026-10-31 11:07:54] Total Saldo Gems  : 839.02
+[2026-10-31 11:07:54] Total Saldo Points: 1200
+[2026-10-31 11:07:54] Total Saldo       : 839.02 GEMS (1200 Pts)
+[2026-10-31 11:07:54] Mining Status     : Running (2130 pts loaded)
+[2026-10-31 11:07:54] Next Klaim        : 21:47:52 WIB (10j 39m tersisa)
+[2026-10-31 11:07:54] 💤 Tidur selama 15 menit 10 detik...
+[2026-10-31 11:24:17] ⚠️ [Network] Error akses earn_points_ad.php: HTTPSConnectionPool(host='buddies.name.ng', port=443): Read timed out. (read timeout=20)
+[2026-10-31 11:25:03] 📺 [Ad Tasks] Batch 10 iklan selesai: +160 Pts terkumpul!
+[2026-10-31 11:25:05] Total Saldo Gems  : 839.02
+[2026-10-31 11:25:05] Total Saldo Points: 1360
+[2026-10-31 11:25:05] Total Saldo       : 839.02 GEMS (1360 Pts)
+[2026-10-31 11:25:05] Mining Status     : Running (2130 pts loaded)
+[2026-10-31 11:25:05] Next Klaim        : 21:47:52 WIB (10j 22m tersisa)
+[2026-10-31 11:25:05] 💤 Tidur selama 15 menit 6 detik...
+[2026-10-31 11:41:55] 📺 [Ad Tasks] Batch 12 iklan selesai: +180 Pts terkumpul!
+[2026-10-31 11:42:03] Total Saldo Gems  : 839.02
+[2026-10-31 11:42:03] Total Saldo Points: 1540
+[2026-10-31 11:42:03] Total Saldo       : 839.02 GEMS (1540 Pts)
+[2026-10-31 11:42:03] Mining Status     : Running (2130 pts loaded)
+[2026-10-31 11:42:03] Next Klaim        : 21:47:52 WIB (10j 5m tersisa)
+[2026-10-31 11:42:03] 💤 Tidur selama 15 menit 5 detik...
+[2026-10-31 11:59:11] 📺 [Ad Tasks] Batch 12 iklan selesai: +180 Pts terkumpul!
+[2026-10-31 11:59:14] Total Saldo Gems  : 839.02
+[2026-10-31 11:59:14] Total Saldo Points: 1720
+[2026-10-31 11:59:14] Total Saldo       : 839.02 GEMS (1720 Pts)
+[2026-10-31 11:59:14] Mining Status     : Running (2130 pts loaded)
+[2026-10-31 11:59:14] Next Klaim        : 21:47:52 WIB (9j 48m tersisa)
+[2026-10-31 11:59:14] 💤 Tidur selama 15 menit 7 detik...
+[2026-10-31 12:16:01] 📺 [Ad Tasks] Batch 12 iklan selesai: +180 Pts terkumpul!
+[2026-10-31 12:16:04] Total Saldo Gems  : 839.02
+[2026-10-31 12:16:04] Total Saldo Points: 1900
+[2026-10-31 12:16:04] Total Saldo       : 839.02 GEMS (1900 Pts)
+[2026-10-31 12:16:04] Mining Status     : Running (2130 pts loaded)
+[2026-10-31 12:16:04] Next Klaim        : 21:47:52 WIB (9j 31m tersisa)
+[2026-10-31 12:16:04] 💤 Tidur selama 15 menit 13 detik...
+[2026-10-31 12:33:07] 📺 [Ad Tasks] Batch 12 iklan selesai: +180 Pts terkumpul!
+[2026-10-31 12:33:16] Total Saldo Gems  : 839.02
+[2026-10-31 12:33:16] Total Saldo Points: 2080
+[2026-10-31 12:33:16] Total Saldo       : 839.02 GEMS (2080 Pts)
+[2026-10-31 12:33:16] Mining Status     : Running (2130 pts loaded)
+[2026-10-31 12:33:16] Next Klaim        : 21:47:52 WIB (9j 14m tersisa)
+[2026-10-31 12:33:16] 💤 Tidur selama 15 menit 9 detik...
+[2026-10-31 12:50:05] 📺 [Ad Tasks] Batch 12 iklan selesai: +180 Pts terkumpul!
+[2026-10-31 12:50:07] Total Saldo Gems  : 839.02
+[2026-10-31 12:50:07] Total Saldo Points: 2260
+[2026-10-31 12:50:07] Total Saldo       : 839.02 GEMS (2260 Pts)
+[2026-10-31 12:50:07] Mining Status     : Running (2130 pts loaded)
+[2026-10-31 12:50:07] Next Klaim        : 21:47:52 WIB (8j 57m tersisa)
+[2026-10-31 12:50:07] 💤 Tidur selama 15 menit 11 detik...
+[2026-10-31 13:07:23] 📺 [Ad Tasks] Batch 12 iklan selesai: +180 Pts terkumpul!
+[2026-10-31 13:07:27] Total Saldo Gems  : 839.02
+[2026-10-31 13:07:27] Total Saldo Points: 2440
+[2026-10-31 13:07:27] Total Saldo       : 839.02 GEMS (2440 Pts)
+[2026-10-31 13:07:27] Mining Status     : Running (2130 pts loaded)
+[2026-10-31 13:07:27] Next Klaim        : 21:47:52 WIB (8j 40m tersisa)
+[2026-10-31 13:07:27] 💤 Tidur selama 15 menit 5 detik...
+[2026-10-31 13:24:31] 📺 [Ad Tasks] Batch 12 iklan selesai: +180 Pts terkumpul!
+[2026-10-31 13:24:35] Total Saldo Gems  : 839.02
+[2026-10-31 13:24:35] Total Saldo Points: 2620
+[2026-10-31 13:24:35] Total Saldo       : 839.02 GEMS (2620 Pts)
+[2026-10-31 13:24:35] Mining Status     : Running (2130 pts loaded)
+[2026-10-31 13:24:35] Next Klaim        : 21:47:52 WIB (8j 23m tersisa)
+[2026-10-31 13:24:35] 💤 Tidur selama 15 menit 9 detik...
+[2026-10-31 13:41:53] 📺 [Ad Tasks] Batch 12 iklan selesai: +180 Pts terkumpul!
+[2026-10-31 13:41:56] Total Saldo Gems  : 839.02
+[2026-10-31 13:41:56] Total Saldo Points: 2800
+[2026-10-31 13:41:56] Total Saldo       : 839.02 GEMS (2800 Pts)
+[2026-10-31 13:41:56] Mining Status     : Running (2130 pts loaded)
+[2026-10-31 13:41:56] Next Klaim        : 21:47:52 WIB (8j 5m tersisa)
+[2026-10-31 13:41:56] 💤 Tidur selama 15 menit 8 detik...
+[2026-10-31 13:58:45] 📺 [Ad Tasks] Batch 12 iklan selesai: +180 Pts terkumpul!
+[2026-10-31 13:58:49] Total Saldo Gems  : 839.02
+[2026-10-31 13:58:49] Total Saldo Points: 2980
+[2026-10-31 13:58:49] Total Saldo       : 839.02 GEMS (2980 Pts)
+[2026-10-31 13:58:49] Mining Status     : Running (2130 pts loaded)
+[2026-10-31 13:58:49] Next Klaim        : 21:47:52 WIB (7j 49m tersisa)
+[2026-10-31 13:58:49] 💤 Tidur selama 15 menit 13 detik...
+[2026-10-31 14:15:33] ⚠️ [Network] Error akses adsbitvex_reward.php: HTTPSConnectionPool(host='buddies.name.ng', port=443): Max retries exceeded with url: /api/adsbitvex_reward.php (Caused by NameResolutionError("HTTPSConnection(host='buddies.name.ng', port=443): Failed to resolve 'buddies.name.ng' ([Errno -5] No address associated with hostname)"))
+[2026-10-31 14:15:33] 📺 [Ad Tasks] Batch 9 iklan selesai: +120 Pts terkumpul!
+[2026-10-31 14:15:40] Total Saldo Gems  : 839.02
+[2026-10-31 14:15:40] Total Saldo Points: 3100
+[2026-10-31 14:15:40] Total Saldo       : 839.02 GEMS (3100 Pts)
+[2026-10-31 14:15:40] Mining Status     : Running (2130 pts loaded)
+[2026-10-31 14:15:40] Next Klaim        : 21:47:52 WIB (7j 32m tersisa)
+[2026-10-31 14:15:40] 💤 Tidur selama 15 menit 6 detik...
+[2026-10-31 14:31:18] ⚠️ [Network] Error akses earn_points_ad.php: HTTPSConnectionPool(host='buddies.name.ng', port=443): Read timed out. (read timeout=20)
+[2026-10-31 14:31:58] 📺 [Ad Tasks] Batch 7 iklan selesai: +130 Pts terkumpul!
+[2026-10-31 14:32:11] Total Saldo Gems  : 839.02
+[2026-10-31 14:32:11] Total Saldo Points: 3230
+[2026-10-31 14:32:11] Total Saldo       : 839.02 GEMS (3230 Pts)
+[2026-10-31 14:32:11] Mining Status     : Running (2130 pts loaded)
+[2026-10-31 14:32:11] Next Klaim        : 21:47:52 WIB (7j 15m tersisa)
+[2026-10-31 14:32:11] 💤 Tidur selama 15 menit 10 detik...
+[2026-10-31 14:49:25] 📺 [Ad Tasks] Batch 12 iklan selesai: +180 Pts terkumpul!
+[2026-10-31 14:49:28] Total Saldo Gems  : 839.02
+[2026-10-31 14:49:28] Total Saldo Points: 3410
+[2026-10-31 14:49:28] Total Saldo       : 839.02 GEMS (3410 Pts)
+[2026-10-31 14:49:28] Mining Status     : Running (2130 pts loaded)
+[2026-10-31 14:49:28] Next Klaim        : 21:47:52 WIB (6j 58m tersisa)
+[2026-10-31 14:49:28] 💤 Tidur selama 15 menit 10 detik...
+[2026-10-31 15:06:23] 📺 [Ad Tasks] Batch 12 iklan selesai: +180 Pts terkumpul!
+[2026-10-31 15:06:25] Total Saldo Gems  : 839.02
+[2026-10-31 15:06:25] Total Saldo Points: 3590
+[2026-10-31 15:06:25] Total Saldo       : 839.02 GEMS (3590 Pts)
+[2026-10-31 15:06:25] Mining Status     : Running (2130 pts loaded)
+[2026-10-31 15:06:25] Next Klaim        : 21:47:52 WIB (6j 41m tersisa)
+[2026-10-31 15:06:25] 💤 Tidur selama 15 menit 8 detik...
+[2026-10-31 15:23:35] 📺 [Ad Tasks] Batch 12 iklan selesai: +180 Pts terkumpul!
+[2026-10-31 15:23:37] Total Saldo Gems  : 839.02
+[2026-10-31 15:23:37] Total Saldo Points: 3770
+[2026-10-31 15:23:37] Total Saldo       : 839.02 GEMS (3770 Pts)
+[2026-10-31 15:23:37] Mining Status     : Running (2130 pts loaded)
+[2026-10-31 15:23:37] Next Klaim        : 21:47:52 WIB (6j 24m tersisa)
+[2026-10-31 15:23:37] 💤 Tidur selama 15 menit 14 detik...
+[2026-10-31 15:40:50] 📺 [Ad Tasks] Batch 12 iklan selesai: +180 Pts terkumpul!
+[2026-10-31 15:40:54] Total Saldo Gems  : 839.02
+[2026-10-31 15:40:54] Total Saldo Points: 3950
+[2026-10-31 15:40:54] Total Saldo       : 839.02 GEMS (3950 Pts)
+[2026-10-31 15:40:54] Mining Status     : Running (2130 pts loaded)
+[2026-10-31 15:40:54] Next Klaim        : 21:47:52 WIB (6j 7m tersisa)
+[2026-10-31 15:40:54] 💤 Tidur selama 15 menit 14 detik...
+[2026-10-31 15:57:26] ⚠️ [Network] Error akses adsbitvex_reward.php: HTTPSConnectionPool(host='buddies.name.ng', port=443): Max retries exceeded with url: /api/adsbitvex_reward.php (Caused by NameResolutionError("HTTPSConnection(host='buddies.name.ng', port=443): Failed to resolve 'buddies.name.ng' ([Errno -5] No address associated with hostname)"))
+[2026-10-31 15:57:26] 📺 [Ad Tasks] Batch 7 iklan selesai: +80 Pts terkumpul!
+[2026-10-31 15:57:33] Total Saldo Gems  : 839.02
+[2026-10-31 15:57:33] Total Saldo Points: 4030
+[2026-10-31 15:57:33] Total Saldo       : 839.02 GEMS (4030 Pts)
+[2026-10-31 15:57:33] Mining Status     : Running (2130 pts loaded)
+[2026-10-31 15:57:33] Next Klaim        : 21:47:52 WIB (5j 50m tersisa)
+[2026-10-31 15:57:33] 💤 Tidur selama 15 menit 15 detik...
+[2026-10-31 16:13:34] ⚠️ [Network] Error akses earn_points_ad.php: HTTPSConnectionPool(host='buddies.name.ng', port=443): Max retries exceeded with url: /api/earn_points_ad.php (Caused by NameResolutionError("HTTPSConnection(host='buddies.name.ng', port=443): Failed to resolve 'buddies.name.ng' ([Errno -5] No address associated with hostname)"))
+[2026-10-31 16:13:34] ⚠️ [Network] Error akses adsbitvex_reward.php: HTTPSConnectionPool(host='buddies.name.ng', port=443): Max retries exceeded with url: /api/adsbitvex_reward.php (Caused by NameResolutionError("HTTPSConnection(host='buddies.name.ng', port=443): Failed to resolve 'buddies.name.ng' ([Errno -5] No address associated with hostname)"))
+[2026-10-31 16:13:34] 📺 [Ad Tasks] Batch 4 iklan selesai: +40 Pts terkumpul!
+[2026-10-31 16:13:34] ⚠️ [Network] Error akses missions.php: HTTPSConnectionPool(host='buddies.name.ng', port=443): Max retries exceeded with url: /api/missions.php (Caused by NameResolutionError("HTTPSConnection(host='buddies.name.ng', port=443): Failed to resolve 'buddies.name.ng' ([Errno -5] No address associated with hostname)"))
+[2026-10-31 16:13:34] ⚠️ [Network] Error akses me.php: HTTPSConnectionPool(host='buddies.name.ng', port=443): Max retries exceeded with url: /api/me.php (Caused by NameResolutionError("HTTPSConnection(host='buddies.name.ng', port=443): Failed to resolve 'buddies.name.ng' ([Errno -5] No address associated with hostname)"))
+[2026-10-31 16:13:34] ⚠️ Gagal memuat data profil me.php
+[2026-10-31 16:13:34] 💤 Tidur selama 10 menit 5 detik...
+[2026-10-31 16:25:25] 📺 [Ad Tasks] Batch 12 iklan selesai: +180 Pts terkumpul!
+[2026-10-31 16:25:29] Total Saldo Gems  : 839.02
+[2026-10-31 16:25:29] Total Saldo Points: 4250
+[2026-10-31 16:25:29] Total Saldo       : 839.02 GEMS (4250 Pts)
+[2026-10-31 16:25:29] Mining Status     : Running (2130 pts loaded)
+[2026-10-31 16:25:29] Next Klaim        : 21:47:52 WIB (5j 22m tersisa)
+[2026-10-31 16:25:29] 💤 Tidur selama 15 menit 10 detik...
+[2026-10-31 16:39:02] ==================================================
+[2026-10-31 16:39:02] 🚀 GRAM BUDDIES AUTO-FARMER DAEMON DIMULAI
+[2026-10-31 16:39:02] ⚡ Mode: Auto Tasks + Max Power Mining (100% Poin)
+[2026-10-31 16:39:02] ==================================================
+[2026-10-31 16:42:07] 📺 [Ad Tasks] Batch 20 iklan selesai: +325 Pts terkumpul!
+[2026-10-31 16:42:10] Total Saldo Gems  : 839.02
+[2026-10-31 16:42:10] Total Saldo Points: 4740
+[2026-10-31 16:42:10] Total Saldo       : 839.02 GEMS (4740 Pts)
+[2026-10-31 16:42:10] Mining Status     : Running (2130 pts loaded)
+[2026-10-31 16:42:10] Next Klaim        : 21:47:52 WIB (5j 5m tersisa)
+[2026-10-31 16:42:10] 💤 Tidur selama 15 menit 6 detik...
+[2026-10-31 17:00:02] ⚠️ [Network] Error akses adsgram_reward.php: HTTPSConnectionPool(host='buddies.name.ng', port=443): Max retries exceeded with url: /api/adsgram_reward.php (Caused by NameResolutionError("HTTPSConnection(host='buddies.name.ng', port=443): Failed to resolve 'buddies.name.ng' ([Errno -3] Temporary failure in name resolution)"))
+[2026-10-31 17:00:02] 📺 [Ad Tasks] Batch 17 iklan selesai: +275 Pts terkumpul!
+[2026-10-31 17:00:08] ⚠️ [Network] Error akses missions.php: HTTPSConnectionPool(host='buddies.name.ng', port=443): Max retries exceeded with url: /api/missions.php (Caused by NameResolutionError("HTTPSConnection(host='buddies.name.ng', port=443): Failed to resolve 'buddies.name.ng' ([Errno -5] No address associated with hostname)"))
+[2026-10-31 17:00:20] ⚠️ [Network] Error akses me.php: HTTPSConnectionPool(host='buddies.name.ng', port=443): Max retries exceeded with url: /api/me.php (Caused by NameResolutionError("HTTPSConnection(host='buddies.name.ng', port=443): Failed to resolve 'buddies.name.ng' ([Errno -5] No address associated with hostname)"))
+[2026-10-31 17:00:20] ⚠️ Gagal memuat data profil me.php
+[2026-10-31 17:00:20] 💤 Tidur selama 10 menit 7 detik...
+[2026-10-31 17:11:02] ⚠️ [Network] Error akses tasks_list.php?category=premium: HTTPSConnectionPool(host='buddies.name.ng', port=443): Read timed out. (read timeout=20)
+[2026-10-31 17:11:46] ⚠️ [HTTP 429] adsbitvex_reward.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-31 17:13:08] 📺 [Ad Tasks] Batch 15 iklan selesai: +225 Pts terkumpul!
+[2026-10-31 17:13:14] Total Saldo Gems  : 839.02
+[2026-10-31 17:13:14] Total Saldo Points: 5240
+[2026-10-31 17:13:14] Total Saldo       : 839.02 GEMS (5240 Pts)
+[2026-10-31 17:13:14] Mining Status     : Running (2130 pts loaded)
+[2026-10-31 17:13:14] Next Klaim        : 21:47:52 WIB (4j 34m tersisa)
+[2026-10-31 17:13:14] 💤 Tidur selama 15 menit 9 detik...
+[2026-10-31 17:29:33] ⚠️ [HTTP 429] adsbitvex_reward.php: {"ok":false,"error":"daily_ad_limit_reached"}
+[2026-10-31 17:30:48] 📺 [Ad Tasks] Batch 15 iklan selesai: +225 Pts terkumpul!
+[2026-10-31 17:30:51] Total Saldo Gems  : 839.02
+[2026-10-31 17:30:51] Total Saldo Points: 5465
+[2026-10-31 17:30:51] Total Saldo       : 839.02 GEMS (5465 Pts)
+[2026-10-31 17:30:51] Mining Status     : Running (2130 pts loaded)
+[2026-10-31 17:30:51] Next Klaim        : 21:47:52 WIB (4j 17m tersisa)
+[2026-10-31 17:30:51] 💤 Tidur selama 15 menit 6 detik...

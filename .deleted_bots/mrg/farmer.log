@@ -3317,3 +3317,12 @@
 [2026-10-30 15:18:15] [Ping] Online! Active users in MRG network: 2
 [2026-10-30 15:23:15] [Ping] Online! Active users in MRG network: 17
 [2026-10-30 15:28:16] [Ping] Online! Active users in MRG network: 3
+[2026-10-31 10:27:54] === MRG (Mine Rare Gram) Auto-Farmer Started ===
+[2026-10-31 10:27:54] Inisialisasi startup: mengecek ping, mining, checkin & tasks...
+[2026-10-31 10:27:55] Mengeksekusi klaim mining reward di MRG...
+[2026-10-31 10:27:55] >> Klaim MRG respon (401): {'success': False, 'error': 'Unauthorized'} <<
+[2026-10-31 10:28:01] [Check-in] Status: 401 - {'success': False, 'error': 'Unauthorized'}
+[2026-10-31 10:28:11] Klaim berkala diatur 60-90 menit. Klaim berikutnya pada: 11:41:00
+[2026-10-31 11:41:27] Mengeksekusi klaim mining reward di MRG...
+[2026-10-31 11:41:27] >> Klaim MRG respon (401): {'success': False, 'error': 'Unauthorized'} <<
+[2026-10-31 11:41:27] Klaim berikutnya dijadwalkan pada: 13:00:23

@@ -221,18 +221,6 @@
       "auth_type": "tma initData",
       "api_base": "https://lets.playmonsterland.com"
     },
-    "mrg": {
-      "name": "MRG Miner",
-      "symbol": "MRG",
-      "folder": "mrg",
-      "bot": "@mrgminerbot",
-      "webapp_url": "https://app.mrgtoken.xyz/",
-      "service": "mrg-farmer.service",
-      "config_file": "config.json",
-      "primary_key": "init_data",
-      "auth_type": "initData in Body",
-      "api_base": "https://mrg.up.railway.app"
-    },
     "musicmb": {
       "name": "Music Mining",
       "symbol": "MB",
@@ -281,19 +269,6 @@
       "fallback_key": "init_data",
       "auth_type": "Authorization access_token",
       "api_base": "https://api-web.tomarket.ai/tomarket-game/v1"
-    },
-    "victor": {
-      "name": "Victor's Company",
-      "symbol": "VIC",
-      "folder": "victor",
-      "bot": "@VictorsCompanybot",
-      "webapp_url": "https://app.victors.company/",
-      "service": "victor-farmer.service",
-      "config_file": "config.json",
-      "primary_key": "x-human-pass",
-      "fallback_key": "authorization",
-      "auth_type": "x-human-pass + Authorization tma",
-      "api_base": "https://server.victors.company"
     },
     "vyq": {
       "name": "VYQ Miner",
@@ -382,6 +357,87 @@
       "auth_type": "X-Telegram-Init-Data Header",
       "api_base": "https://whatdoyouneed.us/trxminiapp",
       "min_payout": "TRX on-chain / FaucetPay"
+    },
+    "deepmine": {
+      "name": "Deep Mine",
+      "symbol": "USDT",
+      "folder": "deepmine",
+      "bot": "@MineDeepBot",
+      "webapp_url": "https://linobot.ir/mine/?v=69",
+      "service": "deepmine-farmer.service",
+      "config_file": "config.json",
+      "primary_key": "init_data",
+      "auth_type": "initData in Form Body",
+      "api_base": "https://linobot.ir/mine/api.php?v=69"
+    },
+    "ironoath": {
+      "name": "Iron Oath Company",
+      "symbol": "IOC",
+      "folder": "ironoath",
+      "bot": "@ironoathcompanybot",
+      "webapp_url": "https://web.ironoathcompany.top/",
+      "service": "ironoath-farmer.service",
+      "config_file": "config.json",
+      "primary_key": "token",
+      "auth_type": "Bearer JWT",
+      "api_base": "https://api.ironoathcompany.top/api",
+      "chain": "TON",
+      "token_ca": "EQBW9UPKZ77_6rbhZGbCR3a-GHsGx_xIAI0enzjXXQ7FDFUC"
+    },
+    "roadsterboost": {
+      "name": "Roadster Boost",
+      "symbol": "RBQ",
+      "folder": "roadsterboost",
+      "bot": "@RoadsterBoost_bot",
+      "webapp_url": "https://web.roadsterboost.top/",
+      "service": "roadsterboost-farmer.service",
+      "config_file": "config.json",
+      "primary_key": "token",
+      "auth_type": "Bearer JWT",
+      "api_base": "https://api.roadsterboost.top/api",
+      "chain": "TON",
+      "token_ca": "EQBVmI6NEHdFX_MB2uoaW5oLXgD1oSXyWmd7mzwE_FE8BvyY"
+    },
+    "lunaroreburrow": {
+      "name": "Lunar Ore Burrow",
+      "symbol": "LOB",
+      "folder": "lunaroreburrow",
+      "bot": "@lunaroreburrowbot",
+      "webapp_url": "https://web.lunaroreburrow.top/",
+      "service": "lunaroreburrow-farmer.service",
+      "config_file": "config.json",
+      "primary_key": "token",
+      "auth_type": "Bearer JWT",
+      "api_base": "https://api.lunaroreburrow.top/api",
+      "chain": "TON",
+      "token_ca": "EQDRsUi5qrbPpH13TWlWZp7OQ6aEYvrHAcpcGEPDOSPfjvC7"
+    },
+    "polaredenjungle": {
+      "name": "Polar Eden Jungle",
+      "symbol": "PEJ",
+      "folder": "polaredenjungle",
+      "bot": "@polaredenjunglebot",
+      "webapp_url": "https://web.polaredenjungle.top/",
+      "service": "polaredenjungle-farmer.service",
+      "config_file": "config.json",
+      "primary_key": "token",
+      "auth_type": "Bearer JWT",
+      "api_base": "https://api.polaredenjungle.top/api",
+      "chain": "TON",
+      "token_ca": "EQCfKESoGXwvTBQokiDzM5YaVRvoqRMU4og9CvAIAWBSDioE"
+    },
+    "gram24": {
+      "name": "GRAM24 Mining",
+      "symbol": "GRAM/TON",
+      "folder": "gram24",
+      "bot": "@Gram24MiningBot",
+      "webapp_url": "https://app.miniempire.app/miniapp/index.html?tid=2176&lang=en",
+      "service": "gram24-farmer.service",
+      "config_file": "config.json",
+      "primary_key": "init_data",
+      "auth_type": "initData in Body",
+      "api_base": "https://app.miniempire.app/miniapp",
+      "chain": "TON"
     }
   }
 }

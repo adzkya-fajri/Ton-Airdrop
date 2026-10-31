@@ -10224,3 +10224,1419 @@
 [2026-10-30 22:02:04] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.1502 VYQ | Speed: 0.3069/h | Pending: 0.0686 VYQ | Mining: Aktif
 [2026-10-30 22:03:05] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.1555 VYQ | Speed: 0.3069/h | Pending: 0.0739 VYQ | Mining: Aktif
 [2026-10-30 22:04:05] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.1606 VYQ | Speed: 0.3069/h | Pending: 0.0790 VYQ | Mining: Aktif
+[2026-10-30 22:05:06] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.1658 VYQ | Speed: 0.3069/h | Pending: 0.0842 VYQ | Mining: Aktif
+[2026-10-30 22:06:07] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.1710 VYQ | Speed: 0.3069/h | Pending: 0.0894 VYQ | Mining: Aktif
+[2026-10-30 22:07:08] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.1762 VYQ | Speed: 0.3069/h | Pending: 0.0946 VYQ | Mining: Aktif
+[2026-10-30 22:08:14] [VYQ] Terdeteksi pending reward: 0.1002 VYQ. Mengirim request /api/mining/claim...
+[2026-10-30 22:08:15] ==================================================
+[2026-10-30 22:08:15] >> KLAIM MINING VYQ BERHASIL! +0.1002 VYQ <<
+[2026-10-30 22:08:15] Saldo Total Sekarang: 183.1819 VYQ
+[2026-10-30 22:08:15] ==================================================
+[2026-10-30 22:08:15] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.1818 VYQ | Speed: 0.3069/h | Pending: 0.1002 VYQ | Mining: Aktif
+[2026-10-30 22:09:17] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.1871 VYQ | Speed: 0.3069/h | Pending: 0.0052 VYQ | Mining: Aktif
+[2026-10-30 22:10:18] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.1923 VYQ | Speed: 0.3069/h | Pending: 0.0104 VYQ | Mining: Aktif
+[2026-10-30 22:11:34] [VYQ] Exception bootstrap: HTTPSConnectionPool(host='api.vyqminer.top', port=443): Read timed out. (read timeout=15)
+[2026-10-30 22:11:55] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.2006 VYQ | Speed: 0.3069/h | Pending: 0.0187 VYQ | Mining: Aktif
+[2026-10-30 22:13:01] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.2062 VYQ | Speed: 0.3069/h | Pending: 0.0243 VYQ | Mining: Aktif
+[2026-10-30 22:14:02] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.2114 VYQ | Speed: 0.3069/h | Pending: 0.0295 VYQ | Mining: Aktif
+[2026-10-30 22:15:02] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.2165 VYQ | Speed: 0.3069/h | Pending: 0.0346 VYQ | Mining: Aktif
+[2026-10-30 22:16:08] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.2222 VYQ | Speed: 0.3069/h | Pending: 0.0403 VYQ | Mining: Aktif
+[2026-10-30 22:17:09] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.2274 VYQ | Speed: 0.3069/h | Pending: 0.0455 VYQ | Mining: Aktif
+[2026-10-30 22:18:15] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.2330 VYQ | Speed: 0.3069/h | Pending: 0.0511 VYQ | Mining: Aktif
+[2026-10-30 22:19:17] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.2382 VYQ | Speed: 0.3069/h | Pending: 0.0563 VYQ | Mining: Aktif
+[2026-10-30 22:20:18] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.2434 VYQ | Speed: 0.3069/h | Pending: 0.0615 VYQ | Mining: Aktif
+[2026-10-30 22:21:19] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.2486 VYQ | Speed: 0.3069/h | Pending: 0.0667 VYQ | Mining: Aktif
+[2026-10-30 22:22:19] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.2538 VYQ | Speed: 0.3069/h | Pending: 0.0719 VYQ | Mining: Aktif
+[2026-10-30 22:23:20] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.2590 VYQ | Speed: 0.3069/h | Pending: 0.0771 VYQ | Mining: Aktif
+[2026-10-30 22:24:21] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.2642 VYQ | Speed: 0.3069/h | Pending: 0.0823 VYQ | Mining: Aktif
+[2026-10-30 22:25:27] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.2698 VYQ | Speed: 0.3069/h | Pending: 0.0879 VYQ | Mining: Aktif
+[2026-10-30 22:26:28] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.2749 VYQ | Speed: 0.3069/h | Pending: 0.0930 VYQ | Mining: Aktif
+[2026-10-30 22:27:34] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.2806 VYQ | Speed: 0.3069/h | Pending: 0.0987 VYQ | Mining: Aktif
+[2026-10-30 22:28:35] [VYQ] Terdeteksi pending reward: 0.1039 VYQ. Mengirim request /api/mining/claim...
+[2026-10-30 22:28:35] ==================================================
+[2026-10-30 22:28:35] >> KLAIM MINING VYQ BERHASIL! +0.1039 VYQ <<
+[2026-10-30 22:28:35] Saldo Total Sekarang: 183.2858 VYQ
+[2026-10-30 22:28:35] ==================================================
+[2026-10-30 22:28:35] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.2858 VYQ | Speed: 0.3069/h | Pending: 0.1039 VYQ | Mining: Aktif
+[2026-10-30 22:29:37] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.2910 VYQ | Speed: 0.3069/h | Pending: 0.0052 VYQ | Mining: Aktif
+[2026-10-30 22:30:39] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.2962 VYQ | Speed: 0.3069/h | Pending: 0.0104 VYQ | Mining: Aktif
+[2026-10-30 22:31:41] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.3016 VYQ | Speed: 0.3069/h | Pending: 0.0158 VYQ | Mining: Aktif
+[2026-10-30 22:32:47] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.3072 VYQ | Speed: 0.3069/h | Pending: 0.0214 VYQ | Mining: Aktif
+[2026-10-30 22:33:48] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.3124 VYQ | Speed: 0.3069/h | Pending: 0.0266 VYQ | Mining: Aktif
+[2026-10-30 22:34:49] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.3176 VYQ | Speed: 0.3069/h | Pending: 0.0318 VYQ | Mining: Aktif
+[2026-10-30 22:35:50] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.3228 VYQ | Speed: 0.3069/h | Pending: 0.0370 VYQ | Mining: Aktif
+[2026-10-30 22:36:56] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.3285 VYQ | Speed: 0.3069/h | Pending: 0.0427 VYQ | Mining: Aktif
+[2026-10-30 22:37:57] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.3337 VYQ | Speed: 0.3069/h | Pending: 0.0479 VYQ | Mining: Aktif
+[2026-10-30 22:38:58] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.3389 VYQ | Speed: 0.3069/h | Pending: 0.0531 VYQ | Mining: Aktif
+[2026-10-30 22:40:04] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.3445 VYQ | Speed: 0.3069/h | Pending: 0.0587 VYQ | Mining: Aktif
+[2026-10-30 22:41:04] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.3496 VYQ | Speed: 0.3069/h | Pending: 0.0638 VYQ | Mining: Aktif
+[2026-10-30 22:42:05] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.3548 VYQ | Speed: 0.3069/h | Pending: 0.0690 VYQ | Mining: Aktif
+[2026-10-30 22:43:09] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.3602 VYQ | Speed: 0.3069/h | Pending: 0.0744 VYQ | Mining: Aktif
+[2026-10-30 22:44:10] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.3655 VYQ | Speed: 0.3069/h | Pending: 0.0797 VYQ | Mining: Aktif
+[2026-10-30 22:45:11] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.3706 VYQ | Speed: 0.3069/h | Pending: 0.0848 VYQ | Mining: Aktif
+[2026-10-30 22:46:16] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.3762 VYQ | Speed: 0.3069/h | Pending: 0.0904 VYQ | Mining: Aktif
+[2026-10-30 22:47:18] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.3814 VYQ | Speed: 0.3069/h | Pending: 0.0956 VYQ | Mining: Aktif
+[2026-10-30 22:48:19] [VYQ] Terdeteksi pending reward: 0.1009 VYQ. Mengirim request /api/mining/claim...
+[2026-10-30 22:48:20] ==================================================
+[2026-10-30 22:48:20] >> KLAIM MINING VYQ BERHASIL! +0.1009 VYQ <<
+[2026-10-30 22:48:20] Saldo Total Sekarang: 183.3868 VYQ
+[2026-10-30 22:48:20] ==================================================
+[2026-10-30 22:48:20] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.3867 VYQ | Speed: 0.3069/h | Pending: 0.1009 VYQ | Mining: Aktif
+[2026-10-30 22:49:20] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.3919 VYQ | Speed: 0.3069/h | Pending: 0.0051 VYQ | Mining: Aktif
+[2026-10-30 22:50:27] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.3975 VYQ | Speed: 0.3069/h | Pending: 0.0107 VYQ | Mining: Aktif
+[2026-10-30 22:51:27] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.4027 VYQ | Speed: 0.3069/h | Pending: 0.0159 VYQ | Mining: Aktif
+[2026-10-30 22:52:28] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.4078 VYQ | Speed: 0.3069/h | Pending: 0.0210 VYQ | Mining: Aktif
+[2026-10-30 22:53:34] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.4135 VYQ | Speed: 0.3069/h | Pending: 0.0267 VYQ | Mining: Aktif
+[2026-10-30 22:54:35] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.4187 VYQ | Speed: 0.3069/h | Pending: 0.0319 VYQ | Mining: Aktif
+[2026-10-30 22:55:36] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.4239 VYQ | Speed: 0.3069/h | Pending: 0.0371 VYQ | Mining: Aktif
+[2026-10-30 22:56:42] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.4295 VYQ | Speed: 0.3069/h | Pending: 0.0427 VYQ | Mining: Aktif
+[2026-10-30 22:57:44] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.4348 VYQ | Speed: 0.3069/h | Pending: 0.0480 VYQ | Mining: Aktif
+[2026-10-30 22:58:45] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.4400 VYQ | Speed: 0.3069/h | Pending: 0.0532 VYQ | Mining: Aktif
+[2026-10-30 22:59:46] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.4451 VYQ | Speed: 0.3069/h | Pending: 0.0583 VYQ | Mining: Aktif
+[2026-10-30 23:00:52] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.4507 VYQ | Speed: 0.3069/h | Pending: 0.0639 VYQ | Mining: Aktif
+[2026-10-30 23:01:53] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.4559 VYQ | Speed: 0.3069/h | Pending: 0.0691 VYQ | Mining: Aktif
+[2026-10-30 23:02:53] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.4611 VYQ | Speed: 0.3069/h | Pending: 0.0743 VYQ | Mining: Aktif
+[2026-10-30 23:03:54] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.4663 VYQ | Speed: 0.3069/h | Pending: 0.0795 VYQ | Mining: Aktif
+[2026-10-30 23:04:55] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.4715 VYQ | Speed: 0.3069/h | Pending: 0.0847 VYQ | Mining: Aktif
+[2026-10-30 23:05:56] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.4767 VYQ | Speed: 0.3069/h | Pending: 0.0899 VYQ | Mining: Aktif
+[2026-10-30 23:06:57] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.4819 VYQ | Speed: 0.3069/h | Pending: 0.0951 VYQ | Mining: Aktif
+[2026-10-30 23:08:03] [VYQ] Terdeteksi pending reward: 0.1008 VYQ. Mengirim request /api/mining/claim...
+[2026-10-30 23:08:04] ==================================================
+[2026-10-30 23:08:04] >> KLAIM MINING VYQ BERHASIL! +0.1008 VYQ <<
+[2026-10-30 23:08:04] Saldo Total Sekarang: 183.4876 VYQ
+[2026-10-30 23:08:04] ==================================================
+[2026-10-30 23:08:04] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.4876 VYQ | Speed: 0.3069/h | Pending: 0.1008 VYQ | Mining: Aktif
+[2026-10-30 23:09:10] [VYQ] Exception bootstrap: HTTPSConnectionPool(host='api.vyqminer.top', port=443): Max retries exceeded with url: /api/bootstrap (Caused by NewConnectionError("HTTPSConnection(host='api.vyqminer.top', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))
+[2026-10-30 23:09:30] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.4949 VYQ | Speed: 0.3069/h | Pending: 0.0073 VYQ | Mining: Aktif
+[2026-10-30 23:10:31] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.5001 VYQ | Speed: 0.3069/h | Pending: 0.0125 VYQ | Mining: Aktif
+[2026-10-30 23:11:32] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.5053 VYQ | Speed: 0.3069/h | Pending: 0.0177 VYQ | Mining: Aktif
+[2026-10-30 23:12:33] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.5105 VYQ | Speed: 0.3069/h | Pending: 0.0229 VYQ | Mining: Aktif
+[2026-10-30 23:13:39] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.5161 VYQ | Speed: 0.3069/h | Pending: 0.0285 VYQ | Mining: Aktif
+[2026-10-30 23:14:42] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.5214 VYQ | Speed: 0.3069/h | Pending: 0.0338 VYQ | Mining: Aktif
+[2026-10-30 23:15:43] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.5267 VYQ | Speed: 0.3069/h | Pending: 0.0391 VYQ | Mining: Aktif
+[2026-10-30 23:16:44] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.5319 VYQ | Speed: 0.3069/h | Pending: 0.0443 VYQ | Mining: Aktif
+[2026-10-30 23:17:44] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.5370 VYQ | Speed: 0.3069/h | Pending: 0.0494 VYQ | Mining: Aktif
+[2026-10-30 23:18:45] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.5422 VYQ | Speed: 0.3069/h | Pending: 0.0546 VYQ | Mining: Aktif
+[2026-10-30 23:19:46] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.5474 VYQ | Speed: 0.3069/h | Pending: 0.0598 VYQ | Mining: Aktif
+[2026-10-30 23:20:47] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.5525 VYQ | Speed: 0.3069/h | Pending: 0.0649 VYQ | Mining: Aktif
+[2026-10-30 23:21:47] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.5577 VYQ | Speed: 0.3069/h | Pending: 0.0701 VYQ | Mining: Aktif
+[2026-10-30 23:22:53] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.5633 VYQ | Speed: 0.3069/h | Pending: 0.0757 VYQ | Mining: Aktif
+[2026-10-30 23:23:54] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.5685 VYQ | Speed: 0.3069/h | Pending: 0.0809 VYQ | Mining: Aktif
+[2026-10-30 23:24:56] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.5737 VYQ | Speed: 0.3069/h | Pending: 0.0861 VYQ | Mining: Aktif
+[2026-10-30 23:25:56] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.5789 VYQ | Speed: 0.3069/h | Pending: 0.0913 VYQ | Mining: Aktif
+[2026-10-30 23:26:57] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.5841 VYQ | Speed: 0.3069/h | Pending: 0.0965 VYQ | Mining: Aktif
+[2026-10-30 23:27:58] [VYQ] Terdeteksi pending reward: 0.1017 VYQ. Mengirim request /api/mining/claim...
+[2026-10-30 23:27:59] ==================================================
+[2026-10-30 23:27:59] >> KLAIM MINING VYQ BERHASIL! +0.1017 VYQ <<
+[2026-10-30 23:27:59] Saldo Total Sekarang: 183.5894 VYQ
+[2026-10-30 23:27:59] ==================================================
+[2026-10-30 23:27:59] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.5893 VYQ | Speed: 0.3069/h | Pending: 0.1017 VYQ | Mining: Aktif
+[2026-10-30 23:29:00] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.5945 VYQ | Speed: 0.3069/h | Pending: 0.0051 VYQ | Mining: Aktif
+[2026-10-30 23:30:06] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.6001 VYQ | Speed: 0.3069/h | Pending: 0.0107 VYQ | Mining: Aktif
+[2026-10-30 23:31:06] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.6053 VYQ | Speed: 0.3069/h | Pending: 0.0159 VYQ | Mining: Aktif
+[2026-10-30 23:32:07] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.6105 VYQ | Speed: 0.3069/h | Pending: 0.0211 VYQ | Mining: Aktif
+[2026-10-30 23:33:08] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.6157 VYQ | Speed: 0.3069/h | Pending: 0.0263 VYQ | Mining: Aktif
+[2026-10-30 23:34:09] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.6208 VYQ | Speed: 0.3069/h | Pending: 0.0314 VYQ | Mining: Aktif
+[2026-10-30 23:35:09] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.6260 VYQ | Speed: 0.3069/h | Pending: 0.0366 VYQ | Mining: Aktif
+[2026-10-30 23:36:10] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.6312 VYQ | Speed: 0.3069/h | Pending: 0.0418 VYQ | Mining: Aktif
+[2026-10-30 23:37:11] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.6364 VYQ | Speed: 0.3069/h | Pending: 0.0470 VYQ | Mining: Aktif
+[2026-10-30 23:38:12] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.6416 VYQ | Speed: 0.3069/h | Pending: 0.0522 VYQ | Mining: Aktif
+[2026-10-30 23:39:12] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.6467 VYQ | Speed: 0.3069/h | Pending: 0.0573 VYQ | Mining: Aktif
+[2026-10-30 23:40:13] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.6519 VYQ | Speed: 0.3069/h | Pending: 0.0625 VYQ | Mining: Aktif
+[2026-10-30 23:41:19] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.6576 VYQ | Speed: 0.3069/h | Pending: 0.0682 VYQ | Mining: Aktif
+[2026-10-30 23:42:20] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.6627 VYQ | Speed: 0.3069/h | Pending: 0.0733 VYQ | Mining: Aktif
+[2026-10-30 23:43:20] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.6679 VYQ | Speed: 0.3069/h | Pending: 0.0785 VYQ | Mining: Aktif
+[2026-10-30 23:44:21] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.6730 VYQ | Speed: 0.3069/h | Pending: 0.0836 VYQ | Mining: Aktif
+[2026-10-30 23:45:22] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.6782 VYQ | Speed: 0.3069/h | Pending: 0.0888 VYQ | Mining: Aktif
+[2026-10-30 23:46:23] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.6833 VYQ | Speed: 0.3069/h | Pending: 0.0939 VYQ | Mining: Aktif
+[2026-10-30 23:47:23] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.6885 VYQ | Speed: 0.3069/h | Pending: 0.0991 VYQ | Mining: Aktif
+[2026-10-30 23:48:24] [VYQ] Terdeteksi pending reward: 0.1043 VYQ. Mengirim request /api/mining/claim...
+[2026-10-30 23:48:25] ==================================================
+[2026-10-30 23:48:25] >> KLAIM MINING VYQ BERHASIL! +0.1043 VYQ <<
+[2026-10-30 23:48:25] Saldo Total Sekarang: 183.6938 VYQ
+[2026-10-30 23:48:25] ==================================================
+[2026-10-30 23:48:25] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.6937 VYQ | Speed: 0.3069/h | Pending: 0.1043 VYQ | Mining: Aktif
+[2026-10-30 23:49:25] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.6989 VYQ | Speed: 0.3069/h | Pending: 0.0051 VYQ | Mining: Aktif
+[2026-10-30 23:50:26] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.7041 VYQ | Speed: 0.3069/h | Pending: 0.0103 VYQ | Mining: Aktif
+[2026-10-30 23:51:27] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.7093 VYQ | Speed: 0.3069/h | Pending: 0.0155 VYQ | Mining: Aktif
+[2026-10-30 23:52:28] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.7145 VYQ | Speed: 0.3069/h | Pending: 0.0207 VYQ | Mining: Aktif
+[2026-10-30 23:53:28] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.7196 VYQ | Speed: 0.3069/h | Pending: 0.0258 VYQ | Mining: Aktif
+[2026-10-30 23:54:29] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.7248 VYQ | Speed: 0.3069/h | Pending: 0.0310 VYQ | Mining: Aktif
+[2026-10-30 23:55:30] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.7300 VYQ | Speed: 0.3069/h | Pending: 0.0362 VYQ | Mining: Aktif
+[2026-10-30 23:56:31] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.7352 VYQ | Speed: 0.3069/h | Pending: 0.0414 VYQ | Mining: Aktif
+[2026-10-30 23:57:31] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.7403 VYQ | Speed: 0.3069/h | Pending: 0.0465 VYQ | Mining: Aktif
+[2026-10-30 23:58:32] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.7455 VYQ | Speed: 0.3069/h | Pending: 0.0517 VYQ | Mining: Aktif
+[2026-10-30 23:59:38] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.7511 VYQ | Speed: 0.3069/h | Pending: 0.0573 VYQ | Mining: Aktif
+[2026-10-31 00:00:39] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.7563 VYQ | Speed: 0.3069/h | Pending: 0.0625 VYQ | Mining: Aktif
+[2026-10-31 00:01:45] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.7619 VYQ | Speed: 0.3069/h | Pending: 0.0681 VYQ | Mining: Aktif
+[2026-10-31 00:02:45] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.7671 VYQ | Speed: 0.3069/h | Pending: 0.0733 VYQ | Mining: Aktif
+[2026-10-31 00:03:46] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.7723 VYQ | Speed: 0.3069/h | Pending: 0.0785 VYQ | Mining: Aktif
+[2026-10-31 00:04:47] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.7775 VYQ | Speed: 0.3069/h | Pending: 0.0837 VYQ | Mining: Aktif
+[2026-10-31 00:05:47] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.7826 VYQ | Speed: 0.3069/h | Pending: 0.0888 VYQ | Mining: Aktif
+[2026-10-31 00:06:48] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.7878 VYQ | Speed: 0.3069/h | Pending: 0.0940 VYQ | Mining: Aktif
+[2026-10-31 00:07:49] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.7930 VYQ | Speed: 0.3069/h | Pending: 0.0992 VYQ | Mining: Aktif
+[2026-10-31 00:08:50] [VYQ] Terdeteksi pending reward: 0.1044 VYQ. Mengirim request /api/mining/claim...
+[2026-10-31 00:08:51] ==================================================
+[2026-10-31 00:08:51] >> KLAIM MINING VYQ BERHASIL! +0.1044 VYQ <<
+[2026-10-31 00:08:51] Saldo Total Sekarang: 183.7983 VYQ
+[2026-10-31 00:08:51] ==================================================
+[2026-10-31 00:08:51] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.7982 VYQ | Speed: 0.3069/h | Pending: 0.1044 VYQ | Mining: Aktif
+[2026-10-31 00:09:51] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.8034 VYQ | Speed: 0.3069/h | Pending: 0.0051 VYQ | Mining: Aktif
+[2026-10-31 00:10:52] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.8086 VYQ | Speed: 0.3069/h | Pending: 0.0103 VYQ | Mining: Aktif
+[2026-10-31 00:11:58] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.8142 VYQ | Speed: 0.3069/h | Pending: 0.0159 VYQ | Mining: Aktif
+[2026-10-31 00:13:04] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.8198 VYQ | Speed: 0.3069/h | Pending: 0.0215 VYQ | Mining: Aktif
+[2026-10-31 00:14:05] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.8250 VYQ | Speed: 0.3069/h | Pending: 0.0267 VYQ | Mining: Aktif
+[2026-10-31 00:15:06] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.8302 VYQ | Speed: 0.3069/h | Pending: 0.0319 VYQ | Mining: Aktif
+[2026-10-31 00:16:07] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.8354 VYQ | Speed: 0.3069/h | Pending: 0.0371 VYQ | Mining: Aktif
+[2026-10-31 00:17:07] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.8405 VYQ | Speed: 0.3069/h | Pending: 0.0422 VYQ | Mining: Aktif
+[2026-10-31 00:18:13] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.8462 VYQ | Speed: 0.3069/h | Pending: 0.0479 VYQ | Mining: Aktif
+[2026-10-31 00:19:14] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.8514 VYQ | Speed: 0.3069/h | Pending: 0.0531 VYQ | Mining: Aktif
+[2026-10-31 00:20:14] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.8565 VYQ | Speed: 0.3069/h | Pending: 0.0582 VYQ | Mining: Aktif
+[2026-10-31 00:21:15] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.8617 VYQ | Speed: 0.3069/h | Pending: 0.0634 VYQ | Mining: Aktif
+[2026-10-31 00:22:16] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.8669 VYQ | Speed: 0.3069/h | Pending: 0.0686 VYQ | Mining: Aktif
+[2026-10-31 00:23:17] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.8720 VYQ | Speed: 0.3069/h | Pending: 0.0737 VYQ | Mining: Aktif
+[2026-10-31 00:24:23] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.8776 VYQ | Speed: 0.3069/h | Pending: 0.0793 VYQ | Mining: Aktif
+[2026-10-31 00:25:29] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.8832 VYQ | Speed: 0.3069/h | Pending: 0.0849 VYQ | Mining: Aktif
+[2026-10-31 00:26:29] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.8884 VYQ | Speed: 0.3069/h | Pending: 0.0901 VYQ | Mining: Aktif
+[2026-10-31 00:27:30] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.8936 VYQ | Speed: 0.3069/h | Pending: 0.0953 VYQ | Mining: Aktif
+[2026-10-31 00:28:36] [VYQ] Terdeteksi pending reward: 0.1010 VYQ. Mengirim request /api/mining/claim...
+[2026-10-31 00:28:36] ==================================================
+[2026-10-31 00:28:36] >> KLAIM MINING VYQ BERHASIL! +0.1010 VYQ <<
+[2026-10-31 00:28:36] Saldo Total Sekarang: 183.8993 VYQ
+[2026-10-31 00:28:36] ==================================================
+[2026-10-31 00:28:36] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.8993 VYQ | Speed: 0.3069/h | Pending: 0.1010 VYQ | Mining: Aktif
+[2026-10-31 00:29:37] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.9045 VYQ | Speed: 0.3069/h | Pending: 0.0052 VYQ | Mining: Aktif
+[2026-10-31 00:30:43] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.9101 VYQ | Speed: 0.3069/h | Pending: 0.0108 VYQ | Mining: Aktif
+[2026-10-31 00:31:43] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.9152 VYQ | Speed: 0.3069/h | Pending: 0.0159 VYQ | Mining: Aktif
+[2026-10-31 00:32:44] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.9204 VYQ | Speed: 0.3069/h | Pending: 0.0211 VYQ | Mining: Aktif
+[2026-10-31 00:33:45] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.9256 VYQ | Speed: 0.3069/h | Pending: 0.0263 VYQ | Mining: Aktif
+[2026-10-31 00:34:45] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.9307 VYQ | Speed: 0.3069/h | Pending: 0.0314 VYQ | Mining: Aktif
+[2026-10-31 00:35:46] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.9358 VYQ | Speed: 0.3069/h | Pending: 0.0365 VYQ | Mining: Aktif
+[2026-10-31 00:36:52] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.9414 VYQ | Speed: 0.3069/h | Pending: 0.0421 VYQ | Mining: Aktif
+[2026-10-31 00:37:53] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.9466 VYQ | Speed: 0.3069/h | Pending: 0.0473 VYQ | Mining: Aktif
+[2026-10-31 00:38:53] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.9518 VYQ | Speed: 0.3069/h | Pending: 0.0525 VYQ | Mining: Aktif
+[2026-10-31 00:39:59] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.9574 VYQ | Speed: 0.3069/h | Pending: 0.0581 VYQ | Mining: Aktif
+[2026-10-31 00:41:05] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.9630 VYQ | Speed: 0.3069/h | Pending: 0.0637 VYQ | Mining: Aktif
+[2026-10-31 00:42:05] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.9681 VYQ | Speed: 0.3069/h | Pending: 0.0688 VYQ | Mining: Aktif
+[2026-10-31 00:43:06] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.9733 VYQ | Speed: 0.3069/h | Pending: 0.0740 VYQ | Mining: Aktif
+[2026-10-31 00:44:12] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.9790 VYQ | Speed: 0.3069/h | Pending: 0.0797 VYQ | Mining: Aktif
+[2026-10-31 00:45:18] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.9846 VYQ | Speed: 0.3069/h | Pending: 0.0853 VYQ | Mining: Aktif
+[2026-10-31 00:46:18] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.9897 VYQ | Speed: 0.3069/h | Pending: 0.0904 VYQ | Mining: Aktif
+[2026-10-31 00:47:19] [VYQ] Status: Normal | Akun: Zalx | Saldo: 183.9949 VYQ | Speed: 0.3069/h | Pending: 0.0956 VYQ | Mining: Aktif
+[2026-10-31 00:48:20] [VYQ] Terdeteksi pending reward: 0.1008 VYQ. Mengirim request /api/mining/claim...
+[2026-10-31 00:48:21] ==================================================
+[2026-10-31 00:48:21] >> KLAIM MINING VYQ BERHASIL! +0.1008 VYQ <<
+[2026-10-31 00:48:21] Saldo Total Sekarang: 184.0002 VYQ
+[2026-10-31 00:48:21] ==================================================
+[2026-10-31 00:48:21] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.0001 VYQ | Speed: 0.3069/h | Pending: 0.1008 VYQ | Mining: Aktif
+[2026-10-31 00:49:21] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.0053 VYQ | Speed: 0.3069/h | Pending: 0.0051 VYQ | Mining: Aktif
+[2026-10-31 00:50:22] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.0105 VYQ | Speed: 0.3069/h | Pending: 0.0103 VYQ | Mining: Aktif
+[2026-10-31 00:51:23] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.0157 VYQ | Speed: 0.3069/h | Pending: 0.0155 VYQ | Mining: Aktif
+[2026-10-31 00:52:24] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.0209 VYQ | Speed: 0.3069/h | Pending: 0.0207 VYQ | Mining: Aktif
+[2026-10-31 00:53:24] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.0260 VYQ | Speed: 0.3069/h | Pending: 0.0258 VYQ | Mining: Aktif
+[2026-10-31 00:54:25] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.0312 VYQ | Speed: 0.3069/h | Pending: 0.0310 VYQ | Mining: Aktif
+[2026-10-31 00:55:31] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.0368 VYQ | Speed: 0.3069/h | Pending: 0.0366 VYQ | Mining: Aktif
+[2026-10-31 00:56:32] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.0420 VYQ | Speed: 0.3069/h | Pending: 0.0418 VYQ | Mining: Aktif
+[2026-10-31 00:57:32] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.0471 VYQ | Speed: 0.3069/h | Pending: 0.0469 VYQ | Mining: Aktif
+[2026-10-31 00:58:33] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.0523 VYQ | Speed: 0.3069/h | Pending: 0.0521 VYQ | Mining: Aktif
+[2026-10-31 00:59:34] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.0575 VYQ | Speed: 0.3069/h | Pending: 0.0573 VYQ | Mining: Aktif
+[2026-10-31 01:00:40] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.0631 VYQ | Speed: 0.3069/h | Pending: 0.0629 VYQ | Mining: Aktif
+[2026-10-31 01:01:40] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.0682 VYQ | Speed: 0.3069/h | Pending: 0.0680 VYQ | Mining: Aktif
+[2026-10-31 01:02:41] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.0734 VYQ | Speed: 0.3069/h | Pending: 0.0732 VYQ | Mining: Aktif
+[2026-10-31 01:03:47] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.0790 VYQ | Speed: 0.3069/h | Pending: 0.0788 VYQ | Mining: Aktif
+[2026-10-31 01:04:53] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.0847 VYQ | Speed: 0.3069/h | Pending: 0.0845 VYQ | Mining: Aktif
+[2026-10-31 01:05:53] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.0898 VYQ | Speed: 0.3069/h | Pending: 0.0896 VYQ | Mining: Aktif
+[2026-10-31 01:06:54] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.0950 VYQ | Speed: 0.3069/h | Pending: 0.0948 VYQ | Mining: Aktif
+[2026-10-31 01:07:55] [VYQ] Terdeteksi pending reward: 0.1000 VYQ. Mengirim request /api/mining/claim...
+[2026-10-31 01:07:56] ==================================================
+[2026-10-31 01:07:56] >> KLAIM MINING VYQ BERHASIL! +0.1000 VYQ <<
+[2026-10-31 01:07:56] Saldo Total Sekarang: 184.1003 VYQ
+[2026-10-31 01:07:56] ==================================================
+[2026-10-31 01:07:56] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.1002 VYQ | Speed: 0.3069/h | Pending: 0.1000 VYQ | Mining: Aktif
+[2026-10-31 01:08:56] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.1054 VYQ | Speed: 0.3069/h | Pending: 0.0051 VYQ | Mining: Aktif
+[2026-10-31 01:09:57] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.1106 VYQ | Speed: 0.3069/h | Pending: 0.0103 VYQ | Mining: Aktif
+[2026-10-31 01:10:58] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.1158 VYQ | Speed: 0.3069/h | Pending: 0.0155 VYQ | Mining: Aktif
+[2026-10-31 01:11:59] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.1210 VYQ | Speed: 0.3069/h | Pending: 0.0207 VYQ | Mining: Aktif
+[2026-10-31 01:12:59] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.1261 VYQ | Speed: 0.3069/h | Pending: 0.0258 VYQ | Mining: Aktif
+[2026-10-31 01:14:00] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.1313 VYQ | Speed: 0.3069/h | Pending: 0.0310 VYQ | Mining: Aktif
+[2026-10-31 01:15:06] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.1369 VYQ | Speed: 0.3069/h | Pending: 0.0366 VYQ | Mining: Aktif
+[2026-10-31 01:16:07] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.1421 VYQ | Speed: 0.3069/h | Pending: 0.0418 VYQ | Mining: Aktif
+[2026-10-31 01:17:07] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.1472 VYQ | Speed: 0.3069/h | Pending: 0.0469 VYQ | Mining: Aktif
+[2026-10-31 01:18:08] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.1524 VYQ | Speed: 0.3069/h | Pending: 0.0521 VYQ | Mining: Aktif
+[2026-10-31 01:19:09] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.1576 VYQ | Speed: 0.3069/h | Pending: 0.0573 VYQ | Mining: Aktif
+[2026-10-31 01:20:10] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.1628 VYQ | Speed: 0.3069/h | Pending: 0.0625 VYQ | Mining: Aktif
+[2026-10-31 01:21:10] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.1679 VYQ | Speed: 0.3069/h | Pending: 0.0676 VYQ | Mining: Aktif
+[2026-10-31 01:22:11] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.1731 VYQ | Speed: 0.3069/h | Pending: 0.0728 VYQ | Mining: Aktif
+[2026-10-31 01:23:12] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.1783 VYQ | Speed: 0.3069/h | Pending: 0.0780 VYQ | Mining: Aktif
+[2026-10-31 01:24:13] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.1835 VYQ | Speed: 0.3069/h | Pending: 0.0832 VYQ | Mining: Aktif
+[2026-10-31 01:25:14] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.1887 VYQ | Speed: 0.3069/h | Pending: 0.0884 VYQ | Mining: Aktif
+[2026-10-31 01:26:14] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.1939 VYQ | Speed: 0.3069/h | Pending: 0.0936 VYQ | Mining: Aktif
+[2026-10-31 01:27:15] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.1991 VYQ | Speed: 0.3069/h | Pending: 0.0988 VYQ | Mining: Aktif
+[2026-10-31 01:28:16] [VYQ] Terdeteksi pending reward: 0.1038 VYQ. Mengirim request /api/mining/claim...
+[2026-10-31 01:28:16] ==================================================
+[2026-10-31 01:28:16] >> KLAIM MINING VYQ BERHASIL! +0.1038 VYQ <<
+[2026-10-31 01:28:16] Saldo Total Sekarang: 184.2042 VYQ
+[2026-10-31 01:28:16] ==================================================
+[2026-10-31 01:28:16] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.2041 VYQ | Speed: 0.3069/h | Pending: 0.1038 VYQ | Mining: Aktif
+[2026-10-31 01:29:17] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.2094 VYQ | Speed: 0.3069/h | Pending: 0.0052 VYQ | Mining: Aktif
+[2026-10-31 01:30:18] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.2146 VYQ | Speed: 0.3069/h | Pending: 0.0104 VYQ | Mining: Aktif
+[2026-10-31 01:31:19] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.2198 VYQ | Speed: 0.3069/h | Pending: 0.0156 VYQ | Mining: Aktif
+[2026-10-31 01:32:20] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.2250 VYQ | Speed: 0.3069/h | Pending: 0.0208 VYQ | Mining: Aktif
+[2026-10-31 01:33:26] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.2306 VYQ | Speed: 0.3069/h | Pending: 0.0264 VYQ | Mining: Aktif
+[2026-10-31 01:34:26] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.2357 VYQ | Speed: 0.3069/h | Pending: 0.0315 VYQ | Mining: Aktif
+[2026-10-31 01:35:33] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.2413 VYQ | Speed: 0.3069/h | Pending: 0.0371 VYQ | Mining: Aktif
+[2026-10-31 01:36:34] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.2465 VYQ | Speed: 0.3069/h | Pending: 0.0423 VYQ | Mining: Aktif
+[2026-10-31 01:37:34] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.2517 VYQ | Speed: 0.3069/h | Pending: 0.0475 VYQ | Mining: Aktif
+[2026-10-31 01:38:35] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.2569 VYQ | Speed: 0.3069/h | Pending: 0.0527 VYQ | Mining: Aktif
+[2026-10-31 01:39:36] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.2621 VYQ | Speed: 0.3069/h | Pending: 0.0579 VYQ | Mining: Aktif
+[2026-10-31 01:40:37] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.2673 VYQ | Speed: 0.3069/h | Pending: 0.0631 VYQ | Mining: Aktif
+[2026-10-31 01:41:43] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.2729 VYQ | Speed: 0.3069/h | Pending: 0.0687 VYQ | Mining: Aktif
+[2026-10-31 01:42:44] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.2781 VYQ | Speed: 0.3069/h | Pending: 0.0739 VYQ | Mining: Aktif
+[2026-10-31 01:43:45] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.2833 VYQ | Speed: 0.3069/h | Pending: 0.0791 VYQ | Mining: Aktif
+[2026-10-31 01:44:45] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.2885 VYQ | Speed: 0.3069/h | Pending: 0.0843 VYQ | Mining: Aktif
+[2026-10-31 01:45:46] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.2937 VYQ | Speed: 0.3069/h | Pending: 0.0895 VYQ | Mining: Aktif
+[2026-10-31 01:46:47] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.2989 VYQ | Speed: 0.3069/h | Pending: 0.0947 VYQ | Mining: Aktif
+[2026-10-31 01:47:47] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.3040 VYQ | Speed: 0.3069/h | Pending: 0.0998 VYQ | Mining: Aktif
+[2026-10-31 01:48:48] [VYQ] Terdeteksi pending reward: 0.1050 VYQ. Mengirim request /api/mining/claim...
+[2026-10-31 01:48:49] ==================================================
+[2026-10-31 01:48:49] >> KLAIM MINING VYQ BERHASIL! +0.1050 VYQ <<
+[2026-10-31 01:48:49] Saldo Total Sekarang: 184.3093 VYQ
+[2026-10-31 01:48:49] ==================================================
+[2026-10-31 01:48:49] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.3092 VYQ | Speed: 0.3069/h | Pending: 0.1050 VYQ | Mining: Aktif
+[2026-10-31 01:49:55] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.3149 VYQ | Speed: 0.3069/h | Pending: 0.0056 VYQ | Mining: Aktif
+[2026-10-31 01:50:55] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.3200 VYQ | Speed: 0.3069/h | Pending: 0.0107 VYQ | Mining: Aktif
+[2026-10-31 01:51:56] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.3252 VYQ | Speed: 0.3069/h | Pending: 0.0159 VYQ | Mining: Aktif
+[2026-10-31 01:52:57] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.3304 VYQ | Speed: 0.3069/h | Pending: 0.0211 VYQ | Mining: Aktif
+[2026-10-31 01:54:08] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.3363 VYQ | Speed: 0.3069/h | Pending: 0.0270 VYQ | Mining: Aktif
+[2026-10-31 01:55:14] [VYQ] Exception bootstrap: HTTPSConnectionPool(host='api.vyqminer.top', port=443): Max retries exceeded with url: /api/bootstrap (Caused by NewConnectionError("HTTPSConnection(host='api.vyqminer.top', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))
+[2026-10-31 01:55:34] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.3437 VYQ | Speed: 0.3069/h | Pending: 0.0344 VYQ | Mining: Aktif
+[2026-10-31 01:56:35] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.3489 VYQ | Speed: 0.3069/h | Pending: 0.0396 VYQ | Mining: Aktif
+[2026-10-31 01:57:36] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.3541 VYQ | Speed: 0.3069/h | Pending: 0.0448 VYQ | Mining: Aktif
+[2026-10-31 01:58:36] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.3592 VYQ | Speed: 0.3069/h | Pending: 0.0499 VYQ | Mining: Aktif
+[2026-10-31 01:59:37] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.3644 VYQ | Speed: 0.3069/h | Pending: 0.0551 VYQ | Mining: Aktif
+[2026-10-31 02:00:38] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.3696 VYQ | Speed: 0.3069/h | Pending: 0.0603 VYQ | Mining: Aktif
+[2026-10-31 02:01:44] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.3753 VYQ | Speed: 0.3069/h | Pending: 0.0660 VYQ | Mining: Aktif
+[2026-10-31 02:02:45] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.3805 VYQ | Speed: 0.3069/h | Pending: 0.0712 VYQ | Mining: Aktif
+[2026-10-31 02:03:51] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.3860 VYQ | Speed: 0.3069/h | Pending: 0.0767 VYQ | Mining: Aktif
+[2026-10-31 02:04:51] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.3912 VYQ | Speed: 0.3069/h | Pending: 0.0819 VYQ | Mining: Aktif
+[2026-10-31 02:05:52] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.3964 VYQ | Speed: 0.3069/h | Pending: 0.0871 VYQ | Mining: Aktif
+[2026-10-31 02:06:53] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.4016 VYQ | Speed: 0.3069/h | Pending: 0.0923 VYQ | Mining: Aktif
+[2026-10-31 02:07:53] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.4067 VYQ | Speed: 0.3069/h | Pending: 0.0974 VYQ | Mining: Aktif
+[2026-10-31 02:08:54] [VYQ] Terdeteksi pending reward: 0.1026 VYQ. Mengirim request /api/mining/claim...
+[2026-10-31 02:08:55] ==================================================
+[2026-10-31 02:08:55] >> KLAIM MINING VYQ BERHASIL! +0.1026 VYQ <<
+[2026-10-31 02:08:55] Saldo Total Sekarang: 184.4120 VYQ
+[2026-10-31 02:08:55] ==================================================
+[2026-10-31 02:08:55] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.4119 VYQ | Speed: 0.3069/h | Pending: 0.1026 VYQ | Mining: Aktif
+[2026-10-31 02:09:55] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.4171 VYQ | Speed: 0.3069/h | Pending: 0.0051 VYQ | Mining: Aktif
+[2026-10-31 02:11:01] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.4227 VYQ | Speed: 0.3069/h | Pending: 0.0107 VYQ | Mining: Aktif
+[2026-10-31 02:12:07] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.4283 VYQ | Speed: 0.3069/h | Pending: 0.0163 VYQ | Mining: Aktif
+[2026-10-31 02:13:08] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.4335 VYQ | Speed: 0.3069/h | Pending: 0.0215 VYQ | Mining: Aktif
+[2026-10-31 02:14:09] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.4386 VYQ | Speed: 0.3069/h | Pending: 0.0266 VYQ | Mining: Aktif
+[2026-10-31 02:15:09] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.4438 VYQ | Speed: 0.3069/h | Pending: 0.0318 VYQ | Mining: Aktif
+[2026-10-31 02:16:10] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.4490 VYQ | Speed: 0.3069/h | Pending: 0.0370 VYQ | Mining: Aktif
+[2026-10-31 02:17:11] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.4541 VYQ | Speed: 0.3069/h | Pending: 0.0421 VYQ | Mining: Aktif
+[2026-10-31 02:18:11] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.4593 VYQ | Speed: 0.3069/h | Pending: 0.0473 VYQ | Mining: Aktif
+[2026-10-31 02:19:12] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.4645 VYQ | Speed: 0.3069/h | Pending: 0.0525 VYQ | Mining: Aktif
+[2026-10-31 02:20:13] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.4697 VYQ | Speed: 0.3069/h | Pending: 0.0577 VYQ | Mining: Aktif
+[2026-10-31 02:21:13] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.4748 VYQ | Speed: 0.3069/h | Pending: 0.0628 VYQ | Mining: Aktif
+[2026-10-31 02:22:14] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.4800 VYQ | Speed: 0.3069/h | Pending: 0.0680 VYQ | Mining: Aktif
+[2026-10-31 02:23:20] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.4856 VYQ | Speed: 0.3069/h | Pending: 0.0736 VYQ | Mining: Aktif
+[2026-10-31 02:24:21] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.4908 VYQ | Speed: 0.3069/h | Pending: 0.0788 VYQ | Mining: Aktif
+[2026-10-31 02:25:21] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.4959 VYQ | Speed: 0.3069/h | Pending: 0.0839 VYQ | Mining: Aktif
+[2026-10-31 02:26:22] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.5011 VYQ | Speed: 0.3069/h | Pending: 0.0891 VYQ | Mining: Aktif
+[2026-10-31 02:27:23] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.5063 VYQ | Speed: 0.3069/h | Pending: 0.0943 VYQ | Mining: Aktif
+[2026-10-31 02:28:28] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.5119 VYQ | Speed: 0.3069/h | Pending: 0.0999 VYQ | Mining: Aktif
+[2026-10-31 02:29:29] [VYQ] Terdeteksi pending reward: 0.1051 VYQ. Mengirim request /api/mining/claim...
+[2026-10-31 02:29:30] ==================================================
+[2026-10-31 02:29:30] >> KLAIM MINING VYQ BERHASIL! +0.1051 VYQ <<
+[2026-10-31 02:29:30] Saldo Total Sekarang: 184.5172 VYQ
+[2026-10-31 02:29:30] ==================================================
+[2026-10-31 02:29:30] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.5171 VYQ | Speed: 0.3069/h | Pending: 0.1051 VYQ | Mining: Aktif
+[2026-10-31 02:30:31] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.5223 VYQ | Speed: 0.3069/h | Pending: 0.0051 VYQ | Mining: Aktif
+[2026-10-31 02:31:31] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.5275 VYQ | Speed: 0.3069/h | Pending: 0.0103 VYQ | Mining: Aktif
+[2026-10-31 02:32:32] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.5327 VYQ | Speed: 0.3069/h | Pending: 0.0155 VYQ | Mining: Aktif
+[2026-10-31 02:33:38] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.5383 VYQ | Speed: 0.3069/h | Pending: 0.0211 VYQ | Mining: Aktif
+[2026-10-31 02:34:39] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.5434 VYQ | Speed: 0.3069/h | Pending: 0.0262 VYQ | Mining: Aktif
+[2026-10-31 02:35:45] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.5490 VYQ | Speed: 0.3069/h | Pending: 0.0318 VYQ | Mining: Aktif
+[2026-10-31 02:36:46] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.5542 VYQ | Speed: 0.3069/h | Pending: 0.0370 VYQ | Mining: Aktif
+[2026-10-31 02:37:46] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.5594 VYQ | Speed: 0.3069/h | Pending: 0.0422 VYQ | Mining: Aktif
+[2026-10-31 02:38:47] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.5646 VYQ | Speed: 0.3069/h | Pending: 0.0474 VYQ | Mining: Aktif
+[2026-10-31 02:39:48] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.5698 VYQ | Speed: 0.3069/h | Pending: 0.0526 VYQ | Mining: Aktif
+[2026-10-31 02:40:48] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.5749 VYQ | Speed: 0.3069/h | Pending: 0.0577 VYQ | Mining: Aktif
+[2026-10-31 02:41:49] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.5801 VYQ | Speed: 0.3069/h | Pending: 0.0629 VYQ | Mining: Aktif
+[2026-10-31 02:42:55] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.5858 VYQ | Speed: 0.3069/h | Pending: 0.0686 VYQ | Mining: Aktif
+[2026-10-31 02:43:56] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.5910 VYQ | Speed: 0.3069/h | Pending: 0.0738 VYQ | Mining: Aktif
+[2026-10-31 02:44:56] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.5961 VYQ | Speed: 0.3069/h | Pending: 0.0789 VYQ | Mining: Aktif
+[2026-10-31 02:45:57] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.6013 VYQ | Speed: 0.3069/h | Pending: 0.0841 VYQ | Mining: Aktif
+[2026-10-31 02:47:03] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.6069 VYQ | Speed: 0.3069/h | Pending: 0.0897 VYQ | Mining: Aktif
+[2026-10-31 02:48:09] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.6125 VYQ | Speed: 0.3069/h | Pending: 0.0953 VYQ | Mining: Aktif
+[2026-10-31 02:49:09] [VYQ] Terdeteksi pending reward: 0.1004 VYQ. Mengirim request /api/mining/claim...
+[2026-10-31 02:49:10] ==================================================
+[2026-10-31 02:49:10] >> KLAIM MINING VYQ BERHASIL! +0.1004 VYQ <<
+[2026-10-31 02:49:10] Saldo Total Sekarang: 184.6177 VYQ
+[2026-10-31 02:49:10] ==================================================
+[2026-10-31 02:49:10] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.6176 VYQ | Speed: 0.3069/h | Pending: 0.1004 VYQ | Mining: Aktif
+[2026-10-31 02:50:11] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.6229 VYQ | Speed: 0.3069/h | Pending: 0.0052 VYQ | Mining: Aktif
+[2026-10-31 02:51:11] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.6280 VYQ | Speed: 0.3069/h | Pending: 0.0103 VYQ | Mining: Aktif
+[2026-10-31 02:52:12] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.6332 VYQ | Speed: 0.3069/h | Pending: 0.0155 VYQ | Mining: Aktif
+[2026-10-31 02:53:13] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.6384 VYQ | Speed: 0.3069/h | Pending: 0.0207 VYQ | Mining: Aktif
+[2026-10-31 02:54:19] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.6440 VYQ | Speed: 0.3069/h | Pending: 0.0263 VYQ | Mining: Aktif
+[2026-10-31 02:55:26] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.6497 VYQ | Speed: 0.3069/h | Pending: 0.0320 VYQ | Mining: Aktif
+[2026-10-31 02:56:26] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.6548 VYQ | Speed: 0.3069/h | Pending: 0.0371 VYQ | Mining: Aktif
+[2026-10-31 02:57:27] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.6600 VYQ | Speed: 0.3069/h | Pending: 0.0423 VYQ | Mining: Aktif
+[2026-10-31 02:58:28] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.6652 VYQ | Speed: 0.3069/h | Pending: 0.0475 VYQ | Mining: Aktif
+[2026-10-31 02:59:29] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.6704 VYQ | Speed: 0.3069/h | Pending: 0.0527 VYQ | Mining: Aktif
+[2026-10-31 03:00:29] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.6755 VYQ | Speed: 0.3069/h | Pending: 0.0578 VYQ | Mining: Aktif
+[2026-10-31 03:01:30] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.6807 VYQ | Speed: 0.3069/h | Pending: 0.0630 VYQ | Mining: Aktif
+[2026-10-31 03:02:31] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.6859 VYQ | Speed: 0.3069/h | Pending: 0.0682 VYQ | Mining: Aktif
+[2026-10-31 03:03:31] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.6911 VYQ | Speed: 0.3069/h | Pending: 0.0734 VYQ | Mining: Aktif
+[2026-10-31 03:04:32] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.6963 VYQ | Speed: 0.3069/h | Pending: 0.0786 VYQ | Mining: Aktif
+[2026-10-31 03:05:33] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.7015 VYQ | Speed: 0.3069/h | Pending: 0.0838 VYQ | Mining: Aktif
+[2026-10-31 03:07:18] [VYQ] Exception bootstrap: HTTPSConnectionPool(host='api.vyqminer.top', port=443): Max retries exceeded with url: /api/bootstrap (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.vyqminer.top', port=443) at 0x7fd817afa850>, 'Connection to api.vyqminer.top timed out. (connect timeout=15)'))
+[2026-10-31 03:07:39] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.7122 VYQ | Speed: 0.3069/h | Pending: 0.0945 VYQ | Mining: Aktif
+[2026-10-31 03:08:40] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.7174 VYQ | Speed: 0.3069/h | Pending: 0.0997 VYQ | Mining: Aktif
+[2026-10-31 03:09:41] [VYQ] Terdeteksi pending reward: 0.1048 VYQ. Mengirim request /api/mining/claim...
+[2026-10-31 03:09:41] ==================================================
+[2026-10-31 03:09:41] >> KLAIM MINING VYQ BERHASIL! +0.1048 VYQ <<
+[2026-10-31 03:09:41] Saldo Total Sekarang: 184.7226 VYQ
+[2026-10-31 03:09:41] ==================================================
+[2026-10-31 03:09:41] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.7225 VYQ | Speed: 0.3069/h | Pending: 0.1048 VYQ | Mining: Aktif
+[2026-10-31 03:10:42] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.7278 VYQ | Speed: 0.3069/h | Pending: 0.0052 VYQ | Mining: Aktif
+[2026-10-31 03:11:47] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.7333 VYQ | Speed: 0.3069/h | Pending: 0.0107 VYQ | Mining: Aktif
+[2026-10-31 03:12:53] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.7389 VYQ | Speed: 0.3069/h | Pending: 0.0163 VYQ | Mining: Aktif
+[2026-10-31 03:13:54] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.7441 VYQ | Speed: 0.3069/h | Pending: 0.0215 VYQ | Mining: Aktif
+[2026-10-31 03:14:55] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.7493 VYQ | Speed: 0.3069/h | Pending: 0.0267 VYQ | Mining: Aktif
+[2026-10-31 03:15:55] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.7544 VYQ | Speed: 0.3069/h | Pending: 0.0318 VYQ | Mining: Aktif
+[2026-10-31 03:16:56] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.7596 VYQ | Speed: 0.3069/h | Pending: 0.0370 VYQ | Mining: Aktif
+[2026-10-31 03:17:57] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.7648 VYQ | Speed: 0.3069/h | Pending: 0.0422 VYQ | Mining: Aktif
+[2026-10-31 03:18:58] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.7699 VYQ | Speed: 0.3069/h | Pending: 0.0473 VYQ | Mining: Aktif
+[2026-10-31 03:19:58] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.7751 VYQ | Speed: 0.3069/h | Pending: 0.0525 VYQ | Mining: Aktif
+[2026-10-31 03:45:46] === VYQ Miner Auto-Farmer Daemon Dimulai ===
+[2026-10-31 03:45:48] [VYQ] Terdeteksi pending reward: 0.1846 VYQ. Mengirim request /api/mining/claim...
+[2026-10-31 03:45:48] ==================================================
+[2026-10-31 03:45:48] >> KLAIM MINING VYQ BERHASIL! +0.1846 VYQ <<
+[2026-10-31 03:45:48] Saldo Total Sekarang: 184.9072 VYQ
+[2026-10-31 03:45:48] ==================================================
+[2026-10-31 03:45:48] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.9072 VYQ | Speed: 0.3069/h | Pending: 0.1846 VYQ | Mining: Aktif
+[2026-10-31 03:46:54] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.9128 VYQ | Speed: 0.3069/h | Pending: 0.0056 VYQ | Mining: Aktif
+[2026-10-31 03:47:55] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.9180 VYQ | Speed: 0.3069/h | Pending: 0.0108 VYQ | Mining: Aktif
+[2026-10-31 03:49:01] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.9236 VYQ | Speed: 0.3069/h | Pending: 0.0164 VYQ | Mining: Aktif
+[2026-10-31 03:50:02] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.9288 VYQ | Speed: 0.3069/h | Pending: 0.0216 VYQ | Mining: Aktif
+[2026-10-31 03:51:02] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.9339 VYQ | Speed: 0.3069/h | Pending: 0.0267 VYQ | Mining: Aktif
+[2026-10-31 03:52:08] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.9395 VYQ | Speed: 0.3069/h | Pending: 0.0323 VYQ | Mining: Aktif
+[2026-10-31 03:53:09] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.9447 VYQ | Speed: 0.3069/h | Pending: 0.0375 VYQ | Mining: Aktif
+[2026-10-31 03:54:10] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.9499 VYQ | Speed: 0.3069/h | Pending: 0.0427 VYQ | Mining: Aktif
+[2026-10-31 03:55:10] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.9551 VYQ | Speed: 0.3069/h | Pending: 0.0479 VYQ | Mining: Aktif
+[2026-10-31 03:56:11] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.9603 VYQ | Speed: 0.3069/h | Pending: 0.0531 VYQ | Mining: Aktif
+[2026-10-31 03:57:12] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.9655 VYQ | Speed: 0.3069/h | Pending: 0.0583 VYQ | Mining: Aktif
+[2026-10-31 03:58:13] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.9706 VYQ | Speed: 0.3069/h | Pending: 0.0634 VYQ | Mining: Aktif
+[2026-10-31 03:59:13] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.9758 VYQ | Speed: 0.3069/h | Pending: 0.0686 VYQ | Mining: Aktif
+[2026-10-31 04:00:20] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.9815 VYQ | Speed: 0.3069/h | Pending: 0.0743 VYQ | Mining: Aktif
+[2026-10-31 04:01:21] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.9867 VYQ | Speed: 0.3069/h | Pending: 0.0795 VYQ | Mining: Aktif
+[2026-10-31 04:02:21] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.9918 VYQ | Speed: 0.3069/h | Pending: 0.0846 VYQ | Mining: Aktif
+[2026-10-31 04:03:22] [VYQ] Status: Normal | Akun: Zalx | Saldo: 184.9970 VYQ | Speed: 0.3069/h | Pending: 0.0898 VYQ | Mining: Aktif
+[2026-10-31 04:04:22] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.0021 VYQ | Speed: 0.3069/h | Pending: 0.0949 VYQ | Mining: Aktif
+[2026-10-31 04:05:23] [VYQ] Terdeteksi pending reward: 0.1001 VYQ. Mengirim request /api/mining/claim...
+[2026-10-31 04:05:24] ==================================================
+[2026-10-31 04:05:24] >> KLAIM MINING VYQ BERHASIL! +0.1001 VYQ <<
+[2026-10-31 04:05:24] Saldo Total Sekarang: 185.0074 VYQ
+[2026-10-31 04:05:24] ==================================================
+[2026-10-31 04:05:24] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.0073 VYQ | Speed: 0.3069/h | Pending: 0.1001 VYQ | Mining: Aktif
+[2026-10-31 04:06:25] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.0125 VYQ | Speed: 0.3069/h | Pending: 0.0051 VYQ | Mining: Aktif
+[2026-10-31 04:07:30] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.0181 VYQ | Speed: 0.3069/h | Pending: 0.0107 VYQ | Mining: Aktif
+[2026-10-31 04:08:31] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.0233 VYQ | Speed: 0.3069/h | Pending: 0.0159 VYQ | Mining: Aktif
+[2026-10-31 04:09:32] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.0285 VYQ | Speed: 0.3069/h | Pending: 0.0211 VYQ | Mining: Aktif
+[2026-10-31 04:10:33] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.0336 VYQ | Speed: 0.3069/h | Pending: 0.0262 VYQ | Mining: Aktif
+[2026-10-31 04:11:34] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.0389 VYQ | Speed: 0.3069/h | Pending: 0.0315 VYQ | Mining: Aktif
+[2026-10-31 04:12:39] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.0444 VYQ | Speed: 0.3069/h | Pending: 0.0370 VYQ | Mining: Aktif
+[2026-10-31 04:13:44] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.0499 VYQ | Speed: 0.3069/h | Pending: 0.0425 VYQ | Mining: Aktif
+[2026-10-31 04:14:50] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.0555 VYQ | Speed: 0.3069/h | Pending: 0.0481 VYQ | Mining: Aktif
+[2026-10-31 04:15:56] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.0611 VYQ | Speed: 0.3069/h | Pending: 0.0537 VYQ | Mining: Aktif
+[2026-10-31 04:16:57] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.0663 VYQ | Speed: 0.3069/h | Pending: 0.0589 VYQ | Mining: Aktif
+[2026-10-31 04:17:57] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.0715 VYQ | Speed: 0.3069/h | Pending: 0.0641 VYQ | Mining: Aktif
+[2026-10-31 04:18:58] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.0767 VYQ | Speed: 0.3069/h | Pending: 0.0693 VYQ | Mining: Aktif
+[2026-10-31 04:19:59] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.0819 VYQ | Speed: 0.3069/h | Pending: 0.0745 VYQ | Mining: Aktif
+[2026-10-31 04:20:59] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.0870 VYQ | Speed: 0.3069/h | Pending: 0.0796 VYQ | Mining: Aktif
+[2026-10-31 04:22:00] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.0922 VYQ | Speed: 0.3069/h | Pending: 0.0848 VYQ | Mining: Aktif
+[2026-10-31 04:23:06] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.0978 VYQ | Speed: 0.3069/h | Pending: 0.0904 VYQ | Mining: Aktif
+[2026-10-31 04:24:07] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.1029 VYQ | Speed: 0.3069/h | Pending: 0.0955 VYQ | Mining: Aktif
+[2026-10-31 04:25:07] [VYQ] Terdeteksi pending reward: 0.1007 VYQ. Mengirim request /api/mining/claim...
+[2026-10-31 04:25:08] ==================================================
+[2026-10-31 04:25:08] >> KLAIM MINING VYQ BERHASIL! +0.1007 VYQ <<
+[2026-10-31 04:25:08] Saldo Total Sekarang: 185.1082 VYQ
+[2026-10-31 04:25:08] ==================================================
+[2026-10-31 04:25:08] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.1081 VYQ | Speed: 0.3069/h | Pending: 0.1007 VYQ | Mining: Aktif
+[2026-10-31 04:26:08] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.1133 VYQ | Speed: 0.3069/h | Pending: 0.0051 VYQ | Mining: Aktif
+[2026-10-31 04:27:09] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.1185 VYQ | Speed: 0.3069/h | Pending: 0.0103 VYQ | Mining: Aktif
+[2026-10-31 04:28:10] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.1237 VYQ | Speed: 0.3069/h | Pending: 0.0155 VYQ | Mining: Aktif
+[2026-10-31 04:29:10] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.1288 VYQ | Speed: 0.3069/h | Pending: 0.0206 VYQ | Mining: Aktif
+[2026-10-31 04:30:11] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.1340 VYQ | Speed: 0.3069/h | Pending: 0.0258 VYQ | Mining: Aktif
+[2026-10-31 04:31:12] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.1392 VYQ | Speed: 0.3069/h | Pending: 0.0310 VYQ | Mining: Aktif
+[2026-10-31 04:32:13] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.1444 VYQ | Speed: 0.3069/h | Pending: 0.0362 VYQ | Mining: Aktif
+[2026-10-31 04:33:13] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.1495 VYQ | Speed: 0.3069/h | Pending: 0.0413 VYQ | Mining: Aktif
+[2026-10-31 04:34:14] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.1547 VYQ | Speed: 0.3069/h | Pending: 0.0465 VYQ | Mining: Aktif
+[2026-10-31 04:35:15] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.1599 VYQ | Speed: 0.3069/h | Pending: 0.0517 VYQ | Mining: Aktif
+[2026-10-31 04:36:15] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.1650 VYQ | Speed: 0.3069/h | Pending: 0.0568 VYQ | Mining: Aktif
+[2026-10-31 04:37:16] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.1702 VYQ | Speed: 0.3069/h | Pending: 0.0620 VYQ | Mining: Aktif
+[2026-10-31 04:38:17] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.1754 VYQ | Speed: 0.3069/h | Pending: 0.0672 VYQ | Mining: Aktif
+[2026-10-31 04:39:23] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.1810 VYQ | Speed: 0.3069/h | Pending: 0.0728 VYQ | Mining: Aktif
+[2026-10-31 04:40:24] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.1862 VYQ | Speed: 0.3069/h | Pending: 0.0780 VYQ | Mining: Aktif
+[2026-10-31 04:41:25] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.1914 VYQ | Speed: 0.3069/h | Pending: 0.0832 VYQ | Mining: Aktif
+[2026-10-31 04:42:26] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.1965 VYQ | Speed: 0.3069/h | Pending: 0.0883 VYQ | Mining: Aktif
+[2026-10-31 04:43:26] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.2017 VYQ | Speed: 0.3069/h | Pending: 0.0935 VYQ | Mining: Aktif
+[2026-10-31 04:44:27] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.2069 VYQ | Speed: 0.3069/h | Pending: 0.0987 VYQ | Mining: Aktif
+[2026-10-31 04:45:27] [VYQ] Terdeteksi pending reward: 0.1039 VYQ. Mengirim request /api/mining/claim...
+[2026-10-31 04:45:28] ==================================================
+[2026-10-31 04:45:28] >> KLAIM MINING VYQ BERHASIL! +0.1039 VYQ <<
+[2026-10-31 04:45:28] Saldo Total Sekarang: 185.2121 VYQ
+[2026-10-31 04:45:28] ==================================================
+[2026-10-31 04:45:28] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.2121 VYQ | Speed: 0.3069/h | Pending: 0.1039 VYQ | Mining: Aktif
+[2026-10-31 04:46:29] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.2173 VYQ | Speed: 0.3124/h | Pending: 0.0052 VYQ | Mining: Aktif
+[2026-10-31 04:47:30] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.2226 VYQ | Speed: 0.3124/h | Pending: 0.0105 VYQ | Mining: Aktif
+[2026-10-31 04:48:35] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.2283 VYQ | Speed: 0.3124/h | Pending: 0.0162 VYQ | Mining: Aktif
+[2026-10-31 04:49:36] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.2336 VYQ | Speed: 0.3124/h | Pending: 0.0215 VYQ | Mining: Aktif
+[2026-10-31 04:50:37] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.2389 VYQ | Speed: 0.3124/h | Pending: 0.0268 VYQ | Mining: Aktif
+[2026-10-31 04:51:38] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.2441 VYQ | Speed: 0.3124/h | Pending: 0.0320 VYQ | Mining: Aktif
+[2026-10-31 04:52:44] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.2498 VYQ | Speed: 0.3124/h | Pending: 0.0377 VYQ | Mining: Aktif
+[2026-10-31 04:53:44] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.2551 VYQ | Speed: 0.3124/h | Pending: 0.0430 VYQ | Mining: Aktif
+[2026-10-31 04:54:45] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.2604 VYQ | Speed: 0.3124/h | Pending: 0.0483 VYQ | Mining: Aktif
+[2026-10-31 04:55:46] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.2656 VYQ | Speed: 0.3124/h | Pending: 0.0535 VYQ | Mining: Aktif
+[2026-10-31 04:56:52] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.2714 VYQ | Speed: 0.3124/h | Pending: 0.0593 VYQ | Mining: Aktif
+[2026-10-31 04:57:54] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.2768 VYQ | Speed: 0.3124/h | Pending: 0.0647 VYQ | Mining: Aktif
+[2026-10-31 04:58:55] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.2820 VYQ | Speed: 0.3124/h | Pending: 0.0699 VYQ | Mining: Aktif
+[2026-10-31 04:59:55] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.2873 VYQ | Speed: 0.3124/h | Pending: 0.0752 VYQ | Mining: Aktif
+[2026-10-31 05:00:56] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.2926 VYQ | Speed: 0.3124/h | Pending: 0.0805 VYQ | Mining: Aktif
+[2026-10-31 05:01:57] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.2979 VYQ | Speed: 0.3124/h | Pending: 0.0858 VYQ | Mining: Aktif
+[2026-10-31 05:02:58] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.3031 VYQ | Speed: 0.3124/h | Pending: 0.0910 VYQ | Mining: Aktif
+[2026-10-31 05:03:59] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.3084 VYQ | Speed: 0.3124/h | Pending: 0.0963 VYQ | Mining: Aktif
+[2026-10-31 05:04:59] [VYQ] Terdeteksi pending reward: 0.1015 VYQ. Mengirim request /api/mining/claim...
+[2026-10-31 05:05:00] ==================================================
+[2026-10-31 05:05:00] >> KLAIM MINING VYQ BERHASIL! +0.1015 VYQ <<
+[2026-10-31 05:05:00] Saldo Total Sekarang: 185.3137 VYQ
+[2026-10-31 05:05:00] ==================================================
+[2026-10-31 05:05:00] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.3136 VYQ | Speed: 0.3124/h | Pending: 0.1015 VYQ | Mining: Aktif
+[2026-10-31 05:06:01] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.3189 VYQ | Speed: 0.3124/h | Pending: 0.0052 VYQ | Mining: Aktif
+[2026-10-31 05:07:01] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.3242 VYQ | Speed: 0.3124/h | Pending: 0.0105 VYQ | Mining: Aktif
+[2026-10-31 05:08:02] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.3294 VYQ | Speed: 0.3124/h | Pending: 0.0157 VYQ | Mining: Aktif
+[2026-10-31 05:09:08] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.3352 VYQ | Speed: 0.3124/h | Pending: 0.0215 VYQ | Mining: Aktif
+[2026-10-31 05:10:09] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.3405 VYQ | Speed: 0.3124/h | Pending: 0.0268 VYQ | Mining: Aktif
+[2026-10-31 05:11:10] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.3457 VYQ | Speed: 0.3124/h | Pending: 0.0320 VYQ | Mining: Aktif
+[2026-10-31 05:12:10] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.3510 VYQ | Speed: 0.3124/h | Pending: 0.0373 VYQ | Mining: Aktif
+[2026-10-31 05:13:11] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.3563 VYQ | Speed: 0.3124/h | Pending: 0.0426 VYQ | Mining: Aktif
+[2026-10-31 05:14:12] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.3615 VYQ | Speed: 0.3124/h | Pending: 0.0478 VYQ | Mining: Aktif
+[2026-10-31 05:15:12] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.3668 VYQ | Speed: 0.3124/h | Pending: 0.0531 VYQ | Mining: Aktif
+[2026-10-31 05:16:13] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.3721 VYQ | Speed: 0.3124/h | Pending: 0.0584 VYQ | Mining: Aktif
+[2026-10-31 05:17:14] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.3773 VYQ | Speed: 0.3124/h | Pending: 0.0636 VYQ | Mining: Aktif
+[2026-10-31 05:18:14] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.3826 VYQ | Speed: 0.3124/h | Pending: 0.0689 VYQ | Mining: Aktif
+[2026-10-31 05:19:15] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.3878 VYQ | Speed: 0.3124/h | Pending: 0.0741 VYQ | Mining: Aktif
+[2026-10-31 05:20:16] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.3931 VYQ | Speed: 0.3124/h | Pending: 0.0794 VYQ | Mining: Aktif
+[2026-10-31 05:21:16] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.3983 VYQ | Speed: 0.3124/h | Pending: 0.0846 VYQ | Mining: Aktif
+[2026-10-31 05:22:17] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.4036 VYQ | Speed: 0.3124/h | Pending: 0.0899 VYQ | Mining: Aktif
+[2026-10-31 05:23:23] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.4094 VYQ | Speed: 0.3124/h | Pending: 0.0957 VYQ | Mining: Aktif
+[2026-10-31 05:24:24] [VYQ] Terdeteksi pending reward: 0.1009 VYQ. Mengirim request /api/mining/claim...
+[2026-10-31 05:24:24] ==================================================
+[2026-10-31 05:24:24] >> KLAIM MINING VYQ BERHASIL! +0.1009 VYQ <<
+[2026-10-31 05:24:24] Saldo Total Sekarang: 185.4147 VYQ
+[2026-10-31 05:24:24] ==================================================
+[2026-10-31 05:24:24] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.4146 VYQ | Speed: 0.3124/h | Pending: 0.1009 VYQ | Mining: Aktif
+[2026-10-31 05:25:30] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.4204 VYQ | Speed: 0.3124/h | Pending: 0.0057 VYQ | Mining: Aktif
+[2026-10-31 05:26:31] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.4257 VYQ | Speed: 0.3124/h | Pending: 0.0110 VYQ | Mining: Aktif
+[2026-10-31 05:27:31] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.4309 VYQ | Speed: 0.3124/h | Pending: 0.0162 VYQ | Mining: Aktif
+[2026-10-31 05:28:32] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.4362 VYQ | Speed: 0.3124/h | Pending: 0.0215 VYQ | Mining: Aktif
+[2026-10-31 05:29:38] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.4419 VYQ | Speed: 0.3124/h | Pending: 0.0272 VYQ | Mining: Aktif
+[2026-10-31 05:30:43] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.4475 VYQ | Speed: 0.3124/h | Pending: 0.0328 VYQ | Mining: Aktif
+[2026-10-31 05:31:44] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.4528 VYQ | Speed: 0.3124/h | Pending: 0.0381 VYQ | Mining: Aktif
+[2026-10-31 05:32:45] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.4581 VYQ | Speed: 0.3124/h | Pending: 0.0434 VYQ | Mining: Aktif
+[2026-10-31 05:33:45] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.4633 VYQ | Speed: 0.3124/h | Pending: 0.0486 VYQ | Mining: Aktif
+[2026-10-31 05:34:46] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.4686 VYQ | Speed: 0.3124/h | Pending: 0.0539 VYQ | Mining: Aktif
+[2026-10-31 05:35:47] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.4739 VYQ | Speed: 0.3124/h | Pending: 0.0592 VYQ | Mining: Aktif
+[2026-10-31 05:36:53] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.4796 VYQ | Speed: 0.3124/h | Pending: 0.0649 VYQ | Mining: Aktif
+[2026-10-31 05:37:58] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.4853 VYQ | Speed: 0.3124/h | Pending: 0.0706 VYQ | Mining: Aktif
+[2026-10-31 05:39:05] [VYQ] Exception bootstrap: HTTPSConnectionPool(host='api.vyqminer.top', port=443): Max retries exceeded with url: /api/bootstrap (Caused by NewConnectionError("HTTPSConnection(host='api.vyqminer.top', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))
+[2026-10-31 05:39:25] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.4928 VYQ | Speed: 0.3124/h | Pending: 0.0781 VYQ | Mining: Aktif
+[2026-10-31 05:40:26] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.4981 VYQ | Speed: 0.3124/h | Pending: 0.0834 VYQ | Mining: Aktif
+[2026-10-31 05:41:32] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.5038 VYQ | Speed: 0.3124/h | Pending: 0.0891 VYQ | Mining: Aktif
+[2026-10-31 05:42:33] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.5091 VYQ | Speed: 0.3124/h | Pending: 0.0944 VYQ | Mining: Aktif
+[2026-10-31 05:43:33] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.5143 VYQ | Speed: 0.3124/h | Pending: 0.0996 VYQ | Mining: Aktif
+[2026-10-31 05:44:34] [VYQ] Terdeteksi pending reward: 0.1049 VYQ. Mengirim request /api/mining/claim...
+[2026-10-31 05:44:35] ==================================================
+[2026-10-31 05:44:35] >> KLAIM MINING VYQ BERHASIL! +0.1049 VYQ <<
+[2026-10-31 05:44:35] Saldo Total Sekarang: 185.5197 VYQ
+[2026-10-31 05:44:35] ==================================================
+[2026-10-31 05:44:35] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.5196 VYQ | Speed: 0.3124/h | Pending: 0.1049 VYQ | Mining: Aktif
+[2026-10-31 05:45:36] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.5249 VYQ | Speed: 0.3124/h | Pending: 0.0052 VYQ | Mining: Aktif
+[2026-10-31 05:46:37] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.5302 VYQ | Speed: 0.3124/h | Pending: 0.0105 VYQ | Mining: Aktif
+[2026-10-31 05:47:37] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.5354 VYQ | Speed: 0.3124/h | Pending: 0.0157 VYQ | Mining: Aktif
+[2026-10-31 05:48:43] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.5412 VYQ | Speed: 0.3124/h | Pending: 0.0215 VYQ | Mining: Aktif
+[2026-10-31 05:49:44] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.5465 VYQ | Speed: 0.3124/h | Pending: 0.0268 VYQ | Mining: Aktif
+[2026-10-31 05:50:45] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.5518 VYQ | Speed: 0.3124/h | Pending: 0.0321 VYQ | Mining: Aktif
+[2026-10-31 05:51:46] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.5571 VYQ | Speed: 0.3124/h | Pending: 0.0374 VYQ | Mining: Aktif
+[2026-10-31 05:52:46] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.5623 VYQ | Speed: 0.3124/h | Pending: 0.0426 VYQ | Mining: Aktif
+[2026-10-31 05:53:47] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.5676 VYQ | Speed: 0.3124/h | Pending: 0.0479 VYQ | Mining: Aktif
+[2026-10-31 05:54:48] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.5728 VYQ | Speed: 0.3124/h | Pending: 0.0531 VYQ | Mining: Aktif
+[2026-10-31 05:55:49] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.5781 VYQ | Speed: 0.3124/h | Pending: 0.0584 VYQ | Mining: Aktif
+[2026-10-31 05:56:50] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.5834 VYQ | Speed: 0.3124/h | Pending: 0.0637 VYQ | Mining: Aktif
+[2026-10-31 05:57:51] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.5887 VYQ | Speed: 0.3124/h | Pending: 0.0690 VYQ | Mining: Aktif
+[2026-10-31 05:58:52] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.5939 VYQ | Speed: 0.3124/h | Pending: 0.0742 VYQ | Mining: Aktif
+[2026-10-31 05:59:53] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.5992 VYQ | Speed: 0.3124/h | Pending: 0.0795 VYQ | Mining: Aktif
+[2026-10-31 06:00:54] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.6044 VYQ | Speed: 0.3124/h | Pending: 0.0847 VYQ | Mining: Aktif
+[2026-10-31 06:01:54] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.6097 VYQ | Speed: 0.3124/h | Pending: 0.0900 VYQ | Mining: Aktif
+[2026-10-31 06:02:55] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.6150 VYQ | Speed: 0.3124/h | Pending: 0.0953 VYQ | Mining: Aktif
+[2026-10-31 06:03:56] [VYQ] Terdeteksi pending reward: 0.1006 VYQ. Mengirim request /api/mining/claim...
+[2026-10-31 06:03:57] ==================================================
+[2026-10-31 06:03:57] >> KLAIM MINING VYQ BERHASIL! +0.1006 VYQ <<
+[2026-10-31 06:03:57] Saldo Total Sekarang: 185.6204 VYQ
+[2026-10-31 06:03:57] ==================================================
+[2026-10-31 06:03:57] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.6203 VYQ | Speed: 0.3124/h | Pending: 0.1006 VYQ | Mining: Aktif
+[2026-10-31 06:04:58] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.6256 VYQ | Speed: 0.3124/h | Pending: 0.0052 VYQ | Mining: Aktif
+[2026-10-31 06:06:03] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.6313 VYQ | Speed: 0.3124/h | Pending: 0.0109 VYQ | Mining: Aktif
+[2026-10-31 06:07:04] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.6366 VYQ | Speed: 0.3124/h | Pending: 0.0162 VYQ | Mining: Aktif
+[2026-10-31 06:08:05] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.6419 VYQ | Speed: 0.3124/h | Pending: 0.0215 VYQ | Mining: Aktif
+[2026-10-31 06:09:05] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.6471 VYQ | Speed: 0.3124/h | Pending: 0.0267 VYQ | Mining: Aktif
+[2026-10-31 06:10:06] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.6523 VYQ | Speed: 0.3124/h | Pending: 0.0319 VYQ | Mining: Aktif
+[2026-10-31 06:11:06] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.6576 VYQ | Speed: 0.3124/h | Pending: 0.0372 VYQ | Mining: Aktif
+[2026-10-31 06:12:07] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.6629 VYQ | Speed: 0.3124/h | Pending: 0.0425 VYQ | Mining: Aktif
+[2026-10-31 06:13:13] [VYQ] Exception bootstrap: HTTPSConnectionPool(host='api.vyqminer.top', port=443): Max retries exceeded with url: /api/bootstrap (Caused by NewConnectionError("HTTPSConnection(host='api.vyqminer.top', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))
+[2026-10-31 06:13:34] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.6704 VYQ | Speed: 0.3124/h | Pending: 0.0500 VYQ | Mining: Aktif
+[2026-10-31 06:14:35] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.6757 VYQ | Speed: 0.3124/h | Pending: 0.0553 VYQ | Mining: Aktif
+[2026-10-31 06:15:41] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.6814 VYQ | Speed: 0.3124/h | Pending: 0.0610 VYQ | Mining: Aktif
+[2026-10-31 06:16:41] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.6866 VYQ | Speed: 0.3124/h | Pending: 0.0662 VYQ | Mining: Aktif
+[2026-10-31 06:17:47] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.6924 VYQ | Speed: 0.3124/h | Pending: 0.0720 VYQ | Mining: Aktif
+[2026-10-31 06:18:48] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.6977 VYQ | Speed: 0.3124/h | Pending: 0.0773 VYQ | Mining: Aktif
+[2026-10-31 06:19:49] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.7030 VYQ | Speed: 0.3124/h | Pending: 0.0826 VYQ | Mining: Aktif
+[2026-10-31 06:20:49] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.7082 VYQ | Speed: 0.3124/h | Pending: 0.0878 VYQ | Mining: Aktif
+[2026-10-31 06:21:50] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.7135 VYQ | Speed: 0.3124/h | Pending: 0.0931 VYQ | Mining: Aktif
+[2026-10-31 06:22:56] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.7192 VYQ | Speed: 0.3124/h | Pending: 0.0988 VYQ | Mining: Aktif
+[2026-10-31 06:23:57] [VYQ] Terdeteksi pending reward: 0.1041 VYQ. Mengirim request /api/mining/claim...
+[2026-10-31 06:23:58] ==================================================
+[2026-10-31 06:23:58] >> KLAIM MINING VYQ BERHASIL! +0.1041 VYQ <<
+[2026-10-31 06:23:58] Saldo Total Sekarang: 185.7245 VYQ
+[2026-10-31 06:23:58] ==================================================
+[2026-10-31 06:23:58] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.7245 VYQ | Speed: 0.3124/h | Pending: 0.1041 VYQ | Mining: Aktif
+[2026-10-31 06:24:59] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.7297 VYQ | Speed: 0.3124/h | Pending: 0.0052 VYQ | Mining: Aktif
+[2026-10-31 06:25:59] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.7350 VYQ | Speed: 0.3124/h | Pending: 0.0105 VYQ | Mining: Aktif
+[2026-10-31 06:27:00] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.7402 VYQ | Speed: 0.3124/h | Pending: 0.0157 VYQ | Mining: Aktif
+[2026-10-31 06:28:01] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.7455 VYQ | Speed: 0.3124/h | Pending: 0.0210 VYQ | Mining: Aktif
+[2026-10-31 06:29:02] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.7508 VYQ | Speed: 0.3124/h | Pending: 0.0263 VYQ | Mining: Aktif
+[2026-10-31 06:30:02] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.7560 VYQ | Speed: 0.3124/h | Pending: 0.0315 VYQ | Mining: Aktif
+[2026-10-31 06:31:03] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.7613 VYQ | Speed: 0.3124/h | Pending: 0.0368 VYQ | Mining: Aktif
+[2026-10-31 06:32:04] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.7666 VYQ | Speed: 0.3124/h | Pending: 0.0421 VYQ | Mining: Aktif
+[2026-10-31 06:33:05] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.7719 VYQ | Speed: 0.3124/h | Pending: 0.0474 VYQ | Mining: Aktif
+[2026-10-31 06:34:06] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.7772 VYQ | Speed: 0.3124/h | Pending: 0.0527 VYQ | Mining: Aktif
+[2026-10-31 06:35:06] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.7824 VYQ | Speed: 0.3124/h | Pending: 0.0579 VYQ | Mining: Aktif
+[2026-10-31 06:36:08] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.7878 VYQ | Speed: 0.3124/h | Pending: 0.0633 VYQ | Mining: Aktif
+[2026-10-31 06:37:08] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.7930 VYQ | Speed: 0.3124/h | Pending: 0.0685 VYQ | Mining: Aktif
+[2026-10-31 06:38:14] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.7987 VYQ | Speed: 0.3124/h | Pending: 0.0742 VYQ | Mining: Aktif
+[2026-10-31 06:39:15] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.8040 VYQ | Speed: 0.3124/h | Pending: 0.0795 VYQ | Mining: Aktif
+[2026-10-31 06:40:16] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.8093 VYQ | Speed: 0.3124/h | Pending: 0.0848 VYQ | Mining: Aktif
+[2026-10-31 06:41:22] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.8150 VYQ | Speed: 0.3124/h | Pending: 0.0905 VYQ | Mining: Aktif
+[2026-10-31 06:42:28] [VYQ] Exception bootstrap: HTTPSConnectionPool(host='api.vyqminer.top', port=443): Max retries exceeded with url: /api/bootstrap (Caused by NewConnectionError("HTTPSConnection(host='api.vyqminer.top', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))
+[2026-10-31 06:42:49] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.8226 VYQ | Speed: 0.3124/h | Pending: 0.0981 VYQ | Mining: Aktif
+[2026-10-31 06:43:50] [VYQ] Terdeteksi pending reward: 0.1034 VYQ. Mengirim request /api/mining/claim...
+[2026-10-31 06:43:50] ==================================================
+[2026-10-31 06:43:50] >> KLAIM MINING VYQ BERHASIL! +0.1034 VYQ <<
+[2026-10-31 06:43:50] Saldo Total Sekarang: 185.8279 VYQ
+[2026-10-31 06:43:50] ==================================================
+[2026-10-31 06:43:50] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.8279 VYQ | Speed: 0.3124/h | Pending: 0.1034 VYQ | Mining: Aktif
+[2026-10-31 06:44:51] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.8331 VYQ | Speed: 0.3124/h | Pending: 0.0052 VYQ | Mining: Aktif
+[2026-10-31 06:45:52] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.8384 VYQ | Speed: 0.3124/h | Pending: 0.0105 VYQ | Mining: Aktif
+[2026-10-31 06:46:53] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.8437 VYQ | Speed: 0.3124/h | Pending: 0.0158 VYQ | Mining: Aktif
+[2026-10-31 06:47:54] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.8490 VYQ | Speed: 0.3124/h | Pending: 0.0211 VYQ | Mining: Aktif
+[2026-10-31 06:48:54] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.8541 VYQ | Speed: 0.3124/h | Pending: 0.0262 VYQ | Mining: Aktif
+[2026-10-31 06:49:55] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.8594 VYQ | Speed: 0.3124/h | Pending: 0.0315 VYQ | Mining: Aktif
+[2026-10-31 06:50:56] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.8647 VYQ | Speed: 0.3124/h | Pending: 0.0368 VYQ | Mining: Aktif
+[2026-10-31 06:51:57] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.8700 VYQ | Speed: 0.3124/h | Pending: 0.0421 VYQ | Mining: Aktif
+[2026-10-31 06:52:58] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.8753 VYQ | Speed: 0.3124/h | Pending: 0.0474 VYQ | Mining: Aktif
+[2026-10-31 06:53:59] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.8805 VYQ | Speed: 0.3124/h | Pending: 0.0526 VYQ | Mining: Aktif
+[2026-10-31 06:54:59] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.8858 VYQ | Speed: 0.3124/h | Pending: 0.0579 VYQ | Mining: Aktif
+[2026-10-31 06:56:00] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.8911 VYQ | Speed: 0.3124/h | Pending: 0.0632 VYQ | Mining: Aktif
+[2026-10-31 06:57:01] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.8964 VYQ | Speed: 0.3124/h | Pending: 0.0685 VYQ | Mining: Aktif
+[2026-10-31 06:58:02] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.9017 VYQ | Speed: 0.3124/h | Pending: 0.0738 VYQ | Mining: Aktif
+[2026-10-31 06:59:03] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.9070 VYQ | Speed: 0.3124/h | Pending: 0.0791 VYQ | Mining: Aktif
+[2026-10-31 07:00:04] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.9123 VYQ | Speed: 0.3124/h | Pending: 0.0844 VYQ | Mining: Aktif
+[2026-10-31 07:01:05] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.9176 VYQ | Speed: 0.3124/h | Pending: 0.0897 VYQ | Mining: Aktif
+[2026-10-31 07:02:06] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.9229 VYQ | Speed: 0.3124/h | Pending: 0.0950 VYQ | Mining: Aktif
+[2026-10-31 07:03:06] [VYQ] Terdeteksi pending reward: 0.1002 VYQ. Mengirim request /api/mining/claim...
+[2026-10-31 07:03:07] ==================================================
+[2026-10-31 07:03:07] >> KLAIM MINING VYQ BERHASIL! +0.1002 VYQ <<
+[2026-10-31 07:03:07] Saldo Total Sekarang: 185.9282 VYQ
+[2026-10-31 07:03:07] ==================================================
+[2026-10-31 07:03:07] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.9281 VYQ | Speed: 0.3124/h | Pending: 0.1002 VYQ | Mining: Aktif
+[2026-10-31 07:04:08] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.9334 VYQ | Speed: 0.3124/h | Pending: 0.0052 VYQ | Mining: Aktif
+[2026-10-31 07:05:09] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.9387 VYQ | Speed: 0.3124/h | Pending: 0.0105 VYQ | Mining: Aktif
+[2026-10-31 07:06:10] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.9439 VYQ | Speed: 0.3124/h | Pending: 0.0157 VYQ | Mining: Aktif
+[2026-10-31 07:07:10] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.9492 VYQ | Speed: 0.3124/h | Pending: 0.0210 VYQ | Mining: Aktif
+[2026-10-31 07:08:11] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.9545 VYQ | Speed: 0.3124/h | Pending: 0.0263 VYQ | Mining: Aktif
+[2026-10-31 07:09:12] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.9598 VYQ | Speed: 0.3124/h | Pending: 0.0316 VYQ | Mining: Aktif
+[2026-10-31 07:10:13] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.9651 VYQ | Speed: 0.3124/h | Pending: 0.0369 VYQ | Mining: Aktif
+[2026-10-31 07:11:13] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.9703 VYQ | Speed: 0.3124/h | Pending: 0.0421 VYQ | Mining: Aktif
+[2026-10-31 07:12:15] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.9756 VYQ | Speed: 0.3124/h | Pending: 0.0474 VYQ | Mining: Aktif
+[2026-10-31 07:13:15] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.9809 VYQ | Speed: 0.3124/h | Pending: 0.0527 VYQ | Mining: Aktif
+[2026-10-31 07:14:21] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.9866 VYQ | Speed: 0.3124/h | Pending: 0.0584 VYQ | Mining: Aktif
+[2026-10-31 07:15:22] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.9919 VYQ | Speed: 0.3124/h | Pending: 0.0637 VYQ | Mining: Aktif
+[2026-10-31 07:16:23] [VYQ] Status: Normal | Akun: Zalx | Saldo: 185.9972 VYQ | Speed: 0.3124/h | Pending: 0.0690 VYQ | Mining: Aktif
+[2026-10-31 07:17:23] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.0024 VYQ | Speed: 0.3124/h | Pending: 0.0742 VYQ | Mining: Aktif
+[2026-10-31 07:18:24] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.0077 VYQ | Speed: 0.3124/h | Pending: 0.0795 VYQ | Mining: Aktif
+[2026-10-31 07:19:25] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.0130 VYQ | Speed: 0.3124/h | Pending: 0.0848 VYQ | Mining: Aktif
+[2026-10-31 07:20:26] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.0183 VYQ | Speed: 0.3124/h | Pending: 0.0901 VYQ | Mining: Aktif
+[2026-10-31 07:21:27] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.0235 VYQ | Speed: 0.3124/h | Pending: 0.0953 VYQ | Mining: Aktif
+[2026-10-31 07:22:27] [VYQ] Terdeteksi pending reward: 0.1006 VYQ. Mengirim request /api/mining/claim...
+[2026-10-31 07:22:28] ==================================================
+[2026-10-31 07:22:28] >> KLAIM MINING VYQ BERHASIL! +0.1006 VYQ <<
+[2026-10-31 07:22:28] Saldo Total Sekarang: 186.0289 VYQ
+[2026-10-31 07:22:28] ==================================================
+[2026-10-31 07:22:28] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.0288 VYQ | Speed: 0.3124/h | Pending: 0.1006 VYQ | Mining: Aktif
+[2026-10-31 07:23:29] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.0341 VYQ | Speed: 0.3124/h | Pending: 0.0052 VYQ | Mining: Aktif
+[2026-10-31 07:24:30] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.0394 VYQ | Speed: 0.3124/h | Pending: 0.0105 VYQ | Mining: Aktif
+[2026-10-31 07:25:32] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.0448 VYQ | Speed: 0.3124/h | Pending: 0.0159 VYQ | Mining: Aktif
+[2026-10-31 07:26:33] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.0501 VYQ | Speed: 0.3124/h | Pending: 0.0212 VYQ | Mining: Aktif
+[2026-10-31 07:27:34] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.0554 VYQ | Speed: 0.3124/h | Pending: 0.0265 VYQ | Mining: Aktif
+[2026-10-31 07:28:35] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.0607 VYQ | Speed: 0.3124/h | Pending: 0.0318 VYQ | Mining: Aktif
+[2026-10-31 07:29:35] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.0659 VYQ | Speed: 0.3124/h | Pending: 0.0370 VYQ | Mining: Aktif
+[2026-10-31 07:30:36] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.0712 VYQ | Speed: 0.3124/h | Pending: 0.0423 VYQ | Mining: Aktif
+[2026-10-31 07:31:37] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.0765 VYQ | Speed: 0.3124/h | Pending: 0.0476 VYQ | Mining: Aktif
+[2026-10-31 07:32:37] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.0817 VYQ | Speed: 0.3124/h | Pending: 0.0528 VYQ | Mining: Aktif
+[2026-10-31 07:33:43] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.0874 VYQ | Speed: 0.3124/h | Pending: 0.0585 VYQ | Mining: Aktif
+[2026-10-31 07:34:49] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.0931 VYQ | Speed: 0.3124/h | Pending: 0.0642 VYQ | Mining: Aktif
+[2026-10-31 07:35:50] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.0984 VYQ | Speed: 0.3124/h | Pending: 0.0695 VYQ | Mining: Aktif
+[2026-10-31 07:36:51] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.1037 VYQ | Speed: 0.3124/h | Pending: 0.0748 VYQ | Mining: Aktif
+[2026-10-31 07:37:52] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.1090 VYQ | Speed: 0.3124/h | Pending: 0.0801 VYQ | Mining: Aktif
+[2026-10-31 07:38:53] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.1142 VYQ | Speed: 0.3124/h | Pending: 0.0853 VYQ | Mining: Aktif
+[2026-10-31 07:39:53] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.1195 VYQ | Speed: 0.3124/h | Pending: 0.0906 VYQ | Mining: Aktif
+[2026-10-31 07:40:59] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.1252 VYQ | Speed: 0.3124/h | Pending: 0.0963 VYQ | Mining: Aktif
+[2026-10-31 07:42:05] [VYQ] Terdeteksi pending reward: 0.1020 VYQ. Mengirim request /api/mining/claim...
+[2026-10-31 07:42:06] ==================================================
+[2026-10-31 07:42:06] >> KLAIM MINING VYQ BERHASIL! +0.1020 VYQ <<
+[2026-10-31 07:42:06] Saldo Total Sekarang: 186.1310 VYQ
+[2026-10-31 07:42:06] ==================================================
+[2026-10-31 07:42:06] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.1309 VYQ | Speed: 0.3124/h | Pending: 0.1020 VYQ | Mining: Aktif
+[2026-10-31 07:43:07] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.1362 VYQ | Speed: 0.3124/h | Pending: 0.0052 VYQ | Mining: Aktif
+[2026-10-31 07:44:07] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.1415 VYQ | Speed: 0.3124/h | Pending: 0.0105 VYQ | Mining: Aktif
+[2026-10-31 07:45:08] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.1467 VYQ | Speed: 0.3124/h | Pending: 0.0157 VYQ | Mining: Aktif
+[2026-10-31 07:46:09] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.1520 VYQ | Speed: 0.3124/h | Pending: 0.0210 VYQ | Mining: Aktif
+[2026-10-31 07:47:09] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.1572 VYQ | Speed: 0.3124/h | Pending: 0.0262 VYQ | Mining: Aktif
+[2026-10-31 07:48:15] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.1630 VYQ | Speed: 0.3124/h | Pending: 0.0320 VYQ | Mining: Aktif
+[2026-10-31 07:49:16] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.1683 VYQ | Speed: 0.3124/h | Pending: 0.0373 VYQ | Mining: Aktif
+[2026-10-31 07:50:17] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.1736 VYQ | Speed: 0.3124/h | Pending: 0.0426 VYQ | Mining: Aktif
+[2026-10-31 07:51:23] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.1793 VYQ | Speed: 0.3124/h | Pending: 0.0483 VYQ | Mining: Aktif
+[2026-10-31 07:52:24] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.1845 VYQ | Speed: 0.3124/h | Pending: 0.0535 VYQ | Mining: Aktif
+[2026-10-31 07:53:24] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.1898 VYQ | Speed: 0.3124/h | Pending: 0.0588 VYQ | Mining: Aktif
+[2026-10-31 07:54:25] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.1951 VYQ | Speed: 0.3124/h | Pending: 0.0641 VYQ | Mining: Aktif
+[2026-10-31 07:55:26] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.2004 VYQ | Speed: 0.3124/h | Pending: 0.0694 VYQ | Mining: Aktif
+[2026-10-31 07:56:27] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.2057 VYQ | Speed: 0.3124/h | Pending: 0.0747 VYQ | Mining: Aktif
+[2026-10-31 07:57:34] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.2115 VYQ | Speed: 0.3124/h | Pending: 0.0805 VYQ | Mining: Aktif
+[2026-10-31 07:58:35] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.2168 VYQ | Speed: 0.3124/h | Pending: 0.0858 VYQ | Mining: Aktif
+[2026-10-31 07:59:40] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.2224 VYQ | Speed: 0.3124/h | Pending: 0.0914 VYQ | Mining: Aktif
+[2026-10-31 08:00:41] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.2277 VYQ | Speed: 0.3124/h | Pending: 0.0967 VYQ | Mining: Aktif
+[2026-10-31 08:01:47] [VYQ] Terdeteksi pending reward: 0.1024 VYQ. Mengirim request /api/mining/claim...
+[2026-10-31 08:01:48] ==================================================
+[2026-10-31 08:01:48] >> KLAIM MINING VYQ BERHASIL! +0.1024 VYQ <<
+[2026-10-31 08:01:48] Saldo Total Sekarang: 186.2335 VYQ
+[2026-10-31 08:01:48] ==================================================
+[2026-10-31 08:01:48] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.2334 VYQ | Speed: 0.3124/h | Pending: 0.1024 VYQ | Mining: Aktif
+[2026-10-31 08:02:49] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.2387 VYQ | Speed: 0.3124/h | Pending: 0.0052 VYQ | Mining: Aktif
+[2026-10-31 08:03:50] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.2440 VYQ | Speed: 0.3124/h | Pending: 0.0105 VYQ | Mining: Aktif
+[2026-10-31 08:04:55] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.2497 VYQ | Speed: 0.3124/h | Pending: 0.0162 VYQ | Mining: Aktif
+[2026-10-31 08:06:01] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.2554 VYQ | Speed: 0.3124/h | Pending: 0.0219 VYQ | Mining: Aktif
+[2026-10-31 08:07:02] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.2607 VYQ | Speed: 0.3124/h | Pending: 0.0272 VYQ | Mining: Aktif
+[2026-10-31 08:08:03] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.2659 VYQ | Speed: 0.3124/h | Pending: 0.0324 VYQ | Mining: Aktif
+[2026-10-31 08:09:08] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.2716 VYQ | Speed: 0.3124/h | Pending: 0.0381 VYQ | Mining: Aktif
+[2026-10-31 08:10:09] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.2769 VYQ | Speed: 0.3124/h | Pending: 0.0434 VYQ | Mining: Aktif
+[2026-10-31 08:11:10] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.2822 VYQ | Speed: 0.3124/h | Pending: 0.0487 VYQ | Mining: Aktif
+[2026-10-31 08:12:11] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.2875 VYQ | Speed: 0.3124/h | Pending: 0.0540 VYQ | Mining: Aktif
+[2026-10-31 08:13:12] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.2928 VYQ | Speed: 0.3124/h | Pending: 0.0593 VYQ | Mining: Aktif
+[2026-10-31 08:14:13] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.2981 VYQ | Speed: 0.3124/h | Pending: 0.0646 VYQ | Mining: Aktif
+[2026-10-31 08:15:13] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.3033 VYQ | Speed: 0.3124/h | Pending: 0.0698 VYQ | Mining: Aktif
+[2026-10-31 08:16:14] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.3086 VYQ | Speed: 0.3124/h | Pending: 0.0751 VYQ | Mining: Aktif
+[2026-10-31 08:17:15] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.3139 VYQ | Speed: 0.3124/h | Pending: 0.0804 VYQ | Mining: Aktif
+[2026-10-31 08:18:21] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.3196 VYQ | Speed: 0.3124/h | Pending: 0.0861 VYQ | Mining: Aktif
+[2026-10-31 08:19:22] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.3248 VYQ | Speed: 0.3124/h | Pending: 0.0913 VYQ | Mining: Aktif
+[2026-10-31 08:20:23] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.3301 VYQ | Speed: 0.3124/h | Pending: 0.0966 VYQ | Mining: Aktif
+[2026-10-31 08:21:23] [VYQ] Terdeteksi pending reward: 0.1019 VYQ. Mengirim request /api/mining/claim...
+[2026-10-31 08:21:24] ==================================================
+[2026-10-31 08:21:24] >> KLAIM MINING VYQ BERHASIL! +0.1019 VYQ <<
+[2026-10-31 08:21:24] Saldo Total Sekarang: 186.3355 VYQ
+[2026-10-31 08:21:24] ==================================================
+[2026-10-31 08:21:24] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.3354 VYQ | Speed: 0.3124/h | Pending: 0.1019 VYQ | Mining: Aktif
+[2026-10-31 08:22:29] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.3411 VYQ | Speed: 0.3124/h | Pending: 0.0056 VYQ | Mining: Aktif
+[2026-10-31 08:23:35] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.3468 VYQ | Speed: 0.3124/h | Pending: 0.0113 VYQ | Mining: Aktif
+[2026-10-31 08:24:36] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.3521 VYQ | Speed: 0.3124/h | Pending: 0.0166 VYQ | Mining: Aktif
+[2026-10-31 08:25:36] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.3573 VYQ | Speed: 0.3124/h | Pending: 0.0218 VYQ | Mining: Aktif
+[2026-10-31 08:26:37] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.3626 VYQ | Speed: 0.3124/h | Pending: 0.0271 VYQ | Mining: Aktif
+[2026-10-31 08:27:38] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.3679 VYQ | Speed: 0.3124/h | Pending: 0.0324 VYQ | Mining: Aktif
+[2026-10-31 08:28:44] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.3736 VYQ | Speed: 0.3124/h | Pending: 0.0381 VYQ | Mining: Aktif
+[2026-10-31 08:29:50] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.3793 VYQ | Speed: 0.3124/h | Pending: 0.0438 VYQ | Mining: Aktif
+[2026-10-31 08:30:50] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.3845 VYQ | Speed: 0.3124/h | Pending: 0.0490 VYQ | Mining: Aktif
+[2026-10-31 08:31:51] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.3898 VYQ | Speed: 0.3124/h | Pending: 0.0543 VYQ | Mining: Aktif
+[2026-10-31 08:32:52] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.3951 VYQ | Speed: 0.3124/h | Pending: 0.0596 VYQ | Mining: Aktif
+[2026-10-31 08:33:53] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.4003 VYQ | Speed: 0.3124/h | Pending: 0.0648 VYQ | Mining: Aktif
+[2026-10-31 08:34:53] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.4056 VYQ | Speed: 0.3124/h | Pending: 0.0701 VYQ | Mining: Aktif
+[2026-10-31 08:35:54] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.4109 VYQ | Speed: 0.3124/h | Pending: 0.0754 VYQ | Mining: Aktif
+[2026-10-31 08:36:55] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.4162 VYQ | Speed: 0.3124/h | Pending: 0.0807 VYQ | Mining: Aktif
+[2026-10-31 08:38:01] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.4219 VYQ | Speed: 0.3124/h | Pending: 0.0864 VYQ | Mining: Aktif
+[2026-10-31 08:39:01] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.4271 VYQ | Speed: 0.3124/h | Pending: 0.0916 VYQ | Mining: Aktif
+[2026-10-31 08:40:02] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.4324 VYQ | Speed: 0.3124/h | Pending: 0.0969 VYQ | Mining: Aktif
+[2026-10-31 08:41:03] [VYQ] Terdeteksi pending reward: 0.1022 VYQ. Mengirim request /api/mining/claim...
+[2026-10-31 08:41:03] ==================================================
+[2026-10-31 08:41:03] >> KLAIM MINING VYQ BERHASIL! +0.1022 VYQ <<
+[2026-10-31 08:41:03] Saldo Total Sekarang: 186.4377 VYQ
+[2026-10-31 08:41:03] ==================================================
+[2026-10-31 08:41:03] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.4377 VYQ | Speed: 0.3124/h | Pending: 0.1022 VYQ | Mining: Aktif
+[2026-10-31 08:42:04] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.4429 VYQ | Speed: 0.3124/h | Pending: 0.0052 VYQ | Mining: Aktif
+[2026-10-31 08:43:05] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.4482 VYQ | Speed: 0.3124/h | Pending: 0.0105 VYQ | Mining: Aktif
+[2026-10-31 08:44:06] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.4534 VYQ | Speed: 0.3124/h | Pending: 0.0157 VYQ | Mining: Aktif
+[2026-10-31 08:45:06] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.4587 VYQ | Speed: 0.3124/h | Pending: 0.0210 VYQ | Mining: Aktif
+[2026-10-31 08:46:12] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.4645 VYQ | Speed: 0.3124/h | Pending: 0.0268 VYQ | Mining: Aktif
+[2026-10-31 08:47:13] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.4698 VYQ | Speed: 0.3124/h | Pending: 0.0321 VYQ | Mining: Aktif
+[2026-10-31 08:48:13] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.4750 VYQ | Speed: 0.3124/h | Pending: 0.0373 VYQ | Mining: Aktif
+[2026-10-31 08:49:14] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.4803 VYQ | Speed: 0.3124/h | Pending: 0.0426 VYQ | Mining: Aktif
+[2026-10-31 08:50:15] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.4856 VYQ | Speed: 0.3124/h | Pending: 0.0479 VYQ | Mining: Aktif
+[2026-10-31 08:51:16] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.4908 VYQ | Speed: 0.3124/h | Pending: 0.0531 VYQ | Mining: Aktif
+[2026-10-31 08:52:16] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.4960 VYQ | Speed: 0.3124/h | Pending: 0.0583 VYQ | Mining: Aktif
+[2026-10-31 08:53:17] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.5013 VYQ | Speed: 0.3124/h | Pending: 0.0636 VYQ | Mining: Aktif
+[2026-10-31 08:54:18] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.5065 VYQ | Speed: 0.3124/h | Pending: 0.0688 VYQ | Mining: Aktif
+[2026-10-31 08:55:18] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.5118 VYQ | Speed: 0.3124/h | Pending: 0.0741 VYQ | Mining: Aktif
+[2026-10-31 08:56:24] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.5175 VYQ | Speed: 0.3124/h | Pending: 0.0798 VYQ | Mining: Aktif
+[2026-10-31 08:57:25] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.5228 VYQ | Speed: 0.3124/h | Pending: 0.0851 VYQ | Mining: Aktif
+[2026-10-31 08:58:26] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.5281 VYQ | Speed: 0.3124/h | Pending: 0.0904 VYQ | Mining: Aktif
+[2026-10-31 08:59:27] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.5334 VYQ | Speed: 0.3124/h | Pending: 0.0957 VYQ | Mining: Aktif
+[2026-10-31 09:00:27] [VYQ] Terdeteksi pending reward: 0.1009 VYQ. Mengirim request /api/mining/claim...
+[2026-10-31 09:00:28] ==================================================
+[2026-10-31 09:00:28] >> KLAIM MINING VYQ BERHASIL! +0.1009 VYQ <<
+[2026-10-31 09:00:28] Saldo Total Sekarang: 186.5387 VYQ
+[2026-10-31 09:00:28] ==================================================
+[2026-10-31 09:00:28] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.5386 VYQ | Speed: 0.3124/h | Pending: 0.1009 VYQ | Mining: Aktif
+[2026-10-31 09:01:34] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.5444 VYQ | Speed: 0.3124/h | Pending: 0.0057 VYQ | Mining: Aktif
+[2026-10-31 09:02:41] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.5502 VYQ | Speed: 0.3124/h | Pending: 0.0115 VYQ | Mining: Aktif
+[2026-10-31 09:03:42] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.5554 VYQ | Speed: 0.3124/h | Pending: 0.0167 VYQ | Mining: Aktif
+[2026-10-31 09:04:42] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.5607 VYQ | Speed: 0.3124/h | Pending: 0.0220 VYQ | Mining: Aktif
+[2026-10-31 09:05:43] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.5660 VYQ | Speed: 0.3124/h | Pending: 0.0273 VYQ | Mining: Aktif
+[2026-10-31 09:06:49] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.5717 VYQ | Speed: 0.3124/h | Pending: 0.0330 VYQ | Mining: Aktif
+[2026-10-31 09:07:55] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.5774 VYQ | Speed: 0.3124/h | Pending: 0.0387 VYQ | Mining: Aktif
+[2026-10-31 09:09:00] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.5831 VYQ | Speed: 0.3124/h | Pending: 0.0444 VYQ | Mining: Aktif
+[2026-10-31 09:10:01] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.5884 VYQ | Speed: 0.3124/h | Pending: 0.0497 VYQ | Mining: Aktif
+[2026-10-31 09:11:02] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.5937 VYQ | Speed: 0.3124/h | Pending: 0.0550 VYQ | Mining: Aktif
+[2026-10-31 09:12:03] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.5990 VYQ | Speed: 0.3124/h | Pending: 0.0603 VYQ | Mining: Aktif
+[2026-10-31 09:13:04] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.6043 VYQ | Speed: 0.3124/h | Pending: 0.0656 VYQ | Mining: Aktif
+[2026-10-31 09:14:10] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.6100 VYQ | Speed: 0.3124/h | Pending: 0.0713 VYQ | Mining: Aktif
+[2026-10-31 09:15:10] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.6152 VYQ | Speed: 0.3124/h | Pending: 0.0765 VYQ | Mining: Aktif
+[2026-10-31 09:16:11] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.6205 VYQ | Speed: 0.3124/h | Pending: 0.0818 VYQ | Mining: Aktif
+[2026-10-31 09:17:17] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.6262 VYQ | Speed: 0.3124/h | Pending: 0.0875 VYQ | Mining: Aktif
+[2026-10-31 09:18:18] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.6314 VYQ | Speed: 0.3124/h | Pending: 0.0927 VYQ | Mining: Aktif
+[2026-10-31 09:19:18] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.6367 VYQ | Speed: 0.3124/h | Pending: 0.0980 VYQ | Mining: Aktif
+[2026-10-31 09:20:19] [VYQ] Terdeteksi pending reward: 0.1033 VYQ. Mengirim request /api/mining/claim...
+[2026-10-31 09:20:19] ==================================================
+[2026-10-31 09:20:19] >> KLAIM MINING VYQ BERHASIL! +0.1033 VYQ <<
+[2026-10-31 09:20:19] Saldo Total Sekarang: 186.6420 VYQ
+[2026-10-31 09:20:19] ==================================================
+[2026-10-31 09:20:19] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.6420 VYQ | Speed: 0.3124/h | Pending: 0.1033 VYQ | Mining: Aktif
+[2026-10-31 09:21:20] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.6472 VYQ | Speed: 0.3124/h | Pending: 0.0052 VYQ | Mining: Aktif
+[2026-10-31 09:22:21] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.6525 VYQ | Speed: 0.3124/h | Pending: 0.0105 VYQ | Mining: Aktif
+[2026-10-31 09:23:21] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.6577 VYQ | Speed: 0.3124/h | Pending: 0.0157 VYQ | Mining: Aktif
+[2026-10-31 09:24:22] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.6630 VYQ | Speed: 0.3124/h | Pending: 0.0210 VYQ | Mining: Aktif
+[2026-10-31 09:25:23] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.6683 VYQ | Speed: 0.3124/h | Pending: 0.0263 VYQ | Mining: Aktif
+[2026-10-31 09:26:23] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.6735 VYQ | Speed: 0.3124/h | Pending: 0.0315 VYQ | Mining: Aktif
+[2026-10-31 09:27:24] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.6788 VYQ | Speed: 0.3124/h | Pending: 0.0368 VYQ | Mining: Aktif
+[2026-10-31 09:28:25] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.6841 VYQ | Speed: 0.3124/h | Pending: 0.0421 VYQ | Mining: Aktif
+[2026-10-31 09:29:25] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.6893 VYQ | Speed: 0.3124/h | Pending: 0.0473 VYQ | Mining: Aktif
+[2026-10-31 09:30:26] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.6946 VYQ | Speed: 0.3124/h | Pending: 0.0526 VYQ | Mining: Aktif
+[2026-10-31 09:31:26] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.6998 VYQ | Speed: 0.3124/h | Pending: 0.0578 VYQ | Mining: Aktif
+[2026-10-31 09:32:27] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.7051 VYQ | Speed: 0.3124/h | Pending: 0.0631 VYQ | Mining: Aktif
+[2026-10-31 09:33:28] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.7104 VYQ | Speed: 0.3124/h | Pending: 0.0684 VYQ | Mining: Aktif
+[2026-10-31 09:34:29] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.7157 VYQ | Speed: 0.3124/h | Pending: 0.0737 VYQ | Mining: Aktif
+[2026-10-31 09:35:35] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.7214 VYQ | Speed: 0.3124/h | Pending: 0.0794 VYQ | Mining: Aktif
+[2026-10-31 09:36:35] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.7266 VYQ | Speed: 0.3124/h | Pending: 0.0846 VYQ | Mining: Aktif
+[2026-10-31 09:37:36] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.7319 VYQ | Speed: 0.3124/h | Pending: 0.0899 VYQ | Mining: Aktif
+[2026-10-31 09:38:37] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.7371 VYQ | Speed: 0.3124/h | Pending: 0.0951 VYQ | Mining: Aktif
+[2026-10-31 09:39:37] [VYQ] Terdeteksi pending reward: 0.1004 VYQ. Mengirim request /api/mining/claim...
+[2026-10-31 09:39:38] ==================================================
+[2026-10-31 09:39:38] >> KLAIM MINING VYQ BERHASIL! +0.1004 VYQ <<
+[2026-10-31 09:39:38] Saldo Total Sekarang: 186.7425 VYQ
+[2026-10-31 09:39:38] ==================================================
+[2026-10-31 09:39:38] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.7424 VYQ | Speed: 0.3124/h | Pending: 0.1004 VYQ | Mining: Aktif
+[2026-10-31 09:40:39] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.7477 VYQ | Speed: 0.3124/h | Pending: 0.0052 VYQ | Mining: Aktif
+[2026-10-31 09:41:39] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.7530 VYQ | Speed: 0.3124/h | Pending: 0.0105 VYQ | Mining: Aktif
+[2026-10-31 09:42:40] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.7582 VYQ | Speed: 0.3124/h | Pending: 0.0157 VYQ | Mining: Aktif
+[2026-10-31 09:43:41] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.7635 VYQ | Speed: 0.3124/h | Pending: 0.0210 VYQ | Mining: Aktif
+[2026-10-31 09:44:42] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.7688 VYQ | Speed: 0.3124/h | Pending: 0.0263 VYQ | Mining: Aktif
+[2026-10-31 09:45:42] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.7740 VYQ | Speed: 0.3124/h | Pending: 0.0315 VYQ | Mining: Aktif
+[2026-10-31 09:46:43] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.7793 VYQ | Speed: 0.3124/h | Pending: 0.0368 VYQ | Mining: Aktif
+[2026-10-31 09:47:44] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.7846 VYQ | Speed: 0.3124/h | Pending: 0.0421 VYQ | Mining: Aktif
+[2026-10-31 09:48:45] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.7899 VYQ | Speed: 0.3124/h | Pending: 0.0474 VYQ | Mining: Aktif
+[2026-10-31 09:49:46] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.7951 VYQ | Speed: 0.3124/h | Pending: 0.0526 VYQ | Mining: Aktif
+[2026-10-31 09:50:46] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.8004 VYQ | Speed: 0.3124/h | Pending: 0.0579 VYQ | Mining: Aktif
+[2026-10-31 09:51:47] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.8057 VYQ | Speed: 0.3124/h | Pending: 0.0632 VYQ | Mining: Aktif
+[2026-10-31 09:52:53] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.8114 VYQ | Speed: 0.3124/h | Pending: 0.0689 VYQ | Mining: Aktif
+[2026-10-31 09:53:54] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.8166 VYQ | Speed: 0.3124/h | Pending: 0.0741 VYQ | Mining: Aktif
+[2026-10-31 09:54:54] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.8219 VYQ | Speed: 0.3124/h | Pending: 0.0794 VYQ | Mining: Aktif
+[2026-10-31 09:55:55] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.8272 VYQ | Speed: 0.3124/h | Pending: 0.0847 VYQ | Mining: Aktif
+[2026-10-31 09:56:56] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.8325 VYQ | Speed: 0.3124/h | Pending: 0.0900 VYQ | Mining: Aktif
+[2026-10-31 09:57:56] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.8377 VYQ | Speed: 0.3124/h | Pending: 0.0952 VYQ | Mining: Aktif
+[2026-10-31 09:58:57] [VYQ] Terdeteksi pending reward: 0.1005 VYQ. Mengirim request /api/mining/claim...
+[2026-10-31 09:58:58] ==================================================
+[2026-10-31 09:58:58] >> KLAIM MINING VYQ BERHASIL! +0.1005 VYQ <<
+[2026-10-31 09:58:58] Saldo Total Sekarang: 186.8431 VYQ
+[2026-10-31 09:58:58] ==================================================
+[2026-10-31 09:58:58] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.8430 VYQ | Speed: 0.3124/h | Pending: 0.1005 VYQ | Mining: Aktif
+[2026-10-31 09:59:58] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.8483 VYQ | Speed: 0.3124/h | Pending: 0.0052 VYQ | Mining: Aktif
+[2026-10-31 10:01:04] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.8540 VYQ | Speed: 0.3124/h | Pending: 0.0109 VYQ | Mining: Aktif
+[2026-10-31 10:02:10] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.8597 VYQ | Speed: 0.3124/h | Pending: 0.0166 VYQ | Mining: Aktif
+[2026-10-31 10:03:11] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.8650 VYQ | Speed: 0.3124/h | Pending: 0.0219 VYQ | Mining: Aktif
+[2026-10-31 10:04:17] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.8707 VYQ | Speed: 0.3124/h | Pending: 0.0276 VYQ | Mining: Aktif
+[2026-10-31 10:05:22] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.8764 VYQ | Speed: 0.3124/h | Pending: 0.0333 VYQ | Mining: Aktif
+[2026-10-31 10:06:23] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.8817 VYQ | Speed: 0.3124/h | Pending: 0.0386 VYQ | Mining: Aktif
+[2026-10-31 10:07:24] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.8870 VYQ | Speed: 0.3124/h | Pending: 0.0439 VYQ | Mining: Aktif
+[2026-10-31 10:08:30] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.8927 VYQ | Speed: 0.3124/h | Pending: 0.0496 VYQ | Mining: Aktif
+[2026-10-31 10:09:31] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.8980 VYQ | Speed: 0.3124/h | Pending: 0.0549 VYQ | Mining: Aktif
+[2026-10-31 10:10:31] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.9032 VYQ | Speed: 0.3124/h | Pending: 0.0601 VYQ | Mining: Aktif
+[2026-10-31 10:11:32] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.9085 VYQ | Speed: 0.3124/h | Pending: 0.0654 VYQ | Mining: Aktif
+[2026-10-31 10:12:33] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.9138 VYQ | Speed: 0.3124/h | Pending: 0.0707 VYQ | Mining: Aktif
+[2026-10-31 10:13:39] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.9195 VYQ | Speed: 0.3124/h | Pending: 0.0764 VYQ | Mining: Aktif
+[2026-10-31 10:14:40] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.9247 VYQ | Speed: 0.3124/h | Pending: 0.0816 VYQ | Mining: Aktif
+[2026-10-31 10:15:40] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.9300 VYQ | Speed: 0.3124/h | Pending: 0.0869 VYQ | Mining: Aktif
+[2026-10-31 10:16:46] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.9357 VYQ | Speed: 0.3124/h | Pending: 0.0926 VYQ | Mining: Aktif
+[2026-10-31 10:17:47] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.9410 VYQ | Speed: 0.3124/h | Pending: 0.0979 VYQ | Mining: Aktif
+[2026-10-31 10:18:48] [VYQ] Terdeteksi pending reward: 0.1032 VYQ. Mengirim request /api/mining/claim...
+[2026-10-31 10:18:48] ==================================================
+[2026-10-31 10:18:48] >> KLAIM MINING VYQ BERHASIL! +0.1032 VYQ <<
+[2026-10-31 10:18:48] Saldo Total Sekarang: 186.9463 VYQ
+[2026-10-31 10:18:48] ==================================================
+[2026-10-31 10:18:48] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.9463 VYQ | Speed: 0.3124/h | Pending: 0.1032 VYQ | Mining: Aktif
+[2026-10-31 10:19:49] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.9515 VYQ | Speed: 0.3124/h | Pending: 0.0052 VYQ | Mining: Aktif
+[2026-10-31 10:20:50] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.9568 VYQ | Speed: 0.3124/h | Pending: 0.0105 VYQ | Mining: Aktif
+[2026-10-31 10:21:51] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.9621 VYQ | Speed: 0.3124/h | Pending: 0.0158 VYQ | Mining: Aktif
+[2026-10-31 10:22:51] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.9673 VYQ | Speed: 0.3124/h | Pending: 0.0210 VYQ | Mining: Aktif
+[2026-10-31 10:23:52] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.9726 VYQ | Speed: 0.3124/h | Pending: 0.0263 VYQ | Mining: Aktif
+[2026-10-31 10:24:53] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.9779 VYQ | Speed: 0.3124/h | Pending: 0.0316 VYQ | Mining: Aktif
+[2026-10-31 10:25:54] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.9832 VYQ | Speed: 0.3124/h | Pending: 0.0369 VYQ | Mining: Aktif
+[2026-10-31 10:26:55] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.9885 VYQ | Speed: 0.3124/h | Pending: 0.0422 VYQ | Mining: Aktif
+[2026-10-31 10:27:56] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.9938 VYQ | Speed: 0.3124/h | Pending: 0.0475 VYQ | Mining: Aktif
+[2026-10-31 10:28:56] [VYQ] Status: Normal | Akun: Zalx | Saldo: 186.9990 VYQ | Speed: 0.3124/h | Pending: 0.0527 VYQ | Mining: Aktif
+[2026-10-31 10:30:02] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.0047 VYQ | Speed: 0.3124/h | Pending: 0.0584 VYQ | Mining: Aktif
+[2026-10-31 10:31:03] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.0100 VYQ | Speed: 0.3124/h | Pending: 0.0637 VYQ | Mining: Aktif
+[2026-10-31 10:32:04] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.0153 VYQ | Speed: 0.3124/h | Pending: 0.0690 VYQ | Mining: Aktif
+[2026-10-31 10:33:04] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.0205 VYQ | Speed: 0.3124/h | Pending: 0.0742 VYQ | Mining: Aktif
+[2026-10-31 10:34:05] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.0258 VYQ | Speed: 0.3124/h | Pending: 0.0795 VYQ | Mining: Aktif
+[2026-10-31 10:35:06] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.0311 VYQ | Speed: 0.3124/h | Pending: 0.0848 VYQ | Mining: Aktif
+[2026-10-31 10:36:07] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.0364 VYQ | Speed: 0.3124/h | Pending: 0.0901 VYQ | Mining: Aktif
+[2026-10-31 10:37:07] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.0415 VYQ | Speed: 0.3124/h | Pending: 0.0952 VYQ | Mining: Aktif
+[2026-10-31 10:38:08] [VYQ] Terdeteksi pending reward: 0.1005 VYQ. Mengirim request /api/mining/claim...
+[2026-10-31 10:38:09] ==================================================
+[2026-10-31 10:38:09] >> KLAIM MINING VYQ BERHASIL! +0.1005 VYQ <<
+[2026-10-31 10:38:09] Saldo Total Sekarang: 187.0468 VYQ
+[2026-10-31 10:38:09] ==================================================
+[2026-10-31 10:38:09] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.0468 VYQ | Speed: 0.3124/h | Pending: 0.1005 VYQ | Mining: Aktif
+[2026-10-31 10:39:10] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.0520 VYQ | Speed: 0.3124/h | Pending: 0.0052 VYQ | Mining: Aktif
+[2026-10-31 10:40:10] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.0573 VYQ | Speed: 0.3124/h | Pending: 0.0105 VYQ | Mining: Aktif
+[2026-10-31 10:41:11] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.0626 VYQ | Speed: 0.3124/h | Pending: 0.0158 VYQ | Mining: Aktif
+[2026-10-31 10:42:11] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.0678 VYQ | Speed: 0.3124/h | Pending: 0.0210 VYQ | Mining: Aktif
+[2026-10-31 10:43:12] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.0731 VYQ | Speed: 0.3124/h | Pending: 0.0263 VYQ | Mining: Aktif
+[2026-10-31 10:44:13] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.0784 VYQ | Speed: 0.3124/h | Pending: 0.0316 VYQ | Mining: Aktif
+[2026-10-31 10:45:13] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.0836 VYQ | Speed: 0.3124/h | Pending: 0.0368 VYQ | Mining: Aktif
+[2026-10-31 10:46:14] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.0889 VYQ | Speed: 0.3124/h | Pending: 0.0421 VYQ | Mining: Aktif
+[2026-10-31 10:47:15] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.0942 VYQ | Speed: 0.3124/h | Pending: 0.0474 VYQ | Mining: Aktif
+[2026-10-31 10:48:21] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.0999 VYQ | Speed: 0.3124/h | Pending: 0.0531 VYQ | Mining: Aktif
+[2026-10-31 10:49:21] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.1052 VYQ | Speed: 0.3124/h | Pending: 0.0584 VYQ | Mining: Aktif
+[2026-10-31 10:50:22] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.1104 VYQ | Speed: 0.3124/h | Pending: 0.0636 VYQ | Mining: Aktif
+[2026-10-31 10:51:23] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.1157 VYQ | Speed: 0.3124/h | Pending: 0.0689 VYQ | Mining: Aktif
+[2026-10-31 10:52:24] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.1210 VYQ | Speed: 0.3124/h | Pending: 0.0742 VYQ | Mining: Aktif
+[2026-10-31 10:53:25] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.1263 VYQ | Speed: 0.3124/h | Pending: 0.0795 VYQ | Mining: Aktif
+[2026-10-31 10:54:26] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.1315 VYQ | Speed: 0.3124/h | Pending: 0.0847 VYQ | Mining: Aktif
+[2026-10-31 10:55:26] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.1368 VYQ | Speed: 0.3124/h | Pending: 0.0900 VYQ | Mining: Aktif
+[2026-10-31 10:56:27] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.1421 VYQ | Speed: 0.3124/h | Pending: 0.0953 VYQ | Mining: Aktif
+[2026-10-31 10:57:28] [VYQ] Terdeteksi pending reward: 0.1006 VYQ. Mengirim request /api/mining/claim...
+[2026-10-31 10:57:28] ==================================================
+[2026-10-31 10:57:28] >> KLAIM MINING VYQ BERHASIL! +0.1006 VYQ <<
+[2026-10-31 10:57:28] Saldo Total Sekarang: 187.1474 VYQ
+[2026-10-31 10:57:28] ==================================================
+[2026-10-31 10:57:28] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.1474 VYQ | Speed: 0.3124/h | Pending: 0.1006 VYQ | Mining: Aktif
+[2026-10-31 10:58:29] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.1526 VYQ | Speed: 0.3124/h | Pending: 0.0052 VYQ | Mining: Aktif
+[2026-10-31 10:59:30] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.1579 VYQ | Speed: 0.3124/h | Pending: 0.0105 VYQ | Mining: Aktif
+[2026-10-31 11:00:31] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.1632 VYQ | Speed: 0.3124/h | Pending: 0.0158 VYQ | Mining: Aktif
+[2026-10-31 11:01:32] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.1685 VYQ | Speed: 0.3124/h | Pending: 0.0211 VYQ | Mining: Aktif
+[2026-10-31 11:02:33] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.1737 VYQ | Speed: 0.3124/h | Pending: 0.0263 VYQ | Mining: Aktif
+[2026-10-31 11:03:33] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.1789 VYQ | Speed: 0.3124/h | Pending: 0.0315 VYQ | Mining: Aktif
+[2026-10-31 11:04:35] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.1843 VYQ | Speed: 0.3124/h | Pending: 0.0369 VYQ | Mining: Aktif
+[2026-10-31 11:05:36] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.1895 VYQ | Speed: 0.3124/h | Pending: 0.0421 VYQ | Mining: Aktif
+[2026-10-31 11:06:41] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.1952 VYQ | Speed: 0.3124/h | Pending: 0.0478 VYQ | Mining: Aktif
+[2026-10-31 11:07:42] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.2005 VYQ | Speed: 0.3124/h | Pending: 0.0531 VYQ | Mining: Aktif
+[2026-10-31 11:08:43] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.2058 VYQ | Speed: 0.3124/h | Pending: 0.0584 VYQ | Mining: Aktif
+[2026-10-31 11:09:44] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.2111 VYQ | Speed: 0.3124/h | Pending: 0.0637 VYQ | Mining: Aktif
+[2026-10-31 11:10:45] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.2164 VYQ | Speed: 0.3124/h | Pending: 0.0690 VYQ | Mining: Aktif
+[2026-10-31 11:11:50] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.2221 VYQ | Speed: 0.3124/h | Pending: 0.0747 VYQ | Mining: Aktif
+[2026-10-31 11:12:51] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.2273 VYQ | Speed: 0.3124/h | Pending: 0.0799 VYQ | Mining: Aktif
+[2026-10-31 11:13:52] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.2326 VYQ | Speed: 0.3124/h | Pending: 0.0852 VYQ | Mining: Aktif
+[2026-10-31 11:14:53] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.2379 VYQ | Speed: 0.3124/h | Pending: 0.0905 VYQ | Mining: Aktif
+[2026-10-31 11:16:09] [VYQ] Exception bootstrap: HTTPSConnectionPool(host='api.vyqminer.top', port=443): Read timed out. (read timeout=15)
+[2026-10-31 11:16:30] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.2464 VYQ | Speed: 0.3124/h | Pending: 0.0990 VYQ | Mining: Aktif
+[2026-10-31 11:17:31] [VYQ] Terdeteksi pending reward: 0.1042 VYQ. Mengirim request /api/mining/claim...
+[2026-10-31 11:17:32] ==================================================
+[2026-10-31 11:17:32] >> KLAIM MINING VYQ BERHASIL! +0.1042 VYQ <<
+[2026-10-31 11:17:32] Saldo Total Sekarang: 187.2516 VYQ
+[2026-10-31 11:17:32] ==================================================
+[2026-10-31 11:17:32] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.2516 VYQ | Speed: 0.3124/h | Pending: 0.1042 VYQ | Mining: Aktif
+[2026-10-31 11:18:32] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.2568 VYQ | Speed: 0.3124/h | Pending: 0.0052 VYQ | Mining: Aktif
+[2026-10-31 11:19:33] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.2621 VYQ | Speed: 0.3124/h | Pending: 0.0105 VYQ | Mining: Aktif
+[2026-10-31 11:20:34] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.2674 VYQ | Speed: 0.3124/h | Pending: 0.0158 VYQ | Mining: Aktif
+[2026-10-31 11:21:35] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.2727 VYQ | Speed: 0.3124/h | Pending: 0.0211 VYQ | Mining: Aktif
+[2026-10-31 11:22:36] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.2780 VYQ | Speed: 0.3124/h | Pending: 0.0264 VYQ | Mining: Aktif
+[2026-10-31 11:23:36] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.2832 VYQ | Speed: 0.3124/h | Pending: 0.0316 VYQ | Mining: Aktif
+[2026-10-31 11:24:37] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.2885 VYQ | Speed: 0.3124/h | Pending: 0.0369 VYQ | Mining: Aktif
+[2026-10-31 11:25:38] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.2938 VYQ | Speed: 0.3124/h | Pending: 0.0422 VYQ | Mining: Aktif
+[2026-10-31 11:26:39] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.2991 VYQ | Speed: 0.3124/h | Pending: 0.0475 VYQ | Mining: Aktif
+[2026-10-31 11:27:40] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.3044 VYQ | Speed: 0.3124/h | Pending: 0.0528 VYQ | Mining: Aktif
+[2026-10-31 11:28:40] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.3096 VYQ | Speed: 0.3124/h | Pending: 0.0580 VYQ | Mining: Aktif
+[2026-10-31 11:29:41] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.3149 VYQ | Speed: 0.3124/h | Pending: 0.0633 VYQ | Mining: Aktif
+[2026-10-31 11:30:42] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.3202 VYQ | Speed: 0.3124/h | Pending: 0.0686 VYQ | Mining: Aktif
+[2026-10-31 11:31:43] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.3255 VYQ | Speed: 0.3124/h | Pending: 0.0739 VYQ | Mining: Aktif
+[2026-10-31 11:32:43] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.3307 VYQ | Speed: 0.3124/h | Pending: 0.0791 VYQ | Mining: Aktif
+[2026-10-31 11:33:44] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.3360 VYQ | Speed: 0.3124/h | Pending: 0.0844 VYQ | Mining: Aktif
+[2026-10-31 11:34:45] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.3413 VYQ | Speed: 0.3124/h | Pending: 0.0897 VYQ | Mining: Aktif
+[2026-10-31 11:35:46] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.3465 VYQ | Speed: 0.3124/h | Pending: 0.0949 VYQ | Mining: Aktif
+[2026-10-31 11:36:52] [VYQ] Terdeteksi pending reward: 0.1007 VYQ. Mengirim request /api/mining/claim...
+[2026-10-31 11:36:52] ==================================================
+[2026-10-31 11:36:52] >> KLAIM MINING VYQ BERHASIL! +0.1007 VYQ <<
+[2026-10-31 11:36:52] Saldo Total Sekarang: 187.3523 VYQ
+[2026-10-31 11:36:52] ==================================================
+[2026-10-31 11:36:52] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.3523 VYQ | Speed: 0.3124/h | Pending: 0.1007 VYQ | Mining: Aktif
+[2026-10-31 11:37:53] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.3575 VYQ | Speed: 0.3124/h | Pending: 0.0052 VYQ | Mining: Aktif
+[2026-10-31 11:38:54] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.3628 VYQ | Speed: 0.3124/h | Pending: 0.0105 VYQ | Mining: Aktif
+[2026-10-31 11:39:55] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.3681 VYQ | Speed: 0.3124/h | Pending: 0.0158 VYQ | Mining: Aktif
+[2026-10-31 11:40:56] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.3733 VYQ | Speed: 0.3124/h | Pending: 0.0210 VYQ | Mining: Aktif
+[2026-10-31 11:41:56] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.3786 VYQ | Speed: 0.3124/h | Pending: 0.0263 VYQ | Mining: Aktif
+[2026-10-31 11:42:57] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.3839 VYQ | Speed: 0.3124/h | Pending: 0.0316 VYQ | Mining: Aktif
+[2026-10-31 11:43:58] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.3892 VYQ | Speed: 0.3124/h | Pending: 0.0369 VYQ | Mining: Aktif
+[2026-10-31 11:44:59] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.3945 VYQ | Speed: 0.3124/h | Pending: 0.0422 VYQ | Mining: Aktif
+[2026-10-31 11:46:05] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.4002 VYQ | Speed: 0.3124/h | Pending: 0.0479 VYQ | Mining: Aktif
+[2026-10-31 11:47:06] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.4055 VYQ | Speed: 0.3124/h | Pending: 0.0532 VYQ | Mining: Aktif
+[2026-10-31 11:48:07] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.4107 VYQ | Speed: 0.3124/h | Pending: 0.0584 VYQ | Mining: Aktif
+[2026-10-31 11:49:08] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.4161 VYQ | Speed: 0.3124/h | Pending: 0.0638 VYQ | Mining: Aktif
+[2026-10-31 11:50:09] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.4214 VYQ | Speed: 0.3124/h | Pending: 0.0691 VYQ | Mining: Aktif
+[2026-10-31 11:51:10] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.4267 VYQ | Speed: 0.3124/h | Pending: 0.0744 VYQ | Mining: Aktif
+[2026-10-31 11:52:11] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.4320 VYQ | Speed: 0.3124/h | Pending: 0.0797 VYQ | Mining: Aktif
+[2026-10-31 11:53:11] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.4372 VYQ | Speed: 0.3124/h | Pending: 0.0849 VYQ | Mining: Aktif
+[2026-10-31 11:54:12] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.4425 VYQ | Speed: 0.3124/h | Pending: 0.0902 VYQ | Mining: Aktif
+[2026-10-31 11:55:13] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.4478 VYQ | Speed: 0.3124/h | Pending: 0.0955 VYQ | Mining: Aktif
+[2026-10-31 11:56:19] [VYQ] Exception bootstrap: HTTPSConnectionPool(host='api.vyqminer.top', port=443): Max retries exceeded with url: /api/bootstrap (Caused by NewConnectionError("HTTPSConnection(host='api.vyqminer.top', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))
+[2026-10-31 11:56:40] [VYQ] Terdeteksi pending reward: 0.1030 VYQ. Mengirim request /api/mining/claim...
+[2026-10-31 11:56:40] ==================================================
+[2026-10-31 11:56:40] >> KLAIM MINING VYQ BERHASIL! +0.1030 VYQ <<
+[2026-10-31 11:56:40] Saldo Total Sekarang: 187.4553 VYQ
+[2026-10-31 11:56:40] ==================================================
+[2026-10-31 11:56:40] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.4553 VYQ | Speed: 0.3124/h | Pending: 0.1030 VYQ | Mining: Aktif
+[2026-10-31 11:57:46] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.4610 VYQ | Speed: 0.3124/h | Pending: 0.0057 VYQ | Mining: Aktif
+[2026-10-31 11:58:47] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.4663 VYQ | Speed: 0.3124/h | Pending: 0.0110 VYQ | Mining: Aktif
+[2026-10-31 11:59:53] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.4720 VYQ | Speed: 0.3124/h | Pending: 0.0167 VYQ | Mining: Aktif
+[2026-10-31 12:00:54] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.4772 VYQ | Speed: 0.3124/h | Pending: 0.0219 VYQ | Mining: Aktif
+[2026-10-31 12:01:54] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.4825 VYQ | Speed: 0.3124/h | Pending: 0.0272 VYQ | Mining: Aktif
+[2026-10-31 12:03:00] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.4882 VYQ | Speed: 0.3124/h | Pending: 0.0329 VYQ | Mining: Aktif
+[2026-10-31 12:04:01] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.4935 VYQ | Speed: 0.3124/h | Pending: 0.0382 VYQ | Mining: Aktif
+[2026-10-31 12:05:07] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.4992 VYQ | Speed: 0.3124/h | Pending: 0.0439 VYQ | Mining: Aktif
+[2026-10-31 12:06:08] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.5045 VYQ | Speed: 0.3124/h | Pending: 0.0492 VYQ | Mining: Aktif
+[2026-10-31 12:07:08] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.5097 VYQ | Speed: 0.3124/h | Pending: 0.0544 VYQ | Mining: Aktif
+[2026-10-31 12:08:09] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.5150 VYQ | Speed: 0.3124/h | Pending: 0.0597 VYQ | Mining: Aktif
+[2026-10-31 12:09:10] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.5203 VYQ | Speed: 0.3124/h | Pending: 0.0650 VYQ | Mining: Aktif
+[2026-10-31 12:10:16] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.5260 VYQ | Speed: 0.3124/h | Pending: 0.0707 VYQ | Mining: Aktif
+[2026-10-31 12:11:17] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.5313 VYQ | Speed: 0.3124/h | Pending: 0.0760 VYQ | Mining: Aktif
+[2026-10-31 12:12:17] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.5366 VYQ | Speed: 0.3124/h | Pending: 0.0813 VYQ | Mining: Aktif
+[2026-10-31 12:13:18] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.5419 VYQ | Speed: 0.3124/h | Pending: 0.0866 VYQ | Mining: Aktif
+[2026-10-31 12:14:19] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.5471 VYQ | Speed: 0.3124/h | Pending: 0.0918 VYQ | Mining: Aktif
+[2026-10-31 12:15:19] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.5524 VYQ | Speed: 0.3124/h | Pending: 0.0971 VYQ | Mining: Aktif
+[2026-10-31 12:16:25] [VYQ] Terdeteksi pending reward: 0.1028 VYQ. Mengirim request /api/mining/claim...
+[2026-10-31 12:16:26] ==================================================
+[2026-10-31 12:16:26] >> KLAIM MINING VYQ BERHASIL! +0.1028 VYQ <<
+[2026-10-31 12:16:26] Saldo Total Sekarang: 187.5582 VYQ
+[2026-10-31 12:16:26] ==================================================
+[2026-10-31 12:16:26] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.5581 VYQ | Speed: 0.3124/h | Pending: 0.1028 VYQ | Mining: Aktif
+[2026-10-31 12:17:26] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.5634 VYQ | Speed: 0.3124/h | Pending: 0.0052 VYQ | Mining: Aktif
+[2026-10-31 12:18:27] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.5687 VYQ | Speed: 0.3124/h | Pending: 0.0105 VYQ | Mining: Aktif
+[2026-10-31 12:19:33] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.5744 VYQ | Speed: 0.3124/h | Pending: 0.0162 VYQ | Mining: Aktif
+[2026-10-31 12:20:34] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.5797 VYQ | Speed: 0.3124/h | Pending: 0.0215 VYQ | Mining: Aktif
+[2026-10-31 12:21:35] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.5850 VYQ | Speed: 0.3124/h | Pending: 0.0268 VYQ | Mining: Aktif
+[2026-10-31 12:22:36] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.5902 VYQ | Speed: 0.3124/h | Pending: 0.0320 VYQ | Mining: Aktif
+[2026-10-31 12:23:36] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.5955 VYQ | Speed: 0.3124/h | Pending: 0.0373 VYQ | Mining: Aktif
+[2026-10-31 12:24:37] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.6008 VYQ | Speed: 0.3124/h | Pending: 0.0426 VYQ | Mining: Aktif
+[2026-10-31 12:25:38] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.6060 VYQ | Speed: 0.3124/h | Pending: 0.0478 VYQ | Mining: Aktif
+[2026-10-31 12:26:44] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.6118 VYQ | Speed: 0.3124/h | Pending: 0.0536 VYQ | Mining: Aktif
+[2026-10-31 12:27:45] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.6171 VYQ | Speed: 0.3124/h | Pending: 0.0589 VYQ | Mining: Aktif
+[2026-10-31 12:28:46] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.6224 VYQ | Speed: 0.3124/h | Pending: 0.0642 VYQ | Mining: Aktif
+[2026-10-31 12:29:47] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.6277 VYQ | Speed: 0.3124/h | Pending: 0.0695 VYQ | Mining: Aktif
+[2026-10-31 12:30:48] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.6329 VYQ | Speed: 0.3124/h | Pending: 0.0747 VYQ | Mining: Aktif
+[2026-10-31 12:31:48] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.6382 VYQ | Speed: 0.3124/h | Pending: 0.0800 VYQ | Mining: Aktif
+[2026-10-31 12:32:54] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.6439 VYQ | Speed: 0.3124/h | Pending: 0.0857 VYQ | Mining: Aktif
+[2026-10-31 12:33:55] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.6492 VYQ | Speed: 0.3124/h | Pending: 0.0910 VYQ | Mining: Aktif
+[2026-10-31 12:34:56] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.6545 VYQ | Speed: 0.3124/h | Pending: 0.0963 VYQ | Mining: Aktif
+[2026-10-31 12:35:57] [VYQ] Terdeteksi pending reward: 0.1015 VYQ. Mengirim request /api/mining/claim...
+[2026-10-31 12:35:57] ==================================================
+[2026-10-31 12:35:57] >> KLAIM MINING VYQ BERHASIL! +0.1015 VYQ <<
+[2026-10-31 12:35:57] Saldo Total Sekarang: 187.6598 VYQ
+[2026-10-31 12:35:57] ==================================================
+[2026-10-31 12:35:57] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.6597 VYQ | Speed: 0.3124/h | Pending: 0.1015 VYQ | Mining: Aktif
+[2026-10-31 12:37:03] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.6655 VYQ | Speed: 0.3124/h | Pending: 0.0057 VYQ | Mining: Aktif
+[2026-10-31 12:38:04] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.6708 VYQ | Speed: 0.3124/h | Pending: 0.0110 VYQ | Mining: Aktif
+[2026-10-31 12:39:05] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.6761 VYQ | Speed: 0.3124/h | Pending: 0.0163 VYQ | Mining: Aktif
+[2026-10-31 12:40:06] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.6814 VYQ | Speed: 0.3124/h | Pending: 0.0216 VYQ | Mining: Aktif
+[2026-10-31 12:41:12] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.6870 VYQ | Speed: 0.3124/h | Pending: 0.0272 VYQ | Mining: Aktif
+[2026-10-31 12:42:12] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.6923 VYQ | Speed: 0.3124/h | Pending: 0.0325 VYQ | Mining: Aktif
+[2026-10-31 12:43:13] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.6976 VYQ | Speed: 0.3124/h | Pending: 0.0378 VYQ | Mining: Aktif
+[2026-10-31 12:44:14] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.7029 VYQ | Speed: 0.3124/h | Pending: 0.0431 VYQ | Mining: Aktif
+[2026-10-31 12:45:15] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.7082 VYQ | Speed: 0.3124/h | Pending: 0.0484 VYQ | Mining: Aktif
+[2026-10-31 12:46:16] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.7135 VYQ | Speed: 0.3124/h | Pending: 0.0537 VYQ | Mining: Aktif
+[2026-10-31 12:47:16] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.7187 VYQ | Speed: 0.3124/h | Pending: 0.0589 VYQ | Mining: Aktif
+[2026-10-31 12:48:17] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.7239 VYQ | Speed: 0.3124/h | Pending: 0.0641 VYQ | Mining: Aktif
+[2026-10-31 12:49:18] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.7292 VYQ | Speed: 0.3124/h | Pending: 0.0694 VYQ | Mining: Aktif
+[2026-10-31 12:50:19] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.7345 VYQ | Speed: 0.3124/h | Pending: 0.0747 VYQ | Mining: Aktif
+[2026-10-31 12:51:20] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.7397 VYQ | Speed: 0.3124/h | Pending: 0.0799 VYQ | Mining: Aktif
+[2026-10-31 12:52:20] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.7450 VYQ | Speed: 0.3124/h | Pending: 0.0852 VYQ | Mining: Aktif
+[2026-10-31 12:53:21] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.7503 VYQ | Speed: 0.3124/h | Pending: 0.0905 VYQ | Mining: Aktif
+[2026-10-31 12:54:22] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.7555 VYQ | Speed: 0.3124/h | Pending: 0.0957 VYQ | Mining: Aktif
+[2026-10-31 12:55:23] [VYQ] Terdeteksi pending reward: 0.1010 VYQ. Mengirim request /api/mining/claim...
+[2026-10-31 12:55:24] ==================================================
+[2026-10-31 12:55:24] >> KLAIM MINING VYQ BERHASIL! +0.1010 VYQ <<
+[2026-10-31 12:55:24] Saldo Total Sekarang: 187.7609 VYQ
+[2026-10-31 12:55:24] ==================================================
+[2026-10-31 12:55:24] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.7608 VYQ | Speed: 0.3124/h | Pending: 0.1010 VYQ | Mining: Aktif
+[2026-10-31 12:56:25] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.7661 VYQ | Speed: 0.3124/h | Pending: 0.0052 VYQ | Mining: Aktif
+[2026-10-31 12:57:26] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.7714 VYQ | Speed: 0.3124/h | Pending: 0.0105 VYQ | Mining: Aktif
+[2026-10-31 12:58:32] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.7771 VYQ | Speed: 0.3124/h | Pending: 0.0162 VYQ | Mining: Aktif
+[2026-10-31 12:59:32] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.7824 VYQ | Speed: 0.3124/h | Pending: 0.0215 VYQ | Mining: Aktif
+[2026-10-31 13:00:33] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.7877 VYQ | Speed: 0.3124/h | Pending: 0.0268 VYQ | Mining: Aktif
+[2026-10-31 13:01:39] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.7934 VYQ | Speed: 0.3124/h | Pending: 0.0325 VYQ | Mining: Aktif
+[2026-10-31 13:02:45] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.7991 VYQ | Speed: 0.3124/h | Pending: 0.0382 VYQ | Mining: Aktif
+[2026-10-31 13:03:51] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.8048 VYQ | Speed: 0.3124/h | Pending: 0.0439 VYQ | Mining: Aktif
+[2026-10-31 13:04:51] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.8101 VYQ | Speed: 0.3124/h | Pending: 0.0492 VYQ | Mining: Aktif
+[2026-10-31 13:05:57] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.8158 VYQ | Speed: 0.3124/h | Pending: 0.0549 VYQ | Mining: Aktif
+[2026-10-31 13:06:58] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.8211 VYQ | Speed: 0.3124/h | Pending: 0.0602 VYQ | Mining: Aktif
+[2026-10-31 13:07:59] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.8264 VYQ | Speed: 0.3124/h | Pending: 0.0655 VYQ | Mining: Aktif
+[2026-10-31 13:08:59] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.8316 VYQ | Speed: 0.3124/h | Pending: 0.0707 VYQ | Mining: Aktif
+[2026-10-31 13:10:00] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.8369 VYQ | Speed: 0.3124/h | Pending: 0.0760 VYQ | Mining: Aktif
+[2026-10-31 13:11:01] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.8422 VYQ | Speed: 0.3124/h | Pending: 0.0813 VYQ | Mining: Aktif
+[2026-10-31 13:12:02] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.8475 VYQ | Speed: 0.3124/h | Pending: 0.0866 VYQ | Mining: Aktif
+[2026-10-31 13:13:08] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.8532 VYQ | Speed: 0.3124/h | Pending: 0.0923 VYQ | Mining: Aktif
+[2026-10-31 13:14:08] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.8584 VYQ | Speed: 0.3124/h | Pending: 0.0975 VYQ | Mining: Aktif
+[2026-10-31 13:15:09] [VYQ] Terdeteksi pending reward: 0.1028 VYQ. Mengirim request /api/mining/claim...
+[2026-10-31 13:15:10] ==================================================
+[2026-10-31 13:15:10] >> KLAIM MINING VYQ BERHASIL! +0.1028 VYQ <<
+[2026-10-31 13:15:10] Saldo Total Sekarang: 187.8638 VYQ
+[2026-10-31 13:15:10] ==================================================
+[2026-10-31 13:15:10] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.8637 VYQ | Speed: 0.3124/h | Pending: 0.1028 VYQ | Mining: Aktif
+[2026-10-31 13:16:12] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.8690 VYQ | Speed: 0.3124/h | Pending: 0.0052 VYQ | Mining: Aktif
+[2026-10-31 13:17:13] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.8743 VYQ | Speed: 0.3124/h | Pending: 0.0105 VYQ | Mining: Aktif
+[2026-10-31 13:18:13] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.8796 VYQ | Speed: 0.3124/h | Pending: 0.0158 VYQ | Mining: Aktif
+[2026-10-31 13:19:14] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.8849 VYQ | Speed: 0.3124/h | Pending: 0.0211 VYQ | Mining: Aktif
+[2026-10-31 13:20:15] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.8902 VYQ | Speed: 0.3124/h | Pending: 0.0264 VYQ | Mining: Aktif
+[2026-10-31 13:21:16] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.8954 VYQ | Speed: 0.3124/h | Pending: 0.0316 VYQ | Mining: Aktif
+[2026-10-31 13:22:16] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.9007 VYQ | Speed: 0.3124/h | Pending: 0.0369 VYQ | Mining: Aktif
+[2026-10-31 13:23:17] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.9060 VYQ | Speed: 0.3124/h | Pending: 0.0422 VYQ | Mining: Aktif
+[2026-10-31 13:24:18] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.9113 VYQ | Speed: 0.3124/h | Pending: 0.0475 VYQ | Mining: Aktif
+[2026-10-31 13:25:18] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.9165 VYQ | Speed: 0.3124/h | Pending: 0.0527 VYQ | Mining: Aktif
+[2026-10-31 13:26:19] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.9218 VYQ | Speed: 0.3124/h | Pending: 0.0580 VYQ | Mining: Aktif
+[2026-10-31 13:27:25] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.9275 VYQ | Speed: 0.3124/h | Pending: 0.0637 VYQ | Mining: Aktif
+[2026-10-31 13:28:31] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.9333 VYQ | Speed: 0.3124/h | Pending: 0.0695 VYQ | Mining: Aktif
+[2026-10-31 13:29:32] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.9385 VYQ | Speed: 0.3124/h | Pending: 0.0747 VYQ | Mining: Aktif
+[2026-10-31 13:30:37] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.9442 VYQ | Speed: 0.3124/h | Pending: 0.0804 VYQ | Mining: Aktif
+[2026-10-31 13:31:38] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.9495 VYQ | Speed: 0.3124/h | Pending: 0.0857 VYQ | Mining: Aktif
+[2026-10-31 13:32:39] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.9548 VYQ | Speed: 0.3124/h | Pending: 0.0910 VYQ | Mining: Aktif
+[2026-10-31 13:33:45] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.9605 VYQ | Speed: 0.3124/h | Pending: 0.0967 VYQ | Mining: Aktif
+[2026-10-31 13:34:46] [VYQ] Terdeteksi pending reward: 0.1020 VYQ. Mengirim request /api/mining/claim...
+[2026-10-31 13:34:47] ==================================================
+[2026-10-31 13:34:47] >> KLAIM MINING VYQ BERHASIL! +0.1020 VYQ <<
+[2026-10-31 13:34:47] Saldo Total Sekarang: 187.9658 VYQ
+[2026-10-31 13:34:47] ==================================================
+[2026-10-31 13:34:47] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.9658 VYQ | Speed: 0.3124/h | Pending: 0.1020 VYQ | Mining: Aktif
+[2026-10-31 13:35:47] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.9710 VYQ | Speed: 0.3124/h | Pending: 0.0052 VYQ | Mining: Aktif
+[2026-10-31 13:36:48] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.9763 VYQ | Speed: 0.3124/h | Pending: 0.0105 VYQ | Mining: Aktif
+[2026-10-31 13:37:49] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.9816 VYQ | Speed: 0.3124/h | Pending: 0.0158 VYQ | Mining: Aktif
+[2026-10-31 13:38:49] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.9868 VYQ | Speed: 0.3124/h | Pending: 0.0210 VYQ | Mining: Aktif
+[2026-10-31 13:39:50] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.9921 VYQ | Speed: 0.3124/h | Pending: 0.0263 VYQ | Mining: Aktif
+[2026-10-31 13:40:56] [VYQ] Status: Normal | Akun: Zalx | Saldo: 187.9978 VYQ | Speed: 0.3124/h | Pending: 0.0320 VYQ | Mining: Aktif
+[2026-10-31 13:41:57] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.0031 VYQ | Speed: 0.3124/h | Pending: 0.0373 VYQ | Mining: Aktif
+[2026-10-31 13:42:57] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.0083 VYQ | Speed: 0.3124/h | Pending: 0.0425 VYQ | Mining: Aktif
+[2026-10-31 13:43:58] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.0136 VYQ | Speed: 0.3124/h | Pending: 0.0478 VYQ | Mining: Aktif
+[2026-10-31 13:44:59] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.0189 VYQ | Speed: 0.3124/h | Pending: 0.0531 VYQ | Mining: Aktif
+[2026-10-31 13:46:00] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.0242 VYQ | Speed: 0.3124/h | Pending: 0.0584 VYQ | Mining: Aktif
+[2026-10-31 13:47:01] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.0295 VYQ | Speed: 0.3124/h | Pending: 0.0637 VYQ | Mining: Aktif
+[2026-10-31 13:48:01] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.0347 VYQ | Speed: 0.3124/h | Pending: 0.0689 VYQ | Mining: Aktif
+[2026-10-31 13:49:07] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.0404 VYQ | Speed: 0.3124/h | Pending: 0.0746 VYQ | Mining: Aktif
+[2026-10-31 13:50:08] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.0457 VYQ | Speed: 0.3124/h | Pending: 0.0799 VYQ | Mining: Aktif
+[2026-10-31 13:51:09] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.0510 VYQ | Speed: 0.3124/h | Pending: 0.0852 VYQ | Mining: Aktif
+[2026-10-31 13:52:09] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.0562 VYQ | Speed: 0.3124/h | Pending: 0.0904 VYQ | Mining: Aktif
+[2026-10-31 13:53:10] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.0615 VYQ | Speed: 0.3124/h | Pending: 0.0957 VYQ | Mining: Aktif
+[2026-10-31 13:54:11] [VYQ] Terdeteksi pending reward: 0.1010 VYQ. Mengirim request /api/mining/claim...
+[2026-10-31 13:54:12] ==================================================
+[2026-10-31 13:54:12] >> KLAIM MINING VYQ BERHASIL! +0.1010 VYQ <<
+[2026-10-31 13:54:12] Saldo Total Sekarang: 188.0669 VYQ
+[2026-10-31 13:54:12] ==================================================
+[2026-10-31 13:54:12] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.0668 VYQ | Speed: 0.3124/h | Pending: 0.1010 VYQ | Mining: Aktif
+[2026-10-31 13:55:13] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.0721 VYQ | Speed: 0.3124/h | Pending: 0.0052 VYQ | Mining: Aktif
+[2026-10-31 13:56:14] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.0774 VYQ | Speed: 0.3124/h | Pending: 0.0105 VYQ | Mining: Aktif
+[2026-10-31 13:57:20] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.0832 VYQ | Speed: 0.3124/h | Pending: 0.0163 VYQ | Mining: Aktif
+[2026-10-31 13:58:20] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.0884 VYQ | Speed: 0.3124/h | Pending: 0.0215 VYQ | Mining: Aktif
+[2026-10-31 13:59:21] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.0937 VYQ | Speed: 0.3124/h | Pending: 0.0268 VYQ | Mining: Aktif
+[2026-10-31 14:00:22] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.0990 VYQ | Speed: 0.3124/h | Pending: 0.0321 VYQ | Mining: Aktif
+[2026-10-31 14:01:23] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.1043 VYQ | Speed: 0.3124/h | Pending: 0.0374 VYQ | Mining: Aktif
+[2026-10-31 14:02:24] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.1095 VYQ | Speed: 0.3124/h | Pending: 0.0426 VYQ | Mining: Aktif
+[2026-10-31 14:03:25] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.1148 VYQ | Speed: 0.3124/h | Pending: 0.0479 VYQ | Mining: Aktif
+[2026-10-31 14:04:26] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.1200 VYQ | Speed: 0.3124/h | Pending: 0.0531 VYQ | Mining: Aktif
+[2026-10-31 14:05:26] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.1253 VYQ | Speed: 0.3124/h | Pending: 0.0584 VYQ | Mining: Aktif
+[2026-10-31 14:06:27] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.1306 VYQ | Speed: 0.3124/h | Pending: 0.0637 VYQ | Mining: Aktif
+[2026-10-31 14:07:32] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.1363 VYQ | Speed: 0.3124/h | Pending: 0.0694 VYQ | Mining: Aktif
+[2026-10-31 14:08:33] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.1416 VYQ | Speed: 0.3124/h | Pending: 0.0747 VYQ | Mining: Aktif
+[2026-10-31 14:09:34] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.1469 VYQ | Speed: 0.3124/h | Pending: 0.0800 VYQ | Mining: Aktif
+[2026-10-31 14:10:35] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.1521 VYQ | Speed: 0.3124/h | Pending: 0.0852 VYQ | Mining: Aktif
+[2026-10-31 14:11:36] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.1574 VYQ | Speed: 0.3124/h | Pending: 0.0905 VYQ | Mining: Aktif
+[2026-10-31 14:12:36] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.1626 VYQ | Speed: 0.3124/h | Pending: 0.0957 VYQ | Mining: Aktif
+[2026-10-31 14:13:42] [VYQ] Terdeteksi pending reward: 0.1015 VYQ. Mengirim request /api/mining/claim...
+[2026-10-31 14:13:47] ==================================================
+[2026-10-31 14:13:47] >> KLAIM MINING VYQ BERHASIL! +0.1015 VYQ <<
+[2026-10-31 14:13:47] Saldo Total Sekarang: 188.1688 VYQ
+[2026-10-31 14:13:47] ==================================================
+[2026-10-31 14:13:47] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.1684 VYQ | Speed: 0.3124/h | Pending: 0.1015 VYQ | Mining: Aktif
+[2026-10-31 14:14:48] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.1740 VYQ | Speed: 0.3124/h | Pending: 0.0052 VYQ | Mining: Aktif
+[2026-10-31 14:15:55] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.1799 VYQ | Speed: 0.3124/h | Pending: 0.0111 VYQ | Mining: Aktif
+[2026-10-31 14:16:56] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.1852 VYQ | Speed: 0.3124/h | Pending: 0.0164 VYQ | Mining: Aktif
+[2026-10-31 14:17:56] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.1904 VYQ | Speed: 0.3124/h | Pending: 0.0216 VYQ | Mining: Aktif
+[2026-10-31 14:18:58] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.1957 VYQ | Speed: 0.3124/h | Pending: 0.0269 VYQ | Mining: Aktif
+[2026-10-31 14:19:59] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.2010 VYQ | Speed: 0.3124/h | Pending: 0.0322 VYQ | Mining: Aktif
+[2026-10-31 14:21:05] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.2068 VYQ | Speed: 0.3124/h | Pending: 0.0380 VYQ | Mining: Aktif
+[2026-10-31 14:22:06] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.2121 VYQ | Speed: 0.3124/h | Pending: 0.0433 VYQ | Mining: Aktif
+[2026-10-31 14:23:07] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.2173 VYQ | Speed: 0.3124/h | Pending: 0.0485 VYQ | Mining: Aktif
+[2026-10-31 14:24:13] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.2231 VYQ | Speed: 0.3124/h | Pending: 0.0543 VYQ | Mining: Aktif
+[2026-10-31 14:25:19] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.2288 VYQ | Speed: 0.3124/h | Pending: 0.0600 VYQ | Mining: Aktif
+[2026-10-31 14:26:25] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.2344 VYQ | Speed: 0.3124/h | Pending: 0.0656 VYQ | Mining: Aktif
+[2026-10-31 14:27:25] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.2397 VYQ | Speed: 0.3124/h | Pending: 0.0709 VYQ | Mining: Aktif
+[2026-10-31 14:28:26] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.2450 VYQ | Speed: 0.3124/h | Pending: 0.0762 VYQ | Mining: Aktif
+[2026-10-31 14:29:27] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.2503 VYQ | Speed: 0.3124/h | Pending: 0.0815 VYQ | Mining: Aktif
+[2026-10-31 14:30:28] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.2556 VYQ | Speed: 0.3124/h | Pending: 0.0868 VYQ | Mining: Aktif
+[2026-10-31 14:31:29] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.2609 VYQ | Speed: 0.3124/h | Pending: 0.0921 VYQ | Mining: Aktif
+[2026-10-31 14:32:30] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.2662 VYQ | Speed: 0.3124/h | Pending: 0.0974 VYQ | Mining: Aktif
+[2026-10-31 14:33:31] [VYQ] Terdeteksi pending reward: 0.1026 VYQ. Mengirim request /api/mining/claim...
+[2026-10-31 14:33:31] ==================================================
+[2026-10-31 14:33:31] >> KLAIM MINING VYQ BERHASIL! +0.1026 VYQ <<
+[2026-10-31 14:33:31] Saldo Total Sekarang: 188.2715 VYQ
+[2026-10-31 14:33:31] ==================================================
+[2026-10-31 14:33:31] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.2714 VYQ | Speed: 0.3124/h | Pending: 0.1026 VYQ | Mining: Aktif
+[2026-10-31 14:34:37] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.2772 VYQ | Speed: 0.3124/h | Pending: 0.0057 VYQ | Mining: Aktif
+[2026-10-31 14:35:38] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.2825 VYQ | Speed: 0.3124/h | Pending: 0.0110 VYQ | Mining: Aktif
+[2026-10-31 14:36:39] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.2878 VYQ | Speed: 0.3124/h | Pending: 0.0163 VYQ | Mining: Aktif
+[2026-10-31 14:37:45] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.2935 VYQ | Speed: 0.3124/h | Pending: 0.0220 VYQ | Mining: Aktif
+[2026-10-31 14:38:46] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.2988 VYQ | Speed: 0.3124/h | Pending: 0.0273 VYQ | Mining: Aktif
+[2026-10-31 14:39:51] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.3044 VYQ | Speed: 0.3124/h | Pending: 0.0329 VYQ | Mining: Aktif
+[2026-10-31 14:40:52] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.3097 VYQ | Speed: 0.3124/h | Pending: 0.0382 VYQ | Mining: Aktif
+[2026-10-31 14:41:53] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.3150 VYQ | Speed: 0.3124/h | Pending: 0.0435 VYQ | Mining: Aktif
+[2026-10-31 14:42:54] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.3203 VYQ | Speed: 0.3124/h | Pending: 0.0488 VYQ | Mining: Aktif
+[2026-10-31 14:43:54] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.3255 VYQ | Speed: 0.3124/h | Pending: 0.0540 VYQ | Mining: Aktif
+[2026-10-31 14:44:55] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.3308 VYQ | Speed: 0.3124/h | Pending: 0.0593 VYQ | Mining: Aktif
+[2026-10-31 14:45:56] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.3361 VYQ | Speed: 0.3124/h | Pending: 0.0646 VYQ | Mining: Aktif
+[2026-10-31 14:47:02] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.3418 VYQ | Speed: 0.3124/h | Pending: 0.0703 VYQ | Mining: Aktif
+[2026-10-31 14:48:03] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.3470 VYQ | Speed: 0.3124/h | Pending: 0.0755 VYQ | Mining: Aktif
+[2026-10-31 14:49:08] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.3528 VYQ | Speed: 0.3124/h | Pending: 0.0813 VYQ | Mining: Aktif
+[2026-10-31 14:50:09] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.3581 VYQ | Speed: 0.3124/h | Pending: 0.0866 VYQ | Mining: Aktif
+[2026-10-31 14:51:10] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.3633 VYQ | Speed: 0.3124/h | Pending: 0.0918 VYQ | Mining: Aktif
+[2026-10-31 14:52:11] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.3686 VYQ | Speed: 0.3124/h | Pending: 0.0971 VYQ | Mining: Aktif
+[2026-10-31 14:53:11] [VYQ] Terdeteksi pending reward: 0.1023 VYQ. Mengirim request /api/mining/claim...
+[2026-10-31 14:53:12] ==================================================
+[2026-10-31 14:53:12] >> KLAIM MINING VYQ BERHASIL! +0.1023 VYQ <<
+[2026-10-31 14:53:12] Saldo Total Sekarang: 188.3739 VYQ
+[2026-10-31 14:53:12] ==================================================
+[2026-10-31 14:53:12] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.3738 VYQ | Speed: 0.3124/h | Pending: 0.1023 VYQ | Mining: Aktif
+[2026-10-31 14:54:13] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.3791 VYQ | Speed: 0.3124/h | Pending: 0.0052 VYQ | Mining: Aktif
+[2026-10-31 14:55:14] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.3844 VYQ | Speed: 0.3124/h | Pending: 0.0105 VYQ | Mining: Aktif
+[2026-10-31 14:56:14] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.3896 VYQ | Speed: 0.3124/h | Pending: 0.0157 VYQ | Mining: Aktif
+[2026-10-31 14:57:15] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.3949 VYQ | Speed: 0.3124/h | Pending: 0.0210 VYQ | Mining: Aktif
+[2026-10-31 14:58:16] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.4002 VYQ | Speed: 0.3124/h | Pending: 0.0263 VYQ | Mining: Aktif
+[2026-10-31 14:59:17] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.4055 VYQ | Speed: 0.3124/h | Pending: 0.0316 VYQ | Mining: Aktif
+[2026-10-31 15:00:18] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.4108 VYQ | Speed: 0.3124/h | Pending: 0.0369 VYQ | Mining: Aktif
+[2026-10-31 15:01:19] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.4161 VYQ | Speed: 0.3124/h | Pending: 0.0422 VYQ | Mining: Aktif
+[2026-10-31 15:02:25] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.4218 VYQ | Speed: 0.3124/h | Pending: 0.0479 VYQ | Mining: Aktif
+[2026-10-31 15:03:25] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.4270 VYQ | Speed: 0.3124/h | Pending: 0.0531 VYQ | Mining: Aktif
+[2026-10-31 15:04:26] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.4323 VYQ | Speed: 0.3124/h | Pending: 0.0584 VYQ | Mining: Aktif
+[2026-10-31 15:05:27] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.4376 VYQ | Speed: 0.3124/h | Pending: 0.0637 VYQ | Mining: Aktif
+[2026-10-31 15:06:28] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.4429 VYQ | Speed: 0.3124/h | Pending: 0.0690 VYQ | Mining: Aktif
+[2026-10-31 15:07:29] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.4482 VYQ | Speed: 0.3124/h | Pending: 0.0743 VYQ | Mining: Aktif
+[2026-10-31 15:08:34] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.4538 VYQ | Speed: 0.3124/h | Pending: 0.0799 VYQ | Mining: Aktif
+[2026-10-31 15:09:36] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.4591 VYQ | Speed: 0.3124/h | Pending: 0.0852 VYQ | Mining: Aktif
+[2026-10-31 15:10:37] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.4645 VYQ | Speed: 0.3124/h | Pending: 0.0906 VYQ | Mining: Aktif
+[2026-10-31 15:11:38] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.4698 VYQ | Speed: 0.3124/h | Pending: 0.0959 VYQ | Mining: Aktif
+[2026-10-31 15:12:39] [VYQ] Terdeteksi pending reward: 0.1012 VYQ. Mengirim request /api/mining/claim...
+[2026-10-31 15:12:39] ==================================================
+[2026-10-31 15:12:39] >> KLAIM MINING VYQ BERHASIL! +0.1012 VYQ <<
+[2026-10-31 15:12:39] Saldo Total Sekarang: 188.4751 VYQ
+[2026-10-31 15:12:39] ==================================================
+[2026-10-31 15:12:39] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.4751 VYQ | Speed: 0.3124/h | Pending: 0.1012 VYQ | Mining: Aktif
+[2026-10-31 15:13:40] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.4803 VYQ | Speed: 0.3124/h | Pending: 0.0052 VYQ | Mining: Aktif
+[2026-10-31 15:14:41] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.4856 VYQ | Speed: 0.3124/h | Pending: 0.0105 VYQ | Mining: Aktif
+[2026-10-31 15:15:42] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.4909 VYQ | Speed: 0.3124/h | Pending: 0.0158 VYQ | Mining: Aktif
+[2026-10-31 15:16:43] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.4962 VYQ | Speed: 0.3124/h | Pending: 0.0211 VYQ | Mining: Aktif
+[2026-10-31 15:17:44] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.5015 VYQ | Speed: 0.3124/h | Pending: 0.0264 VYQ | Mining: Aktif
+[2026-10-31 15:18:44] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.5067 VYQ | Speed: 0.3124/h | Pending: 0.0316 VYQ | Mining: Aktif
+[2026-10-31 15:19:45] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.5120 VYQ | Speed: 0.3124/h | Pending: 0.0369 VYQ | Mining: Aktif
+[2026-10-31 15:20:51] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.5177 VYQ | Speed: 0.3124/h | Pending: 0.0426 VYQ | Mining: Aktif
+[2026-10-31 15:21:52] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.5230 VYQ | Speed: 0.3124/h | Pending: 0.0479 VYQ | Mining: Aktif
+[2026-10-31 15:22:52] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.5282 VYQ | Speed: 0.3124/h | Pending: 0.0531 VYQ | Mining: Aktif
+[2026-10-31 15:23:53] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.5335 VYQ | Speed: 0.3124/h | Pending: 0.0584 VYQ | Mining: Aktif
+[2026-10-31 15:24:54] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.5387 VYQ | Speed: 0.3124/h | Pending: 0.0636 VYQ | Mining: Aktif
+[2026-10-31 15:25:54] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.5440 VYQ | Speed: 0.3124/h | Pending: 0.0689 VYQ | Mining: Aktif
+[2026-10-31 15:26:55] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.5493 VYQ | Speed: 0.3124/h | Pending: 0.0742 VYQ | Mining: Aktif
+[2026-10-31 15:27:56] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.5546 VYQ | Speed: 0.3124/h | Pending: 0.0795 VYQ | Mining: Aktif
+[2026-10-31 15:28:57] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.5599 VYQ | Speed: 0.3124/h | Pending: 0.0848 VYQ | Mining: Aktif
+[2026-10-31 15:29:57] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.5651 VYQ | Speed: 0.3124/h | Pending: 0.0900 VYQ | Mining: Aktif
+[2026-10-31 15:30:58] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.5704 VYQ | Speed: 0.3124/h | Pending: 0.0953 VYQ | Mining: Aktif
+[2026-10-31 15:32:04] [VYQ] Terdeteksi pending reward: 0.1010 VYQ. Mengirim request /api/mining/claim...
+[2026-10-31 15:32:05] ==================================================
+[2026-10-31 15:32:05] >> KLAIM MINING VYQ BERHASIL! +0.1010 VYQ <<
+[2026-10-31 15:32:05] Saldo Total Sekarang: 188.5761 VYQ
+[2026-10-31 15:32:05] ==================================================
+[2026-10-31 15:32:05] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.5761 VYQ | Speed: 0.3124/h | Pending: 0.1010 VYQ | Mining: Aktif
+[2026-10-31 15:33:05] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.5813 VYQ | Speed: 0.3124/h | Pending: 0.0052 VYQ | Mining: Aktif
+[2026-10-31 15:34:11] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.5871 VYQ | Speed: 0.3124/h | Pending: 0.0110 VYQ | Mining: Aktif
+[2026-10-31 15:35:12] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.5924 VYQ | Speed: 0.3124/h | Pending: 0.0163 VYQ | Mining: Aktif
+[2026-10-31 15:36:13] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.5977 VYQ | Speed: 0.3124/h | Pending: 0.0216 VYQ | Mining: Aktif
+[2026-10-31 15:37:14] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.6030 VYQ | Speed: 0.3124/h | Pending: 0.0269 VYQ | Mining: Aktif
+[2026-10-31 15:38:15] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.6082 VYQ | Speed: 0.3124/h | Pending: 0.0321 VYQ | Mining: Aktif
+[2026-10-31 15:39:15] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.6135 VYQ | Speed: 0.3124/h | Pending: 0.0374 VYQ | Mining: Aktif
+[2026-10-31 15:40:21] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.6192 VYQ | Speed: 0.3124/h | Pending: 0.0431 VYQ | Mining: Aktif
+[2026-10-31 15:41:22] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.6245 VYQ | Speed: 0.3124/h | Pending: 0.0484 VYQ | Mining: Aktif
+[2026-10-31 15:42:22] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.6297 VYQ | Speed: 0.3124/h | Pending: 0.0536 VYQ | Mining: Aktif
+[2026-10-31 15:43:28] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.6354 VYQ | Speed: 0.3124/h | Pending: 0.0593 VYQ | Mining: Aktif
+[2026-10-31 15:44:29] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.6407 VYQ | Speed: 0.3124/h | Pending: 0.0646 VYQ | Mining: Aktif
+[2026-10-31 15:45:30] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.6459 VYQ | Speed: 0.3124/h | Pending: 0.0698 VYQ | Mining: Aktif
+[2026-10-31 15:46:30] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.6512 VYQ | Speed: 0.3124/h | Pending: 0.0751 VYQ | Mining: Aktif
+[2026-10-31 15:47:31] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.6565 VYQ | Speed: 0.3124/h | Pending: 0.0804 VYQ | Mining: Aktif
+[2026-10-31 15:48:32] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.6617 VYQ | Speed: 0.3124/h | Pending: 0.0856 VYQ | Mining: Aktif
+[2026-10-31 15:49:32] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.6670 VYQ | Speed: 0.3124/h | Pending: 0.0909 VYQ | Mining: Aktif
+[2026-10-31 15:50:33] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.6723 VYQ | Speed: 0.3124/h | Pending: 0.0962 VYQ | Mining: Aktif
+[2026-10-31 15:51:39] [VYQ] Terdeteksi pending reward: 0.1019 VYQ. Mengirim request /api/mining/claim...
+[2026-10-31 15:51:45] ==================================================
+[2026-10-31 15:51:45] >> KLAIM MINING VYQ BERHASIL! +0.1019 VYQ <<
+[2026-10-31 15:51:45] Saldo Total Sekarang: 188.6785 VYQ
+[2026-10-31 15:51:45] ==================================================
+[2026-10-31 15:51:45] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.6780 VYQ | Speed: 0.3124/h | Pending: 0.1019 VYQ | Mining: Aktif
+[2026-10-31 15:52:50] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.6841 VYQ | Speed: 0.3124/h | Pending: 0.0056 VYQ | Mining: Aktif
+[2026-10-31 15:53:51] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.6894 VYQ | Speed: 0.3124/h | Pending: 0.0109 VYQ | Mining: Aktif
+[2026-10-31 15:54:52] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.6946 VYQ | Speed: 0.3124/h | Pending: 0.0161 VYQ | Mining: Aktif
+[2026-10-31 15:55:52] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.6999 VYQ | Speed: 0.3124/h | Pending: 0.0214 VYQ | Mining: Aktif
+[2026-10-31 15:56:53] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.7052 VYQ | Speed: 0.3124/h | Pending: 0.0267 VYQ | Mining: Aktif
+[2026-10-31 15:57:54] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.7105 VYQ | Speed: 0.3124/h | Pending: 0.0320 VYQ | Mining: Aktif
+[2026-10-31 15:58:55] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.7158 VYQ | Speed: 0.3124/h | Pending: 0.0373 VYQ | Mining: Aktif
+[2026-10-31 16:00:00] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.7214 VYQ | Speed: 0.3124/h | Pending: 0.0429 VYQ | Mining: Aktif
+[2026-10-31 16:01:01] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.7267 VYQ | Speed: 0.3124/h | Pending: 0.0482 VYQ | Mining: Aktif
+[2026-10-31 16:02:07] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.7324 VYQ | Speed: 0.3124/h | Pending: 0.0539 VYQ | Mining: Aktif
+[2026-10-31 16:03:08] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.7377 VYQ | Speed: 0.3124/h | Pending: 0.0592 VYQ | Mining: Aktif
+[2026-10-31 16:04:09] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.7430 VYQ | Speed: 0.3124/h | Pending: 0.0645 VYQ | Mining: Aktif
+[2026-10-31 16:05:09] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.7482 VYQ | Speed: 0.3124/h | Pending: 0.0697 VYQ | Mining: Aktif
+[2026-10-31 16:06:10] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.7535 VYQ | Speed: 0.3124/h | Pending: 0.0750 VYQ | Mining: Aktif
+[2026-10-31 16:07:11] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.7588 VYQ | Speed: 0.3124/h | Pending: 0.0803 VYQ | Mining: Aktif
+[2026-10-31 16:08:12] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.7640 VYQ | Speed: 0.3124/h | Pending: 0.0855 VYQ | Mining: Aktif
+[2026-10-31 16:09:12] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.7693 VYQ | Speed: 0.3124/h | Pending: 0.0908 VYQ | Mining: Aktif
+[2026-10-31 16:10:13] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.7746 VYQ | Speed: 0.3124/h | Pending: 0.0961 VYQ | Mining: Aktif
+[2026-10-31 16:11:14] [VYQ] Terdeteksi pending reward: 0.1014 VYQ. Mengirim request /api/mining/claim...
+[2026-10-31 16:11:14] ==================================================
+[2026-10-31 16:11:14] >> KLAIM MINING VYQ BERHASIL! +0.1014 VYQ <<
+[2026-10-31 16:11:14] Saldo Total Sekarang: 188.7799 VYQ
+[2026-10-31 16:11:14] ==================================================
+[2026-10-31 16:11:14] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.7799 VYQ | Speed: 0.3124/h | Pending: 0.1014 VYQ | Mining: Aktif
+[2026-10-31 16:12:15] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.7851 VYQ | Speed: 0.3124/h | Pending: 0.0052 VYQ | Mining: Aktif
+[2026-10-31 16:13:16] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.7904 VYQ | Speed: 0.3124/h | Pending: 0.0105 VYQ | Mining: Aktif
+[2026-10-31 16:14:17] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.7957 VYQ | Speed: 0.3124/h | Pending: 0.0158 VYQ | Mining: Aktif
+[2026-10-31 16:15:18] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.8010 VYQ | Speed: 0.3124/h | Pending: 0.0211 VYQ | Mining: Aktif
+[2026-10-31 16:16:24] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.8068 VYQ | Speed: 0.3124/h | Pending: 0.0269 VYQ | Mining: Aktif
+[2026-10-31 16:17:25] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.8120 VYQ | Speed: 0.3124/h | Pending: 0.0321 VYQ | Mining: Aktif
+[2026-10-31 16:18:25] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.8172 VYQ | Speed: 0.3124/h | Pending: 0.0373 VYQ | Mining: Aktif
+[2026-10-31 16:19:26] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.8225 VYQ | Speed: 0.3124/h | Pending: 0.0426 VYQ | Mining: Aktif
+[2026-10-31 16:20:27] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.8278 VYQ | Speed: 0.3124/h | Pending: 0.0479 VYQ | Mining: Aktif
+[2026-10-31 16:21:27] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.8330 VYQ | Speed: 0.3124/h | Pending: 0.0531 VYQ | Mining: Aktif
+[2026-10-31 16:22:28] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.8383 VYQ | Speed: 0.3124/h | Pending: 0.0584 VYQ | Mining: Aktif
+[2026-10-31 16:23:29] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.8436 VYQ | Speed: 0.3124/h | Pending: 0.0637 VYQ | Mining: Aktif
+[2026-10-31 16:24:30] [VYQ] Sesi mining tidak aktif / telah berakhir. Mengirim request /api/mining/start...
+[2026-10-31 16:24:31] >> Berhasil memulai siklus mining VYQ baru! <<
+[2026-10-31 16:24:31] [VYQ] Terdeteksi pending reward: 0.0645 VYQ. Mengirim request /api/mining/claim...
+[2026-10-31 16:24:32] [VYQ] Gagal claim mining: {"code":2,"msg":"Mining reward is below the minimum claim; it continues accumula
+[2026-10-31 16:24:32] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.8444 VYQ | Speed: 0.3124/h | Pending: 0.0645 VYQ | Mining: Mati
+[2026-10-31 16:25:32] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.8496 VYQ | Speed: 0.3124/h | Pending: 0.0697 VYQ | Mining: Aktif
+[2026-10-31 16:26:33] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.8549 VYQ | Speed: 0.3124/h | Pending: 0.0750 VYQ | Mining: Aktif
+[2026-10-31 16:27:33] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.8601 VYQ | Speed: 0.3124/h | Pending: 0.0802 VYQ | Mining: Aktif
+[2026-10-31 16:28:34] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.8654 VYQ | Speed: 0.3124/h | Pending: 0.0855 VYQ | Mining: Aktif
+[2026-10-31 16:29:35] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.8707 VYQ | Speed: 0.3124/h | Pending: 0.0908 VYQ | Mining: Aktif
+[2026-10-31 16:30:35] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.8759 VYQ | Speed: 0.3124/h | Pending: 0.0960 VYQ | Mining: Aktif
+[2026-10-31 16:31:36] [VYQ] Terdeteksi pending reward: 0.1013 VYQ. Mengirim request /api/mining/claim...
+[2026-10-31 16:31:36] ==================================================
+[2026-10-31 16:31:36] >> KLAIM MINING VYQ BERHASIL! +0.1013 VYQ <<
+[2026-10-31 16:31:36] Saldo Total Sekarang: 188.8812 VYQ
+[2026-10-31 16:31:36] ==================================================
+[2026-10-31 16:31:36] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.8812 VYQ | Speed: 0.3124/h | Pending: 0.1013 VYQ | Mining: Aktif
+[2026-10-31 16:32:37] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.8864 VYQ | Speed: 0.3124/h | Pending: 0.0052 VYQ | Mining: Aktif
+[2026-10-31 16:33:38] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.8917 VYQ | Speed: 0.3124/h | Pending: 0.0105 VYQ | Mining: Aktif
+[2026-10-31 16:34:39] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.8970 VYQ | Speed: 0.3124/h | Pending: 0.0158 VYQ | Mining: Aktif
+[2026-10-31 16:35:40] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.9023 VYQ | Speed: 0.3124/h | Pending: 0.0211 VYQ | Mining: Aktif
+[2026-10-31 16:36:46] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.9081 VYQ | Speed: 0.3124/h | Pending: 0.0269 VYQ | Mining: Aktif
+[2026-10-31 16:37:51] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.9137 VYQ | Speed: 0.3124/h | Pending: 0.0325 VYQ | Mining: Aktif
+[2026-10-31 16:38:52] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.9190 VYQ | Speed: 0.3124/h | Pending: 0.0378 VYQ | Mining: Aktif
+[2026-10-31 16:39:53] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.9243 VYQ | Speed: 0.3124/h | Pending: 0.0431 VYQ | Mining: Aktif
+[2026-10-31 16:40:54] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.9296 VYQ | Speed: 0.3124/h | Pending: 0.0484 VYQ | Mining: Aktif
+[2026-10-31 16:41:55] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.9348 VYQ | Speed: 0.3124/h | Pending: 0.0536 VYQ | Mining: Aktif
+[2026-10-31 16:42:55] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.9401 VYQ | Speed: 0.3124/h | Pending: 0.0589 VYQ | Mining: Aktif
+[2026-10-31 16:43:56] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.9454 VYQ | Speed: 0.3124/h | Pending: 0.0642 VYQ | Mining: Aktif
+[2026-10-31 16:44:57] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.9507 VYQ | Speed: 0.3124/h | Pending: 0.0695 VYQ | Mining: Aktif
+[2026-10-31 16:46:03] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.9564 VYQ | Speed: 0.3124/h | Pending: 0.0752 VYQ | Mining: Aktif
+[2026-10-31 16:47:03] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.9616 VYQ | Speed: 0.3124/h | Pending: 0.0804 VYQ | Mining: Aktif
+[2026-10-31 16:48:04] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.9669 VYQ | Speed: 0.3124/h | Pending: 0.0857 VYQ | Mining: Aktif
+[2026-10-31 16:49:05] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.9722 VYQ | Speed: 0.3124/h | Pending: 0.0910 VYQ | Mining: Aktif
+[2026-10-31 16:50:06] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.9775 VYQ | Speed: 0.3124/h | Pending: 0.0963 VYQ | Mining: Aktif
+[2026-10-31 16:51:07] [VYQ] Terdeteksi pending reward: 0.1015 VYQ. Mengirim request /api/mining/claim...
+[2026-10-31 16:51:07] ==================================================
+[2026-10-31 16:51:07] >> KLAIM MINING VYQ BERHASIL! +0.1015 VYQ <<
+[2026-10-31 16:51:07] Saldo Total Sekarang: 188.9828 VYQ
+[2026-10-31 16:51:07] ==================================================
+[2026-10-31 16:51:07] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.9827 VYQ | Speed: 0.3124/h | Pending: 0.1015 VYQ | Mining: Aktif
+[2026-10-31 16:52:08] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.9880 VYQ | Speed: 0.3124/h | Pending: 0.0052 VYQ | Mining: Aktif
+[2026-10-31 16:53:09] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.9933 VYQ | Speed: 0.3124/h | Pending: 0.0105 VYQ | Mining: Aktif
+[2026-10-31 16:54:10] [VYQ] Status: Normal | Akun: Zalx | Saldo: 188.9985 VYQ | Speed: 0.3124/h | Pending: 0.0157 VYQ | Mining: Aktif
+[2026-10-31 16:55:10] [VYQ] Status: Normal | Akun: Zalx | Saldo: 189.0038 VYQ | Speed: 0.3124/h | Pending: 0.0210 VYQ | Mining: Aktif
+[2026-10-31 16:56:11] [VYQ] Status: Normal | Akun: Zalx | Saldo: 189.0091 VYQ | Speed: 0.3124/h | Pending: 0.0263 VYQ | Mining: Aktif
+[2026-10-31 16:57:12] [VYQ] Status: Normal | Akun: Zalx | Saldo: 189.0144 VYQ | Speed: 0.3124/h | Pending: 0.0316 VYQ | Mining: Aktif
+[2026-10-31 16:58:13] [VYQ] Status: Normal | Akun: Zalx | Saldo: 189.0197 VYQ | Speed: 0.3124/h | Pending: 0.0369 VYQ | Mining: Aktif
+[2026-10-31 16:59:14] [VYQ] Status: Normal | Akun: Zalx | Saldo: 189.0250 VYQ | Speed: 0.3124/h | Pending: 0.0422 VYQ | Mining: Aktif
+[2026-10-31 17:00:14] [VYQ] Status: Normal | Akun: Zalx | Saldo: 189.0302 VYQ | Speed: 0.3124/h | Pending: 0.0474 VYQ | Mining: Aktif
+[2026-10-31 17:01:15] [VYQ] Status: Normal | Akun: Zalx | Saldo: 189.0355 VYQ | Speed: 0.3124/h | Pending: 0.0527 VYQ | Mining: Aktif
+[2026-10-31 17:02:16] [VYQ] Status: Normal | Akun: Zalx | Saldo: 189.0407 VYQ | Speed: 0.3124/h | Pending: 0.0579 VYQ | Mining: Aktif
+[2026-10-31 17:03:16] [VYQ] Status: Normal | Akun: Zalx | Saldo: 189.0460 VYQ | Speed: 0.3124/h | Pending: 0.0632 VYQ | Mining: Aktif
+[2026-10-31 17:04:17] [VYQ] Status: Normal | Akun: Zalx | Saldo: 189.0513 VYQ | Speed: 0.3124/h | Pending: 0.0685 VYQ | Mining: Aktif
+[2026-10-31 17:05:23] [VYQ] Status: Normal | Akun: Zalx | Saldo: 189.0570 VYQ | Speed: 0.3124/h | Pending: 0.0742 VYQ | Mining: Aktif
+[2026-10-31 17:06:24] [VYQ] Status: Normal | Akun: Zalx | Saldo: 189.0623 VYQ | Speed: 0.3124/h | Pending: 0.0795 VYQ | Mining: Aktif
+[2026-10-31 17:07:30] [VYQ] Status: Normal | Akun: Zalx | Saldo: 189.0681 VYQ | Speed: 0.3124/h | Pending: 0.0853 VYQ | Mining: Aktif
+[2026-10-31 17:08:30] [VYQ] Status: Normal | Akun: Zalx | Saldo: 189.0733 VYQ | Speed: 0.3124/h | Pending: 0.0905 VYQ | Mining: Aktif
+[2026-10-31 17:09:31] [VYQ] Status: Normal | Akun: Zalx | Saldo: 189.0786 VYQ | Speed: 0.3124/h | Pending: 0.0958 VYQ | Mining: Aktif
+[2026-10-31 17:10:32] [VYQ] Terdeteksi pending reward: 0.1010 VYQ. Mengirim request /api/mining/claim...
+[2026-10-31 17:10:33] ==================================================
+[2026-10-31 17:10:33] >> KLAIM MINING VYQ BERHASIL! +0.1010 VYQ <<
+[2026-10-31 17:10:33] Saldo Total Sekarang: 189.0838 VYQ
+[2026-10-31 17:10:33] ==================================================
+[2026-10-31 17:10:33] [VYQ] Status: Normal | Akun: Zalx | Saldo: 189.0838 VYQ | Speed: 0.3124/h | Pending: 0.1010 VYQ | Mining: Aktif
+[2026-10-31 17:11:33] [VYQ] Status: Normal | Akun: Zalx | Saldo: 189.0890 VYQ | Speed: 0.3124/h | Pending: 0.0052 VYQ | Mining: Aktif
+[2026-10-31 17:12:34] [VYQ] Status: Normal | Akun: Zalx | Saldo: 189.0943 VYQ | Speed: 0.3124/h | Pending: 0.0105 VYQ | Mining: Aktif
+[2026-10-31 17:13:35] [VYQ] Status: Normal | Akun: Zalx | Saldo: 189.0996 VYQ | Speed: 0.3124/h | Pending: 0.0158 VYQ | Mining: Aktif
+[2026-10-31 17:14:36] [VYQ] Status: Normal | Akun: Zalx | Saldo: 189.1049 VYQ | Speed: 0.3124/h | Pending: 0.0211 VYQ | Mining: Aktif
+[2026-10-31 17:15:36] [VYQ] Status: Normal | Akun: Zalx | Saldo: 189.1101 VYQ | Speed: 0.3124/h | Pending: 0.0263 VYQ | Mining: Aktif
+[2026-10-31 17:16:37] [VYQ] Status: Normal | Akun: Zalx | Saldo: 189.1154 VYQ | Speed: 0.3124/h | Pending: 0.0316 VYQ | Mining: Aktif
+[2026-10-31 17:17:38] [VYQ] Status: Normal | Akun: Zalx | Saldo: 189.1207 VYQ | Speed: 0.3124/h | Pending: 0.0369 VYQ | Mining: Aktif
+[2026-10-31 17:18:39] [VYQ] Status: Normal | Akun: Zalx | Saldo: 189.1260 VYQ | Speed: 0.3124/h | Pending: 0.0422 VYQ | Mining: Aktif
+[2026-10-31 17:19:39] [VYQ] Status: Normal | Akun: Zalx | Saldo: 189.1312 VYQ | Speed: 0.3124/h | Pending: 0.0474 VYQ | Mining: Aktif
+[2026-10-31 17:20:40] [VYQ] Status: Normal | Akun: Zalx | Saldo: 189.1365 VYQ | Speed: 0.3124/h | Pending: 0.0527 VYQ | Mining: Aktif
+[2026-10-31 17:21:41] [VYQ] Status: Normal | Akun: Zalx | Saldo: 189.1418 VYQ | Speed: 0.3124/h | Pending: 0.0580 VYQ | Mining: Aktif
+[2026-10-31 17:22:42] [VYQ] Status: Normal | Akun: Zalx | Saldo: 189.1471 VYQ | Speed: 0.3124/h | Pending: 0.0633 VYQ | Mining: Aktif
+[2026-10-31 17:23:42] [VYQ] Status: Normal | Akun: Zalx | Saldo: 189.1523 VYQ | Speed: 0.3124/h | Pending: 0.0685 VYQ | Mining: Aktif
+[2026-10-31 17:24:43] [VYQ] Status: Normal | Akun: Zalx | Saldo: 189.1576 VYQ | Speed: 0.3124/h | Pending: 0.0738 VYQ | Mining: Aktif
+[2026-10-31 17:25:44] [VYQ] Status: Normal | Akun: Zalx | Saldo: 189.1629 VYQ | Speed: 0.3124/h | Pending: 0.0791 VYQ | Mining: Aktif
+[2026-10-31 17:26:45] [VYQ] Status: Normal | Akun: Zalx | Saldo: 189.1682 VYQ | Speed: 0.3124/h | Pending: 0.0844 VYQ | Mining: Aktif
+[2026-10-31 17:27:46] [VYQ] Status: Normal | Akun: Zalx | Saldo: 189.1735 VYQ | Speed: 0.3124/h | Pending: 0.0897 VYQ | Mining: Aktif
+[2026-10-31 17:28:51] [VYQ] Status: Normal | Akun: Zalx | Saldo: 189.1791 VYQ | Speed: 0.3124/h | Pending: 0.0953 VYQ | Mining: Aktif
+[2026-10-31 17:29:57] [VYQ] Terdeteksi pending reward: 0.1010 VYQ. Mengirim request /api/mining/claim...
+[2026-10-31 17:29:58] ==================================================
+[2026-10-31 17:29:58] >> KLAIM MINING VYQ BERHASIL! +0.1010 VYQ <<
+[2026-10-31 17:29:58] Saldo Total Sekarang: 189.1849 VYQ
+[2026-10-31 17:29:58] ==================================================
+[2026-10-31 17:29:58] [VYQ] Status: Normal | Akun: Zalx | Saldo: 189.1848 VYQ | Speed: 0.3124/h | Pending: 0.1010 VYQ | Mining: Aktif
+[2026-10-31 17:30:58] [VYQ] Status: Normal | Akun: Zalx | Saldo: 189.1901 VYQ | Speed: 0.3124/h | Pending: 0.0052 VYQ | Mining: Aktif
+[2026-10-31 17:32:04] [VYQ] Status: Normal | Akun: Zalx | Saldo: 189.1958 VYQ | Speed: 0.3124/h | Pending: 0.0109 VYQ | Mining: Aktif

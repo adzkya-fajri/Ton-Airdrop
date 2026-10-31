@@ -1885,3 +1885,169 @@
 [2026-10-30 21:39:52] [Mining Berjalan] Sisa: 1j 18m 26s (Selesai: 22:58:18). Saldo: 40.4000 EPS
 [2026-10-30 21:50:33] [Mining Berjalan] Sisa: 1j 7m 44s (Selesai: 22:58:18). Saldo: 40.4000 EPS
 [2026-10-30 22:01:10] [Mining Berjalan] Sisa: 0j 57m 7s (Selesai: 22:58:18). Saldo: 40.4000 EPS
+[2026-10-30 22:11:52] [Mining Berjalan] Sisa: 0j 46m 26s (Selesai: 22:58:18). Saldo: 40.4000 EPS
+[2026-10-30 22:22:28] [Mining Berjalan] Sisa: 0j 35m 49s (Selesai: 22:58:18). Saldo: 40.4000 EPS
+[2026-10-30 22:33:05] [Mining Berjalan] Sisa: 0j 25m 13s (Selesai: 22:58:18). Saldo: 40.4000 EPS
+[2026-10-30 22:43:20] [Mining Berjalan] Sisa: 0j 14m 57s (Selesai: 22:58:18). Saldo: 40.4000 EPS
+[2026-10-30 22:54:04] [Mining Berjalan] Sisa: 0j 4m 14s (Selesai: 22:58:18). Saldo: 40.4000 EPS
+[2026-10-30 23:04:15] Mengeksekusi klaim mining reward Epsilon...
+[2026-10-30 23:04:15] ==================================================
+[2026-10-30 23:04:15] >> KLAIM EPSILON BERHASIL! <<
+[2026-10-30 23:04:15] Reward Masuk : +1 EPS
+[2026-10-30 23:04:15] Total Saldo  : 41.4000 EPS
+[2026-10-30 23:04:15] ==================================================
+[2026-10-30 23:04:15] Menjalankan siklus penambangan Epsilon (Start Mining)...
+[2026-10-30 23:04:16] >> MINING BERHASIL DIMULAI! Siap klaim pada pukul: 01:04:15 <<
+[2026-10-30 23:14:40] [Mining Berjalan] Sisa: 1j 49m 37s (Selesai: 01:04:15). Saldo: 41.4000 EPS
+[2026-10-30 23:25:21] [Mining Berjalan] Sisa: 1j 38m 54s (Selesai: 01:04:15). Saldo: 41.4000 EPS
+[2026-10-30 23:35:48] [Mining Berjalan] Sisa: 1j 28m 27s (Selesai: 01:04:15). Saldo: 41.4000 EPS
+[2026-10-30 23:46:38] [Mining Berjalan] Sisa: 1j 17m 37s (Selesai: 01:04:15). Saldo: 41.4000 EPS
+[2026-10-30 23:57:12] [Mining Berjalan] Sisa: 1j 7m 4s (Selesai: 01:04:15). Saldo: 41.4000 EPS
+[2026-10-31 00:07:34] [Mining Berjalan] Sisa: 0j 56m 41s (Selesai: 01:04:15). Saldo: 41.4000 EPS
+[2026-10-31 00:18:10] [Mining Berjalan] Sisa: 0j 46m 5s (Selesai: 01:04:15). Saldo: 41.4000 EPS
+[2026-10-31 00:28:42] [Mining Berjalan] Sisa: 0j 35m 33s (Selesai: 01:04:15). Saldo: 41.4000 EPS
+[2026-10-31 00:39:29] [Mining Berjalan] Sisa: 0j 24m 46s (Selesai: 01:04:15). Saldo: 41.4000 EPS
+[2026-10-31 00:50:12] [Mining Berjalan] Sisa: 0j 14m 3s (Selesai: 01:04:15). Saldo: 41.4000 EPS
+[2026-10-31 01:00:25] [Mining Berjalan] Sisa: 0j 3m 50s (Selesai: 01:04:15). Saldo: 41.4000 EPS
+[2026-10-31 01:11:09] Mengeksekusi klaim mining reward Epsilon...
+[2026-10-31 01:11:09] ==================================================
+[2026-10-31 01:11:09] >> KLAIM EPSILON BERHASIL! <<
+[2026-10-31 01:11:09] Reward Masuk : +1 EPS
+[2026-10-31 01:11:09] Total Saldo  : 42.4000 EPS
+[2026-10-31 01:11:09] ==================================================
+[2026-10-31 01:11:09] Menjalankan siklus penambangan Epsilon (Start Mining)...
+[2026-10-31 01:11:10] >> MINING BERHASIL DIMULAI! Siap klaim pada pukul: 03:11:10 <<
+[2026-10-31 01:21:47] [Mining Berjalan] Sisa: 1j 49m 22s (Selesai: 03:11:10). Saldo: 42.4000 EPS
+[2026-10-31 01:32:10] [Mining Berjalan] Sisa: 1j 38m 59s (Selesai: 03:11:10). Saldo: 42.4000 EPS
+[2026-10-31 01:42:52] >> Exception saat get_mining_status: HTTPSConnectionPool(host='api.epsilons.io', port=443): Read timed out. (read timeout=15) <<
+[2026-10-31 01:53:30] [Mining Berjalan] Sisa: 1j 17m 39s (Selesai: 03:11:10). Saldo: 42.4000 EPS
+[2026-10-31 02:03:43] [Mining Berjalan] Sisa: 1j 7m 26s (Selesai: 03:11:10). Saldo: 42.4000 EPS
+[2026-10-31 02:14:20] [Mining Berjalan] Sisa: 0j 56m 50s (Selesai: 03:11:10). Saldo: 42.4000 EPS
+[2026-10-31 02:24:40] [Mining Berjalan] Sisa: 0j 46m 29s (Selesai: 03:11:10). Saldo: 42.4000 EPS
+[2026-10-31 02:35:25] [Mining Berjalan] Sisa: 0j 35m 45s (Selesai: 03:11:10). Saldo: 42.4000 EPS
+[2026-10-31 02:45:43] [Mining Berjalan] Sisa: 0j 25m 26s (Selesai: 03:11:10). Saldo: 42.4000 EPS
+[2026-10-31 02:56:19] [Mining Berjalan] Sisa: 0j 14m 50s (Selesai: 03:11:10). Saldo: 42.4000 EPS
+[2026-10-31 03:06:45] [Mining Berjalan] Sisa: 0j 4m 24s (Selesai: 03:11:10). Saldo: 42.4000 EPS
+[2026-10-31 03:17:06] Mengeksekusi klaim mining reward Epsilon...
+[2026-10-31 03:17:06] ==================================================
+[2026-10-31 03:17:06] >> KLAIM EPSILON BERHASIL! <<
+[2026-10-31 03:17:06] Reward Masuk : +1 EPS
+[2026-10-31 03:17:06] Total Saldo  : 43.4000 EPS
+[2026-10-31 03:17:06] ==================================================
+[2026-10-31 03:17:06] Menjalankan siklus penambangan Epsilon (Start Mining)...
+[2026-10-31 03:17:06] >> MINING BERHASIL DIMULAI! Siap klaim pada pukul: 05:17:06 <<
+[2026-10-31 03:45:46] === Epsilon Miner Auto-Farmer Started ===
+[2026-10-31 03:45:48] [Mining Berjalan] Sisa: 1j 31m 18s (Selesai: 05:17:06). Saldo: 43.4000 EPS
+[2026-10-31 03:56:18] [Mining Berjalan] Sisa: 1j 20m 48s (Selesai: 05:17:06). Saldo: 43.4000 EPS
+[2026-10-31 04:06:44] [Mining Berjalan] Sisa: 1j 10m 22s (Selesai: 05:17:06). Saldo: 43.4000 EPS
+[2026-10-31 04:17:03] [Mining Berjalan] Sisa: 1j 0m 3s (Selesai: 05:17:06). Saldo: 43.4000 EPS
+[2026-10-31 04:27:24] [Mining Berjalan] Sisa: 0j 49m 42s (Selesai: 05:17:06). Saldo: 43.4000 EPS
+[2026-10-31 04:37:45] [Mining Berjalan] Sisa: 0j 39m 21s (Selesai: 05:17:06). Saldo: 43.4000 EPS
+[2026-10-31 04:47:59] [Mining Berjalan] Sisa: 0j 29m 6s (Selesai: 05:17:06). Saldo: 43.4000 EPS
+[2026-10-31 04:58:36] [Mining Berjalan] Sisa: 0j 18m 30s (Selesai: 05:17:06). Saldo: 43.4000 EPS
+[2026-10-31 05:08:59] [Mining Berjalan] Sisa: 0j 8m 7s (Selesai: 05:17:06). Saldo: 43.4000 EPS
+[2026-10-31 05:19:41] [Mining Berjalan] Sisa: 1j 59m 48s (Selesai: 07:19:30). Saldo: 44.4000 EPS
+[2026-10-31 05:30:08] [Mining Berjalan] Sisa: 1j 49m 22s (Selesai: 07:19:30). Saldo: 44.4000 EPS
+[2026-10-31 05:40:41] [Mining Berjalan] Sisa: 1j 38m 48s (Selesai: 07:19:30). Saldo: 44.4000 EPS
+[2026-10-31 05:51:24] [Mining Berjalan] Sisa: 1j 28m 6s (Selesai: 07:19:30). Saldo: 44.4000 EPS
+[2026-10-31 06:02:05] [Mining Berjalan] Sisa: 1j 17m 24s (Selesai: 07:19:30). Saldo: 44.4000 EPS
+[2026-10-31 06:12:46] [Mining Berjalan] Sisa: 1j 6m 43s (Selesai: 07:19:30). Saldo: 44.4000 EPS
+[2026-10-31 06:23:17] [Mining Berjalan] Sisa: 0j 56m 13s (Selesai: 07:19:30). Saldo: 44.4000 EPS
+[2026-10-31 06:33:53] [Mining Berjalan] Sisa: 0j 45m 36s (Selesai: 07:19:30). Saldo: 44.4000 EPS
+[2026-10-31 06:44:15] [Mining Berjalan] Sisa: 0j 35m 15s (Selesai: 07:19:30). Saldo: 44.4000 EPS
+[2026-10-31 06:54:37] [Mining Berjalan] Sisa: 0j 24m 52s (Selesai: 07:19:30). Saldo: 44.4000 EPS
+[2026-10-31 07:05:05] [Mining Berjalan] Sisa: 0j 14m 24s (Selesai: 07:19:30). Saldo: 44.4000 EPS
+[2026-10-31 07:15:27] [Mining Berjalan] Sisa: 0j 4m 2s (Selesai: 07:19:30). Saldo: 44.4000 EPS
+[2026-10-31 07:25:41] Mengeksekusi klaim mining reward Epsilon...
+[2026-10-31 07:25:42] ==================================================
+[2026-10-31 07:25:42] >> KLAIM EPSILON BERHASIL! <<
+[2026-10-31 07:25:42] Reward Masuk : +1 EPS
+[2026-10-31 07:25:42] Total Saldo  : 45.4000 EPS
+[2026-10-31 07:25:42] ==================================================
+[2026-10-31 07:25:42] Menjalankan siklus penambangan Epsilon (Start Mining)...
+[2026-10-31 07:25:42] >> MINING BERHASIL DIMULAI! Siap klaim pada pukul: 09:25:42 <<
+[2026-10-31 07:35:55] [Mining Berjalan] Sisa: 1j 49m 47s (Selesai: 09:25:42). Saldo: 45.4000 EPS
+[2026-10-31 07:46:27] [Mining Berjalan] Sisa: 1j 39m 15s (Selesai: 09:25:42). Saldo: 45.4000 EPS
+[2026-10-31 07:57:02] [Mining Berjalan] Sisa: 1j 28m 40s (Selesai: 09:25:42). Saldo: 45.4000 EPS
+[2026-10-31 08:07:18] [Mining Berjalan] Sisa: 1j 18m 24s (Selesai: 09:25:42). Saldo: 45.4000 EPS
+[2026-10-31 08:17:35] [Mining Berjalan] Sisa: 1j 8m 6s (Selesai: 09:25:42). Saldo: 45.4000 EPS
+[2026-10-31 08:28:02] [Mining Berjalan] Sisa: 0j 57m 40s (Selesai: 09:25:42). Saldo: 45.4000 EPS
+[2026-10-31 08:38:34] [Mining Berjalan] Sisa: 0j 47m 8s (Selesai: 09:25:42). Saldo: 45.4000 EPS
+[2026-10-31 08:49:12] [Mining Berjalan] Sisa: 0j 36m 29s (Selesai: 09:25:42). Saldo: 45.4000 EPS
+[2026-10-31 08:59:46] [Mining Berjalan] Sisa: 0j 25m 56s (Selesai: 09:25:42). Saldo: 45.4000 EPS
+[2026-10-31 09:10:00] [Mining Berjalan] Sisa: 0j 15m 42s (Selesai: 09:25:42). Saldo: 45.4000 EPS
+[2026-10-31 09:20:40] [Mining Berjalan] Sisa: 0j 5m 1s (Selesai: 09:25:42). Saldo: 45.4000 EPS
+[2026-10-31 09:31:00] Mengeksekusi klaim mining reward Epsilon...
+[2026-10-31 09:31:00] ==================================================
+[2026-10-31 09:31:00] >> KLAIM EPSILON BERHASIL! <<
+[2026-10-31 09:31:00] Reward Masuk : +1 EPS
+[2026-10-31 09:31:00] Total Saldo  : 46.4000 EPS
+[2026-10-31 09:31:00] ==================================================
+[2026-10-31 09:31:00] Menjalankan siklus penambangan Epsilon (Start Mining)...
+[2026-10-31 09:31:01] >> MINING BERHASIL DIMULAI! Siap klaim pada pukul: 11:31:00 <<
+[2026-10-31 09:41:34] [Mining Berjalan] Sisa: 1j 49m 26s (Selesai: 11:31:00). Saldo: 46.4000 EPS
+[2026-10-31 09:51:48] [Mining Berjalan] Sisa: 1j 39m 13s (Selesai: 11:31:00). Saldo: 46.4000 EPS
+[2026-10-31 10:02:19] [Mining Berjalan] Sisa: 1j 28m 41s (Selesai: 11:31:00). Saldo: 46.4000 EPS
+[2026-10-31 10:12:53] [Mining Berjalan] Sisa: 1j 18m 7s (Selesai: 11:31:00). Saldo: 46.4000 EPS
+[2026-10-31 10:23:18] [Mining Berjalan] Sisa: 1j 7m 42s (Selesai: 11:31:00). Saldo: 46.4000 EPS
+[2026-10-31 10:33:57] [Mining Berjalan] Sisa: 0j 57m 3s (Selesai: 11:31:00). Saldo: 46.4000 EPS
+[2026-10-31 10:44:19] [Mining Berjalan] Sisa: 0j 46m 41s (Selesai: 11:31:00). Saldo: 46.4000 EPS
+[2026-10-31 10:54:52] >> Exception saat get_mining_status: HTTPSConnectionPool(host='api.epsilons.io', port=443): Max retries exceeded with url: /api/v1/mining (Caused by NewConnectionError("HTTPSConnection(host='api.epsilons.io', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable")) <<
+[2026-10-31 11:05:08] [Mining Berjalan] Sisa: 0j 25m 52s (Selesai: 11:31:00). Saldo: 46.4000 EPS
+[2026-10-31 11:15:53] [Mining Berjalan] Sisa: 0j 15m 7s (Selesai: 11:31:00). Saldo: 46.4000 EPS
+[2026-10-31 11:26:35] [Mining Berjalan] Sisa: 0j 4m 25s (Selesai: 11:31:00). Saldo: 46.4000 EPS
+[2026-10-31 11:37:11] Mengeksekusi klaim mining reward Epsilon...
+[2026-10-31 11:37:11] ==================================================
+[2026-10-31 11:37:11] >> KLAIM EPSILON BERHASIL! <<
+[2026-10-31 11:37:11] Reward Masuk : +1 EPS
+[2026-10-31 11:37:11] Total Saldo  : 47.4000 EPS
+[2026-10-31 11:37:11] ==================================================
+[2026-10-31 11:37:11] Menjalankan siklus penambangan Epsilon (Start Mining)...
+[2026-10-31 11:37:12] >> MINING BERHASIL DIMULAI! Siap klaim pada pukul: 13:37:11 <<
+[2026-10-31 11:47:45] [Mining Berjalan] Sisa: 1j 49m 26s (Selesai: 13:37:11). Saldo: 47.4000 EPS
+[2026-10-31 11:58:28] [Mining Berjalan] Sisa: 1j 38m 44s (Selesai: 13:37:11). Saldo: 47.4000 EPS
+[2026-10-31 12:08:52] [Mining Berjalan] Sisa: 1j 28m 19s (Selesai: 13:37:11). Saldo: 47.4000 EPS
+[2026-10-31 12:19:40] [Mining Berjalan] Sisa: 1j 17m 31s (Selesai: 13:37:11). Saldo: 47.4000 EPS
+[2026-10-31 12:30:06] [Mining Berjalan] Sisa: 1j 7m 5s (Selesai: 13:37:11). Saldo: 47.4000 EPS
+[2026-10-31 12:40:28] [Mining Berjalan] Sisa: 0j 56m 44s (Selesai: 13:37:11). Saldo: 47.4000 EPS
+[2026-10-31 12:50:44] [Mining Berjalan] Sisa: 0j 46m 27s (Selesai: 13:37:11). Saldo: 47.4000 EPS
+[2026-10-31 13:01:19] [Mining Berjalan] Sisa: 0j 35m 52s (Selesai: 13:37:11). Saldo: 47.4000 EPS
+[2026-10-31 13:11:47] [Mining Berjalan] Sisa: 0j 25m 24s (Selesai: 13:37:11). Saldo: 47.4000 EPS
+[2026-10-31 13:22:14] [Mining Berjalan] Sisa: 0j 14m 58s (Selesai: 13:37:11). Saldo: 47.4000 EPS
+[2026-10-31 13:32:39] [Mining Berjalan] Sisa: 0j 4m 32s (Selesai: 13:37:11). Saldo: 47.4000 EPS
+[2026-10-31 13:43:07] Mengeksekusi klaim mining reward Epsilon...
+[2026-10-31 13:43:08] ==================================================
+[2026-10-31 13:43:08] >> KLAIM EPSILON BERHASIL! <<
+[2026-10-31 13:43:08] Reward Masuk : +1 EPS
+[2026-10-31 13:43:08] Total Saldo  : 48.4000 EPS
+[2026-10-31 13:43:08] ==================================================
+[2026-10-31 13:43:08] Menjalankan siklus penambangan Epsilon (Start Mining)...
+[2026-10-31 13:43:08] >> MINING BERHASIL DIMULAI! Siap klaim pada pukul: 15:43:08 <<
+[2026-10-31 13:53:51] [Mining Berjalan] Sisa: 1j 49m 16s (Selesai: 15:43:08). Saldo: 48.4000 EPS
+[2026-10-31 14:04:11] [Mining Berjalan] Sisa: 1j 38m 57s (Selesai: 15:43:08). Saldo: 48.4000 EPS
+[2026-10-31 14:14:35] [Mining Berjalan] Sisa: 1j 28m 32s (Selesai: 15:43:08). Saldo: 48.4000 EPS
+[2026-10-31 14:25:09] [Mining Berjalan] Sisa: 1j 17m 58s (Selesai: 15:43:08). Saldo: 48.4000 EPS
+[2026-10-31 14:35:40] [Mining Berjalan] Sisa: 1j 7m 28s (Selesai: 15:43:08). Saldo: 48.4000 EPS
+[2026-10-31 14:46:24] [Mining Berjalan] Sisa: 0j 56m 43s (Selesai: 15:43:08). Saldo: 48.4000 EPS
+[2026-10-31 14:56:35] [Mining Berjalan] Sisa: 0j 46m 32s (Selesai: 15:43:08). Saldo: 48.4000 EPS
+[2026-10-31 15:06:56] [Mining Berjalan] Sisa: 0j 36m 11s (Selesai: 15:43:08). Saldo: 48.4000 EPS
+[2026-10-31 15:17:33] [Mining Berjalan] Sisa: 0j 25m 35s (Selesai: 15:43:08). Saldo: 48.4000 EPS
+[2026-10-31 15:28:16] [Mining Berjalan] Sisa: 0j 14m 51s (Selesai: 15:43:08). Saldo: 48.4000 EPS
+[2026-10-31 15:39:00] [Mining Berjalan] Sisa: 0j 4m 7s (Selesai: 15:43:08). Saldo: 48.4000 EPS
+[2026-10-31 15:49:11] Mengeksekusi klaim mining reward Epsilon...
+[2026-10-31 15:49:11] ==================================================
+[2026-10-31 15:49:11] >> KLAIM EPSILON BERHASIL! <<
+[2026-10-31 15:49:11] Reward Masuk : +1 EPS
+[2026-10-31 15:49:11] Total Saldo  : 49.4000 EPS
+[2026-10-31 15:49:11] ==================================================
+[2026-10-31 15:49:11] Menjalankan siklus penambangan Epsilon (Start Mining)...
+[2026-10-31 15:49:11] >> MINING BERHASIL DIMULAI! Siap klaim pada pukul: 17:49:11 <<
+[2026-10-31 15:59:46] [Mining Berjalan] Sisa: 1j 49m 25s (Selesai: 17:49:11). Saldo: 49.4000 EPS
+[2026-10-31 16:10:09] [Mining Berjalan] Sisa: 1j 39m 2s (Selesai: 17:49:11). Saldo: 49.4000 EPS
+[2026-10-31 16:20:25] [Mining Berjalan] Sisa: 1j 28m 46s (Selesai: 17:49:11). Saldo: 49.4000 EPS
+[2026-10-31 16:30:41] [Mining Berjalan] Sisa: 1j 18m 30s (Selesai: 17:49:11). Saldo: 49.4000 EPS
+[2026-10-31 16:40:56] [Mining Berjalan] Sisa: 1j 8m 14s (Selesai: 17:49:11). Saldo: 49.4000 EPS
+[2026-10-31 16:51:13] [Mining Berjalan] Sisa: 0j 57m 58s (Selesai: 17:49:11). Saldo: 49.4000 EPS
+[2026-10-31 17:01:48] [Mining Berjalan] Sisa: 0j 47m 23s (Selesai: 17:49:11). Saldo: 49.4000 EPS
+[2026-10-31 17:12:17] [Mining Berjalan] Sisa: 0j 36m 53s (Selesai: 17:49:11). Saldo: 49.4000 EPS
+[2026-10-31 17:23:03] [Mining Berjalan] Sisa: 0j 26m 8s (Selesai: 17:49:11). Saldo: 49.4000 EPS

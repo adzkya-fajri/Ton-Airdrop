@@ -900,6 +900,123 @@ async def refresh_clayton(client):
         log(f"[Clayton] Error: {e}")
     return False
 
+async def refresh_deepmine(client):
+    try:
+        log("[DeepMine] Mengambil initData baru via @MineDeepBot...")
+        bot = await client.get_input_entity("MineDeepBot")
+        res = await client(functions.messages.RequestWebViewRequest(
+            peer=bot,
+            bot=bot,
+            platform="android",
+            url="https://linobot.ir/mine/?v=69",
+            from_bot_menu=False
+        ))
+        init_data = parse_init_data(res.url)
+        if not init_data:
+            return False
+
+        cfg_path = os.path.join(FARMERS_DIR, "deepmine", "config.json")
+        if os.path.exists(cfg_path):
+            with open(cfg_path, "r", encoding="utf-8") as f:
+                cfg = json.load(f)
+            cfg["init_data"] = init_data
+            with open(cfg_path, "w", encoding="utf-8") as f:
+                json.dump(cfg, f, indent=2)
+            log("[DeepMine] >> SUKSES menyegarkan initData Deep Mine! <<")
+            return True
+    except Exception as e:
+        log(f"[DeepMine] Error: {e}")
+    return False
+
+async def refresh_clone_vyq(client, folder_name, bot_username, domain_api, domain_web):
+    try:
+        log(f"[{folder_name.upper()}] Mengambil token baru via @{bot_username}...")
+        bot = await client.get_input_entity(bot_username)
+        app = types.InputBotAppShortName(bot_id=bot, short_name="app")
+        res = await client(functions.messages.RequestAppWebViewRequest(
+            peer=bot,
+            app=app,
+            platform="android"
+        ))
+        init_data = parse_init_data(res.url)
+        if not init_data:
+            return False
+
+        qs = urllib.parse.parse_qs(init_data)
+        u_obj = json.loads(qs.get("user", ["{}"])[0])
+        payload = {
+            "tg_id": u_obj.get("id"),
+            "name": u_obj.get("first_name", "Local Miner"),
+            "photo_url": u_obj.get("photo_url", ""),
+            "startapp": "",
+            "init_data": init_data
+        }
+        headers = {
+            "Origin": f"https://{domain_web}",
+            "Referer": f"https://{domain_web}/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 14; SM-S928B) AppleWebKit/537.36",
+            "Content-Type": "application/json"
+        }
+        r = requests.post(f"https://{domain_api}/api/login", json=payload, headers=headers, timeout=15)
+        token = ""
+        if r.status_code == 200 and r.json().get("code") == 1:
+            token = r.json().get("data", {}).get("token", "")
+
+        cfg_path = os.path.join(FARMERS_DIR, folder_name, "config.json")
+        if os.path.exists(cfg_path):
+            with open(cfg_path, "r", encoding="utf-8") as f:
+                cfg = json.load(f)
+            cfg["init_data"] = init_data
+            if token:
+                cfg["token"] = token
+            with open(cfg_path, "w", encoding="utf-8") as f:
+                json.dump(cfg, f, indent=2)
+            log(f"[{folder_name.upper()}] >> SUKSES menyegarkan JWT token & initData! <<")
+            return True
+    except Exception as e:
+        log(f"[{folder_name.upper()}] Error: {e}")
+    return False
+
+async def refresh_ironoath(client):
+    return await refresh_clone_vyq(client, "ironoath", "ironoathcompanybot", "api.ironoathcompany.top", "web.ironoathcompany.top")
+
+async def refresh_roadsterboost(client):
+    return await refresh_clone_vyq(client, "roadsterboost", "RoadsterBoost_bot", "api.roadsterboost.top", "web.roadsterboost.top")
+
+async def refresh_lunaroreburrow(client):
+    return await refresh_clone_vyq(client, "lunaroreburrow", "lunaroreburrowbot", "api.lunaroreburrow.top", "web.lunaroreburrow.top")
+
+async def refresh_polaredenjungle(client):
+    return await refresh_clone_vyq(client, "polaredenjungle", "polaredenjunglebot", "api.polaredenjungle.top", "web.polaredenjungle.top")
+
+async def refresh_gram24(client):
+    try:
+        log("[Gram24] Mengambil token baru via @Gram24MiningBot...")
+        bot = await client.get_input_entity("Gram24MiningBot")
+        res = await client(functions.messages.RequestWebViewRequest(
+            peer=bot,
+            bot=bot,
+            platform="android",
+            url="https://app.miniempire.app/miniapp/index.html?tid=2176&lang=en",
+            from_bot_menu=False
+        ))
+        init_data = parse_init_data(res.url)
+        if not init_data:
+            return False
+
+        cfg_path = os.path.join(FARMERS_DIR, "gram24", "config.json")
+        if os.path.exists(cfg_path):
+            with open(cfg_path, "r", encoding="utf-8") as f:
+                cfg = json.load(f)
+            cfg["init_data"] = init_data
+            with open(cfg_path, "w", encoding="utf-8") as f:
+                json.dump(cfg, f, indent=2)
+            log("[Gram24] >> SUKSES menyegarkan initData Gram24! <<")
+            return True
+    except Exception as e:
+        log(f"[Gram24] Error: {e}")
+    return False
+
 async def run_cycle():
     client = TelegramClient(SESSION_FILE, API_ID, API_HASH)
     await client.connect()
@@ -935,7 +1052,13 @@ async def run_cycle():
         ("EdgeOfEmpire", refresh_edgeofempire),
         ("AICMiner", refresh_aicminer),
         ("Catopia", refresh_catopia),
-        ("Clayton", refresh_clayton)
+        ("Clayton", refresh_clayton),
+        ("DeepMine", refresh_deepmine),
+        ("IronOath", refresh_ironoath),
+        ("RoadsterBoost", refresh_roadsterboost),
+        ("LunarOreBurrow", refresh_lunaroreburrow),
+        ("PolarEdenJungle", refresh_polaredenjungle),
+        ("Gram24", refresh_gram24)
     ]
 
     for name, func in tasks:

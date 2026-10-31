@@ -1,7 +1,7 @@
 {
   "api_base": "https://mining-gram-worker.muhaisin0888.workers.dev",
-  "init_data": "query_id=AAGSrklJAwAAAJKuSUk1OFY9&user=%7B%22id%22%3A7672016530%2C%22first_name%22%3A%22Zalx%22%2C%22last_name%22%3A%22Arthur%F0%9F%91%81%EF%B8%8F%22%2C%22username%22%3A%22Zelx_arthur%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%2C%22photo_url%22%3A%22https%3A%5C%2F%5C%2Ft.me%5C%2Fi%5C%2Fuserpic%5C%2F320%5C%2Fv96kRhHY1T977z3IwkUGjaURizI7RcwjhB6EY86FyCOFphG0qaYldaFhiyTUG2rW.svg%22%7D&auth_date=1793372396&signature=MmrSx_7O3EMJK-Y-5GTZPstugtYp3WeM6Ruw7R0tKSZbYMyd6Rdhla8pGBFYRA8zkZQHqbMz7Z9fGtP_sg6KCA&hash=dc0e948a35d639bea04d2811d18348192ca4d04beb7eac929bc5d625a9f03517",
-  "session_token": "eyJ0ZWxlZ3JhbUlkIjo3NjcyMDE2NTMwLCJ1c2VySWQiOiJiMjI0NDUyYi0yZjZjLTRmMTMtYTIwYS1jNWEyZjQxOGEzNzAiLCJpYXQiOjE3OTMzNzIzOTcsImV4cCI6MTc5MzM3NTk5N30.e6be40cbf31e1c9d1584f48a513c3617d18c2dee49f122d7fda69008167b72e4",
+  "init_data": "query_id=AAGSrklJAwAAAJKuSUkOsTFL&user=%7B%22id%22%3A7672016530%2C%22first_name%22%3A%22Zalx%22%2C%22last_name%22%3A%22Arthur%F0%9F%91%81%EF%B8%8F%22%2C%22username%22%3A%22Zelx_arthur%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%2C%22photo_url%22%3A%22https%3A%5C%2F%5C%2Ft.me%5C%2Fi%5C%2Fuserpic%5C%2F320%5C%2Fv96kRhHY1T977z3IwkUGjaURizI7RcwjhB6EY86FyCOFphG0qaYldaFhiyTUG2rW.svg%22%7D&auth_date=1793441442&signature=XV3vK5SxgekrKHRPeDKRRGUdFKBIXzm2tCAfZ_vDzcQIg3x87zn911P2rH3fC0Io6XaikFSI0XUsVUOueRDlBQ&hash=821490dbd59e9f79ce286411ac2f7d57516be2739afd967f01564fa1f11c3795",
+  "session_token": "eyJ0ZWxlZ3JhbUlkIjo3NjcyMDE2NTMwLCJ1c2VySWQiOiJiMjI0NDUyYi0yZjZjLTRmMTMtYTIwYS1jNWEyZjQxOGEzNzAiLCJpYXQiOjE3OTM0NDE0NDMsImV4cCI6MTc5MzQ0NTA0M30.a7c5998b225141900330817fae7cfbee096deff49560986e6800024abff6323a",
   "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36",
   "check_interval_seconds": 300,
   "auto_claim_miners": true,

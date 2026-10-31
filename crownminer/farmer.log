@@ -2777,3 +2777,326 @@
 [2026-10-30 21:52:54] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
 [2026-10-30 21:52:55] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 5,076 | Emas = 5,803
 [2026-10-30 21:52:55] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-30 22:07:56] ⛏️ [STATUS] Kedalaman: 52,434m | Rate: 5/jam | Shards: 222 | Emas: 5823 | Bijih: 5094 | Crown: 30
+[2026-10-30 22:07:57] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-30 22:07:58] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 5,094 | Emas = 5,823
+[2026-10-30 22:07:58] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-30 22:22:59] ⛏️ [STATUS] Kedalaman: 52,509m | Rate: 5/jam | Shards: 223 | Emas: 5842 | Bijih: 5111 | Crown: 30
+[2026-10-30 22:23:00] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-30 22:23:01] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 5,111 | Emas = 5,842
+[2026-10-30 22:23:01] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-30 22:38:03] ⛏️ [STATUS] Kedalaman: 52,584m | Rate: 5/jam | Shards: 224 | Emas: 5862 | Bijih: 5128 | Crown: 30
+[2026-10-30 22:38:04] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-30 22:38:04] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 5,128 | Emas = 5,862
+[2026-10-30 22:38:04] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-30 22:53:06] ⛏️ [STATUS] Kedalaman: 52,660m | Rate: 5/jam | Shards: 225 | Emas: 5881 | Bijih: 5145 | Crown: 30
+[2026-10-30 22:53:06] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-30 22:53:07] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 5,145 | Emas = 5,881
+[2026-10-30 22:53:07] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-30 23:08:08] ⛏️ [STATUS] Kedalaman: 52,735m | Rate: 5/jam | Shards: 227 | Emas: 5901 | Bijih: 5162 | Crown: 30
+[2026-10-30 23:08:09] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-30 23:08:10] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 5,162 | Emas = 5,901
+[2026-10-30 23:08:10] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-30 23:23:11] ⛏️ [STATUS] Kedalaman: 52,810m | Rate: 5/jam | Shards: 228 | Emas: 5920 | Bijih: 5179 | Crown: 30
+[2026-10-30 23:23:12] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-30 23:23:13] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 5,179 | Emas = 5,920
+[2026-10-30 23:23:13] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-30 23:38:19] ⛏️ [STATUS] Kedalaman: 52,886m | Rate: 5/jam | Shards: 229 | Emas: 5940 | Bijih: 5196 | Crown: 30
+[2026-10-30 23:38:21] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-30 23:38:22] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 5,196 | Emas = 5,940
+[2026-10-30 23:38:22] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-30 23:53:23] ⛏️ [STATUS] Kedalaman: 52,961m | Rate: 5/jam | Shards: 230 | Emas: 5959 | Bijih: 5213 | Crown: 30
+[2026-10-30 23:53:24] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-30 23:53:24] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 5,213 | Emas = 5,959
+[2026-10-30 23:53:24] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 00:08:25] ⛏️ [STATUS] Kedalaman: 53,036m | Rate: 5/jam | Shards: 231 | Emas: 5979 | Bijih: 5230 | Crown: 30
+[2026-10-31 00:08:26] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 00:08:27] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 5,230 | Emas = 5,979
+[2026-10-31 00:08:27] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 00:23:28] ⛏️ [STATUS] Kedalaman: 53,112m | Rate: 5/jam | Shards: 232 | Emas: 5998 | Bijih: 5247 | Crown: 30
+[2026-10-31 00:23:28] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 00:23:29] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 5,247 | Emas = 5,998
+[2026-10-31 00:23:29] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 00:38:30] ⛏️ [STATUS] Kedalaman: 53,187m | Rate: 5/jam | Shards: 234 | Emas: 6018 | Bijih: 5264 | Crown: 30
+[2026-10-31 00:38:31] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 00:38:32] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 5,264 | Emas = 6,018
+[2026-10-31 00:38:32] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 00:53:38] ⛏️ [STATUS] Kedalaman: 53,262m | Rate: 5/jam | Shards: 235 | Emas: 6037 | Bijih: 5281 | Crown: 30
+[2026-10-31 00:53:39] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 00:53:39] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 5,281 | Emas = 6,037
+[2026-10-31 00:53:39] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 01:08:40] ⛏️ [STATUS] Kedalaman: 53,338m | Rate: 5/jam | Shards: 236 | Emas: 6057 | Bijih: 5299 | Crown: 30
+[2026-10-31 01:08:41] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 01:08:42] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 5,299 | Emas = 6,057
+[2026-10-31 01:08:42] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 01:23:43] ⛏️ [STATUS] Kedalaman: 53,413m | Rate: 5/jam | Shards: 237 | Emas: 6076 | Bijih: 5316 | Crown: 30
+[2026-10-31 01:23:44] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 01:23:45] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 5,316 | Emas = 6,076
+[2026-10-31 01:23:45] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 01:38:49] ⛏️ [STATUS] Kedalaman: 53,488m | Rate: 5/jam | Shards: 238 | Emas: 6096 | Bijih: 5333 | Crown: 30
+[2026-10-31 01:38:50] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 01:39:08] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 5,333 | Emas = 6,096
+[2026-10-31 01:39:08] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 01:54:09] ⛏️ [STATUS] Kedalaman: 53,565m | Rate: 5/jam | Shards: 239 | Emas: 6116 | Bijih: 5350 | Crown: 30
+[2026-10-31 01:54:10] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 01:54:11] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 5,350 | Emas = 6,116
+[2026-10-31 01:54:11] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 02:09:12] ⛏️ [STATUS] Kedalaman: 53,640m | Rate: 5/jam | Shards: 241 | Emas: 6135 | Bijih: 5367 | Crown: 30
+[2026-10-31 02:09:14] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 02:09:14] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 5,367 | Emas = 6,135
+[2026-10-31 02:09:14] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 02:24:15] ⛏️ [STATUS] Kedalaman: 53,716m | Rate: 5/jam | Shards: 242 | Emas: 6155 | Bijih: 5384 | Crown: 30
+[2026-10-31 02:24:16] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 02:24:17] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 5,384 | Emas = 6,155
+[2026-10-31 02:24:17] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 02:39:18] ⛏️ [STATUS] Kedalaman: 53,791m | Rate: 5/jam | Shards: 0 | Emas: 6174 | Bijih: 5401 | Crown: 39
+[2026-10-31 02:39:18] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 02:39:18] ⚡ Energi Tap Tersedia: 111 tap. Menjalankan auto-tap...
+[2026-10-31 02:39:19] ⚡ Tap 50x Sukses (+20 shards). Sisa tap: 91 | Total shards: 20
+[2026-10-31 02:39:22] ⚡ Tap 50x Sukses (+20 shards). Sisa tap: 71 | Total shards: 40
+[2026-10-31 02:39:24] ⚡ Tap 50x Sukses (+16 shards). Sisa tap: 55 | Total shards: 56
+[2026-10-31 02:39:26] ⚡ Tap 50x Sukses (+17 shards). Sisa tap: 38 | Total shards: 73
+[2026-10-31 02:39:28] ⚡ Tap 38x Sukses (+20 shards). Sisa tap: 18 | Total shards: 93
+[2026-10-31 02:39:30] ⚡ Tap 18x Sukses (+17 shards). Sisa tap: 1 | Total shards: 110
+[2026-10-31 02:39:33] ⚡ Tap 1x Sukses (+1 shards). Sisa tap: 0 | Total shards: 111
+[2026-10-31 02:39:33] Batas harian tap telah tercapai untuk hari ini.
+[2026-10-31 02:39:33] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 5,402 | Emas = 6,175
+[2026-10-31 02:39:33] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 02:54:34] ⛏️ [STATUS] Kedalaman: 53,876m | Rate: 5/jam | Shards: 112 | Emas: 6194 | Bijih: 5419 | Crown: 39
+[2026-10-31 02:54:35] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 02:54:36] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 5,419 | Emas = 6,194
+[2026-10-31 02:54:36] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 03:09:37] ⛏️ [STATUS] Kedalaman: 53,952m | Rate: 5/jam | Shards: 114 | Emas: 6214 | Bijih: 5436 | Crown: 39
+[2026-10-31 03:09:38] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 03:09:39] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 5,436 | Emas = 6,214
+[2026-10-31 03:09:39] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 03:45:45] ==================================================
+[2026-10-31 03:45:45]    CROWNMINER TELEGRAM MINI-APP AUTO-FARMER       
+[2026-10-31 03:45:45] ==================================================
+[2026-10-31 03:45:52] ⛏️ [STATUS] Kedalaman: 54,133m | Rate: 5/jam | Shards: 116 | Emas: 6261 | Bijih: 5477 | Crown: 39
+[2026-10-31 03:45:55] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 03:45:56] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 5,477 | Emas = 6,261
+[2026-10-31 03:45:56] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 04:00:57] ⛏️ [STATUS] Kedalaman: 54,208m | Rate: 5/jam | Shards: 118 | Emas: 6280 | Bijih: 5494 | Crown: 39
+[2026-10-31 04:00:58] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 04:00:58] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 5,494 | Emas = 6,280
+[2026-10-31 04:00:58] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 04:15:59] ⛏️ [STATUS] Kedalaman: 54,284m | Rate: 5/jam | Shards: 119 | Emas: 6300 | Bijih: 5511 | Crown: 39
+[2026-10-31 04:16:00] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 04:16:01] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 5,511 | Emas = 6,300
+[2026-10-31 04:16:01] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 04:31:02] ⛏️ [STATUS] Kedalaman: 54,359m | Rate: 5/jam | Shards: 120 | Emas: 6319 | Bijih: 5528 | Crown: 39
+[2026-10-31 04:31:02] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 04:31:03] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 5,528 | Emas = 6,319
+[2026-10-31 04:31:03] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 04:46:09] ⛏️ [STATUS] Kedalaman: 54,434m | Rate: 5/jam | Shards: 121 | Emas: 6339 | Bijih: 5545 | Crown: 39
+[2026-10-31 04:46:10] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 04:46:10] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 5,545 | Emas = 6,339
+[2026-10-31 04:46:10] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 05:01:11] ⛏️ [STATUS] Kedalaman: 54,510m | Rate: 5/jam | Shards: 122 | Emas: 6358 | Bijih: 5562 | Crown: 39
+[2026-10-31 05:01:12] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 05:01:13] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 5,562 | Emas = 6,358
+[2026-10-31 05:01:13] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 05:16:14] ⛏️ [STATUS] Kedalaman: 54,585m | Rate: 5/jam | Shards: 123 | Emas: 6378 | Bijih: 5579 | Crown: 39
+[2026-10-31 05:16:14] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 05:16:15] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 5,579 | Emas = 6,378
+[2026-10-31 05:16:15] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 05:31:16] ⛏️ [STATUS] Kedalaman: 54,660m | Rate: 5/jam | Shards: 124 | Emas: 6397 | Bijih: 5596 | Crown: 39
+[2026-10-31 05:31:17] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 05:31:17] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 5,596 | Emas = 6,397
+[2026-10-31 05:31:17] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 05:46:18] ⛏️ [STATUS] Kedalaman: 54,735m | Rate: 5/jam | Shards: 126 | Emas: 6417 | Bijih: 5613 | Crown: 39
+[2026-10-31 05:46:19] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 05:46:20] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 5,613 | Emas = 6,417
+[2026-10-31 05:46:20] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 06:01:21] ⛏️ [STATUS] Kedalaman: 54,810m | Rate: 5/jam | Shards: 127 | Emas: 6436 | Bijih: 5631 | Crown: 39
+[2026-10-31 06:01:22] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 06:01:23] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 5,631 | Emas = 6,436
+[2026-10-31 06:01:23] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 06:16:24] ⛏️ [STATUS] Kedalaman: 54,886m | Rate: 5/jam | Shards: 128 | Emas: 6456 | Bijih: 5648 | Crown: 39
+[2026-10-31 06:16:25] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 06:16:25] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 5,648 | Emas = 6,456
+[2026-10-31 06:16:25] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 06:31:32] ⛏️ [STATUS] Kedalaman: 54,961m | Rate: 5/jam | Shards: 129 | Emas: 6475 | Bijih: 5665 | Crown: 39
+[2026-10-31 06:31:33] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 06:31:34] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 5,665 | Emas = 6,475
+[2026-10-31 06:31:34] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 06:46:35] ⛏️ [STATUS] Kedalaman: 55,037m | Rate: 5/jam | Shards: 130 | Emas: 6495 | Bijih: 5682 | Crown: 39
+[2026-10-31 06:46:36] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 06:46:36] ⚡ Energi Tap Tersedia: 3 tap. Menjalankan auto-tap...
+[2026-10-31 06:46:37] ⚡ Tap 3x Sukses (+3 shards). Sisa tap: 0 | Total shards: 133
+[2026-10-31 06:46:37] Batas harian tap telah tercapai untuk hari ini.
+[2026-10-31 06:46:37] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 5,682 | Emas = 6,495
+[2026-10-31 06:46:37] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 07:01:38] ⛏️ [STATUS] Kedalaman: 55,112m | Rate: 5/jam | Shards: 135 | Emas: 6514 | Bijih: 5699 | Crown: 39
+[2026-10-31 07:01:39] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 07:01:40] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 5,699 | Emas = 6,514
+[2026-10-31 07:01:40] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 07:16:41] ⛏️ [STATUS] Kedalaman: 55,187m | Rate: 5/jam | Shards: 136 | Emas: 6534 | Bijih: 5716 | Crown: 39
+[2026-10-31 07:16:42] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 07:16:42] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 5,716 | Emas = 6,534
+[2026-10-31 07:16:42] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 07:31:50] ⛏️ [STATUS] Kedalaman: 55,263m | Rate: 5/jam | Shards: 137 | Emas: 6554 | Bijih: 5733 | Crown: 39
+[2026-10-31 07:31:54] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 07:31:55] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 5,733 | Emas = 6,554
+[2026-10-31 07:31:55] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 07:46:56] ⛏️ [STATUS] Kedalaman: 55,338m | Rate: 5/jam | Shards: 138 | Emas: 6573 | Bijih: 5750 | Crown: 39
+[2026-10-31 07:46:56] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 07:46:58] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 5,750 | Emas = 6,573
+[2026-10-31 07:46:58] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 08:01:59] ⛏️ [STATUS] Kedalaman: 55,414m | Rate: 5/jam | Shards: 139 | Emas: 6593 | Bijih: 5767 | Crown: 39
+[2026-10-31 08:02:00] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 08:02:00] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 5,767 | Emas = 6,593
+[2026-10-31 08:02:00] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 08:17:01] ⛏️ [STATUS] Kedalaman: 55,489m | Rate: 5/jam | Shards: 141 | Emas: 6612 | Bijih: 5784 | Crown: 39
+[2026-10-31 08:17:02] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 08:17:03] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 5,784 | Emas = 6,612
+[2026-10-31 08:17:03] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 08:32:04] ⛏️ [STATUS] Kedalaman: 55,564m | Rate: 5/jam | Shards: 142 | Emas: 6632 | Bijih: 5801 | Crown: 39
+[2026-10-31 08:32:05] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 08:32:05] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 5,801 | Emas = 6,632
+[2026-10-31 08:32:05] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 08:47:11] ⛏️ [STATUS] Kedalaman: 55,640m | Rate: 5/jam | Shards: 143 | Emas: 6651 | Bijih: 5819 | Crown: 39
+[2026-10-31 08:47:12] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 08:47:13] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 5,819 | Emas = 6,651
+[2026-10-31 08:47:13] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 09:02:14] ⛏️ [STATUS] Kedalaman: 55,715m | Rate: 5/jam | Shards: 144 | Emas: 6671 | Bijih: 5836 | Crown: 39
+[2026-10-31 09:02:15] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 09:02:16] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 5,836 | Emas = 6,671
+[2026-10-31 09:02:16] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 09:17:18] ⛏️ [STATUS] Kedalaman: 55,790m | Rate: 5/jam | Shards: 145 | Emas: 6690 | Bijih: 5853 | Crown: 39
+[2026-10-31 09:17:18] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 09:17:19] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 5,853 | Emas = 6,690
+[2026-10-31 09:17:19] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 09:32:20] ⛏️ [STATUS] Kedalaman: 55,866m | Rate: 5/jam | Shards: 147 | Emas: 6710 | Bijih: 5870 | Crown: 39
+[2026-10-31 09:32:21] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 09:32:22] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 5,870 | Emas = 6,710
+[2026-10-31 09:32:22] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 09:47:23] ⛏️ [STATUS] Kedalaman: 55,941m | Rate: 5/jam | Shards: 148 | Emas: 6729 | Bijih: 5887 | Crown: 39
+[2026-10-31 09:47:31] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 09:47:33] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 5,887 | Emas = 6,729
+[2026-10-31 09:47:33] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 10:02:36] ⛏️ [STATUS] Kedalaman: 56,017m | Rate: 5/jam | Shards: 149 | Emas: 6749 | Bijih: 5904 | Crown: 39
+[2026-10-31 10:02:37] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 10:02:38] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 5,904 | Emas = 6,749
+[2026-10-31 10:02:38] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 10:17:40] ⛏️ [STATUS] Kedalaman: 56,092m | Rate: 5/jam | Shards: 150 | Emas: 6769 | Bijih: 5921 | Crown: 39
+[2026-10-31 10:17:42] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 10:17:43] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 5,921 | Emas = 6,769
+[2026-10-31 10:17:43] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 10:32:44] ⛏️ [STATUS] Kedalaman: 56,168m | Rate: 5/jam | Shards: 151 | Emas: 6788 | Bijih: 5938 | Crown: 39
+[2026-10-31 10:32:50] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 10:32:52] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 5,938 | Emas = 6,788
+[2026-10-31 10:32:52] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 10:47:53] ⛏️ [STATUS] Kedalaman: 56,243m | Rate: 5/jam | Shards: 153 | Emas: 6808 | Bijih: 5956 | Crown: 39
+[2026-10-31 10:47:54] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 10:47:55] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 5,956 | Emas = 6,808
+[2026-10-31 10:47:55] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 11:03:01] ⛏️ [STATUS] Kedalaman: 56,319m | Rate: 5/jam | Shards: 154 | Emas: 6827 | Bijih: 5973 | Crown: 39
+[2026-10-31 11:03:02] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 11:03:03] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 5,973 | Emas = 6,827
+[2026-10-31 11:03:03] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 11:18:12] ⛏️ [STATUS] Kedalaman: 56,395m | Rate: 5/jam | Shards: 155 | Emas: 6847 | Bijih: 5990 | Crown: 39
+[2026-10-31 11:18:13] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 11:18:14] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 5,990 | Emas = 6,847
+[2026-10-31 11:18:14] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 11:33:15] ⛏️ [STATUS] Kedalaman: 56,470m | Rate: 5/jam | Shards: 156 | Emas: 6867 | Bijih: 6007 | Crown: 39
+[2026-10-31 11:33:16] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 11:33:17] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 6,007 | Emas = 6,867
+[2026-10-31 11:33:17] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 11:48:19] ⛏️ [STATUS] Kedalaman: 56,545m | Rate: 5/jam | Shards: 157 | Emas: 6886 | Bijih: 6024 | Crown: 39
+[2026-10-31 11:48:22] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 11:48:28] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 6,024 | Emas = 6,886
+[2026-10-31 11:48:28] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 12:03:30] ⛏️ [STATUS] Kedalaman: 56,621m | Rate: 5/jam | Shards: 159 | Emas: 6906 | Bijih: 6041 | Crown: 39
+[2026-10-31 12:03:36] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 12:03:37] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 6,041 | Emas = 6,906
+[2026-10-31 12:03:37] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 12:18:41] ⛏️ [STATUS] Kedalaman: 56,697m | Rate: 5/jam | Shards: 160 | Emas: 6925 | Bijih: 6059 | Crown: 39
+[2026-10-31 12:18:42] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 12:18:44] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 6,059 | Emas = 6,925
+[2026-10-31 12:18:44] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 12:33:45] ⛏️ [STATUS] Kedalaman: 56,773m | Rate: 5/jam | Shards: 161 | Emas: 6945 | Bijih: 6076 | Crown: 39
+[2026-10-31 12:33:47] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 12:33:48] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 6,076 | Emas = 6,945
+[2026-10-31 12:33:48] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 12:48:55] ⛏️ [STATUS] Kedalaman: 56,848m | Rate: 5/jam | Shards: 163 | Emas: 6965 | Bijih: 6093 | Crown: 39
+[2026-10-31 12:48:57] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 12:48:57] ⚡ Energi Tap Tersedia: 22 tap. Menjalankan auto-tap...
+[2026-10-31 12:48:58] ⚡ Tap 22x Sukses (+20 shards). Sisa tap: 2 | Total shards: 183
+[2026-10-31 12:49:02] ⚡ Tap 2x Sukses (+2 shards). Sisa tap: 0 | Total shards: 185
+[2026-10-31 12:49:02] Batas harian tap telah tercapai untuk hari ini.
+[2026-10-31 12:49:08] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 6,093 | Emas = 6,965
+[2026-10-31 12:49:08] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 13:04:16] ⛏️ [STATUS] Kedalaman: 56,927m | Rate: 5/jam | Shards: 188 | Emas: 6985 | Bijih: 6110 | Crown: 39
+[2026-10-31 13:04:20] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 13:04:21] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 6,110 | Emas = 6,985
+[2026-10-31 13:04:21] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 13:19:23] ⛏️ [STATUS] Kedalaman: 57,003m | Rate: 5/jam | Shards: 189 | Emas: 7004 | Bijih: 6127 | Crown: 39
+[2026-10-31 13:19:24] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 13:19:25] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 6,127 | Emas = 7,004
+[2026-10-31 13:19:25] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 13:34:35] ⛏️ [STATUS] Kedalaman: 57,079m | Rate: 5/jam | Shards: 190 | Emas: 7024 | Bijih: 6145 | Crown: 39
+[2026-10-31 13:34:36] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 13:34:41] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 6,145 | Emas = 7,024
+[2026-10-31 13:34:41] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 13:49:42] ⛏️ [STATUS] Kedalaman: 57,154m | Rate: 5/jam | Shards: 191 | Emas: 7043 | Bijih: 6162 | Crown: 39
+[2026-10-31 13:49:43] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 13:49:43] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 6,162 | Emas = 7,043
+[2026-10-31 13:49:43] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 14:04:51] ⛏️ [STATUS] Kedalaman: 57,230m | Rate: 5/jam | Shards: 192 | Emas: 7063 | Bijih: 6179 | Crown: 39
+[2026-10-31 14:04:57] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 14:04:58] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 6,179 | Emas = 7,063
+[2026-10-31 14:04:58] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 14:19:59] ⛏️ [STATUS] Kedalaman: 57,306m | Rate: 5/jam | Shards: 194 | Emas: 7083 | Bijih: 6196 | Crown: 39
+[2026-10-31 14:20:00] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 14:20:01] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 6,196 | Emas = 7,083
+[2026-10-31 14:20:01] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 14:35:02] ⛏️ [STATUS] Kedalaman: 57,381m | Rate: 5/jam | Shards: 195 | Emas: 7102 | Bijih: 6213 | Crown: 39
+[2026-10-31 14:35:03] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 14:35:03] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 6,213 | Emas = 7,102
+[2026-10-31 14:35:03] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 14:50:04] ⛏️ [STATUS] Kedalaman: 57,456m | Rate: 5/jam | Shards: 196 | Emas: 7122 | Bijih: 6230 | Crown: 39
+[2026-10-31 14:50:05] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 14:50:06] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 6,230 | Emas = 7,122
+[2026-10-31 14:50:06] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 15:05:07] ⛏️ [STATUS] Kedalaman: 57,531m | Rate: 5/jam | Shards: 197 | Emas: 7141 | Bijih: 6247 | Crown: 39
+[2026-10-31 15:05:08] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 15:05:08] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 6,247 | Emas = 7,141
+[2026-10-31 15:05:08] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 15:20:10] ⛏️ [STATUS] Kedalaman: 57,607m | Rate: 5/jam | Shards: 198 | Emas: 7161 | Bijih: 6264 | Crown: 39
+[2026-10-31 15:20:10] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 15:20:11] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 6,264 | Emas = 7,161
+[2026-10-31 15:20:11] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 15:35:12] ⛏️ [STATUS] Kedalaman: 57,682m | Rate: 5/jam | Shards: 200 | Emas: 7180 | Bijih: 6281 | Crown: 39
+[2026-10-31 15:35:13] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 15:35:13] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 6,281 | Emas = 7,180
+[2026-10-31 15:35:13] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 15:50:14] ⛏️ [STATUS] Kedalaman: 57,757m | Rate: 5/jam | Shards: 201 | Emas: 7200 | Bijih: 6298 | Crown: 39
+[2026-10-31 15:50:15] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 15:50:16] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 6,298 | Emas = 7,200
+[2026-10-31 15:50:16] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 16:05:17] ⛏️ [STATUS] Kedalaman: 57,832m | Rate: 5/jam | Shards: 202 | Emas: 7219 | Bijih: 6316 | Crown: 39
+[2026-10-31 16:05:17] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 16:05:18] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 6,316 | Emas = 7,219
+[2026-10-31 16:05:18] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 16:20:24] ⛏️ [STATUS] Kedalaman: 57,908m | Rate: 5/jam | Shards: 203 | Emas: 7239 | Bijih: 6333 | Crown: 39
+[2026-10-31 16:20:25] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 16:20:26] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 6,333 | Emas = 7,239
+[2026-10-31 16:20:26] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 16:35:32] ⛏️ [STATUS] Kedalaman: 57,983m | Rate: 5/jam | Shards: 204 | Emas: 7258 | Bijih: 6350 | Crown: 39
+[2026-10-31 16:35:33] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 16:35:33] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 6,350 | Emas = 7,258
+[2026-10-31 16:35:33] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 16:50:34] ⛏️ [STATUS] Kedalaman: 58,059m | Rate: 5/jam | Shards: 206 | Emas: 7278 | Bijih: 6367 | Crown: 39
+[2026-10-31 16:50:35] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 16:50:36] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 6,367 | Emas = 7,278
+[2026-10-31 16:50:36] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 17:05:37] ⛏️ [STATUS] Kedalaman: 58,134m | Rate: 5/jam | Shards: 207 | Emas: 7297 | Bijih: 6384 | Crown: 39
+[2026-10-31 17:05:37] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 17:05:38] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 6,384 | Emas = 7,297
+[2026-10-31 17:05:38] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
+[2026-10-31 17:20:44] ⛏️ [STATUS] Kedalaman: 58,209m | Rate: 5/jam | Shards: 208 | Emas: 7317 | Bijih: 6401 | Crown: 39
+[2026-10-31 17:20:45] 🎁 Buka Peti Kedalaman #{'idx': 3, 'km': 50, 'tier': 'silver'}: {'ok': False, 'error': 'not_ready'}
+[2026-10-31 17:20:46] 📦 [COLLECT] Panen Sukses! Saldo Terkumpul: Bijih = 6,401 | Emas = 7,317
+[2026-10-31 17:20:46] 💤 Siklus selesai. Tidur 15 menit sebelum pengumpulan berikutnya...
