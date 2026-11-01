@@ -1,0 +1,7 @@
+{
+  "api_base": "https://vyro.run.place/api",
+  "auth": "tma query_id=AAGSrklJAwAAAJKuSUnSU3a4&user=%7B%22id%22%3A1234567890%2C%22first_name%22%3A%22YourName%22%2C%22last_name%22%3A%22Arthur%F0%9F%91%81%EF%B8%8F%22%2C%22username%22%3A%22YourUsername%22%2C%22language_code%22%3A%22id%22%2C%22allows_write_to_pm%22%3Atrue%2C%22photo_url%22%3A%22https%3A%5C%2F%5C%2Ft.me%5C%2Fi%5C%2Fuserpic%5C%2F320%5C%2Fv96kRhHY1T977z3IwkUGjaURizI7RcwjhB6EY86FyCOFphG0qaYldaFhiyTUG2rW.svg%22%7D&auth_date=1793540562&signature=iayot0O4dcSgABEc2Pt4GpBU3jEEVZS1LFV8TX78BULhalo-FEhProS_K_ATmIvCBW4bqOQDfVMqT-6Ng67ICQ&hash=a1640753b2af4851df78a8fe5e1907f8ba46a21b8d83bca25b6e49d67ee807e8",
+  "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+  "claim_interval_seconds": 1800,
+  "enabled": true
+}
