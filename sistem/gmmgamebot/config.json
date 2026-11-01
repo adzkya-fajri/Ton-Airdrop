@@ -1,0 +1,24 @@
+{
+  "enabled": true,
+  "bot_id": 44,
+  "handle": "@gmmgamebot",
+  "name": "GramMiner",
+  "cluster": "dex_listed_tokens",
+  "rating": 3,
+  "stars": "⭐⭐⭐",
+  "tier": "Tier 2 - Layak",
+  "category": "GPU Farm Merge Simulator",
+  "frontend_url": "https://gramminer.play4ton.com/",
+  "backend_url": "https://gramminer.play4ton.com/server/api/gate.php",
+  "auth_type": "Telegram initData",
+  "reward_type": "GRAM Tokens on-chain",
+  "endpoints": [
+    "POST /server/api/gate.php (action: merge, hash_claim)"
+  ],
+  "notes": "Ekosistem Play4TON. Merge rig hardware untuk melipatgandakan hashrate penambangan GRAM.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600
+}
