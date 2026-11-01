@@ -1,0 +1,9 @@
+{
+  "balance": 56.666666,
+  "pending": 1.644128,
+  "stops_at": 1793541526244,
+  "next_claim_at": 1793541526244,
+  "min_swap": 1000,
+  "ton_min_withdraw": 0.5,
+  "updated_at": "2026-11-01T20:52:17.229568"
+}
