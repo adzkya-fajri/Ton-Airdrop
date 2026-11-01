@@ -1,0 +1,25 @@
+{
+  "enabled": true,
+  "bot_id": 26,
+  "handle": "@FlamesEarnBot",
+  "name": "Flames Earn Bot",
+  "cluster": "ads_task",
+  "rating": 3,
+  "stars": "⭐⭐⭐",
+  "tier": "Tier 2 - Layak",
+  "category": "Gaming Hub & Stars Mining",
+  "frontend_url": "https://flamesearn.site/",
+  "backend_url": "https://flamesearn.site/api/",
+  "auth_type": "Telegram WebApp initData",
+  "reward_type": "Telegram Stars (⭐) & Crypto",
+  "endpoints": [
+    "POST /api/lucky-wheel",
+    "POST /api/stars-mine"
+  ],
+  "notes": "Next.js webapp, Lucky Wheel harian & mining Stars.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600
+}
