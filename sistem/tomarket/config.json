@@ -1,0 +1,8 @@
+{
+  "init_data": "YOUR_TELEGRAM_INIT_DATA",
+  "access_token": "YOUR_AUTH_TOKEN_HERE",
+  "game_id": "53b22103-c7ff-413d-bc63-20f6fb806a07",
+  "daily_game_id": "fa873d13-d831-4d6f-8aee-9cff7a1d0db1",
+  "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-S928B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36",
+  "enabled": true
+}
