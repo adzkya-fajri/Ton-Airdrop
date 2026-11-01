@@ -1,0 +1,33 @@
+{
+  "enabled": true,
+  "bot_id": 103,
+  "handle": "@antarctic_wallet_bot",
+  "name": "Antarctic Wallet",
+  "cluster": "miniempire_cloud_mining",
+  "rating": 4,
+  "stars": "⭐⭐⭐⭐",
+  "tier": "Tier 1 - Rekomendasi Tinggi",
+  "category": "Komunitas, Meme Tokens & Channel Airdrops",
+  "frontend_url": "https://app.antarcticwallet.com/",
+  "backend_url": "https://app.antarcticwallet.com/",
+  "auth_type": "Telegram WebApp initData",
+  "reward_type": "USDT QR Wallet",
+  "endpoints": [
+    "GET /",
+    "POST /api/action"
+  ],
+  "notes": "Dompet crypto mandiri untuk pembayaran USDT QR code di app.antarcticwallet.com.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600,
+  "subcluster": "3A",
+  "runner_flag": {
+    "needs_feed": false,
+    "auto_harvest": true,
+    "harvest_interval_hours": 3
+  },
+  "needs_feed": false,
+  "harvest_interval_hours": 3
+}
