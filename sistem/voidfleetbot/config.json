@@ -1,0 +1,22 @@
+{
+  "enabled": true,
+  "bot_id": 38,
+  "handle": "@voidfleetbot",
+  "name": "Void Fleet",
+  "cluster": "tgnative_chat_bots",
+  "rating": 2,
+  "stars": "⭐⭐",
+  "tier": "Tier 3 - Pra-Peluncuran",
+  "category": "Space Fleet Mining Game",
+  "frontend_url": "Telegram Mini-App",
+  "backend_url": "Launch on Nov 2",
+  "auth_type": "Telegram Session",
+  "reward_type": "GRAM Prize Pool (00)",
+  "endpoints": [],
+  "notes": "Masih fase Invite Race menjelang peluncuran resmi Senin 2 November 2026.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600
+}
