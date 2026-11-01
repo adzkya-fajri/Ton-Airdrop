@@ -1,0 +1,13 @@
+{
+  "api_base": "https://ORACbackend.raeton.uk",
+  "web_origin": "https://orac.raeton.uk",
+  "token": "YOUR_AUTH_TOKEN_HERE",
+  "auto_claim": true,
+  "claim_interval_seconds": 1800,
+  "auto_withdraw": true,
+  "min_withdraw_usdt": 1.0,
+  "destination_address": "YOUR_BEP20_USDT_ADDRESS",
+  "currency": "USDT",
+  "network": "BEP20",
+  "enabled": true
+}
