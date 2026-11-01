@@ -1,0 +1,26 @@
+{
+  "enabled": true,
+  "bot_id": 2,
+  "handle": "@Ton_nMinersBot",
+  "name": "TON MINERS",
+  "cluster": "cryptobot_instant_wd",
+  "rating": 4,
+  "stars": "⭐⭐⭐⭐",
+  "tier": "Tier 1 - Rekomendasi Tinggi",
+  "category": "Cloud Mining Pool Mini-App",
+  "frontend_url": "https://elitebotcreator.online/app/?b=e00db5a9-c920-41a2-9e01-97fc31b61e76",
+  "backend_url": "https://bsnnaafutolnoqioynrj.supabase.co/functions/v1/miniapp",
+  "auth_type": "x-miniapp-session + Telegram initData",
+  "reward_type": "GRAM / TON (min withdraw 0.05 GRAM)",
+  "endpoints": [
+    "POST /miniapp (action: game_play)",
+    "POST /miniapp (action: task_complete)",
+    "POST /miniapp (action: withdraw)"
+  ],
+  "notes": "Arsitektur Supabase Edge Function identik dengan modul Raccoon Rush.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600
+}
