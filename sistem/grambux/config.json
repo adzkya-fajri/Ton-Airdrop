@@ -1,0 +1,26 @@
+{
+  "enabled": true,
+  "bot_id": 22,
+  "handle": "@GramBux_bot",
+  "name": "Gram Bux (FREE STARS)",
+  "cluster": "ads_task",
+  "rating": 5,
+  "stars": "⭐⭐⭐⭐⭐",
+  "tier": "Tier 1 - Prioritas Utama",
+  "category": "Telegram Stars Exchange & Faucet",
+  "frontend_url": "https://grambux.xyz/",
+  "backend_url": "https://grambux.xyz/api/",
+  "auth_type": "Telegram WebApp initData header",
+  "reward_type": "Telegram Stars (⭐) & GRAM",
+  "endpoints": [
+    "GET /api/me (profil & saldo Stars)",
+    "POST /api/ads/start & POST /api/ads/claim (reward Stars)",
+    "POST /api/withdraw (penarikan Stars ke akun)"
+  ],
+  "notes": "REST API sangat bersih, reward langsung berupa Telegram Stars (⭐) nyata.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600
+}
