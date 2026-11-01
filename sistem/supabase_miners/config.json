@@ -1,0 +1,39 @@
+{
+  "api_url": "https://bsnnaafutolnoqioynrj.supabase.co/functions/v1/miniapp",
+  "base_app_url": "https://elitebotcreator.online/app/?b=",
+  "check_interval_seconds": 1800,
+  "random_jitter_seconds": 30,
+  "bots": {
+    "freeautousdt": {
+      "enabled": true,
+      "handle": "freeautousdt_bot",
+      "name": "Free Auto USDT",
+      "uuid": "49dd8630-ae10-4b0b-94eb-0bba9a48756a",
+      "currency": "USDT",
+      "min_withdraw": 0.02,
+      "auto_withdraw": false,
+      "withdraw_address": "YOUR_BEP20_USDT_ADDRESS"
+    },
+    "dogsempire": {
+      "enabled": true,
+      "handle": "dogsempirebot",
+      "name": "DOG'S EMPIRE",
+      "uuid": "c7c0fa8d-98d7-42fa-9e6f-a489dad80266",
+      "currency": "DOGS",
+      "min_withdraw": 500.0,
+      "auto_withdraw": false,
+      "withdraw_address": "YOUR_BEP20_USDT_ADDRESS"
+    },
+    "tonminers": {
+      "enabled": true,
+      "handle": "Ton_nMinersBot",
+      "name": "TON MINERS",
+      "uuid": "e00db5a9-c920-41a2-9e01-97fc31b61e76",
+      "currency": "GRAM",
+      "min_withdraw": 0.05,
+      "auto_withdraw": false,
+      "withdraw_address": "YOUR_BEP20_USDT_ADDRESS"
+    }
+  },
+  "enabled": true
+}
