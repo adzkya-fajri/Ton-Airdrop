@@ -1,0 +1,10 @@
+{
+  "telegram_id": "1234567890",
+  "username": "YourUsername",
+  "init_data": "YOUR_TELEGRAM_INIT_DATA",
+  "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-S928B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36",
+  "check_interval_seconds": 600,
+  "auto_mine": true,
+  "auto_daily_claims": true,
+  "enabled": true
+}
