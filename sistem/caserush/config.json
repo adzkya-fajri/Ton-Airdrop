@@ -1,0 +1,27 @@
+{
+  "enabled": true,
+  "bot_id": 42,
+  "handle": "@case_rush_bot",
+  "name": "Case Rush",
+  "cluster": "ads_task",
+  "rating": 4,
+  "stars": "⭐⭐⭐⭐",
+  "tier": "Tier 1 - Rekomendasi Tinggi",
+  "category": "NFT & Real Gifts Drop",
+  "frontend_url": "https://case-rush.fun/",
+  "backend_url": "https://case-rush.fun/api",
+  "auth_type": "Authorization: tma <initData>",
+  "reward_type": "Daily free case, Telegram Gifts, NFT (Plush Pepe), TON/USDT",
+  "endpoints": [
+    "GET /api/user",
+    "POST /api/case/open (free daily case)",
+    "POST /api/tasks/complete",
+    "POST /api/giveaway/join"
+  ],
+  "notes": "Peti gratis harian tanpa deposit. Bisa di-farm pembukaan peti secara otomatis via REST API.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600
+}
