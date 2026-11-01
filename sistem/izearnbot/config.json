@@ -1,0 +1,22 @@
+{
+  "enabled": true,
+  "bot_id": 79,
+  "handle": "@izearnbot",
+  "name": "IZ Earn",
+  "cluster": "tgnative_chat_bots",
+  "rating": 2,
+  "stars": "⭐⭐",
+  "tier": "Tier 3 - Channel Gated Tasks",
+  "category": "ItemZone Affiliate",
+  "frontend_url": "Telegram Chat",
+  "backend_url": "Internal Bot",
+  "auth_type": "Telegram Session",
+  "reward_type": "ItemZone Points",
+  "endpoints": [],
+  "notes": "Bagian dari jaringan @item_zone untuk tugas sosial.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600
+}
