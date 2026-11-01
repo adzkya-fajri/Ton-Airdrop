@@ -1,0 +1,17 @@
+{
+  "api_base": "https://nautilus.onelabs.online",
+  "user_id": "1234567890",
+  "username": "YourUsername",
+  "first_name": "YourFirstName",
+  "last_name": "YourLastName",
+  "init_data": "YOUR_TELEGRAM_INIT_DATA",
+  "bot_username": "nautilusminebot",
+  "webapp_url": "https://nautilus.onelabs.online/",
+  "auto_feed": true,
+  "auto_claim": true,
+  "auto_withdraw": true,
+  "min_withdraw_coins": 1000,
+  "network": "BSC",
+  "destination_address": "YOUR_BEP20_USDT_ADDRESS",
+  "enabled": true
+}
