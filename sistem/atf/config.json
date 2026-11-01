@@ -1,0 +1,14 @@
+{
+  "init_data": "YOUR_TELEGRAM_INIT_DATA",
+  "tma_session": "YOUR_AUTH_TOKEN_HERE",
+  "cookie": "cf_clearance=YOUR_CF_CLEARANCE_COOKIE",
+  "keepalive_interval_seconds": 120,
+  "min_claim_interval_minutes": 60,
+  "max_claim_interval_minutes": 90,
+  "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+  "tg_id": 1234567890,
+  "username": "YourUsername",
+  "tap_client_id": "c_44b291c02418473f",
+  "activity_lease_token": "YOUR_AUTH_TOKEN_HERE",
+  "enabled": true
+}
