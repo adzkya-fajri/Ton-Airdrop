@@ -1,0 +1,28 @@
+{
+  "enabled": true,
+  "bot_id": 11,
+  "handle": "@TrxHarvestlBot",
+  "name": "TrxHarvest",
+  "cluster": "cryptobot_instant_wd",
+  "rating": 5,
+  "stars": "⭐⭐⭐⭐⭐",
+  "tier": "Tier 1 - Prioritas Utama",
+  "category": "Daily Faucet & Tasks / TRX Payout",
+  "frontend_url": "https://legendrayvox.name.ng/harv/",
+  "backend_url": "https://legendrayvox.name.ng/harv/api/",
+  "auth_type": "Header Authorization: tma <initData>",
+  "reward_type": "TRX Crypto on-chain",
+  "endpoints": [
+    "GET /home (status saldo)",
+    "POST /bonus/claim (daily reward)",
+    "POST /ads/start & POST /ads/claim (ad reward)",
+    "POST /tasks/complete (task reward)",
+    "POST /withdraw/create (penarikan saldo TRX)"
+  ],
+  "notes": "Sangat bersih, ringan, REST API murni tanpa proteksi bot blocker/captcha.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600
+}
