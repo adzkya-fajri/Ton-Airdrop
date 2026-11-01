@@ -1,0 +1,33 @@
+{
+  "enabled": true,
+  "bot_id": 112,
+  "handle": "@build_community_bot",
+  "name": "BUILD",
+  "cluster": "miniempire_cloud_mining",
+  "rating": 3,
+  "stars": "⭐⭐⭐",
+  "tier": "Tier 2 - Layak (Builders Platform)",
+  "category": "Komunitas, Meme Tokens & Channel Airdrops",
+  "frontend_url": "https://app.gmfuntonbot.site/",
+  "backend_url": "https://app.gmfuntonbot.site/",
+  "auth_type": "Telegram WebApp initData",
+  "reward_type": "Community Points",
+  "endpoints": [
+    "GET /",
+    "POST /api/action"
+  ],
+  "notes": "Platform komunitas developer & airdrop di app.gmfuntonbot.site.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600,
+  "subcluster": "3A",
+  "runner_flag": {
+    "needs_feed": false,
+    "auto_harvest": true,
+    "harvest_interval_hours": 3
+  },
+  "needs_feed": false,
+  "harvest_interval_hours": 3
+}
