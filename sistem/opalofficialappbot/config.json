@@ -1,0 +1,33 @@
+{
+  "enabled": true,
+  "bot_id": 143,
+  "handle": "@opalofficialappbot",
+  "name": "Opal NFT",
+  "cluster": "miniempire_cloud_mining",
+  "rating": 4,
+  "stars": "⭐⭐⭐⭐",
+  "tier": "Tier 1 - Rekomendasi Tinggi",
+  "category": "Komunitas, Meme Tokens & Channel Airdrops",
+  "frontend_url": "https://crystal.stoer-web.net/?app=1",
+  "backend_url": "https://crystal.stoer-web.net/?app=1",
+  "auth_type": "Telegram WebApp initData",
+  "reward_type": "Kristal USDT & Profit Harian",
+  "endpoints": [
+    "GET /",
+    "POST /api/action"
+  ],
+  "notes": "Dapatkan kristal awal gratis, klaim profit USDT harian di crystal.stoer-web.net.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600,
+  "subcluster": "3A",
+  "runner_flag": {
+    "needs_feed": false,
+    "auto_harvest": true,
+    "harvest_interval_hours": 3
+  },
+  "needs_feed": false,
+  "harvest_interval_hours": 3
+}
