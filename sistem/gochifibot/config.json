@@ -1,0 +1,34 @@
+{
+  "enabled": true,
+  "bot_id": 126,
+  "handle": "@gochifibot",
+  "name": "GochiFi",
+  "cluster": "miniempire_cloud_mining",
+  "rating": 3,
+  "stars": "⭐⭐⭐",
+  "tier": "Tier 2 - Layak",
+  "category": "Komunitas, Meme Tokens & Channel Airdrops",
+  "frontend_url": "https://gotchi.me/",
+  "backend_url": "https://gotchi.me/",
+  "auth_type": "Telegram WebApp initData",
+  "reward_type": "Koin Tamagotchi & $USDT",
+  "endpoints": [
+    "GET /",
+    "POST /api/action"
+  ],
+  "notes": "Rawat hewan virtual, akumulasi koin untuk reward GRAM & USDT di gotchi.me.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600,
+  "subcluster": "3B",
+  "runner_flag": {
+    "needs_feed": true,
+    "feed_interval_hours": 2,
+    "auto_harvest": true
+  },
+  "needs_feed": true,
+  "feed_interval_hours": 2,
+  "harvest_interval_hours": 3
+}
