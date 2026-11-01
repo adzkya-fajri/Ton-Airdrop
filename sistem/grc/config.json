@@ -1,0 +1,24 @@
+{
+  "enabled": true,
+  "bot_id": 45,
+  "handle": "@grc_airdroobot",
+  "name": "Grouche Mine 🍐 ($GRC)",
+  "cluster": "dex_listed_tokens",
+  "rating": 3,
+  "stars": "⭐⭐⭐",
+  "tier": "Tier 2 - Layak",
+  "category": "STON.fi DEX Token Mining",
+  "frontend_url": "Telegram Bot Chat UI & STON.fi DEX",
+  "backend_url": "Internal Bot Engine",
+  "auth_type": "Telegram MTProto Chat Session",
+  "reward_type": "Token $GRC (terdaftar di STON.fi, pair TON/GRC)",
+  "endpoints": [
+    "Message /start & inline buttons (Start Mining, Tasks, Withdraw)"
+  ],
+  "notes": "Likuiditas koin riil di STON.fi DEX. Klaim bonus dan min withdraw 1.500 GRC langsung ke DEX.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600
+}
