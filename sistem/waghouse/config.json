@@ -1,0 +1,34 @@
+{
+  "enabled": true,
+  "bot_id": 165,
+  "handle": "@wag_house_bot",
+  "name": "WAG 🦴",
+  "cluster": "miniempire_cloud_mining",
+  "rating": 3,
+  "stars": "⭐⭐⭐",
+  "tier": "Tier 2 - Layak (WAG Bone)",
+  "category": "Komunitas, Meme Tokens & Channel Airdrops",
+  "frontend_url": "https://walhouse.xyz/",
+  "backend_url": "https://walhouse.xyz/",
+  "auth_type": "Telegram WebApp initData",
+  "reward_type": "WAG Bones & Crypto",
+  "endpoints": [
+    "GET /",
+    "POST /api/action"
+  ],
+  "notes": "Mini-app tap & koleksi tulang WAG di walhouse.xyz.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600,
+  "subcluster": "3B",
+  "runner_flag": {
+    "needs_feed": true,
+    "feed_interval_hours": 2,
+    "auto_harvest": true
+  },
+  "needs_feed": true,
+  "feed_interval_hours": 2,
+  "harvest_interval_hours": 3
+}
