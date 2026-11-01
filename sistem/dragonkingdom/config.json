@@ -1,0 +1,34 @@
+{
+  "enabled": true,
+  "bot_id": 117,
+  "handle": "@dragonkingdombot",
+  "name": "Dragon Kingdom",
+  "cluster": "miniempire_cloud_mining",
+  "rating": 4,
+  "stars": "⭐⭐⭐⭐",
+  "tier": "Tier 1 - Rekomendasi Tinggi",
+  "category": "Komunitas, Meme Tokens & Channel Airdrops",
+  "frontend_url": "https://dragon-kingdom.site/",
+  "backend_url": "https://dragon-kingdom.site/",
+  "auth_type": "Telegram WebApp initData",
+  "reward_type": "Dragon Hoard Crypto",
+  "endpoints": [
+    "GET /",
+    "POST /api/action"
+  ],
+  "notes": "Hatch naga, breeding spesies langka, raid tanah kuno di dragon-kingdom.site.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600,
+  "subcluster": "3B",
+  "runner_flag": {
+    "needs_feed": true,
+    "feed_interval_hours": 2,
+    "auto_harvest": true
+  },
+  "needs_feed": true,
+  "feed_interval_hours": 2,
+  "harvest_interval_hours": 3
+}
