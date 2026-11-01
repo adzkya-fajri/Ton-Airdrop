@@ -1,0 +1,26 @@
+{
+  "enabled": true,
+  "bot_id": 171,
+  "handle": "@combot",
+  "name": "Combot",
+  "cluster": "socialfi_marketing_rails",
+  "rating": 5,
+  "stars": "⭐⭐⭐⭐⭐",
+  "tier": "Tier 1 - Prioritas Utama (Community Management & Analytics)",
+  "category": "Utilitas / Bot Sistem Grup & Marketing",
+  "frontend_url": "https://combot.org",
+  "backend_url": "https://combot.org/api",
+  "auth_type": "Telegram OAuth / Bot API",
+  "reward_type": "Gamifikasi Chat / XP & Activity Level",
+  "endpoints": [
+    "/stat",
+    "CAS Anti-Spam API",
+    "XP Leaderboard"
+  ],
+  "notes": "Mesin analitik dan manajemen grup #1 di Telegram. Dilengkapi sistem leveling XP chat (merangsang hype grup airdrop), CAS (Combot Anti-Spam), analitik pertumbuhan member, dan trigger pesan promosi otomatis berdasarkan kata kunci.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600
+}
