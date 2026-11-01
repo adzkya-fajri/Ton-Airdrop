@@ -1,0 +1,26 @@
+{
+  "enabled": true,
+  "bot_id": 14,
+  "handle": "@StarMinesr_bot",
+  "name": "StarMine",
+  "cluster": "ads_task",
+  "rating": 3,
+  "stars": "⭐⭐⭐",
+  "tier": "Tier 2 - Layak (Faucet Stars)",
+  "category": "Telegram Stars Faucet",
+  "frontend_url": "Telegram Chat Bot (MTProto)",
+  "backend_url": "Telegram MTProto Messages",
+  "auth_type": "MTProto User Session",
+  "reward_type": "Telegram Stars (⭐) asli",
+  "endpoints": [
+    "Klaim bonus harian chat",
+    "Klaim promo code mingguan",
+    "Referral reward 0.5⭐"
+  ],
+  "notes": "Tidak memerlukan WebApp browser emulation, eksekusi bisa langsung via Telethon chat handler.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600
+}
