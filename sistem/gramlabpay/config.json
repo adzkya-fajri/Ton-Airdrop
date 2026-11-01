@@ -1,0 +1,22 @@
+{
+  "enabled": true,
+  "bot_id": 74,
+  "handle": "@gramlab_pay_bot",
+  "name": "GRAM LAB",
+  "cluster": "ads_task",
+  "rating": 2,
+  "stars": "⭐⭐",
+  "tier": "Tier 3 - Referral Faucet",
+  "category": "Referral Faucet",
+  "frontend_url": "Telegram Chat",
+  "backend_url": "Internal Bot",
+  "auth_type": "Telegram Session",
+  "reward_type": "0.02 GRAM per referral",
+  "endpoints": [],
+  "notes": "Hadiah 0.02 GRAM per undangan teman dengan gerbang channel awal.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600
+}
