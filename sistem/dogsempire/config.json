@@ -1,0 +1,26 @@
+{
+  "enabled": true,
+  "bot_id": 43,
+  "handle": "@dogsempirebot",
+  "name": "DOG'S EMPIRE 🐶",
+  "cluster": "cryptobot_instant_wd",
+  "rating": 4,
+  "stars": "⭐⭐⭐⭐",
+  "tier": "Tier 1 - Rekomendasi",
+  "category": "Micro-Tasks & DOGS Distribution",
+  "frontend_url": "https://elitebotcreator.online/app/?b=c7c0fa8d-98d7-42fa-9e6f-a489dad80266",
+  "backend_url": "https://bsnnaafutolnoqioynrj.supabase.co/functions/v1/miniapp",
+  "auth_type": "x-miniapp-session + initData",
+  "reward_type": "Token DOGS on-chain (min withdraw 500 DOGS)",
+  "endpoints": [
+    "POST /miniapp (action: claim_join)",
+    "POST /miniapp (action: tasks)",
+    "POST /miniapp (action: withdraw)"
+  ],
+  "notes": "Platform Supabase Edge Functions identik dengan TON MINERS & Free Auto USDT. Reusable architecture.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600
+}
