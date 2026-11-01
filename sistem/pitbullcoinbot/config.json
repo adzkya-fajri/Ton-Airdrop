@@ -1,0 +1,25 @@
+{
+  "enabled": true,
+  "bot_id": 35,
+  "handle": "@pitbullcoinbot",
+  "name": "Pitcoin Miner",
+  "cluster": "dex_listed_tokens",
+  "rating": 3,
+  "stars": "⭐⭐⭐",
+  "tier": "Tier 2 - Layak",
+  "category": "Token Mining on TON",
+  "frontend_url": "STON.fi DEX & Telegram Mini-App",
+  "backend_url": "Internal TON App",
+  "auth_type": "Telegram initData",
+  "reward_type": "Token  on TON (STON.fi pair)",
+  "endpoints": [
+    "POST /mine/start",
+    "POST /quest/claim"
+  ],
+  "notes": "Token PTC aktif diperdagangkan di STON.fi DEX, mining rig upgrade model.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600
+}
