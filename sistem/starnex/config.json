@@ -1,0 +1,9 @@
+{
+  "bot_username": "lot_tery_bot",
+  "name": "StarNex Lottery",
+  "min_withdraw_gram": 0.2,
+  "ton_wallet_address": "YOUR_TON_WALLET_ADDRESS",
+  "cycle_interval_seconds": 1800,
+  "auto_claim": true,
+  "enabled": true
+}
