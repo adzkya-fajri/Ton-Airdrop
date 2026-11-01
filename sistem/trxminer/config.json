@@ -1,0 +1,7 @@
+{
+  "bot": "@TrxMinerBetaBot",
+  "chat_id": 1234567890,
+  "api_base": "https://whatdoyouneed.us/trxminiapp",
+  "init_data": "YOUR_TELEGRAM_INIT_DATA",
+  "enabled": true
+}
