@@ -1,0 +1,33 @@
+{
+  "enabled": true,
+  "bot_id": 37,
+  "handle": "@orerushearnbot",
+  "name": "Ore Rush Earn Bot",
+  "cluster": "miniempire_cloud_mining",
+  "rating": 3,
+  "stars": "⭐⭐⭐",
+  "tier": "Tier 2 - Layak",
+  "category": "Mining Rig Simulator",
+  "frontend_url": "https://modapkam.shop/",
+  "backend_url": "https://modapkam.shop/api",
+  "auth_type": "Telegram initData",
+  "reward_type": "ORE Token & Rewards",
+  "endpoints": [
+    "POST /dig/claim",
+    "POST /rig/upgrade"
+  ],
+  "notes": "Tambang lapisan batu untuk ORE dan harta karun, klaim pasif berkala.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600,
+  "subcluster": "3A",
+  "runner_flag": {
+    "needs_feed": false,
+    "auto_harvest": true,
+    "harvest_interval_hours": 3
+  },
+  "needs_feed": false,
+  "harvest_interval_hours": 3
+}
