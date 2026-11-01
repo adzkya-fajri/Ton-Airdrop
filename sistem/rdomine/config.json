@@ -1,0 +1,33 @@
+{
+  "enabled": true,
+  "bot_id": 15,
+  "handle": "@RDOMINE_bot",
+  "name": "RDO",
+  "cluster": "miniempire_cloud_mining",
+  "rating": 3,
+  "stars": "⭐⭐⭐",
+  "tier": "Tier 2 - Layak Bersyarat",
+  "category": "Token Mining",
+  "frontend_url": "https://rdominer.xyz/",
+  "backend_url": "https://rdominer.xyz/api",
+  "auth_type": "Telegram initData",
+  "reward_type": "RDO Token",
+  "endpoints": [
+    "POST /checkin (daily streak)",
+    "POST /mine (klaim mining)"
+  ],
+  "notes": "Server sempat read time-out, membutuhkan mekanisme retry adaptif.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600,
+  "subcluster": "3A",
+  "runner_flag": {
+    "needs_feed": false,
+    "auto_harvest": true,
+    "harvest_interval_hours": 3
+  },
+  "needs_feed": false,
+  "harvest_interval_hours": 3
+}
