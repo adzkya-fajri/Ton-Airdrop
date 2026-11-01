@@ -1,0 +1,13 @@
+{
+  "name": "FROG FARM",
+  "bot": "frogfarm01bot",
+  "api_url": "https://ytrvqpjdghvjcjwtscyv.supabase.co/functions/v1/dogs-api",
+  "init_data": "YOUR_TELEGRAM_INIT_DATA",
+  "wallet": "YOUR_TON_WALLET_ADDRESS",
+  "auto_swap": true,
+  "min_swap_frogs": 800,
+  "auto_withdraw": true,
+  "min_withdraw_ton": 0.05,
+  "interval_sec": 300,
+  "enabled": true
+}
