@@ -1,0 +1,34 @@
+{
+  "enabled": true,
+  "bot_id": 4,
+  "handle": "@TonArenaGameBot",
+  "name": "Ton Arena | Game 🪓",
+  "cluster": "miniempire_cloud_mining",
+  "rating": 3,
+  "stars": "⭐⭐⭐",
+  "tier": "Tier 2 - Layak (Fitur Gratisan Saja)",
+  "category": "PvP Arena / Free Rooms & Giveaways",
+  "frontend_url": "https://ton-arena.pages.dev/",
+  "backend_url": "https://ton-arena-backend.onrender.com/api",
+  "auth_type": "Telegram WebApp session",
+  "reward_type": "TON Crypto",
+  "endpoints": [
+    "POST /free-rooms (ruang gratis tanpa taruhan)",
+    "POST /giveaway (klaim giveaway berkala)",
+    "POST /wallet (manajemen saldo)"
+  ],
+  "notes": "Hanya ambil jatah /free-rooms dan /giveaway, hindari fitur judi/roulette.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600,
+  "subcluster": "3A",
+  "runner_flag": {
+    "needs_feed": false,
+    "auto_harvest": true,
+    "harvest_interval_hours": 3
+  },
+  "needs_feed": false,
+  "harvest_interval_hours": 3
+}
