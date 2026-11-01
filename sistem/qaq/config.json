@@ -1,0 +1,25 @@
+{
+  "enabled": true,
+  "bot_id": 149,
+  "handle": "@qaqofficialappbot",
+  "name": "QAQ",
+  "cluster": "dex_listed_tokens",
+  "rating": 4,
+  "stars": "⭐⭐⭐⭐",
+  "tier": "Tier 1 - Rekomendasi Tinggi",
+  "category": "Komunitas, Meme Tokens & Channel Airdrops",
+  "frontend_url": "https://qaq.fast-site.xyz/",
+  "backend_url": "https://qaq.fast-site.xyz/",
+  "auth_type": "Telegram WebApp initData",
+  "reward_type": "Token QAQ on BSC (PancakeSwap)",
+  "endpoints": [
+    "GET /",
+    "POST /api/action"
+  ],
+  "notes": "Klaim 24 jam token QAQ di jaringan BSC, likuiditas PancakeSwap di qaq.fast-site.xyz.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600
+}
