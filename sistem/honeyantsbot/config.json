@@ -1,0 +1,25 @@
+{
+  "enabled": true,
+  "bot_id": 129,
+  "handle": "@honeyantsbot",
+  "name": "Honey Ants",
+  "cluster": "cryptobot_instant_wd",
+  "rating": 4,
+  "stars": "⭐⭐⭐⭐",
+  "tier": "Tier 1 - Rekomendasi Tinggi",
+  "category": "Komunitas, Meme Tokens & Channel Airdrops",
+  "frontend_url": "https://honeyants.fun/",
+  "backend_url": "https://honeyants.fun/",
+  "auth_type": "Telegram WebApp initData",
+  "reward_type": "GRAM & WD ke TON",
+  "endpoints": [
+    "GET /",
+    "POST /api/action"
+  ],
+  "notes": "Pelihara ratu semut, kumpulkan madu, tukar ke GRAM dan tarik ke TON (@gamariumpayout).",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600
+}
