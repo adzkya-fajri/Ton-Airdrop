@@ -1,0 +1,34 @@
+{
+  "enabled": true,
+  "bot_id": 6,
+  "handle": "@EcoForestTonBot",
+  "name": "EcoForest 🌿 | Play & Earn",
+  "cluster": "miniempire_cloud_mining",
+  "rating": 2,
+  "stars": "⭐⭐",
+  "tier": "Tier 3 - Terkendala Captcha",
+  "category": "Play & Earn on TON",
+  "frontend_url": "https://eco-forest.vercel.app/",
+  "backend_url": "https://eucvmlvbnedqmdlvfrrb.supabase.co",
+  "auth_type": "TON Connect + Telegram initData",
+  "reward_type": "GRAM Crypto on-chain",
+  "endpoints": [
+    "create_withdrawal_request_secure",
+    "get_withdraw_limits_secure"
+  ],
+  "notes": "Dilindungi Cloudflare Turnstile CAPTCHA pada modul frontend.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600,
+  "subcluster": "3B",
+  "runner_flag": {
+    "needs_feed": true,
+    "feed_interval_hours": 2,
+    "auto_harvest": true
+  },
+  "needs_feed": true,
+  "feed_interval_hours": 2,
+  "harvest_interval_hours": 3
+}
