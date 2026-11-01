@@ -1,0 +1,10 @@
+{
+  "tid": 1406,
+  "bot_username": "goldkeepers_bot",
+  "webapp_url": "https://app.miniempire.app/miniapp/index.html?tid=1406&lang=en",
+  "init_data": "YOUR_TELEGRAM_INIT_DATA",
+  "ton_wallet_address": "YOUR_TON_WALLET_ADDRESS",
+  "auto_claim": true,
+  "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-S928B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36",
+  "enabled": true
+}
