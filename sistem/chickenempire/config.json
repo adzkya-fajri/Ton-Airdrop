@@ -1,0 +1,12 @@
+{
+  "tid": 1523,
+  "telegram_id": "1234567890",
+  "username": "YourUsername",
+  "init_data": "YOUR_TELEGRAM_INIT_DATA",
+  "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-S928B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36",
+  "check_interval_seconds": 600,
+  "auto_claim": true,
+  "auto_production": true,
+  "auto_spin": true,
+  "enabled": true
+}
