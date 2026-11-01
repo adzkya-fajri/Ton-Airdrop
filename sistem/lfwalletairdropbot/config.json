@@ -1,0 +1,22 @@
+{
+  "enabled": true,
+  "bot_id": 82,
+  "handle": "@lfwallet_airdropbot",
+  "name": "LF Wallet Airdrop",
+  "cluster": "tgnative_chat_bots",
+  "rating": 2,
+  "stars": "⭐⭐",
+  "tier": "Tier 3 - Web3 Form Airdrop",
+  "category": "Wallet Registration",
+  "frontend_url": "Telegram Chat",
+  "backend_url": "Internal Bot",
+  "auth_type": "Telegram Session",
+  "reward_type": "500 LWT Token (Distribusi Nanti)",
+  "endpoints": [],
+  "notes": "Pendaftaran alamat wallet untuk airdrop 500 LWT (status: qualified, jadwal distribusi TBD).",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600
+}
