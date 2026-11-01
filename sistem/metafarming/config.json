@@ -1,0 +1,14 @@
+{
+  "telegram_id": "1234567890",
+  "first_name": "YourFirstName",
+  "last_name": "YourLastName",
+  "username": "YourUsername",
+  "api_base": "https://u99aljnel3t2nfao4v7cbsrn.72.62.252.28.sslip.io",
+  "auto_claim": true,
+  "claim_interval_seconds": 600,
+  "auto_withdraw": true,
+  "min_withdraw_usdt": 0.1,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "network": "BEP20",
+  "enabled": true
+}
