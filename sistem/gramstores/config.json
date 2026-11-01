@@ -1,0 +1,22 @@
+{
+  "enabled": true,
+  "bot_id": 75,
+  "handle": "@gramstores_bot",
+  "name": "Gram (ex TON) Store",
+  "cluster": "tgnative_chat_bots",
+  "rating": 2,
+  "stars": "⭐⭐",
+  "tier": "Tier 3 - Store Utility",
+  "category": "Commerce Bot",
+  "frontend_url": "Telegram Chat",
+  "backend_url": "Internal Bot",
+  "auth_type": "Telegram Session",
+  "reward_type": "Beli GRAM",
+  "endpoints": [],
+  "notes": "Bukan faucet airdrop gratis, melainkan bot toko untuk membeli koin GRAM via transfer bank.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600
+}
