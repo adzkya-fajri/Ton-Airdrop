@@ -1,0 +1,25 @@
+{
+  "enabled": true,
+  "bot_id": 101,
+  "handle": "@adclickersbot",
+  "name": "Adclickersbot",
+  "cluster": "ads_task",
+  "rating": 3,
+  "stars": "⭐⭐⭐",
+  "tier": "Tier 2 - Layak",
+  "category": "Komunitas, Meme Tokens & Channel Airdrops",
+  "frontend_url": "https://www.adclickersbot.com/",
+  "backend_url": "https://www.adclickersbot.com/",
+  "auth_type": "Telegram WebApp initData",
+  "reward_type": "USDT / Fiat",
+  "endpoints": [
+    "GET /",
+    "POST /api/action"
+  ],
+  "notes": "Micro-task platform di adclickersbot.com, tonton iklan & klik tugas.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600
+}
