@@ -1,0 +1,25 @@
+{
+  "enabled": true,
+  "bot_id": 32,
+  "handle": "@freeautousdt_bot",
+  "name": "Free Auto USDT",
+  "cluster": "cryptobot_instant_wd",
+  "rating": 4,
+  "stars": "⭐⭐⭐⭐",
+  "tier": "Tier 1 - Rekomendasi Tinggi",
+  "category": "Micro-Tasks & Instant USDT",
+  "frontend_url": "https://elitebotcreator.online/app/?b=49dd8630-ae10-4b0b-94eb-0bba9a48756a",
+  "backend_url": "https://bsnnaafutolnoqioynrj.supabase.co/functions/v1/miniapp",
+  "auth_type": "x-miniapp-session + initData",
+  "reward_type": "USDT asli (min withdraw 0.1 USDT)",
+  "endpoints": [
+    "POST /miniapp (action: claim_join)",
+    "POST /miniapp (action: withdraw)"
+  ],
+  "notes": "Arsitektur Supabase Edge Function identik dengan TON MINERS, ambang withdraw rendah (0.1 USDT).",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600
+}
