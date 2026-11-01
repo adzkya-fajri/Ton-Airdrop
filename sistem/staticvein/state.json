@@ -1,0 +1,13 @@
+{
+  "balance": 253.0,
+  "pending": 0.8352,
+  "storage_cap": 6.56,
+  "daily_rate": 6.56,
+  "miner_level": 1,
+  "grid_level": 1,
+  "hashrate": "0.01 TH/s",
+  "withdraw_min": 15000.0,
+  "rank_title": "Stone Digger",
+  "daily_streak": 1,
+  "updated_at": "2026-11-01T20:22:12.173048"
+}

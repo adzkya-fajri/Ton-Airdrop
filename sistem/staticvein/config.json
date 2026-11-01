@@ -1,0 +1,13 @@
+{
+  "bot_username": "StaticVein_Bot",
+  "base_url": "https://staticvein.ru",
+  "cycle_interval_seconds": 1800,
+  "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-S928B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36",
+  "auto_claim": true,
+  "auto_daily": true,
+  "auto_tasks": true,
+  "auto_guide": true,
+  "auto_friends": true,
+  "init_data": "YOUR_TELEGRAM_INIT_DATA",
+  "enabled": true
+}
