@@ -1,0 +1,33 @@
+{
+  "enabled": true,
+  "bot_id": 114,
+  "handle": "@cryptobotsdevilishgoodbot",
+  "name": "CryptoBotsDevilishGoodBot 🤟",
+  "cluster": "miniempire_cloud_mining",
+  "rating": 3,
+  "stars": "⭐⭐⭐",
+  "tier": "Tier 2 - Layak",
+  "category": "Komunitas, Meme Tokens & Channel Airdrops",
+  "frontend_url": "https://determined-manifestation-production-bc8e.up.railway.app/",
+  "backend_url": "https://determined-manifestation-production-bc8e.up.railway.app/",
+  "auth_type": "Telegram WebApp initData",
+  "reward_type": "CBDG Economy & Devil Miner",
+  "endpoints": [
+    "GET /",
+    "POST /api/action"
+  ],
+  "notes": "Devil Miner di Railway, leaderboard mingguan & reward marketplace.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600,
+  "subcluster": "3A",
+  "runner_flag": {
+    "needs_feed": false,
+    "auto_harvest": true,
+    "harvest_interval_hours": 3
+  },
+  "needs_feed": false,
+  "harvest_interval_hours": 3
+}
