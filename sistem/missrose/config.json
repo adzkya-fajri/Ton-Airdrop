@@ -1,0 +1,28 @@
+{
+  "enabled": true,
+  "bot_id": 172,
+  "handle": "@missrose_bot",
+  "name": "Rose",
+  "cluster": "socialfi_marketing_rails",
+  "rating": 5,
+  "stars": "⭐⭐⭐⭐⭐",
+  "tier": "Tier 1 - Prioritas Utama (Group Funnel & Conversion)",
+  "category": "Utilitas / Bot Sistem Grup & Marketing",
+  "frontend_url": "https://missrose.org",
+  "backend_url": "https://api.missrose.org",
+  "auth_type": "Telegram Bot API",
+  "reward_type": "Lead Conversion / Traffic Direction",
+  "endpoints": [
+    "/welcome",
+    "/filter",
+    "/rules",
+    "/captcha",
+    "/clean"
+  ],
+  "notes": "Bot moderasi grup terpopuler di dunia. Pilar marketing konversi member baru via Welcome Message dengan tombol inline URL promosi, verifikasi CAPTCHA anti-bot, modul Auto-Filter untuk merespons pertanyaan proyek 24/7, dan siaran pin.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600
+}
