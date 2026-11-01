@@ -1,0 +1,33 @@
+{
+  "enabled": true,
+  "bot_id": 24,
+  "handle": "@oilvoyagebot",
+  "name": "Oil Voyage Game",
+  "cluster": "miniempire_cloud_mining",
+  "rating": 3,
+  "stars": "⭐⭐⭐",
+  "tier": "Tier 2 - Layak",
+  "category": "Commodity Shipping GameFi",
+  "frontend_url": "https://app.oil-voyage.fun/?v=2",
+  "backend_url": "https://app.oil-voyage.fun/api/",
+  "auth_type": "Telegram WebApp initData",
+  "reward_type": "wBarrel & Crypto Token",
+  "endpoints": [
+    "GET /cargo/status",
+    "POST /voyage/claim"
+  ],
+  "notes": "Simulasi pengiriman minyak berbasis harga riil Brent/WTI, siklus berkala.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600,
+  "subcluster": "3A",
+  "runner_flag": {
+    "needs_feed": false,
+    "auto_harvest": true,
+    "harvest_interval_hours": 3
+  },
+  "needs_feed": false,
+  "harvest_interval_hours": 3
+}
