@@ -1,0 +1,30 @@
+{
+  "enabled": true,
+  "bot_id": 84,
+  "handle": "@miaoushi_airdrop_bot",
+  "name": "Miaoushi Airdrop 🎁",
+  "cluster": "miniempire_cloud_mining",
+  "rating": 2,
+  "stars": "⭐⭐",
+  "tier": "Tier 3 - Static Form Airdrop",
+  "category": "Community Drop Round 1",
+  "frontend_url": "https://miaoushi.com",
+  "backend_url": "Internal Bot",
+  "auth_type": "Telegram Session",
+  "reward_type": "5,000 MIAO (~$20 estimasi)",
+  "endpoints": [],
+  "notes": "Submit wallet, join grup & follow Twitter untuk alokasi 5.000 MIAO bagi 3.000 pemenang.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600,
+  "subcluster": "3A",
+  "runner_flag": {
+    "needs_feed": false,
+    "auto_harvest": true,
+    "harvest_interval_hours": 3
+  },
+  "needs_feed": false,
+  "harvest_interval_hours": 3
+}
