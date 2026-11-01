@@ -1,0 +1,33 @@
+{
+  "enabled": true,
+  "bot_id": 34,
+  "handle": "@tradersminingbot",
+  "name": "TradersMining",
+  "cluster": "miniempire_cloud_mining",
+  "rating": 3,
+  "stars": "⭐⭐⭐",
+  "tier": "Tier 2 - Layak",
+  "category": "Continuous Cloud Mining ",
+  "frontend_url": "https://game.metageniusai.net/?go=invite",
+  "backend_url": "https://game.metageniusai.net/api/",
+  "auth_type": "Telegram initData",
+  "reward_type": " & GRAM Rewards",
+  "endpoints": [
+    "POST /mine/claim",
+    "POST /checkin"
+  ],
+  "notes": "Mining 24 jam non-stop, daily check-in streak, swap  ke GRAM reward.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600,
+  "subcluster": "3A",
+  "runner_flag": {
+    "needs_feed": false,
+    "auto_harvest": true,
+    "harvest_interval_hours": 3
+  },
+  "needs_feed": false,
+  "harvest_interval_hours": 3
+}
