@@ -1,0 +1,33 @@
+{
+  "enabled": true,
+  "bot_id": 23,
+  "handle": "@imperial_citadel_bot",
+  "name": "Imperial Citadel",
+  "cluster": "miniempire_cloud_mining",
+  "rating": 4,
+  "stars": "⭐⭐⭐⭐",
+  "tier": "Tier 1 - Rekomendasi Tinggi",
+  "category": "Empire Builder / Gold Mining",
+  "frontend_url": "https://citadelmania.com/?v=070e9c41",
+  "backend_url": "https://citadelmania.com/api/",
+  "auth_type": "Authorization: tma <initData> + X-Tg-Platform",
+  "reward_type": "Gold & Crypto Rewards",
+  "endpoints": [
+    "GET /api/state (status kerajaan & tambang emas)",
+    "POST /api/claim (klaim hasil emas)"
+  ],
+  "notes": "Auth header tma murni, tanpa proteksi captcha atau bot-blocker.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600,
+  "subcluster": "3A",
+  "runner_flag": {
+    "needs_feed": false,
+    "auto_harvest": true,
+    "harvest_interval_hours": 3
+  },
+  "needs_feed": false,
+  "harvest_interval_hours": 3
+}
