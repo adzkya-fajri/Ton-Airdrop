@@ -1,0 +1,22 @@
+{
+  "enabled": true,
+  "bot_id": 16,
+  "handle": "@RobotEmpireAppBot",
+  "name": "Robot Empire ⚡️",
+  "cluster": "tgnative_chat_bots",
+  "rating": 2,
+  "stars": "⭐⭐",
+  "tier": "Tier 3 - Kurang Efisien",
+  "category": "Gated Channel Bot",
+  "frontend_url": "Telegram Bot & WebApp",
+  "backend_url": "Internal Bot",
+  "auth_type": "Telegram Session",
+  "reward_type": "Crypto Points",
+  "endpoints": [],
+  "notes": "Memaksa bergabung ke 3 channel sebelum miner aktif.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600
+}
