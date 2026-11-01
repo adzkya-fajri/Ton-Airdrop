@@ -1,0 +1,34 @@
+{
+  "enabled": true,
+  "bot_id": 13,
+  "handle": "@SushiTowerBot",
+  "name": "Sushi Tower",
+  "cluster": "miniempire_cloud_mining",
+  "rating": 3,
+  "stars": "⭐⭐⭐",
+  "tier": "Tier 2 - Layak",
+  "category": "Idle Restaurant Builder",
+  "frontend_url": "https://crystal-realms.icu/",
+  "backend_url": "https://crystal-realms.icu/api/",
+  "auth_type": "Telegram WebApp initData",
+  "reward_type": "Crypto Balance",
+  "endpoints": [
+    "GET /home (status lantai)",
+    "POST /claim (klaim income per jam)",
+    "POST /combo (klaim kombo harian)"
+  ],
+  "notes": "Game idle klasik lantai kafe sushi, reward pasif berkala.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600,
+  "subcluster": "3A",
+  "runner_flag": {
+    "needs_feed": false,
+    "auto_harvest": true,
+    "harvest_interval_hours": 3
+  },
+  "needs_feed": false,
+  "harvest_interval_hours": 3
+}
