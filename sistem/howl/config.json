@@ -1,0 +1,26 @@
+{
+  "enabled": true,
+  "bot_id": 25,
+  "handle": "@Howl_paybot",
+  "name": "Howl Earn",
+  "cluster": "ads_task",
+  "rating": 3,
+  "stars": "⭐⭐⭐",
+  "tier": "Tier 2 - Layak (Chat MTProto)",
+  "category": "Task & Micro-Earning Platform",
+  "frontend_url": "Telegram Chat MTProto",
+  "backend_url": "https://t.me/howlpayout",
+  "auth_type": "Telegram MTProto Session",
+  "reward_type": "Crypto Payouts",
+  "endpoints": [
+    "Tombol Balance",
+    "Tombol Withdraw",
+    "Tugas Sponsored"
+  ],
+  "notes": "Platform micro-task langsung di chat interface Telethon, bukti bayar aktif di channel howlpayout.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600
+}
