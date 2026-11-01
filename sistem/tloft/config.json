@@ -1,0 +1,33 @@
+{
+  "enabled": true,
+  "bot_id": 158,
+  "handle": "@tloft_appbot",
+  "name": "🟢 TLOFT | Web 3 App",
+  "cluster": "miniempire_cloud_mining",
+  "rating": 3,
+  "stars": "⭐⭐⭐",
+  "tier": "Tier 2 - Layak (Real Estate Web3)",
+  "category": "Komunitas, Meme Tokens & Channel Airdrops",
+  "frontend_url": "https://tloft.fun/",
+  "backend_url": "https://tloft.fun/",
+  "auth_type": "Telegram WebApp initData",
+  "reward_type": "TLOFT Points & Property",
+  "endpoints": [
+    "GET /",
+    "POST /api/action"
+  ],
+  "notes": "Web3 property & discovery platform di tloft.fun (tverloft.ru).",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600,
+  "subcluster": "3A",
+  "runner_flag": {
+    "needs_feed": false,
+    "auto_harvest": true,
+    "harvest_interval_hours": 3
+  },
+  "needs_feed": false,
+  "harvest_interval_hours": 3
+}
