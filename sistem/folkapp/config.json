@@ -1,0 +1,33 @@
+{
+  "enabled": true,
+  "bot_id": 122,
+  "handle": "@folkapp_bot",
+  "name": "folk",
+  "cluster": "miniempire_cloud_mining",
+  "rating": 2,
+  "stars": "⭐⭐",
+  "tier": "Tier 3 - Utility Memory Import",
+  "category": "Komunitas, Meme Tokens & Channel Airdrops",
+  "frontend_url": "https://www.folk.com/d/ze3i2a9gGl",
+  "backend_url": "https://www.folk.com/d/ze3i2a9gGl",
+  "auth_type": "Telegram WebApp initData",
+  "reward_type": "None (AI Utility)",
+  "endpoints": [
+    "GET /",
+    "POST /api/action"
+  ],
+  "notes": "Tool migrasi memori ChatGPT/Claude ke Folk, bukan crypto airdrop.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600,
+  "subcluster": "3A",
+  "runner_flag": {
+    "needs_feed": false,
+    "auto_harvest": true,
+    "harvest_interval_hours": 3
+  },
+  "needs_feed": false,
+  "harvest_interval_hours": 3
+}
