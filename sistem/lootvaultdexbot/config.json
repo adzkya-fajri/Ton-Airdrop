@@ -1,0 +1,25 @@
+{
+  "enabled": true,
+  "bot_id": 135,
+  "handle": "@lootvaultdexbot",
+  "name": "LootVault",
+  "cluster": "dex_listed_tokens",
+  "rating": 3,
+  "stars": "⭐⭐⭐",
+  "tier": "Tier 2 - Layak (DEX Vault)",
+  "category": "Komunitas, Meme Tokens & Channel Airdrops",
+  "frontend_url": "https://app.lootvault.com/",
+  "backend_url": "https://app.lootvault.com/",
+  "auth_type": "Telegram WebApp initData",
+  "reward_type": "DEX Rewards & Loot",
+  "endpoints": [
+    "GET /",
+    "POST /api/action"
+  ],
+  "notes": "Brankas token DEX dan reward likuiditas di app.lootvault.com.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600
+}
