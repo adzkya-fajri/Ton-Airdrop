@@ -1,0 +1,26 @@
+{
+  "enabled": true,
+  "bot_id": 7,
+  "handle": "@lumeonminer_bot",
+  "name": "LUM",
+  "cluster": "dex_listed_tokens",
+  "rating": 2,
+  "stars": "⭐⭐",
+  "tier": "Tier 3 - Terkendala Captcha",
+  "category": "Cloud Mining LUM Token",
+  "frontend_url": "https://lum-miner.gurmessa747.workers.dev/",
+  "backend_url": "https://lum-miner.gurmessa747.workers.dev/",
+  "auth_type": "initData via URL fragment",
+  "reward_type": "LUM token (swap STON.fi/DeDust)",
+  "endpoints": [
+    "POST /referral",
+    "POST /check-join",
+    "GET /withdraw"
+  ],
+  "notes": "Terproteksi Cloudflare Turnstile CAPTCHA pada seluruh tombol aksi.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600
+}
