@@ -1,0 +1,28 @@
+{
+  "enabled": true,
+  "bot_id": 3,
+  "handle": "@TeslaFarmbot",
+  "name": "Tesla Mining",
+  "cluster": "cryptobot_instant_wd",
+  "rating": 4,
+  "stars": "⭐⭐⭐⭐",
+  "tier": "Tier 1 - Rekomendasi Tinggi",
+  "category": "Cloud Mining / USD Payout",
+  "frontend_url": "https://tesla-mini-app.vercel.app/?v=2.2&tgId=1234567890",
+  "backend_url": "https://tesla-mining4.onrender.com/api",
+  "auth_type": "tgId + query parameter",
+  "reward_type": "USD asli on-chain / crypto wallet",
+  "endpoints": [
+    "GET /user/:tgId (profile & balance)",
+    "POST /agent/start (aktivasi miner)",
+    "POST /tokens/sell (tukar token ke saldo USD)",
+    "POST /tasks/watch-ad (boost power)",
+    "POST /payout/request (penarikan dana)"
+  ],
+  "notes": "REST API Node.js bersih di Render, engine stabil, free +5k power bonus.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600
+}
