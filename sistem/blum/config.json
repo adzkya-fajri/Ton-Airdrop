@@ -1,0 +1,25 @@
+{
+  "enabled": true,
+  "bot_id": 109,
+  "handle": "@blum",
+  "name": "Blum",
+  "cluster": "dex_listed_tokens",
+  "rating": 5,
+  "stars": "⭐⭐⭐⭐⭐",
+  "tier": "Tier 1 - Prioritas Utama (Top Tier Web3)",
+  "category": "Komunitas, Meme Tokens & Channel Airdrops",
+  "frontend_url": "https://telegram.blum.codes/",
+  "backend_url": "https://telegram.blum.codes/",
+  "auth_type": "Telegram WebApp initData",
+  "reward_type": "Blum Points & Token Memepad",
+  "endpoints": [
+    "GET /",
+    "POST /api/action"
+  ],
+  "notes": "Platform DEX hybrid resmi terpopuler di Telegram (@blumcrypto), farming poin & memepad.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600
+}
