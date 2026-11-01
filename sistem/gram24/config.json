@@ -1,0 +1,9 @@
+{
+  "bot": "@Gram24MiningBot",
+  "app_url": "https://app.miniempire.app/miniapp/index.html?tid=2176&lang=en",
+  "tid": 2176,
+  "init_data": "YOUR_TELEGRAM_INIT_DATA",
+  "auto_claim": true,
+  "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-S928B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36",
+  "enabled": true
+}
