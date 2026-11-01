@@ -1,0 +1,30 @@
+{
+  "enabled": true,
+  "bot_id": 48,
+  "handle": "@dogsgalaxyrobot",
+  "name": "Dogs Galaxy",
+  "cluster": "miniempire_cloud_mining",
+  "rating": 2,
+  "stars": "⭐⭐",
+  "tier": "Tier 3 - Server Render Delay",
+  "category": "Community Mining",
+  "frontend_url": "https://dogs-backend-razo.onrender.com/",
+  "backend_url": "https://dogs-backend-razo.onrender.com/",
+  "auth_type": "initData",
+  "reward_type": "DOGS Points",
+  "endpoints": [],
+  "notes": "Server Render sering mengalami cold start timeout sehingga respon API tidak konsisten.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600,
+  "subcluster": "3A",
+  "runner_flag": {
+    "needs_feed": false,
+    "auto_harvest": true,
+    "harvest_interval_hours": 3
+  },
+  "needs_feed": false,
+  "harvest_interval_hours": 3
+}
