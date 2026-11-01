@@ -1,0 +1,33 @@
+{
+  "enabled": true,
+  "bot_id": 5,
+  "handle": "@Goblin_Mining1_bot",
+  "name": "Goblin Mining",
+  "cluster": "miniempire_cloud_mining",
+  "rating": 3,
+  "stars": "⭐⭐⭐",
+  "tier": "Tier 2 - Menengah",
+  "category": "GameFi Idle Mining",
+  "frontend_url": "https://project-unpacker-6574.vercel.app/",
+  "backend_url": "https://project-unpacker-6574.vercel.app/_server/",
+  "auth_type": "Telegram cookie/session",
+  "reward_type": "Crypto Coins",
+  "endpoints": [
+    "POST /_server/e59e3822... (auth function)",
+    "POST /_server/34a0d308... (mine/upgrade function)"
+  ],
+  "notes": "Menggunakan TanStack Start RPC on Vercel, butuh replikasi function hash.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600,
+  "subcluster": "3A",
+  "runner_flag": {
+    "needs_feed": false,
+    "auto_harvest": true,
+    "harvest_interval_hours": 3
+  },
+  "needs_feed": false,
+  "harvest_interval_hours": 3
+}
