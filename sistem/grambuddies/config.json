@@ -1,0 +1,7 @@
+{
+  "init_data": "YOUR_TELEGRAM_INIT_DATA",
+  "device_id": "d6a8d342-526d-4e9e-9814-9b340d0a9816",
+  "user_agent": "Mozilla/5.0 (Linux; Android 16; Pixel 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36",
+  "check_interval_seconds": 600,
+  "enabled": true
+}
