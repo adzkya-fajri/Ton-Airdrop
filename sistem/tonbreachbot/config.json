@@ -1,0 +1,25 @@
+{
+  "enabled": true,
+  "bot_id": 96,
+  "handle": "@tonbreachbot",
+  "name": "TON Breach",
+  "cluster": "cryptobot_instant_wd",
+  "rating": 4,
+  "stars": "⭐⭐⭐⭐",
+  "tier": "Tier 1 - Rekomendasi Tinggi",
+  "category": "Telegram Promo Hub & Tasks",
+  "frontend_url": "https://tonpvpgame.com/",
+  "backend_url": "https://tonpvpgame.com/api",
+  "auth_type": "Telegram WebApp initData",
+  "reward_type": "Instant Crypto Rewards (TON)",
+  "endpoints": [
+    "POST /api/showcase/tasks",
+    "POST /api/claim/instant"
+  ],
+  "notes": "All-in-one promotion hub & Web3 discovery. Task testing bot & kanal dengan instant crypto rewards di tonpvpgame.com.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600
+}
