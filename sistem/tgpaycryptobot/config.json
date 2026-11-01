@@ -1,0 +1,25 @@
+{
+  "enabled": true,
+  "bot_id": 95,
+  "handle": "@tgpaycryptobot",
+  "name": "TgPay Crypto",
+  "cluster": "ads_task",
+  "rating": 3,
+  "stars": "⭐⭐⭐",
+  "tier": "Tier 2 - Layak (Telegram Crypto Wallet)",
+  "category": "Wallet & Promo Utility",
+  "frontend_url": "https://app.tgpaycrypto.com/",
+  "backend_url": "https://app.tgpaycrypto.com/api",
+  "auth_type": "Telegram WebApp initData",
+  "reward_type": "Crypto Wallet, Stars Exchange, Promo Checks",
+  "endpoints": [
+    "POST /api/wallet/balance",
+    "POST /api/promo/claim"
+  ],
+  "notes": "Dompet crypto in-app Telegram resmi di app.tgpaycrypto.com untuk klaim promo check & Stars.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600
+}
