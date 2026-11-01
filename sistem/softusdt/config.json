@@ -1,0 +1,11 @@
+{
+  "tid": 2015,
+  "bot_username": "Softusdtbot",
+  "webapp_url": "https://app.miniempire.app/miniapp/index.html?tid=2015&lang=en",
+  "init_data": "YOUR_TELEGRAM_INIT_DATA",
+  "destination_address": "YOUR_BEP20_USDT_ADDRESS",
+  "ton_wallet_address": "YOUR_TON_WALLET_ADDRESS",
+  "auto_claim": true,
+  "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-S928B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36",
+  "enabled": true
+}
