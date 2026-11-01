@@ -1,0 +1,25 @@
+{
+  "enabled": true,
+  "bot_id": 46,
+  "handle": "@earncraft_bot",
+  "name": "Earn Craft",
+  "cluster": "ads_task",
+  "rating": 3,
+  "stars": "⭐⭐⭐",
+  "tier": "Tier 2 - Layak",
+  "category": "Idle Workshop & Spin Game",
+  "frontend_url": "https://a2ad4f2f9s.ecraftx.com/",
+  "backend_url": "https://ecraftx.com/api",
+  "auth_type": "Telegram initData",
+  "reward_type": "Coins, Gems & Spin Hadiah USD",
+  "endpoints": [
+    "POST /api/spin/wheel",
+    "POST /api/workshop/collect"
+  ],
+  "notes": "Spin harian tanpa deposit dan klaim pasif produksi workshop.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600
+}
