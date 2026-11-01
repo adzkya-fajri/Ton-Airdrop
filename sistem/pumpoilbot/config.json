@@ -1,0 +1,25 @@
+{
+  "enabled": true,
+  "bot_id": 147,
+  "handle": "@pumpoilbot",
+  "name": "Oil Pump",
+  "cluster": "cryptobot_instant_wd",
+  "rating": 4,
+  "stars": "⭐⭐⭐⭐",
+  "tier": "Tier 1 - Rekomendasi Tinggi",
+  "category": "Komunitas, Meme Tokens & Channel Airdrops",
+  "frontend_url": "https://oilpump-app.com/",
+  "backend_url": "https://oilpump-app.com/",
+  "auth_type": "Telegram WebApp initData",
+  "reward_type": "Real Money Cashout",
+  "endpoints": [
+    "GET /",
+    "POST /api/action"
+  ],
+  "notes": "Pompa minyak bumi, jual hasil barel produksi ke uang nyata di oilpump-app.com.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600
+}
