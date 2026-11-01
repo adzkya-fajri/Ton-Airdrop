@@ -1,0 +1,12 @@
+{
+  "api_base": "https://mining-gram-worker.muhaisin0888.workers.dev",
+  "init_data": "YOUR_TELEGRAM_INIT_DATA",
+  "session_token": "YOUR_AUTH_TOKEN_HERE",
+  "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36",
+  "check_interval_seconds": 300,
+  "auto_claim_miners": true,
+  "auto_activate_miners": true,
+  "auto_checkin": true,
+  "auto_trickle": true,
+  "enabled": true
+}
