@@ -1,0 +1,32 @@
+{
+  "enabled": true,
+  "bot_id": 27,
+  "handle": "@ngmcloudeminingbot",
+  "name": "NGM Cloude Mining",
+  "cluster": "miniempire_cloud_mining",
+  "rating": 3,
+  "stars": "⭐⭐⭐",
+  "tier": "Tier 2 - Layak",
+  "category": "Cloud Mining TON",
+  "frontend_url": "https://ngmcloude.ru/",
+  "backend_url": "https://ngmcloude.ru/api",
+  "auth_type": "Telegram initData + TON Connect",
+  "reward_type": "NGM Token on TON",
+  "endpoints": [
+    "POST /api/mine/claim"
+  ],
+  "notes": "Turbopack webapp, klaim pasif mining koin NGM hingga level 500.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600,
+  "subcluster": "3A",
+  "runner_flag": {
+    "needs_feed": false,
+    "auto_harvest": true,
+    "harvest_interval_hours": 3
+  },
+  "needs_feed": false,
+  "harvest_interval_hours": 3
+}
