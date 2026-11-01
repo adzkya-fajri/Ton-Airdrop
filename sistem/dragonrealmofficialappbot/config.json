@@ -1,0 +1,22 @@
+{
+  "enabled": true,
+  "bot_id": 8,
+  "handle": "@DragonRealmOfficialAppBot",
+  "name": "Dragon Realm 🐉",
+  "cluster": "dex_listed_tokens",
+  "rating": 2,
+  "stars": "⭐⭐",
+  "tier": "Tier 3 - Kurang Efisien",
+  "category": "Web3 Smart Contract NFT",
+  "frontend_url": "https://dragon.stoer-web.net/",
+  "backend_url": "https://dragon.stoer-web.net/api",
+  "auth_type": "Interaksi TON Wallet",
+  "reward_type": "Contract Earning / Dragon NFT",
+  "endpoints": [],
+  "notes": "Memerlukan interaksi wallet aktif, tidak efisien untuk background headless daemon.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600
+}
