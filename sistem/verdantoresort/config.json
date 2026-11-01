@@ -1,0 +1,34 @@
+{
+  "enabled": true,
+  "bot_id": 164,
+  "handle": "@verdanto_resort_bot",
+  "name": "Verdanto",
+  "cluster": "miniempire_cloud_mining",
+  "rating": 3,
+  "stars": "⭐⭐⭐",
+  "tier": "Tier 2 - Layak (Resort Simulator)",
+  "category": "Komunitas, Meme Tokens & Channel Airdrops",
+  "frontend_url": "https://verdanto.fun/",
+  "backend_url": "https://verdanto.fun/",
+  "auth_type": "Telegram WebApp initData",
+  "reward_type": "Resort Income",
+  "endpoints": [
+    "GET /",
+    "POST /api/action"
+  ],
+  "notes": "Simulasi pembangunan resort liburan dan klaim pendapatan pasif.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600,
+  "subcluster": "3B",
+  "runner_flag": {
+    "needs_feed": true,
+    "feed_interval_hours": 2,
+    "auto_harvest": true
+  },
+  "needs_feed": true,
+  "feed_interval_hours": 2,
+  "harvest_interval_hours": 3
+}
