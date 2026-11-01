@@ -1,0 +1,17 @@
+{
+  "telegram_id": "1234567890",
+  "api_base": "https://api.nexogainx.com/api",
+  "init_data": "YOUR_TELEGRAM_INIT_DATA",
+  "user": {
+    "id": 1234567890,
+    "first_name": "YourFirstName",
+    "last_name": "YourLastName",
+    "username": "YourUsername",
+    "language_code": "en"
+  },
+  "cycle_interval_seconds": 1800,
+  "auto_claim_checkin": true,
+  "auto_claim_mining": true,
+  "auto_claim_tasks": true,
+  "enabled": true
+}
