@@ -1,0 +1,22 @@
+{
+  "enabled": true,
+  "bot_id": 151,
+  "handle": "@slaylandsbot",
+  "name": "SlayLands",
+  "cluster": "tgnative_chat_bots",
+  "rating": 3,
+  "stars": "⭐⭐⭐",
+  "tier": "Tier 2 - Layak",
+  "category": "Komunitas, Meme Tokens & Channel Airdrops",
+  "frontend_url": "Telegram Mini-App",
+  "backend_url": "Telegram Mini-App",
+  "auth_type": "Telegram Session",
+  "reward_type": "Slay Loot & Crypto",
+  "endpoints": [],
+  "notes": "Game pertarungan dungeon pixel dan klaim loot berkala.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600
+}
