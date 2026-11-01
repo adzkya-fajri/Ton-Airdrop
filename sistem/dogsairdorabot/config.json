@@ -1,0 +1,33 @@
+{
+  "enabled": true,
+  "bot_id": 54,
+  "handle": "@dogsairdorabot",
+  "name": "Dogs x Gram Airdora",
+  "cluster": "miniempire_cloud_mining",
+  "rating": 3,
+  "stars": "⭐⭐⭐",
+  "tier": "Tier 2 - Layak",
+  "category": "Meme Airdrop & Task Rewards",
+  "frontend_url": "https://earnup-telegram-rewards.lovable.app/",
+  "backend_url": "Lovable Supabase App",
+  "auth_type": "Telegram WebApp initData",
+  "reward_type": "Token DOGS & TON Connection",
+  "endpoints": [
+    "POST /api/tasks/verify",
+    "POST /api/claim"
+  ],
+  "notes": "Koneksi wallet TON, task-to-earn DOGS reward. Dibangun di platform Lovable.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600,
+  "subcluster": "3A",
+  "runner_flag": {
+    "needs_feed": false,
+    "auto_harvest": true,
+    "harvest_interval_hours": 3
+  },
+  "needs_feed": false,
+  "harvest_interval_hours": 3
+}
