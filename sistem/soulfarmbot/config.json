@@ -1,0 +1,26 @@
+{
+  "enabled": true,
+  "bot_id": 33,
+  "handle": "@soulfarmbot",
+  "name": "SOULFARM",
+  "cluster": "cryptobot_instant_wd",
+  "rating": 4,
+  "stars": "⭐⭐⭐⭐",
+  "tier": "Tier 1 - Rekomendasi Tinggi",
+  "category": "Dark Fantasy Idle-RPG",
+  "frontend_url": "https://soulfarm.cc/",
+  "backend_url": "https://soulfarm.cc/api/",
+  "auth_type": "Telegram WebApp initData",
+  "reward_type": "Live Money / Real Cash Withdrawal",
+  "endpoints": [
+    "POST /chest/open",
+    "POST /souls/claim",
+    "POST /withdraw"
+  ],
+  "notes": "Model idle-RPG pasif: hero farming souls sendiri, hasil loot bisa ditarik uang nyata.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600
+}
