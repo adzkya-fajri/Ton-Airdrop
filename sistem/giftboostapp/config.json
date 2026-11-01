@@ -1,0 +1,25 @@
+{
+  "enabled": true,
+  "bot_id": 69,
+  "handle": "@giftboostapp_bot",
+  "name": "GiftBoost",
+  "cluster": "ads_task",
+  "rating": 3,
+  "stars": "⭐⭐⭐",
+  "tier": "Tier 2 - Layak (Upgrade Gift Telegram)",
+  "category": "Gifts Inventory & Upgrade",
+  "frontend_url": "https://gift-boost.online/",
+  "backend_url": "https://gift-boost.online/api",
+  "auth_type": "Telegram WebApp initData",
+  "reward_type": "Upgrade Hadiah Telegram & Stars",
+  "endpoints": [
+    "POST /api/inventory",
+    "POST /api/boost"
+  ],
+  "notes": "Platform peningkatan nilai inventaris hadiah Telegram resmi di gift-boost.online.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600
+}
