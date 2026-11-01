@@ -1,0 +1,25 @@
+{
+  "enabled": true,
+  "bot_id": 142,
+  "handle": "@nuggyrun_bot",
+  "name": "Nuggy Run",
+  "cluster": "ads_task",
+  "rating": 4,
+  "stars": "⭐⭐⭐⭐",
+  "tier": "Tier 1 - Rekomendasi Tinggi",
+  "category": "Komunitas, Meme Tokens & Channel Airdrops",
+  "frontend_url": "https://public-fs.apps2hub.com/",
+  "backend_url": "https://public-fs.apps2hub.com/",
+  "auth_type": "Telegram WebApp initData",
+  "reward_type": "Weekly 4k USDT & 600M SHIB",
+  "endpoints": [
+    "GET /",
+    "POST /api/action"
+  ],
+  "notes": "Game balapan aksi seru, hadiah mingguan 4.000 USDT & 600M SHIB di public-fs.apps2hub.com.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600
+}
