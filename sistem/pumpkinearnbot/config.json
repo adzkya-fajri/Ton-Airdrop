@@ -1,0 +1,26 @@
+{
+  "enabled": true,
+  "bot_id": 89,
+  "handle": "@pumpkinearnbot",
+  "name": "Pumpkin Earn Bot",
+  "cluster": "ads_task",
+  "rating": 3,
+  "stars": "⭐⭐⭐",
+  "tier": "Tier 2 - Layak (Micro-WD $0.01)",
+  "category": "Mini-Games & Gifts Mining",
+  "frontend_url": "https://pumpkinearn.site/",
+  "backend_url": "https://pumpkinearn.site/api",
+  "auth_type": "Telegram WebApp initData",
+  "reward_type": "Crypto Riil (WD dari $0.01) & Hadiah Telegram",
+  "endpoints": [
+    "POST /api/tasks/claim",
+    "POST /api/games/play",
+    "POST /api/withdraw"
+  ],
+  "notes": "Ambang penarikan sangat rendah ($0.01), game santai dan klaim hadiah Telegram di pumpkinearn.site.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600
+}
