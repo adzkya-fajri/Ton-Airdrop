@@ -1,0 +1,24 @@
+{
+  "enabled": true,
+  "bot_id": 94,
+  "handle": "@starveybot",
+  "name": "Stars Market | Buy Stars",
+  "cluster": "ads_task",
+  "rating": 3,
+  "stars": "⭐⭐⭐",
+  "tier": "Tier 2 - Layak (Stars Marketplace)",
+  "category": "Commerce WebApp",
+  "frontend_url": "https://starveyshop.com/",
+  "backend_url": "https://starveyshop.com/api",
+  "auth_type": "Telegram WebApp initData",
+  "reward_type": "Diskon Telegram Stars (1 Star = 1.49 RUB)",
+  "endpoints": [
+    "POST /api/stars/quote"
+  ],
+  "notes": "Toko diskon resmi pembelian Telegram Stars (hingga 37% lebih murah) di starveyshop.com.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600
+}
