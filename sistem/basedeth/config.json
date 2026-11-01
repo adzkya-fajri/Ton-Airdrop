@@ -1,0 +1,25 @@
+{
+  "enabled": true,
+  "bot_id": 107,
+  "handle": "@based_eth_bot",
+  "name": "BasedBot",
+  "cluster": "dex_listed_tokens",
+  "rating": 3,
+  "stars": "⭐⭐⭐",
+  "tier": "Tier 2 - Trading Utility",
+  "category": "Komunitas, Meme Tokens & Channel Airdrops",
+  "frontend_url": "https://t.me/BasedBotVerify",
+  "backend_url": "https://t.me/BasedBotVerify",
+  "auth_type": "Telegram WebApp initData",
+  "reward_type": "Trading Points Base/ETH",
+  "endpoints": [
+    "GET /",
+    "POST /api/action"
+  ],
+  "notes": "Bot partner trading terverifikasi di jaringan Base, Ethereum, dan Binance.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600
+}
