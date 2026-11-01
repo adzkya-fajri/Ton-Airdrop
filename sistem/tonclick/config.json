@@ -1,0 +1,16 @@
+{
+  "bot_username": "TonClickRobot",
+  "cycle_interval_seconds": 900,
+  "max_join_tasks_per_cycle": 5,
+  "max_bot_tasks_per_cycle": 5,
+  "retention_hours": 72,
+  "auto_cleanup_old_channels": true,
+  "faucetpay_email": "your_faucetpay_email@example.com",
+  "auto_withdraw_faucetpay": false,
+  "auto_withdraw_cryptobot": true,
+  "min_withdraw_cryptobot_ton": 1.0,
+  "ton_wallet_address": "YOUR_TON_WALLET_ADDRESS",
+  "auto_withdraw_direct": false,
+  "min_withdraw_ton": 1.0,
+  "enabled": true
+}
