@@ -1,0 +1,22 @@
+{
+  "enabled": true,
+  "bot_id": 140,
+  "handle": "@nexumai_bot",
+  "name": "NEXUM.AI",
+  "cluster": "tgnative_chat_bots",
+  "rating": 2,
+  "stars": "⭐⭐",
+  "tier": "Tier 3 - AI Platform",
+  "category": "Komunitas, Meme Tokens & Channel Airdrops",
+  "frontend_url": "Telegram Chat",
+  "backend_url": "Telegram Chat",
+  "auth_type": "Telegram Session",
+  "reward_type": "AI Credits",
+  "endpoints": [],
+  "notes": "Platform kredit kecerdasan buatan berbasis bot.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600
+}
