@@ -1,0 +1,26 @@
+{
+  "enabled": true,
+  "bot_id": 67,
+  "handle": "@dropex_robot",
+  "name": "Dropex",
+  "cluster": "ads_task",
+  "rating": 4,
+  "stars": "⭐⭐⭐⭐",
+  "tier": "Tier 1 - Rekomendasi Tinggi",
+  "category": "Telegram Gifts Drop & Spin",
+  "frontend_url": "https://dropex.vip/",
+  "backend_url": "https://dropex.vip/api",
+  "auth_type": "Telegram WebApp initData",
+  "reward_type": "Hadiah Riil Profil Telegram & NFT",
+  "endpoints": [
+    "POST /api/spin/free (free daily spin)",
+    "POST /api/gifts/claim",
+    "POST /api/tasks"
+  ],
+  "notes": "Koleksi hadiah riil untuk profil Telegram. Free daily spin tanpa deposit di dropex.vip.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600
+}
