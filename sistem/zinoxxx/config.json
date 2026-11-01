@@ -1,0 +1,22 @@
+{
+  "enabled": true,
+  "bot_id": 170,
+  "handle": "@zinoxxx_bot",
+  "name": "𝗭𝗘𝗡𝗢𝗫 | 𝗠𝗢𝗡𝗘𝗬",
+  "cluster": "cryptobot_instant_wd",
+  "rating": 3,
+  "stars": "⭐⭐⭐",
+  "tier": "Tier 2 - Layak (Token ZNX to TON)",
+  "category": "Komunitas, Meme Tokens & Channel Airdrops",
+  "frontend_url": "Telegram Chat / Adloop",
+  "backend_url": "Telegram Chat / Adloop",
+  "auth_type": "Telegram Session",
+  "reward_type": "Token ZNX cashout ke TON",
+  "endpoints": [],
+  "notes": "Tugas cepat, roda keberuntungan harian, tarik token ZNX ke dompet TON.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600
+}
