@@ -1,0 +1,10 @@
+{
+  "token": "YOUR_AUTH_TOKEN_HERE",
+  "init_data": "YOUR_TELEGRAM_INIT_DATA",
+  "min_interval_minutes": 45,
+  "max_interval_minutes": 60,
+  "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+  "x_app": "mainet_server",
+  "x_cv": "13",
+  "enabled": true
+}
