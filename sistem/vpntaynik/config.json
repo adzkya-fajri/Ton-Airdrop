@@ -1,0 +1,26 @@
+{
+  "enabled": true,
+  "bot_id": 177,
+  "handle": "@vpntaynik_bot",
+  "name": "Taynik VPN",
+  "cluster": "socialfi_marketing_rails",
+  "rating": 3,
+  "stars": "⭐⭐⭐",
+  "tier": "Tier 2 - Layak (Freemium Lead Magnet)",
+  "category": "Utilitas / Bot Sistem Grup & Marketing",
+  "frontend_url": "https://t.me/taynikvpn",
+  "backend_url": "Telegram Bot API",
+  "auth_type": "Telegram Bot API",
+  "reward_type": "Akses VPN Gratis / Umpan Komunitas",
+  "endpoints": [
+    "/start",
+    "/profile",
+    "Channel Subscription Check"
+  ],
+  "notes": "Model pemasaran lead magnet freemium. Memberikan konfigurasi VPN gratis bagi pengguna yang memenuhi syarat bergabung ke channel Telegram utama sponsor.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600
+}
