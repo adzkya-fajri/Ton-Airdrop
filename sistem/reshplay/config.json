@@ -1,0 +1,30 @@
+{
+  "enabled": true,
+  "bot_id": 55,
+  "handle": "@reshplay_bot",
+  "name": "ReshPlay",
+  "cluster": "miniempire_cloud_mining",
+  "rating": 2,
+  "stars": "⭐⭐",
+  "tier": "Tier 3 - Gated Russian Channel",
+  "category": "Casual Mini-Game",
+  "frontend_url": "https://gleaming-caring-production-4a2b.up.railway.app/",
+  "backend_url": "Railway Container Instance",
+  "auth_type": "Telegram initData",
+  "reward_type": "Points / Play Rewards",
+  "endpoints": [],
+  "notes": "Wajib subscribe channel Rusia dan join grup Telegram sebelum mini-app bisa dibuka.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600,
+  "subcluster": "3A",
+  "runner_flag": {
+    "needs_feed": false,
+    "auto_harvest": true,
+    "harvest_interval_hours": 3
+  },
+  "needs_feed": false,
+  "harvest_interval_hours": 3
+}
