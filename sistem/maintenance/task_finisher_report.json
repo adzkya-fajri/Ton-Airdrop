@@ -1,0 +1,40 @@
+{
+  "timestamp": "2026-11-01 10:14:52",
+  "results": [
+    {
+      "bot": "RaccoonRush",
+      "success": 0,
+      "reward_rp": 0,
+      "final_balance": 1839,
+      "level": 2
+    },
+    {
+      "bot": "ThunderWaves",
+      "success": 0,
+      "reward_waves": 0,
+      "balance": "N/A"
+    },
+    {
+      "bot": "MiniEmpire",
+      "success": 0,
+      "details": [
+        {
+          "tenant": "SoftUSDT",
+          "claimed": 0
+        },
+        {
+          "tenant": "GoldKeepers",
+          "claimed": 0
+        },
+        {
+          "tenant": "ChickenEmpire",
+          "claimed": 0
+        },
+        {
+          "tenant": "GRAM24",
+          "claimed": 0
+        }
+      ]
+    }
+  ]
+}

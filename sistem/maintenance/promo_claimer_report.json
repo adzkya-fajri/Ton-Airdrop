@@ -1,0 +1,64 @@
+{
+  "timestamp": "2026-11-01 10:00:51",
+  "results": [
+    {
+      "status": "success",
+      "bot": "starnex",
+      "code_used": "65387",
+      "response": "🧩 **Код дня**\n\nВведи 5 уникальных цифр и жми «Проверить».\nНаграда: +1 бесплатных спинов.\nТекущий ввод: _ _ _ _ _\n\nБык - цифра на своём месте, корова - есть в коде, но не там. Цифры не повторяются.\n\nПо",
+      "timestamp": "2026-11-01 10:00:16"
+    },
+    {
+      "status": "success",
+      "bot": "paidz",
+      "details": [
+        {
+          "code": "PWEB3-3WK5",
+          "reply": "No response"
+        },
+        {
+          "code": "PWEB3-9HFT",
+          "reply": "No response"
+        },
+        {
+          "code": "PWEB3-2GGJ",
+          "reply": "No response"
+        },
+        {
+          "code": "PWEB3-CMZC",
+          "reply": "No response"
+        }
+      ],
+      "timestamp": "2026-11-01 10:00:34"
+    },
+    {
+      "status": "success",
+      "bot": "softusdt",
+      "details": [
+        {
+          "code": "8D7YEUUE",
+          "status": "submitted",
+          "reply": "Terkirim ke bot"
+        }
+      ],
+      "timestamp": "2026-11-01 10:00:40"
+    },
+    {
+      "status": "success",
+      "bot": "universe",
+      "details": [
+        {
+          "type": "riddle",
+          "answer": "heliopause",
+          "status": "submitted"
+        },
+        {
+          "type": "promo",
+          "code": "AMBK3JF7UZQTRWM",
+          "status": "submitted"
+        }
+      ],
+      "timestamp": "2026-11-01 10:00:49"
+    }
+  ]
+}

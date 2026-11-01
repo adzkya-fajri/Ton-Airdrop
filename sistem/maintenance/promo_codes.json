@@ -1,0 +1,55 @@
+{
+  "updated_at": "2026-11-01 10:13:17",
+  "bots": {
+    "starnex": {
+      "name": "StarNex Lottery",
+      "bot_username": "lot_tery_bot",
+      "enabled": true,
+      "type": "keypad_bulls_cows",
+      "active_code": "65387",
+      "last_claimed": "2026-11-01 10:00:16",
+      "last_status": "success",
+      "notes": "Daily 5-digit bulls & cows code for free spins"
+    },
+    "paidz": {
+      "name": "PaidZ Tasks",
+      "bot_username": "PAlDZ_BOT",
+      "enabled": true,
+      "type": "chat_command",
+      "codes": [
+        "PWEB3-CMZC",
+        "PWEB3-2GGJ",
+        "PWEB3-9HFT",
+        "PWEB3-3WK5"
+      ],
+      "last_claimed": "2026-11-01 10:00:34",
+      "last_status": "success",
+      "notes": "Community task codes from Playing Web3"
+    },
+    "softusdt": {
+      "name": "Soft USDT",
+      "bot_username": "Softusdtbot",
+      "enabled": true,
+      "type": "chat_command",
+      "codes": [
+        "8D7YEUUE"
+      ],
+      "last_claimed": "2026-11-01 10:00:40",
+      "last_status": "success",
+      "notes": "Early-bird $0.025 claim code from Crypto Lover"
+    },
+    "universe": {
+      "name": "Universe Game",
+      "bot_username": "universe_mainbot",
+      "enabled": true,
+      "type": "chat_command",
+      "codes": [
+        "AMBK3JF7UZQTRWM"
+      ],
+      "riddle_answer": "heliopause",
+      "last_claimed": "2026-11-01 10:00:49",
+      "last_status": "success",
+      "notes": "Weekly promo code & daily riddle"
+    }
+  }
+}
