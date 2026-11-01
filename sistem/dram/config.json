@@ -1,0 +1,17 @@
+{
+  "init_data": "YOUR_TELEGRAM_INIT_DATA",
+  "token": "YOUR_AUTH_TOKEN_HERE",
+  "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-S928B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+  "device": {
+    "deviceUuid": "d8291f08-b427-4c31-97b5-2fa8ea67253b",
+    "persistent": true,
+    "screen": "390x844x24@3",
+    "platform": "Linux armv8l",
+    "timezone": "Asia/Jakarta",
+    "cores": 8,
+    "canvas": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "webgl": "Adreno (TM) 740",
+    "tgPlatform": "android"
+  },
+  "enabled": true
+}
