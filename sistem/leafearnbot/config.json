@@ -1,0 +1,25 @@
+{
+  "enabled": true,
+  "bot_id": 81,
+  "handle": "@leafearnbot",
+  "name": "Leaf Earn Bot",
+  "cluster": "ads_task",
+  "rating": 3,
+  "stars": "⭐⭐⭐",
+  "tier": "Tier 2 - Layak (Stars & Games)",
+  "category": "Rewards Hub & Games",
+  "frontend_url": "https://leafearn.site/",
+  "backend_url": "https://leafearn.site/api",
+  "auth_type": "Telegram WebApp initData",
+  "reward_type": "Telegram Stars & Leaf Token",
+  "endpoints": [
+    "POST /api/tasks/claim",
+    "POST /api/games/play"
+  ],
+  "notes": "Platform identik dengan flamesearn.site & emojifyearn.site. Mini-games & Stars reward.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600
+}
