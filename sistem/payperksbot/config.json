@@ -1,0 +1,22 @@
+{
+  "enabled": true,
+  "bot_id": 88,
+  "handle": "@payperksbot",
+  "name": "Pay Perks",
+  "cluster": "tgnative_chat_bots",
+  "rating": 2,
+  "stars": "⭐⭐",
+  "tier": "Tier 3 - Micro-Task Ad",
+  "category": "USDT Ad Tasks",
+  "frontend_url": "Telegram Chat",
+  "backend_url": "Internal Bot",
+  "auth_type": "Telegram Session",
+  "reward_type": "USDT Ad Points",
+  "endpoints": [],
+  "notes": "Tonton iklan dan tugas sosial untuk akumulasi poin USDT.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600
+}
