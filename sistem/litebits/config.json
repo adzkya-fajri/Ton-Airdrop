@@ -1,0 +1,9 @@
+{
+  "api_base": "https://mini.litebits.io",
+  "bot_handle": "Litebits_faucet_bot",
+  "faucet_interval_seconds": 305,
+  "random_jitter_seconds": 15,
+  "auto_withdraw": false,
+  "lightning_address_or_lnurl": "",
+  "enabled": true
+}
