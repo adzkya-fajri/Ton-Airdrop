@@ -1,0 +1,33 @@
+{
+  "enabled": true,
+  "bot_id": 171,
+  "handle": "@zynkora_1bot",
+  "name": "🎃 ZYNKORA 👻",
+  "cluster": "miniempire_cloud_mining",
+  "rating": 3,
+  "stars": "⭐⭐⭐",
+  "tier": "Tier 2 - Layak (Spooky Rewards)",
+  "category": "Komunitas, Meme Tokens & Channel Airdrops",
+  "frontend_url": "https://spooky-zynkora-rewards.lovable.app/",
+  "backend_url": "https://spooky-zynkora-rewards.lovable.app/",
+  "auth_type": "Telegram WebApp initData",
+  "reward_type": "Mining Poin & Haunted Wheel",
+  "endpoints": [
+    "GET /",
+    "POST /api/action"
+  ],
+  "notes": "Tambang poin per beberapa jam, spin haunted wheel harian di spooky-zynkora-rewards.lovable.app.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600,
+  "subcluster": "3A",
+  "runner_flag": {
+    "needs_feed": false,
+    "auto_harvest": true,
+    "harvest_interval_hours": 3
+  },
+  "needs_feed": false,
+  "harvest_interval_hours": 3
+}
