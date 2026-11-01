@@ -1,0 +1,34 @@
+{
+  "enabled": true,
+  "bot_id": 31,
+  "handle": "@towerton_bot",
+  "name": "Tower 🏰 (TON Tower)",
+  "cluster": "miniempire_cloud_mining",
+  "rating": 5,
+  "stars": "⭐⭐⭐⭐⭐",
+  "tier": "Tier 1 - Prioritas Utama",
+  "category": "Play-to-Earn / TON Ecosystem",
+  "frontend_url": "https://miniapp.tower-ton.com/",
+  "backend_url": "https://api.tower-ton.com",
+  "auth_type": "Telegram WebApp initData",
+  "reward_type": "Token ekosistem TON & Crypto on-chain",
+  "endpoints": [
+    "POST /api/chests/open (klaim peti)",
+    "POST /api/tasks/complete",
+    "POST /api/withdraw (penarikan wallet TON)"
+  ],
+  "notes": "Project Play-to-Earn mapan di TON, dedicated API server (api.tower-ton.com), S3 storage.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600,
+  "subcluster": "3A",
+  "runner_flag": {
+    "needs_feed": false,
+    "auto_harvest": true,
+    "harvest_interval_hours": 3
+  },
+  "needs_feed": false,
+  "harvest_interval_hours": 3
+}
