@@ -1,0 +1,48 @@
+{
+  "faucets": {
+    "telefaucet": {
+      "bot": "@Telefaucetbot",
+      "slug": "telefaucet",
+      "api_url": "https://boxtrust.ir/faucetmanager/f/telefaucet/api",
+      "init_data": "YOUR_TELEGRAM_INIT_DATA"
+    },
+    "rocket-faucet": {
+      "bot": "@RocketFaucetBot",
+      "slug": "rocket-faucet",
+      "api_url": "https://boxtrust.ir/faucetmanager/f/rocket-faucet/api",
+      "init_data": "YOUR_TELEGRAM_INIT_DATA"
+    },
+    "feyorra-faucet": {
+      "bot": "@FeyorraFaucetBot",
+      "slug": "feyorra-faucet",
+      "api_url": "https://boxtrust.ir/faucetmanager/f/feyorra-faucet/api",
+      "init_data": "YOUR_TELEGRAM_INIT_DATA"
+    },
+    "tether-faucet": {
+      "bot": "@TetherFaucetBot",
+      "slug": "tether-faucet",
+      "api_url": "https://boxtrust.ir/faucetmanager/f/tether-faucet/api",
+      "init_data": "YOUR_TELEGRAM_INIT_DATA"
+    },
+    "free-trx": {
+      "bot": "@FreeTRXbot",
+      "slug": "free-trx",
+      "api_url": "https://boxtrust.ir/faucetmanager/f/free-trx/api",
+      "init_data": "YOUR_TELEGRAM_INIT_DATA"
+    },
+    "telegram-faucet": {
+      "bot": "@FaucetTelegramBot",
+      "slug": "telegram-faucet",
+      "api_url": "https://boxtrust.ir/faucetmanager/f/telegram-faucet/api",
+      "init_data": "YOUR_TELEGRAM_INIT_DATA"
+    },
+    "binance-invite": {
+      "bot": "@BinanceInviteBot",
+      "slug": "binance-invite",
+      "api_url": "https://boxtrust.ir/faucetmanager/f/binance-invite/api",
+      "init_data": "YOUR_TELEGRAM_INIT_DATA"
+    }
+  },
+  "faucetpay_email": "your_faucetpay_email@example.com",
+  "enabled": true
+}
