@@ -1,0 +1,34 @@
+{
+  "enabled": true,
+  "bot_id": 97,
+  "handle": "@trionetworkdrop_bot",
+  "name": "TRIONERS",
+  "cluster": "miniempire_cloud_mining",
+  "rating": 4,
+  "stars": "⭐⭐⭐⭐",
+  "tier": "Tier 1 - Rekomendasi Tinggi",
+  "category": "Mining & Jobs Distribution",
+  "frontend_url": "https://telegram-mining-app-c5fu.bolt.host/",
+  "backend_url": "Bolt Host Instance",
+  "auth_type": "Telegram WebApp initData",
+  "reward_type": "Token T & Payout USDT ke GRAM Wallet",
+  "endpoints": [
+    "POST /api/mine/daily",
+    "POST /api/jobs/complete",
+    "POST /api/withdraw/usdt"
+  ],
+  "notes": "Penambangan token T harian, jobs completion, dan penarikan langsung dalam USDT ke dompet GRAM.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600,
+  "subcluster": "3A",
+  "runner_flag": {
+    "needs_feed": false,
+    "auto_harvest": true,
+    "harvest_interval_hours": 3
+  },
+  "needs_feed": false,
+  "harvest_interval_hours": 3
+}
