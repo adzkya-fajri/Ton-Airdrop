@@ -1,0 +1,25 @@
+{
+  "enabled": true,
+  "bot_id": 47,
+  "handle": "@klikadobot",
+  "name": "Klikado Game",
+  "cluster": "ads_task",
+  "rating": 3,
+  "stars": "⭐⭐⭐",
+  "tier": "Tier 2 - Menengah",
+  "category": "Micro-Tasks & Ads Engine",
+  "frontend_url": "https://klikado-game.top/",
+  "backend_url": "Adsgram / Teleads APIs",
+  "auth_type": "Telegram initData",
+  "reward_type": "Saldo USDT Riil",
+  "endpoints": [
+    "POST /api/task/verify",
+    "POST /api/ad/watched"
+  ],
+  "notes": "Platform iklan dan micro-task. Memerlukan penayangan iklan Adsgram untuk hasil optimal.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600
+}
