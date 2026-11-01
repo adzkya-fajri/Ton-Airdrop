@@ -1,6 +1,6 @@
 # 🌾 Telegram Mini-App & Airdrop Automation Hub
 
-A modular, multi-tenant automation ecosystem and real-time WebGL operations portal managing 174+ Telegram Mini-Apps, GameFi ecosystems, and airdrop claim protocols.
+A modular, multi-tenant automation ecosystem and real-time WebGL operations portal managing 174+ Telegram Mini-Apps (verified and unverified), GameFi ecosystems, and airdrop claim protocols.
 
 [![Live WebGL Portal Demo](https://img.shields.io/badge/Demo-Vercel%20Live-black?style=for-the-badge&logo=vercel)](https://ton-airdrop-black.vercel.app/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
