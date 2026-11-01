@@ -1,0 +1,22 @@
+{
+  "enabled": true,
+  "bot_id": 66,
+  "handle": "@bnbstarlbot",
+  "name": "BNB STARS 🏆",
+  "cluster": "ads_task",
+  "rating": 2,
+  "stars": "⭐⭐",
+  "tier": "Tier 3 - Chat Referral Faucet",
+  "category": "Referral Faucet",
+  "frontend_url": "Telegram Chat",
+  "backend_url": "Internal Bot",
+  "auth_type": "Telegram Session",
+  "reward_type": "BNB Rewards",
+  "endpoints": [],
+  "notes": "Sistem referral murni di chat Telegram untuk pengumpulan reward BNB.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600
+}
