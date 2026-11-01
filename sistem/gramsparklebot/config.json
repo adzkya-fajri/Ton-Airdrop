@@ -1,0 +1,22 @@
+{
+  "enabled": true,
+  "bot_id": 57,
+  "handle": "@gramsparklebot",
+  "name": "Gram Spark",
+  "cluster": "ads_task",
+  "rating": 2,
+  "stars": "⭐⭐",
+  "tier": "Tier 3 - Chat Tasks Faucet",
+  "category": "Task Earning Bot",
+  "frontend_url": "Telegram Chat",
+  "backend_url": "Internal Bot",
+  "auth_type": "Telegram Session",
+  "reward_type": "Gram Task Rewards",
+  "endpoints": [],
+  "notes": "Bot micro-task chat berbasis teks, tanpa webapp mandiri.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600
+}
