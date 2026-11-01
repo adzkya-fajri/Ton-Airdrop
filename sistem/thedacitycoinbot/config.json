@@ -1,0 +1,22 @@
+{
+  "enabled": true,
+  "bot_id": 157,
+  "handle": "@thedacitycoinbot",
+  "name": "Dacity Coin",
+  "cluster": "tgnative_chat_bots",
+  "rating": 2,
+  "stars": "⭐⭐",
+  "tier": "Tier 3 - Meme Token",
+  "category": "Komunitas, Meme Tokens & Channel Airdrops",
+  "frontend_url": "Telegram Chat",
+  "backend_url": "Telegram Chat",
+  "auth_type": "Telegram Session",
+  "reward_type": "Dacity Points",
+  "endpoints": [],
+  "notes": "Koleksi poin meme koin Dacity di chat.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600
+}
