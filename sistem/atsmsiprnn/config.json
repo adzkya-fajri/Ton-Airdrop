@@ -1,0 +1,25 @@
+{
+  "enabled": true,
+  "bot_id": 178,
+  "handle": "@at_sms_iprnn_bot",
+  "name": "AT NUMBER BOT",
+  "cluster": "socialfi_marketing_rails",
+  "rating": 3,
+  "stars": "⭐⭐⭐",
+  "tier": "Tier 2 - Layak (Infrastruktur Multi-Akun)",
+  "category": "Utilitas / Bot Sistem Grup & Marketing",
+  "frontend_url": "https://t.me/at_sms_iprnn_bot",
+  "backend_url": "SMS Provider API",
+  "auth_type": "Telegram Bot API",
+  "reward_type": "Nomor Virtual OTP untuk Scaling Marketing",
+  "endpoints": [
+    "OTP Verification",
+    "Number Rental API"
+  ],
+  "notes": "Penyedia nomor virtual sekali pakai (SMS OTP) untuk registrasi akun Telegram, WhatsApp, atau media sosial pendukung kampanye marketing masal / airdrop multi-accounting.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600
+}
