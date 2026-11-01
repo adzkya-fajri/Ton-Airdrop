@@ -1,0 +1,31 @@
+{
+  "enabled": true,
+  "bot_id": 17,
+  "handle": "@MeowCompany_bot",
+  "name": "CATA Company",
+  "cluster": "miniempire_cloud_mining",
+  "rating": 2,
+  "stars": "⭐⭐",
+  "tier": "Tier 3 - Fase Awal",
+  "category": "Idle Business Game",
+  "frontend_url": "Telegram Mini-App",
+  "backend_url": "Internal App",
+  "auth_type": "Telegram initData",
+  "reward_type": "In-game Coin",
+  "endpoints": [],
+  "notes": "Fase pengembangan awal, belum ada modul penarikan on-chain aktif.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600,
+  "subcluster": "3B",
+  "runner_flag": {
+    "needs_feed": true,
+    "feed_interval_hours": 2,
+    "auto_harvest": true
+  },
+  "needs_feed": true,
+  "feed_interval_hours": 2,
+  "harvest_interval_hours": 3
+}
