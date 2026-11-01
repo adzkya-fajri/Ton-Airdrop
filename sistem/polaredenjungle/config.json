@@ -1,0 +1,11 @@
+{
+  "bot": "@polaredenjunglebot",
+  "app_url": "https://web.polaredenjungle.top/",
+  "api_base": "https://api.polaredenjungle.top/api",
+  "init_data": "YOUR_TELEGRAM_INIT_DATA",
+  "token": "YOUR_AUTH_TOKEN_HERE",
+  "auto_claim": true,
+  "auto_start": true,
+  "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-S928B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36",
+  "enabled": true
+}
