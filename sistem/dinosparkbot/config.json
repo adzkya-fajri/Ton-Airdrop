@@ -1,0 +1,37 @@
+{
+  "enabled": true,
+  "bot_id": 12,
+  "handle": "@DinosParkBot",
+  "name": "Dinos Park",
+  "cluster": "miniempire_cloud_mining",
+  "rating": 4,
+  "stars": "⭐⭐⭐⭐",
+  "tier": "Tier 1 - Rekomendasi Tinggi",
+  "category": "GameFi Idle Mining",
+  "frontend_url": "https://dinospark.top/?tgWebAppStartParam=v1_park",
+  "backend_url": "https://dinospark.top/api/v1",
+  "auth_type": "POST /auth/telegram (initData)",
+  "reward_type": "TON Crypto",
+  "endpoints": [
+    "POST /auth/telegram (login & token)",
+    "GET /user (status profil)",
+    "GET /biomes (bioma dino)",
+    "POST /claim (klaim koin pasif)",
+    "POST /withdraw (penarikan ke TON wallet)"
+  ],
+  "notes": "Arsitektur REST API rapi, game idle cocok untuk siklus auto-harvester.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600,
+  "subcluster": "3B",
+  "runner_flag": {
+    "needs_feed": true,
+    "feed_interval_hours": 2,
+    "auto_harvest": true
+  },
+  "needs_feed": true,
+  "feed_interval_hours": 2,
+  "harvest_interval_hours": 3
+}
