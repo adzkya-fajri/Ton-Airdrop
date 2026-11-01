@@ -1,0 +1,22 @@
+{
+  "enabled": true,
+  "bot_id": 73,
+  "handle": "@grami2026_bot",
+  "name": "GRAMIFY",
+  "cluster": "ads_task",
+  "rating": 2,
+  "stars": "⭐⭐",
+  "tier": "Tier 3 - Micro-Tasks Chat",
+  "category": "Task Platform",
+  "frontend_url": "Telegram Chat",
+  "backend_url": "Internal Bot",
+  "auth_type": "Telegram Session",
+  "reward_type": "Gram Task Rewards",
+  "endpoints": [],
+  "notes": "Platform task-to-earn berbasis obrolan chat.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600
+}
