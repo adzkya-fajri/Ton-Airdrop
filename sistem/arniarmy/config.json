@@ -1,0 +1,25 @@
+{
+  "enabled": true,
+  "bot_id": 104,
+  "handle": "@arniarmy_bot",
+  "name": "🪖 Army of ARNI",
+  "cluster": "dex_listed_tokens",
+  "rating": 4,
+  "stars": "⭐⭐⭐⭐",
+  "tier": "Tier 1 - Rekomendasi Tinggi",
+  "category": "Komunitas, Meme Tokens & Channel Airdrops",
+  "frontend_url": "https://arni-army.fly.dev/",
+  "backend_url": "https://arni-army.fly.dev/",
+  "auth_type": "Telegram WebApp initData",
+  "reward_type": "Token ARNI Airdrop",
+  "endpoints": [
+    "GET /",
+    "POST /api/action"
+  ],
+  "notes": "Kumpulkan poin POW di arni-army.fly.dev, airdrop token ARNI didistribusikan berkala.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600
+}
