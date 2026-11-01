@@ -1,0 +1,27 @@
+{
+  "enabled": true,
+  "bot_id": 1,
+  "handle": "@TonEdge_play_bot",
+  "name": "GRAM Edge Farm",
+  "cluster": "cryptobot_instant_wd",
+  "rating": 5,
+  "stars": "⭐⭐⭐⭐⭐",
+  "tier": "Tier 1 - Prioritas Utama",
+  "category": "Web3 Mini-App / Hourly Farming",
+  "frontend_url": "https://ton-edge-play.vercel.app/",
+  "backend_url": "https://gram-edge-farm.onrender.com/api",
+  "auth_type": "Telegram WebApp initData + telegramId (JSON POST)",
+  "reward_type": "USDT asli on-chain (50.000 MM$ = $1 USDT)",
+  "endpoints": [
+    "POST /farm (hourly claim)",
+    "POST /daily (daily checkin)",
+    "POST /tasks (claim tasks)",
+    "POST /withdraw (penarikan USDT)"
+  ],
+  "notes": "REST API murni di Render, tanpa Cloudflare Turnstile, format JSON standar.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600
+}
