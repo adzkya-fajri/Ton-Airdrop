@@ -1,0 +1,9 @@
+{
+  "api_base": "https://pxe.up.railway.app",
+  "init_data": "YOUR_TELEGRAM_INIT_DATA",
+  "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36",
+  "check_interval_seconds": 600,
+  "auto_tasks": true,
+  "auto_checkin": true,
+  "enabled": true
+}
