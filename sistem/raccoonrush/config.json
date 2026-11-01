@@ -1,0 +1,14 @@
+{
+  "api_url": "https://qcxtajojlkqhgesbciwx.supabase.co/functions/v1/rr-api",
+  "device_id": "4f7e2b1a-8c9d-4e5f-a1b2-c3d4e5f6a7b8",
+  "init_data": "YOUR_TELEGRAM_INIT_DATA",
+  "bot_username": "RACCOONRUSHapp",
+  "webapp_url": "https://raccoon-rush-ryzb.vercel.app/",
+  "auto_ads": true,
+  "max_ads_per_cycle": 5,
+  "auto_tap": true,
+  "auto_withdraw": true,
+  "min_withdraw_ton": 0.05,
+  "ton_wallet_address": "YOUR_TON_WALLET_ADDRESS",
+  "enabled": true
+}
