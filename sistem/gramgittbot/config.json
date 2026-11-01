@@ -1,0 +1,24 @@
+{
+  "enabled": true,
+  "bot_id": 72,
+  "handle": "@gramgittbot",
+  "name": "Gram Git",
+  "cluster": "ads_task",
+  "rating": 2,
+  "stars": "⭐⭐",
+  "tier": "Tier 3 - Micro-Tasks Chat",
+  "category": "TON Chat Faucet",
+  "frontend_url": "Telegram Chat",
+  "backend_url": "Internal Bot",
+  "auth_type": "Telegram Session",
+  "reward_type": "TON Payout",
+  "endpoints": [
+    "Command /tasks & /withdraw"
+  ],
+  "notes": "Tugas-tugas sosial sederhana di chat Telegram dengan pembayaran instan TON.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600
+}
