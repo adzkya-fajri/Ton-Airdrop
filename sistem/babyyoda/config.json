@@ -1,0 +1,24 @@
+{
+  "enabled": true,
+  "bot_id": 63,
+  "handle": "@babyyodatonbot",
+  "name": "Baby Yoda · $YODA",
+  "cluster": "tgnative_chat_bots",
+  "rating": 3,
+  "stars": "⭐⭐⭐",
+  "tier": "Tier 2 - Layak (NFT Play-to-Earn)",
+  "category": "P2E Galactic War",
+  "frontend_url": "Telegram Chat / Game",
+  "backend_url": "Internal Bot",
+  "auth_type": "Telegram Session",
+  "reward_type": "Hadiah NFT Telegram Lightsaber",
+  "endpoints": [
+    "Inline Button Action (Light vs Dark Battle)"
+  ],
+  "notes": "Pertarungan harian Galactic War (Day 28) untuk memperebutkan NFT Lightsaber riil di Telegram.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600
+}
