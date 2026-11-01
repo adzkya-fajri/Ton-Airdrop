@@ -1,0 +1,22 @@
+{
+  "enabled": true,
+  "bot_id": 159,
+  "handle": "@toptokenofficialbot",
+  "name": "TOP Token",
+  "cluster": "tgnative_chat_bots",
+  "rating": 2,
+  "stars": "⭐⭐",
+  "tier": "Tier 3 - Token Task",
+  "category": "Komunitas, Meme Tokens & Channel Airdrops",
+  "frontend_url": "Telegram Chat",
+  "backend_url": "Telegram Chat",
+  "auth_type": "Telegram Session",
+  "reward_type": "TOP Token",
+  "endpoints": [],
+  "notes": "Pendaftaran airdrop token TOP di chat.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600
+}
