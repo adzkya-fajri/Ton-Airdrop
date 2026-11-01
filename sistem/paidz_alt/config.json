@@ -1,0 +1,25 @@
+{
+  "enabled": true,
+  "bot_id": 145,
+  "handle": "@paldz_bot",
+  "name": "PaidZ",
+  "cluster": "ads_task",
+  "rating": 4,
+  "stars": "⭐⭐⭐⭐",
+  "tier": "Tier 1 - Rekomendasi Tinggi",
+  "category": "Komunitas, Meme Tokens & Channel Airdrops",
+  "frontend_url": "https://paidz.biz/",
+  "backend_url": "https://paidz.biz/",
+  "auth_type": "Telegram WebApp initData",
+  "reward_type": "Real USDT Rewards",
+  "endpoints": [
+    "GET /",
+    "POST /api/action"
+  ],
+  "notes": "Pintu masuk alternatif untuk mini-app PaidZ di paidz.biz.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600
+}
