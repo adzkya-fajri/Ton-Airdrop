@@ -1,0 +1,25 @@
+{
+  "enabled": true,
+  "bot_id": 127,
+  "handle": "@golddwarves_bot",
+  "name": "@GoldDwarvesbot",
+  "cluster": "cryptobot_instant_wd",
+  "rating": 4,
+  "stars": "⭐⭐⭐⭐",
+  "tier": "Tier 1 - Rekomendasi Tinggi",
+  "category": "Komunitas, Meme Tokens & Channel Airdrops",
+  "frontend_url": "https://gold-dwarves-production.up.railway.app/",
+  "backend_url": "https://gold-dwarves-production.up.railway.app/",
+  "auth_type": "Telegram WebApp initData",
+  "reward_type": "Real TON Payout (200k gold = 1 TON)",
+  "endpoints": [
+    "GET /",
+    "POST /api/action"
+  ],
+  "notes": "Tambang kurcaci di Railway, kumpulkan emas dan tarik langsung ke wallet TON.",
+  "auto_claim": true,
+  "auto_withdraw": false,
+  "min_withdraw": 1.0,
+  "withdraw_address": "YOUR_BEP20_USDT_ADDRESS",
+  "check_interval_seconds": 600
+}
